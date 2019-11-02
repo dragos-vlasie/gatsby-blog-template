@@ -4,6 +4,8 @@ module.exports = {
   titleAlt: 'Gatsby blog template', // Title for JSONLD
   description: 'A Gatsby blog Template',
   siteLanguage: 'en', // Language Tag on <html> element
+  siteUrl: 'https://blissful-stonebraker-79eda2.netlify.com',
+  url: 'https://blissful-stonebraker-79eda2.netlify.com',
   logo: 'static/logo/logo.png', // Used for SEO
   banner: 'static/logo/banner.png',
   // JSONLD / Manifest

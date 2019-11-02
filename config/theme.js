@@ -82,7 +82,7 @@ const button = {
   default: {
     background: colors.black.blue,
     boxShadow: `${shadow.button.default} ${rgba(colors.black.blue, 0.4)}`,
-    hover: {sdfasdfasdfsa
+    hover: {
       boxShadow: `${shadow.button.hover} ${rgba(colors.black.blue, 0.3)}`,
     },
   },
