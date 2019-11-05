@@ -6,6 +6,7 @@ import { Layout, Container, Content } from 'layouts';
 import { TagsBlock, Header, SEO } from 'components';
 import '../styles/prism';
 import FadeIn from '../elements/FadeIn';
+import Suggestions from '../elements/Suggestions';
 
 const SuggestionBar = styled.div`
   display: flex;
@@ -42,6 +43,7 @@ const Post = ({ data, pageContext }) => {
         </FadeIn>
         <TagsBlock list={tags || []} />
       </Container>
+      <Suggestions left={prev} right={next} cardstyle="secondary" />
       <SuggestionBar>
         <PostSuggestion>
           {prev && (

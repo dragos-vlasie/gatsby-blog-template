@@ -1,17 +1,17 @@
 import React from 'react';
 import styled from '@emotion/styled';
+import Wave from '../elements/Wave';
 
 const Wrapper = styled.footer`
   position: relative;
+  height: 200px;
   padding-top: 2rem;
   bottom: 0;
   box-shadow: ${props => props.theme.shadow.footer};
   background: ${props => props.theme.gradient.leftToRight};
   font-family: ${props => props.theme.fontFamily.body};
   font-weight: 500;
-  @media (max-width: ${props => props.theme.breakpoints.s}) {
-    padding-top: 7rem;
-  }
+  padding-top: 7rem;
 `;
 
 const Text = styled.div`
@@ -21,13 +21,22 @@ const Text = styled.div`
   color: ${props => props.theme.colors.white.light};
 `;
 
+const Copyright = styled.div`
+  color: ${props => props.theme.tint.blueWhite};
+  font-size: 0.9rem;
+  margin-left: 0.4rem;
+  margin-right: 0.4rem;
+  @media (max-width: ${props => props.theme.breakpoints.m}) {
+    margin-top: 0.5rem;
+  }
+`;
+
 const Footer = () => (
   <Wrapper>
+    <Wave orientation={'top'} />
     <Text>
-      <span>
-        Gatsby Template-{' '}
-        <a href="/">Dragos Vlasie</a>
-      </span>
+      <span>Gatsby Template </span>
+      <Copyright>Copyright © 2019. Dragos Vlasie.</Copyright>
     </Text>
   </Wrapper>
 );

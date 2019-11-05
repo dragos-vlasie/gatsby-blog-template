@@ -21,7 +21,7 @@ const StyledLink = styled(Link)`
 const Information = styled.div`
   text-align: center;
   h1 {
-    font-size: 2rem;
+    font-size: 3rem;
     margin-bottom: 1.25rem;
   }
 `;

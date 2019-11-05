@@ -6,16 +6,16 @@ import { useSpring, config, animated } from 'react-spring';
 import Wave from '../elements/Wave';
 
 const Wrapper = styled.header`
-  background: ${props => props.theme.gradient.rightToLeft};
-  height: ${props => (props.big ? '650px' : '550px')};
-  @media (max-width: ${props => props.theme.breakpoints.m}) {
-    height: ${props => (props.big ? '600px' : '500px')};
-  }
-  @media (max-width: ${props => props.theme.breakpoints.s}) {
-    height: ${props => (props.big ? '500px' : '325px')};
-  }
-  position: relative;
-  overflow: hidden;
+background: ${props => props.theme.gradient.rightToLeft};
+height: ${props => (props.big ? '650px' : '550px')};
+@media (max-width: ${props => props.theme.breakpoints.m}) {
+  height: ${props => (props.big ? '600px' : '500px')};
+}
+@media (max-width: ${props => props.theme.breakpoints.s}) {
+  height: ${props => (props.big ? '500px' : '325px')};
+}
+position: relative;
+overflow: hidden;
 `;
 
 const Text = styled.div`
@@ -41,18 +41,20 @@ const Subtitle = styled(animated.p)`
 `
 
 const Header = ({ children, title, date, cover, big }) => {
-  const titleProps = useSpring({
-    from: { opacity: 0, transform: 'translate3d(0, -30px, 0)' },
-    to: { opacity: 1, transform: 'translate3d(0, 0, 0)' },
-  });
-  const subProps = useSpring({
-    config: config.slow,
-    delay: 400,
-    from: { opacity: 0 },
-    to: { opacity: 1 },
-  });
-  return (
-    <Wrapper big={big}>
+const titleProps = useSpring({
+  from: { opacity: 0, transform: 'translate3d(0, -30px, 0)' },
+  to: { opacity: 1, transform: 'translate3d(0, 0, 0)' },
+});
+
+const subProps = useSpring({
+  config: config.slow,
+  delay: 400,
+  from: { opacity: 0 },
+  to: { opacity: 1 },
+});
+return (
+  <Wrapper big={true}>
+  {console.log('Wrapper:', Wrapper)}
       <Img fluid={cover || {} || [] || ''} />
       <Text>
         <animated.h1 data-testid="header-title" style={titleProps}>
@@ -64,7 +66,7 @@ const Header = ({ children, title, date, cover, big }) => {
 
         {children && <Subtitle style={subProps}>{children}</Subtitle>}
       </Text>
-      <Wave />
+      <Wave orientation={'bottom'}/>
     </Wrapper>
   );
 };
