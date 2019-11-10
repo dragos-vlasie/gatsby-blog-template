@@ -8,19 +8,6 @@ import '../styles/prism';
 import FadeIn from '../elements/FadeIn';
 import Suggestions from '../elements/Suggestions';
 
-const SuggestionBar = styled.div`
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: space-between;
-  background: ${props => props.theme.colors.white.light};
-  box-shadow: ${props => props.theme.shadow.suggestion};
-`;
-const PostSuggestion = styled.div`
-  display: flex;
-  align-items: center;
-  margin: 1rem 3rem 0 3rem;
-`;
-
 const Post = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
   const { html, frontmatter, excerpt } = data.markdownRemark;
@@ -44,24 +31,6 @@ const Post = ({ data, pageContext }) => {
         <TagsBlock list={tags || []} />
       </Container>
       <Suggestions left={prev} right={next} cardstyle="secondary" />
-      <SuggestionBar>
-        <PostSuggestion>
-          {prev && (
-            <Link to={prev.frontmatter.path}>
-              Previous
-              <h3>{prev.frontmatter.title}</h3>
-            </Link>
-          )}
-        </PostSuggestion>
-        <PostSuggestion>
-          {next && (
-            <Link to={next.frontmatter.path}>
-              Next
-              <h3>{next.frontmatter.title}</h3>
-            </Link>
-          )}
-        </PostSuggestion>
-      </SuggestionBar>
     </Layout>
   );
 };
