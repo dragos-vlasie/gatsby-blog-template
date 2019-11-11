@@ -5,6 +5,7 @@ import PropTypes from 'prop-types';
 import { useSpring, config, animated } from 'react-spring';
 import Wave from '../elements/Wave';
 
+
 const Wrapper = styled.header`
 background: ${props => props.theme.gradient.rightToLeft};
 height: ${props => (props.big ? '650px' : '550px')};
@@ -16,7 +17,23 @@ height: ${props => (props.big ? '650px' : '550px')};
 }
 position: relative;
 overflow: hidden;
+.gatsby-image-wrapper {
+  height: 650px;
+}
+@media (max-width: ${props => props.theme.breakpoints.m}) {
+  height: 500px;
+  .gatsby-image-wrapper {
+    height: 500px;
+  }
+}
+@media (max-width: ${props => props.theme.breakpoints.s}) {
+  height: 400px;
+  .gatsby-image-wrapper {
+    height: 400px;
+  }
+}
 `;
+
 
 const Text = styled.div`
   color: ${props => props.theme.colors.white.base};
@@ -54,7 +71,6 @@ const subProps = useSpring({
 });
 return (
   <Wrapper big={true}>
-  {console.log('Wrapper:', Wrapper)}
       <Img fluid={cover || {} || [] || ''} />
       <Text>
         <animated.h1 data-testid="header-title" style={titleProps}>

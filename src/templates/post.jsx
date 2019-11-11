@@ -24,13 +24,15 @@ const Post = ({ data, pageContext }) => {
         article
       />
       <Header title={title} date={date} cover={image} />
-      <Container>
+      <Container type="article">
         <FadeIn>
           <Content input={html} />
         </FadeIn>
         <TagsBlock list={tags || []} />
       </Container>
-      <Suggestions left={prev} right={next} cardstyle="secondary" />
+      <Container>
+        <Suggestions left={prev} right={next} cardstyle="secondary" />
+      </Container>
     </Layout>
   );
 };
@@ -56,8 +58,8 @@ export const query = graphql`
         cover {
           childImageSharp {
             fluid(
-              maxWidth: 1920
-              quality: 90
+              maxWidth: 900
+              quality: 85
               duotone: { highlight: "#386eee", shadow: "#2323be", opacity: 60 }
             ) {
               ...GatsbyImageSharpFluid_withWebp
