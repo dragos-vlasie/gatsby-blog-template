@@ -28,6 +28,8 @@ const Information = styled.div`
 
 const Tag = ({ pageContext }) => {
   const { posts, tagName } = pageContext;
+  console.log('posts:', posts)
+  console.log('tagName:', tagName)
   const upperTag = tagName.charAt(0).toUpperCase() + tagName.slice(1);
   return (
     <Layout>

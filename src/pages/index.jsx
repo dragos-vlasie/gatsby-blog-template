@@ -6,6 +6,7 @@ import styled from '@emotion/styled';
 import { Header, PostList } from 'components';
 import { Layout } from 'layouts';
 import FadeIn from '../elements/FadeIn';
+import CountryList from '../components/CountryList';
 
 const PostWrapper = styled.div`
   display: flex;
@@ -45,6 +46,7 @@ const Index = ({ data }) => {
           })}
         </PostWrapper>
       </FadeIn>
+      <CountryList data={data.allMarkdownRemark}/>
     </Layout>
   );
 };
