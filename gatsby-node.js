@@ -1,3 +1,4 @@
+
 const path = require('path');
 
 exports.createPages = ({ graphql, actions }) => {
@@ -22,6 +23,7 @@ exports.createPages = ({ graphql, actions }) => {
                     title
                     tags
                   }
+                  fileAbsolutePath
                 }
               }
             }
@@ -50,20 +52,20 @@ exports.createPages = ({ graphql, actions }) => {
 
         const tags = Object.keys(postsByTag);
 
-        createPage({
-          path: '/tags',
-          component: tagPage,
-          context: {
-            tags: tags.sort(),
-          },
-        });
+        // createPage({
+        //   path: '/tags',
+        //   component: tagPage,
+        //   context: {
+        //     tags: tags.sort(),
+        //   },
+        // });
 
         //create tags
         tags.forEach(tagName => {
           const posts = postsByTag[tagName];
 
           createPage({
-            path: `/tags/${tagName}`,
+            path: `/${tagName}`,
             component: tagPosts,
             context: {
               posts,
@@ -75,11 +77,13 @@ exports.createPages = ({ graphql, actions }) => {
         //create posts
         posts.forEach(({ node }, index) => {
           const path = node.frontmatter.path;
+          const arrayPath = node.fileAbsolutePath.split("/");
+          const category = arrayPath.slice(arrayPath.indexOf("content")+1,arrayPath.indexOf("index.md")-1).join();
           const prev = index === 0 ? null : posts[index - 1].node;
           const next =
             index === posts.length - 1 ? null : posts[index + 1].node;
           createPage({
-            path,
+            path: `${category}${path}`,
             component: postTemplate,
             context: {
               pathSlug: path,

@@ -1,8 +1,8 @@
 ---
-path: "/post-one"
+path: "/part-one"
 cover: "./blocks.jpg"
 date: "2018-10-15"
-title: "Post Number One"
+title: "part Number One"
 published: true
 category: ['Destination']
 tags: ['website', 'react', 'other']

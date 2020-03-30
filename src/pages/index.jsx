@@ -23,20 +23,25 @@ const PostWrapper = styled.div`
 
 const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
+  console.log(edges);
+  
   return (
     <Layout>
       <Helmet title={'Home Page'} />
       <Header title="Home Page"> Gatsby Blog Template</Header>
       <FadeIn>
         <PostWrapper>
-          {edges.map(({ node }) => {
-            const { id, excerpt, frontmatter } = node;
+          {edges && edges.map(({ node }) => {
+            const { id, excerpt, frontmatter, fileAbsolutePath } = node;
             const { cover, path, title, date } = frontmatter;
+            const arrayPath = fileAbsolutePath.split("/");
+            const category = arrayPath.slice(arrayPath.indexOf("content")+1,arrayPath.indexOf("index.md")-1).join();
+            console.log(category);
             return (
               <PostList
                 key={id}
                 cover={cover.childImageSharp.fluid}
-                path={path}
+                path={`${category}${path}`}
                 title={title}
                 date={date}
                 excerpt={excerpt}
@@ -75,7 +80,6 @@ Index.propTypes = {
 export const query = graphql`
   query {
     allMarkdownRemark(
-      limit: 6
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
@@ -99,6 +103,7 @@ export const query = graphql`
               }
             }
           }
+          fileAbsolutePath
         }
       }
     }
