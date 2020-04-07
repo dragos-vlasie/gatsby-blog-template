@@ -7,7 +7,7 @@ published: true
 category: ['Destination']
 tags: ['website', 'react', 'other']
 ---
-#Reverse a string 
+##Reverse a string 
 
 ```javascript
 function reverse(str){
@@ -32,7 +32,7 @@ reverse('Timbits Hi')
 reverse('Timbits Hi')
 reverse3('Timbits Hi')
 ```
-#Greather than 10
+##Greather than 10
 
 ```javascript
 function greaterThanTen(arr) {
@@ -48,7 +48,158 @@ greaterThanTen([2, 12, 8, 14, 80, 0, 1]);
 // returns [12, 14, 80]
 ```
 
-#Objects
+##Objects
+##Implementing an object(hash table)
+```javascript
+class HashTable {
+  constructor(size){
+    this.data = new Array(size);
+    // this.data = [];
+  }
+
+  _hash(key) {
+    let hash = 0;
+    for (let i =0; i < key.length; i++){
+        hash = (hash + key.charCodeAt(i) * i) % this.data.length
+    }
+    return hash;
+  }
+
+  set(key, value) {
+    let address = this._hash(key);
+    if (!this.data[address]) {
+      this.data[address] = [];
+    }
+    this.data[address].push([key, value]);
+    return this.data;
+  }
+
+  get(key){
+    const address = this._hash(key);
+    const currentBucket = this.data[address]
+    if (currentBucket) {
+      for(let i = 0; i < currentBucket.length; i++){
+        if(currentBucket[i][0] === key) {
+          return currentBucket[i][1]
+        }
+      }
+    }
+    return undefined;
+  }
+  
+  keys(){
+    const keysArray = [];
+    console.log(this.data.length);
+    for (let i = 0; i < this.data.length; i++){
+      if(this.data[i]){
+        keysArray.push(this.data[i][0][0])
+      }
+    }
+    return keysArray;
+  }
+}
+
+const myHashTable = new HashTable(50);
+myHashTable.set('grapes', 10000)
+myHashTable.set('grapes', 10000)
+myHashTable.get('grapes')
+myHashTable.set('apples', 9)
+myHashTable.get('apples')
+myHashTable.keys()
+```
+##Largest number in Array
+Return an array consisting of the largest number from each provided sub-array. For simplicity, the provided array will contain exactly 4 sub-arrays.
+
+```javascript
+function largestOfFour(arr) {
+  var newArr = []
+  for(let i=0;i<arr.length; i++){
+    newArr.push(Math.max(...arr[i]))
+  }
+  return newArr;
+}
+
+largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
+
+```
+
+Remember, you can iterate through an array with a simple for loop, and access each member with array syntax arr[i].
+
+##Confirm the ending 
+```javascript
+function confirmEnding(str, target) {
+  // "Never give up and good luck will find you."
+  // -- Falcor
+
+  return str.slice(str.length - target.length) === target;
+}
+
+----------------
+
+function confirmEnding(string, target) {
+  // Step 1. Use the substr method
+  if (string.substr(-target.length) === target) {
+  
+  // What does "if (string.substr(-target.length) === target)" represents?
+  // The string is 'Bastian' and the target is 'n' 
+  // target.length = 1 so -target.length = -1
+  // if ('Bastian'.substr(-1) === 'n')
+  // if ('n' === 'n')
+  
+  // Step 2. Return a boolean (true or false)
+    return true;
+  } else {
+    return false;
+  }
+}
+
+confirmEnding('Bastian', 'n');
+
+
+function confirmEnding(string, target) {
+  return (string.substr(-target.length) === target) ? true : false;
+}
+confirmEnding('Bastian', 'n');
+
+function confirmEnding(string, target) {
+  return string.substr(-target.length) === target;
+}
+confirmEnding('Bastian', 'n');
+----------------
+confirmEnding("He has to give me a new name", "name");
+
+function confirmEnding(str, target) {
+  let arr = str.split(' ');
+  if (str.split(' ').length === 1) {
+    let arr1 = str.split('');
+    for (let i = 0; i < arr1.length; i++) {
+      if (i === arr1.length - 1) {
+        if (arr1[i] === 'n') {
+          return true;
+        } else {
+          return false;
+        }
+      }
+    }
+  } else {
+    for (let x = 0; x < arr.length; x++) {
+      console.log(arr.length);
+      console.log(arr[x]);
+      if (x === arr.length - 1) {
+        if (arr[x].indexOf(target) !== -1) {
+          return true;
+        } else {
+          return false;
+        }
+      }
+    }
+  }
+}
+
+console.log(confirmEnding('Open sesame', 'zame'));
+
+```
+##Count Online
 We've defined a function *countOnline* which accepts one argument (a users object). Use a for...in statement within this function to loop through the users object passed into the function and return the number of users whose *online* property is set to *true*. An example of a users object which could be passed to *countOnline* is shown below. Each user will have an *online* property with either a *true* or *false* value.
 
 Using a for loop, this function iterates through and accesses each element of the array, and subjects it to a simple test that we have created. In this way, we have easily and programmatically determined which data items are greater than 10, and returned a new array containing those items.
@@ -88,7 +239,7 @@ let usersObj = {
 countOnline(usersObj)
 ```
 
-#Factorialize a Number 
+##Factorialize a Number 
 
 Return the factorial of the provided integer.
 
@@ -237,9 +388,55 @@ function factorialize(num) {
   return num;
 }
 factorialize(5);
-
 ```
-#Two sum
+##Find recuring charachter 
+
+```javascript
+//Google Question
+//Given an array = [2,5,1,2,3,5,1,2,4]:
+//It should return 2
+
+//Given an array = [2,1,1,2,3,5,1,2,4]:
+//It should return 1
+
+//Given an array = [2,3,4,5]:
+//It should return undefined
+
+
+function firstRecurringCharacter(input) {
+  for (let i = 0; i < input.length; i++) {
+    for (let j = i + 1; j < input.length; j++) {
+      if(input[i] === input[j]) {
+        return input[i];
+      }
+    }
+  }
+  return undefined
+}
+
+function firstRecurringCharacter2(input) {
+  let map = {};
+  for (let i = 0; i < input.length; i++) {
+    if (map[input[i]] !== undefined) {
+      return input[i]
+    } else {
+      map[input[i]] = i;
+    }
+  }
+  return undefined
+}
+
+firstRecurringCharacter2([1,5,5,1,3,4,6])
+
+
+//Bonus... What if we had this:
+// [2,5,5,2,3,5,1,2,4]
+// return 5 because the pairs are before 2,2
+```
+
+
+
+##Two sum
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -319,7 +516,7 @@ comp[target-nums[i]] = i
 //and the current index in an array: [1,2]
 ```
 
-#Merge sorted arrays 
+##Merge sorted arrays 
 mergeSortedArrays([0,3,4,31], [3,4,6,30]);
 //0,3,4,4,6,30,31
 
@@ -357,7 +554,7 @@ function mergeSortedArrays(array1, array2){
 mergeSortedArrays([0,3,4,31], [3,4,6,30]);
 //0,3,4,4,6,30,31
 ```
-#Longest Substring Without Repeating Characters
+##Longest Substring Without Repeating Characters
 
 ```javascript
 Given a string, find the length of the longest substring without repeating characters.
@@ -476,7 +673,7 @@ The algorithm requires exactly 1 array pass, so the time complexity is O(n).
 ```
 You can find more detail information about the algorithm here: [Maximum subarray problem](https://en.wikipedia.org/wiki/Maximum_subarray_problem). If it’s still not obvious why that works, then please trace the algorithm on the examples above, see how it works, that’s better than any words.
 
-#Move zeros
+##Move zeros
 Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
 ```javascript
 Example:
@@ -552,7 +749,7 @@ var containsDuplicate = function(nums) {
     }
 ```
 
-#Rotate Array
+##Rotate Array
 
 ```javascript
 Example 1:
@@ -592,7 +789,7 @@ function arrayRotate(arr, reverse) {
 ```
 
 
-#largest world
+##Largest world
 
 
 ```javascript
