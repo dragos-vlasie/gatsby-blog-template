@@ -5,7 +5,6 @@ import { Layout } from 'layouts';
 import PropTypes from 'prop-types';
 import React from 'react';
 import Helmet from 'react-helmet';
-import CardTag from '../elements/CardTag';
 import FadeIn from '../elements/FadeIn';
 
 const PostWrapper = styled.div`
@@ -60,12 +59,12 @@ const Index = ({ data }) => {
       <Helmet title={'Home Page'} />
       <Header title="Home Page"> Gatsby Blog Template</Header>
       <FadeIn>
-        <CatergoriesWrapper>
+        {/* <CatergoriesWrapper>
           {tags &&
             tags.map(tag => {
               return <CardTag key={tag} tagName={tag} />;
             })}
-        </CatergoriesWrapper>
+        </CatergoriesWrapper> */}
         <PostWrapper>
           {edges &&
             edges.slice(0, 6).map(({ node }) => {
