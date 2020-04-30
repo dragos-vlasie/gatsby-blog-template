@@ -1,8 +1,6 @@
-import React from 'react';
-import { StaticQuery, graphql } from 'gatsby';
-import { Link } from 'gatsby';
 import styled from '@emotion/styled';
-import PropTypes, { element } from 'prop-types';
+import { graphql, Link, StaticQuery } from 'gatsby';
+import React from 'react';
 
 const Row = styled.div`
   display: flex;

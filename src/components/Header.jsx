@@ -1,39 +1,37 @@
-import React from 'react';
 import styled from '@emotion/styled';
 import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
-import { useSpring, config, animated } from 'react-spring';
+import React from 'react';
+import { animated, config, useSpring } from 'react-spring';
 import Wave from '../elements/Wave';
 
-
 const Wrapper = styled.header`
-background: ${props => props.theme.gradient.rightToLeft};
-height: ${props => (props.big ? '650px' : '550px')};
-@media (max-width: ${props => props.theme.breakpoints.m}) {
-  height: ${props => (props.big ? '600px' : '500px')};
-}
-@media (max-width: ${props => props.theme.breakpoints.s}) {
-  height: ${props => (props.big ? '500px' : '325px')};
-}
-position: relative;
-overflow: hidden;
-.gatsby-image-wrapper {
-  height: 650px;
-}
-@media (max-width: ${props => props.theme.breakpoints.m}) {
-  height: 500px;
+  background: ${props => props.theme.gradient.rightToLeft};
+  height: ${props => (props.big ? '650px' : '550px')};
+  @media (max-width: ${props => props.theme.breakpoints.m}) {
+    height: ${props => (props.big ? '600px' : '500px')};
+  }
+  @media (max-width: ${props => props.theme.breakpoints.s}) {
+    height: ${props => (props.big ? '500px' : '325px')};
+  }
+  position: relative;
+  overflow: hidden;
   .gatsby-image-wrapper {
+    height: 650px;
+  }
+  @media (max-width: ${props => props.theme.breakpoints.m}) {
     height: 500px;
+    .gatsby-image-wrapper {
+      height: 500px;
+    }
   }
-}
-@media (max-width: ${props => props.theme.breakpoints.s}) {
-  height: 400px;
-  .gatsby-image-wrapper {
+  @media (max-width: ${props => props.theme.breakpoints.s}) {
     height: 400px;
+    .gatsby-image-wrapper {
+      height: 400px;
+    }
   }
-}
 `;
-
 
 const Text = styled.div`
   color: ${props => props.theme.colors.white.base};
@@ -55,22 +53,22 @@ const Text = styled.div`
 const Subtitle = styled(animated.p)`
   max-width: 650px;
   color: ${props => props.theme.colors.white.blue};
-`
+`;
 
 const Header = ({ children, title, date, cover, big }) => {
-const titleProps = useSpring({
-  from: { opacity: 0, transform: 'translate3d(0, -30px, 0)' },
-  to: { opacity: 1, transform: 'translate3d(0, 0, 0)' },
-});
+  const titleProps = useSpring({
+    from: { opacity: 0, transform: 'translate3d(0, -30px, 0)' },
+    to: { opacity: 1, transform: 'translate3d(0, 0, 0)' },
+  });
 
-const subProps = useSpring({
-  config: config.slow,
-  delay: 400,
-  from: { opacity: 0 },
-  to: { opacity: 1 },
-});
-return (
-  <Wrapper big={true}>
+  const subProps = useSpring({
+    config: config.slow,
+    delay: 400,
+    from: { opacity: 0 },
+    to: { opacity: 1 },
+  });
+  return (
+    <Wrapper big={true}>
       <Img fluid={cover || {} || [] || ''} />
       <Text>
         <animated.h1 data-testid="header-title" style={titleProps}>
@@ -82,7 +80,7 @@ return (
 
         {children && <Subtitle style={subProps}>{children}</Subtitle>}
       </Text>
-      <Wave orientation={'bottom'}/>
+      <Wave orientation={'bottom'} />
     </Wrapper>
   );
 };

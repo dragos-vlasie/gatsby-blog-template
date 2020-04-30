@@ -1,4 +1,3 @@
-
 const path = require('path');
 
 exports.createPages = ({ graphql, actions }) => {
@@ -77,8 +76,13 @@ exports.createPages = ({ graphql, actions }) => {
         //create posts
         posts.forEach(({ node }, index) => {
           const path = node.frontmatter.path;
-          const arrayPath = node.fileAbsolutePath.split("/");
-          const category = arrayPath.slice(arrayPath.indexOf("content")+1,arrayPath.indexOf("index.md")-1).join();
+          const arrayPath = node.fileAbsolutePath.split('/');
+          const category = arrayPath
+            .slice(
+              arrayPath.indexOf('content') + 1,
+              arrayPath.indexOf('index.md') - 1
+            )
+            .join();
           const prev = index === 0 ? null : posts[index - 1].node;
           const next =
             index === posts.length - 1 ? null : posts[index + 1].node;

@@ -1,37 +1,42 @@
 ---
-path: "/post-one"
-cover: "./blocks.jpg"
-date: "2018-10-15"
-title: "Learn"
+path: '/post-one'
+cover: './blocks.jpg'
+date: '2018-10-15'
+title: 'Learn'
 published: true
 category: ['Destination']
-tags: ['website', 'react', 'other']
+tags: ['Entertaiment', 'Journal', 'Inspire', 'Inform', 'Colaborate']
 ---
-##Reverse a string 
+
+##Reverse a string
 
 ```javascript
-function reverse(str){
-  if(!str || typeof str != 'string' || str.length < 2 ) return str;
-  
+function reverse(str) {
+  if (!str || typeof str != 'string' || str.length < 2) return str;
+
   const backwards = [];
   const totalItems = str.length - 1;
-  for(let i = totalItems; i >= 0; i--){
+  for (let i = totalItems; i >= 0; i--) {
     backwards.push(str[i]);
   }
   return backwards.join('');
 }
 
-function reverse2(str){
+function reverse2(str) {
   //check for valid input
-  return str.split('').reverse().join('');
+  return str
+    .split('')
+    .reverse()
+    .join('');
 }
 
 const reverse3 = str => [...str].reverse().join('');
 
-reverse('Timbits Hi')
-reverse('Timbits Hi')
-reverse3('Timbits Hi')
+reverse('Timbits Hi');
+reverse('Timbits Hi');
+reverse3('Timbits Hi');
 ```
+
 ##Greather than 10
 
 ```javascript
@@ -50,17 +55,18 @@ greaterThanTen([2, 12, 8, 14, 80, 0, 1]);
 
 ##Objects
 ##Implementing an object(hash table)
+
 ```javascript
 class HashTable {
-  constructor(size){
+  constructor(size) {
     this.data = new Array(size);
     // this.data = [];
   }
 
   _hash(key) {
     let hash = 0;
-    for (let i =0; i < key.length; i++){
-        hash = (hash + key.charCodeAt(i) * i) % this.data.length
+    for (let i = 0; i < key.length; i++) {
+      hash = (hash + key.charCodeAt(i) * i) % this.data.length;
     }
     return hash;
   }
@@ -74,25 +80,25 @@ class HashTable {
     return this.data;
   }
 
-  get(key){
+  get(key) {
     const address = this._hash(key);
-    const currentBucket = this.data[address]
+    const currentBucket = this.data[address];
     if (currentBucket) {
-      for(let i = 0; i < currentBucket.length; i++){
-        if(currentBucket[i][0] === key) {
-          return currentBucket[i][1]
+      for (let i = 0; i < currentBucket.length; i++) {
+        if (currentBucket[i][0] === key) {
+          return currentBucket[i][1];
         }
       }
     }
     return undefined;
   }
-  
-  keys(){
+
+  keys() {
     const keysArray = [];
     console.log(this.data.length);
-    for (let i = 0; i < this.data.length; i++){
-      if(this.data[i]){
-        keysArray.push(this.data[i][0][0])
+    for (let i = 0; i < this.data.length; i++) {
+      if (this.data[i]) {
+        keysArray.push(this.data[i][0][0]);
       }
     }
     return keysArray;
@@ -100,32 +106,38 @@ class HashTable {
 }
 
 const myHashTable = new HashTable(50);
-myHashTable.set('grapes', 10000)
-myHashTable.set('grapes', 10000)
-myHashTable.get('grapes')
-myHashTable.set('apples', 9)
-myHashTable.get('apples')
-myHashTable.keys()
+myHashTable.set('grapes', 10000);
+myHashTable.set('grapes', 10000);
+myHashTable.get('grapes');
+myHashTable.set('apples', 9);
+myHashTable.get('apples');
+myHashTable.keys();
 ```
+
 ##Largest number in Array
 Return an array consisting of the largest number from each provided sub-array. For simplicity, the provided array will contain exactly 4 sub-arrays.
 
 ```javascript
 function largestOfFour(arr) {
-  var newArr = []
-  for(let i=0;i<arr.length; i++){
-    newArr.push(Math.max(...arr[i]))
+  var newArr = [];
+  for (let i = 0; i < arr.length; i++) {
+    newArr.push(Math.max(...arr[i]));
   }
   return newArr;
 }
 
-largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
-
+largestOfFour([
+  [4, 5, 1, 3],
+  [13, 27, 18, 26],
+  [32, 35, 37, 39],
+  [1000, 1001, 857, 1],
+]);
 ```
 
 Remember, you can iterate through an array with a simple for loop, and access each member with array syntax arr[i].
 
-##Confirm the ending 
+##Confirm the ending
+
 ```javascript
 function confirmEnding(str, target) {
   // "Never give up and good luck will find you."
@@ -139,13 +151,13 @@ function confirmEnding(str, target) {
 function confirmEnding(string, target) {
   // Step 1. Use the substr method
   if (string.substr(-target.length) === target) {
-  
+
   // What does "if (string.substr(-target.length) === target)" represents?
-  // The string is 'Bastian' and the target is 'n' 
+  // The string is 'Bastian' and the target is 'n'
   // target.length = 1 so -target.length = -1
   // if ('Bastian'.substr(-1) === 'n')
   // if ('n' === 'n')
-  
+
   // Step 2. Return a boolean (true or false)
     return true;
   } else {
@@ -199,12 +211,13 @@ function confirmEnding(str, target) {
 console.log(confirmEnding('Open sesame', 'zame'));
 
 ```
+
 ##Count Online
-We've defined a function *countOnline* which accepts one argument (a users object). Use a for...in statement within this function to loop through the users object passed into the function and return the number of users whose *online* property is set to *true*. An example of a users object which could be passed to *countOnline* is shown below. Each user will have an *online* property with either a *true* or *false* value.
+We've defined a function _countOnline_ which accepts one argument (a users object). Use a for...in statement within this function to loop through the users object passed into the function and return the number of users whose _online_ property is set to _true_. An example of a users object which could be passed to _countOnline_ is shown below. Each user will have an _online_ property with either a _true_ or _false_ value.
 
 Using a for loop, this function iterates through and accesses each element of the array, and subjects it to a simple test that we have created. In this way, we have easily and programmatically determined which data items are greater than 10, and returned a new array containing those items.
 
-```javascript 
+```javascript
 
 The function countOnline should use a `for in` statement to iterate through the object keys of the object passed to it.
 Passed
@@ -239,13 +252,14 @@ let usersObj = {
 countOnline(usersObj)
 ```
 
-##Factorialize a Number 
+##Factorialize a Number
 
 Return the factorial of the provided integer.
 
 If the integer is represented with the letter n, a factorial is the product of all positive integers less than or equal to n.
 
 Factorials are often represented with the shorthand notation n!
+
 ```javascript
 For example: 5! = 1 * 2 * 3 * 4 * 5 = 120
 
@@ -266,37 +280,37 @@ The pattern would be:
 1. Factorialize a Number With Recursion
 function factorialize(num) {
   // If the number is less than 0, reject it.
-  if (num < 0) 
+  if (num < 0)
         return -1;
-    
+
   // If the number is 0, its factorial is 1.
-  else if (num == 0) 
+  else if (num == 0)
       return 1;
-    
+
   // Otherwise, call the recursive procedure again
     else {
         return (num * factorialize(num - 1));
-        /* 
+        /*
         First Part of the recursion method
         You need to remember that you won’t have just one call, you’ll have several nested calls
-        
+
         Each call: num === "?"        	         num * factorialize(num - 1)
         1st call – factorialize(5) will return    5  * factorialize(5 - 1) // factorialize(4)
         2nd call – factorialize(4) will return    4  * factorialize(4 - 1) // factorialize(3)
         3rd call – factorialize(3) will return    3  * factorialize(3 - 1) // factorialize(2)
         4th call – factorialize(2) will return    2  * factorialize(2 - 1) // factorialize(1)
         5th call – factorialize(1) will return    1  * factorialize(1 - 1) // factorialize(0)
-        
+
         Second part of the recursion method
         The method hits the if condition, it returns 1 which num will multiply itself with
         The function will exit with the total value
-        
+
         5th call will return (5 * (5 - 1))     // num = 5 * 4
         4th call will return (20 * (4 - 1))    // num = 20 * 3
         3rd call will return (60 * (3 - 1))    // num = 60 * 2
         2nd call will return (120 * (2 - 1))   // num = 120 * 1
         1st call will return (120)             // num = 120
-        
+
         If we sum up all the calls in one line, we have
         (5 * (5 - 1) * (4 - 1) * (3 - 1) * (2 - 1)) = 5 * 4 * 3 * 2 * 1 = 120
         */
@@ -305,9 +319,9 @@ function factorialize(num) {
 factorialize(5);
 Without comments:
 function factorialize(num) {
-  if (num < 0) 
+  if (num < 0)
         return -1;
-  else if (num == 0) 
+  else if (num == 0)
       return 1;
   else {
       return (num * factorialize(num - 1));
@@ -318,26 +332,26 @@ factorialize(5);
 function factorialize(num) {
   // Step 1. Create a variable result to store num
   var result = num;
-   
+
   // If num = 0 OR num = 1, the factorial will return 1
-  if (num === 0 || num === 1) 
-    return 1; 
- 
-  // Step 2. Create the WHILE loop 
-  while (num > 1) { 
+  if (num === 0 || num === 1)
+    return 1;
+
+  // Step 2. Create the WHILE loop
+  while (num > 1) {
     num--; // decrementation by 1 at each iteration
-    result = result * num; // or result *= num; 
-    /* 
-                    num           num--      var result      result *= num         
-    1st iteration:   5             4            5             20 = 5 * 4      
+    result = result * num; // or result *= num;
+    /*
+                    num           num--      var result      result *= num
+    1st iteration:   5             4            5             20 = 5 * 4
     2nd iteration:   4             3           20             60 = 20 * 3
     3rd iteration:   3             2           60            120 = 60 * 2
     4th iteration:   2             1          120            120 = 120 * 1
     5th iteration:   1             0          120
-    End of the WHILE loop 
+    End of the WHILE loop
     */
   }
-     
+
   // Step 3. Return the factorial of the provided integer
   return result; // 120
 }
@@ -345,9 +359,9 @@ factorialize(5);
 Without comments:
 function factorialize(num) {
   var result = num;
-  if (num === 0 || num === 1) 
-    return 1; 
-  while (num > 1) { 
+  if (num === 0 || num === 1)
+    return 1;
+  while (num > 1) {
     num--;
     result *= num;
   }
@@ -359,20 +373,20 @@ function factorialize(num) {
   // If num = 0 OR num = 1, the factorial will return 1
   if (num === 0 || num === 1)
     return 1;
-  
+
   // We start the FOR loop with i = 4
-  // We decrement i after each iteration 
+  // We decrement i after each iteration
   for (var i = num - 1; i >= 1; i--) {
     // We store the value of num at each iteration
     num = num * i; // or num *= i;
-    /* 
+    /*
                     num      var i = num - 1       num *= i         i--       i >= 1?
-    1st iteration:   5           4 = 5 - 1         20 = 5 * 4        3          yes   
+    1st iteration:   5           4 = 5 - 1         20 = 5 * 4        3          yes
     2nd iteration:  20           3 = 4 - 1         60 = 20 * 3       2          yes
-    3rd iteration:  60           2 = 3 - 1        120 = 60 * 2       1          yes  
-    4th iteration: 120           1 = 2 - 1        120 = 120 * 1      0          no             
+    3rd iteration:  60           2 = 3 - 1        120 = 60 * 2       1          yes
+    4th iteration: 120           1 = 2 - 1        120 = 120 * 1      0          no
     5th iteration: 120               0                120
-    End of the FOR loop 
+    End of the FOR loop
     */
   }
   return num; //120
@@ -389,7 +403,8 @@ function factorialize(num) {
 }
 factorialize(5);
 ```
-##Find recuring charachter 
+
+##Find recuring charachter
 
 ```javascript
 //Google Question
@@ -402,45 +417,40 @@ factorialize(5);
 //Given an array = [2,3,4,5]:
 //It should return undefined
 
-
 function firstRecurringCharacter(input) {
   for (let i = 0; i < input.length; i++) {
     for (let j = i + 1; j < input.length; j++) {
-      if(input[i] === input[j]) {
+      if (input[i] === input[j]) {
         return input[i];
       }
     }
   }
-  return undefined
+  return undefined;
 }
 
 function firstRecurringCharacter2(input) {
   let map = {};
   for (let i = 0; i < input.length; i++) {
     if (map[input[i]] !== undefined) {
-      return input[i]
+      return input[i];
     } else {
       map[input[i]] = i;
     }
   }
-  return undefined
+  return undefined;
 }
 
-firstRecurringCharacter2([1,5,5,1,3,4,6])
-
+firstRecurringCharacter2([1, 5, 5, 1, 3, 4, 6]);
 
 //Bonus... What if we had this:
 // [2,5,5,2,3,5,1,2,4]
 // return 5 because the pairs are before 2,2
 ```
 
-
-
 ##Two sum
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
-
 
 ```javascript
 
@@ -453,6 +463,7 @@ return [0, 1].
 ```
 
 ##Solution
+
 ```javascript
 const nums = [2,3,4];
 const target = 7
@@ -468,9 +479,9 @@ const twoSum = function(nums, target) {
 };
 // comp is going to be a key/value store where
 // key === number in input array
-// value === an index. Specifically,the index of the 
+// value === an index. Specifically,the index of the
 // complementing number needed to add to get the target.
-// So 3 + 4 === 7, the key 4 would have the index 1 
+// So 3 + 4 === 7, the key 4 would have the index 1
 // assigned to it in the array [2,3,4]
 // now we iterate over nums. We hit the first condition:
 if(comp[nums[i] ]>=0)
@@ -481,15 +492,15 @@ if(comp[nums[i] ]>=0)
   '2': undefined
 }
 
-// so we go past the first conidtion on the first run 
+// so we go past the first conidtion on the first run
 // always, b/c we won't have an index assigned, that comes later.
 // Now we hit:
 comp[target-nums[i]] = i
 // inside the brackets, we have comp[7 - 2] = 0
 // or comp[5] = 0
 // now comp looks like this:
-// (by the way you wouldn't have keys assigned the value 
-// undefined, they just would not exist in the object. I'm 
+// (by the way you wouldn't have keys assigned the value
+// undefined, they just would not exist in the object. I'm
 // doing this for clarity sake)
 {
   '2': undefined,
@@ -501,7 +512,7 @@ comp[target-nums[i]] = i
   '3': undefined,
   '5': 0
 }
-// then the last line comp[7-3] = 1 
+// then the last line comp[7-3] = 1
 // Or comp[4] = 1
 {
   '2': undefined,
@@ -511,49 +522,49 @@ comp[target-nums[i]] = i
 }
 // On our last run we look up comp[4] and we have a match
 //greater than 0 so we enter the condition
-// then we return the value of comp[4] 
-//(the index of the complementing number to add to get to target, 3) 
+// then we return the value of comp[4]
+//(the index of the complementing number to add to get to target, 3)
 //and the current index in an array: [1,2]
 ```
 
-##Merge sorted arrays 
+##Merge sorted arrays
 mergeSortedArrays([0,3,4,31], [3,4,6,30]);
 //0,3,4,4,6,30,31
 
 ```javascript
-function mergeSortedArrays(array1, array2){
+function mergeSortedArrays(array1, array2) {
   const mergedArray = [];
   let array1Item = array1[0];
   let array2Item = array2[0];
   let i = 1;
   let j = 1;
-  
+
   //We should actually move these 2 if statements to line 2 so that we do the checks before we do assignments in line 3 and 4!
-  if(array1.length === 0) {
+  if (array1.length === 0) {
     return array2;
   }
-  if(array2.length === 0) {
+  if (array2.length === 0) {
     return array1;
   }
 
-  while (array1Item || array2Item){
-   if(array2Item === undefined || array1Item < array2Item){
-     mergedArray.push(array1Item);
-     array1Item = array1[i];
-     i++;
-   }   
-   else {
-     mergedArray.push(array2Item);
-     array2Item = array2[j];
-     j++;
-   }
+  while (array1Item || array2Item) {
+    if (array2Item === undefined || array1Item < array2Item) {
+      mergedArray.push(array1Item);
+      array1Item = array1[i];
+      i++;
+    } else {
+      mergedArray.push(array2Item);
+      array2Item = array2[j];
+      j++;
+    }
   }
   return mergedArray;
 }
 
-mergeSortedArrays([0,3,4,31], [3,4,6,30]);
+mergeSortedArrays([0, 3, 4, 31], [3, 4, 6, 30]);
 //0,3,4,4,6,30,31
 ```
+
 ##Longest Substring Without Repeating Characters
 
 ```javascript
@@ -562,8 +573,8 @@ Given a string, find the length of the longest substring without repeating chara
 Example 1:
 
 Input: "abcabcbb"
-Output: 3 
-Explanation: The answer is "abc", with the length of 3. 
+Output: 3
+Explanation: The answer is "abc", with the length of 3.
 Example 2:
 
 Input: "bbbbb"
@@ -573,40 +584,41 @@ Example 3:
 
 Input: "pwwkew"
 Output: 3
-Explanation: The answer is "wke", with the length of 3. 
+Explanation: The answer is "wke", with the length of 3.
              Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 ```
+
 ##Solution
 
 ```javascript
 var lengthOfLongestSubstring = function(s) {
-    let max_len = 0;
-    let curr = 0;
-    let hash = {}; 
-    if(s.length < 2) {
-        return s.length;
+  let max_len = 0;
+  let curr = 0;
+  let hash = {};
+  if (s.length < 2) {
+    return s.length;
+  }
+  for (let i = 0; i < s.length; i++) {
+    if (hash[s[i]] == null) {
+      curr += 1;
+    } else {
+      curr = Math.min(i - hash[s[i]], curr + 1);
     }
-    for(let i = 0; i < s.length;  i++) {
-        if(hash[s[i]] == null) {
-            curr += 1;
-        } else {
-            curr = Math.min(i - hash[s[i]], curr + 1);
-        }
-        max_len = Math.max(max_len, curr);
-        hash[s[i]] = i; //save the index
-    }
-    return max_len;
+    max_len = Math.max(max_len, curr);
+    hash[s[i]] = i; //save the index
+  }
+  return max_len;
 };
-
 ```
+
 The idea behind this code is to use hash maps to keep track of seen substrings.
 Obviously if any string is less than two, the longest substring is equal to the length of that substring.
 However, if not, then we would have to consider another approach.
 
 Consider a string:
-_ _ _ _ _ a _ _ _ _ _ f _ _ _ f _ _ _ a
+\_ \_ \_ \_ _ a _ \_ \_ \_ _ f _ \_ _ f _ \_ \_ a
 
-Where _ means a distinct character from all the others.
+Where \_ means a distinct character from all the others.
 
 As we transverse the string, we put a character into the hash table if it's not already in there where the key is the character and the value is the index. --> hash = {char: index}
 
@@ -623,14 +635,14 @@ Finally, we have completely transversed the string and arrived at the max length
 Runtime: O(n)
 Space Complexity: O(n)
 
-
- maximal subarray
+maximal subarray
 importance: 2
 The input is an array of numbers, e.g. arr = [1, -2, 3, 4, -9, 6].
 
 The task is: find the contiguous subarray of arr with the maximal sum of items.
 
 Write the function getMaxSubSum(arr) that will return that sum.
+
 ```javascript
 For instance:
 
@@ -645,10 +657,12 @@ If all items are negative, it means that we take none (the subarray is empty), s
 getMaxSubSum([-1, -2, -3]) = 0
 Please try to think of a fast solution: O(n2) or even O(n) if you can.
 ```
+
 ##Solution
 Let’s walk the array and keep the current partial sum of elements in the variable s. If s becomes negative at some point, then assign s=0. The maximum of all such s will be the answer.
 
 If the description is too vague, please see the code, it’s short enough:
+
 ```javascript
 function getMaxSubSum(arr) {
   let maxSum = 0;
@@ -671,44 +685,42 @@ alert( getMaxSubSum([1, 2, 3]) ); // 6
 alert( getMaxSubSum([-1, -2, -3]) ); // 0
 The algorithm requires exactly 1 array pass, so the time complexity is O(n).
 ```
+
 You can find more detail information about the algorithm here: [Maximum subarray problem](https://en.wikipedia.org/wiki/Maximum_subarray_problem). If it’s still not obvious why that works, then please trace the algorithm on the examples above, see how it works, that’s better than any words.
 
 ##Move zeros
 Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
-```javascript
-Example:
 
-Input: [0,1,0,3,12]
-Output: [1,3,12,0,0]
+```javascript
+Example: Input: [0, 1, 0, 3, 12];
+Output: [1, 3, 12, 0, 0];
 ```
+
 Note:
 
 You must do this in-place without making a copy of the array.
 Minimize the total number of operations.
 
     This question comes under a broad category of "Array Transformation". This category is the meat of tech interviews. Mostly because arrays are such a simple and easy to use data structure. Traversal or representation doesn't require any boilerplate code and most of your code will look like the Pseudocode itself.
-    
+
     The 2 requirements of the question are:
-    
+
     Move all the 0's to the end of array.
-    
+
     All the non-zero elements must retain their original order.
-    
+
     It's good to realize here that both the requirements are mutually exclusive, i.e., you can solve the individual sub-problems and then combine them for the final solution.
 
 ```javascript
-
-
-
 var moveZeroes = function(nums) {
-    var arr = [];
-    for(let i = 0; i < nums.length; ++i) {
-        if(nums[i] == 0) {
-            arr.push(...nums.splice(i, 1));
-            i--;
-        }
-    }     
-    nums.push(...arr);
+  var arr = [];
+  for (let i = 0; i < nums.length; ++i) {
+    if (nums[i] == 0) {
+      arr.push(...nums.splice(i, 1));
+      i--;
+    }
+  }
+  nums.push(...arr);
 };
 ```
 
@@ -717,6 +729,7 @@ var moveZeroes = function(nums) {
 Given an array of integers, find if the array contains any duplicates.
 
 Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
+
 ```javascript
 Example 1:
 
@@ -734,8 +747,8 @@ Output: true
 
 ```javascript
 var containsDuplicate = function(nums) {
-    let set = new Set(nums);
-    return (set.size < nums.length);
+  let set = new Set(nums);
+  return set.size < nums.length;
 };
 ```
 
@@ -743,7 +756,7 @@ var containsDuplicate = function(nums) {
 var containsDuplicate = function(nums) {
     var newArr = new Set(nums)
     if (newArr.size < nums.length){
-        return true   
+        return true
     } else{
         return false
     }
@@ -764,7 +777,7 @@ Example 2:
 
 Input: [-1,-100,3,99] and k = 2
 Output: [3,99,-1,-100]
-Explanation: 
+Explanation:
 rotate 1 steps to the right: [99,-1,-100,3]
 rotate 2 steps to the right: [3,99,-1,-100]
 ```
@@ -778,7 +791,7 @@ Could you do it in-place with O(1) extra space?
 
 ```javascript
 var rotate = function(nums, k) {
-    return nums.unshift(...nums.splice(-(k%nums.length)))
+  return nums.unshift(...nums.splice(-(k % nums.length)));
 };
 
 function arrayRotate(arr, reverse) {
@@ -788,29 +801,29 @@ function arrayRotate(arr, reverse) {
 }
 ```
 
-
 ##Largest world
 
-
 ```javascript
-
 function largestOfFour(arr) {
-   // Step 1. Create an array that will host the result of the 4 sub-arrays
-   var largestNumber = [0,0,0,0];
- 
-   // Step 2. Create the first FOR loop that will iterate through the arrays
-   for(var arrayIndex = 0; arrayIndex < arr.length; arrayIndex++) {
-   /* The starting point, index 0, corresponds to the first array */
- 
+  // Step 1. Create an array that will host the result of the 4 sub-arrays
+  var largestNumber = [0, 0, 0, 0];
+
+  // Step 2. Create the first FOR loop that will iterate through the arrays
+  for (var arrayIndex = 0; arrayIndex < arr.length; arrayIndex++) {
+    /* The starting point, index 0, corresponds to the first array */
+
     // Step 3. Create the second FOR loop that will iterate through the sub-arrays
-    for(var subArrayIndex = 0; subArrayIndex < arr[arrayIndex].length; subArrayIndex++) {
-    /* The starting point, index 0, corresponds to the first sub-array */
-       
-       if(arr[arrayIndex][subArrayIndex] > largestNumber[arrayIndex]) {
-          
-          largestNumber[arrayIndex] = arr[arrayIndex][subArrayIndex];
-          
-       /* FOR loop cycles
+    for (
+      var subArrayIndex = 0;
+      subArrayIndex < arr[arrayIndex].length;
+      subArrayIndex++
+    ) {
+      /* The starting point, index 0, corresponds to the first sub-array */
+
+      if (arr[arrayIndex][subArrayIndex] > largestNumber[arrayIndex]) {
+        largestNumber[arrayIndex] = arr[arrayIndex][subArrayIndex];
+
+        /* FOR loop cycles
           arrayIndex => i
           subArrayIndex => j
           
@@ -846,25 +859,35 @@ function largestOfFour(arr) {
           Fourth iteration:   arr[3][3] => 1       largestNumber[3] => 1001   1 > 1001? => FALSE                   then largestNumber[3] = 1001
           Fifth iteration:    arr[3][4] => FALSE   largestNumber[3] => 1001                                        largestNumber = [5,27,39,1001]
        Exit the FOR loop */
-        }
+      }
     }
- }
- // Step 4. Return the largest numbers of each sub-arrays
- return largestNumber; // largestNumber = [5,27,39,1001];
+  }
+  // Step 4. Return the largest numbers of each sub-arrays
+  return largestNumber; // largestNumber = [5,27,39,1001];
 }
 
-largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
+largestOfFour([
+  [4, 5, 1, 3],
+  [13, 27, 18, 26],
+  [32, 35, 37, 39],
+  [1000, 1001, 857, 1],
+]);
 ```
 
 ```javascript
 function largestOfFour(mainArray) {
   // Step 1. Map over the main arrays
-  return mainArray.map(function (subArray){ // Step 3. Return the largest numbers of each sub-arrays => returns [5,27,39,1001]
+  return mainArray.map(function(subArray) {
+    // Step 3. Return the largest numbers of each sub-arrays => returns [5,27,39,1001]
 
     // Step 2. Grab the largest numbers for each sub-arrays with reduce() method
-    return subArray.reduce(function (previousLargestNumber, currentLargestNumber) {
-
-      return (currentLargestNumber > previousLargestNumber) ? currentLargestNumber : previousLargestNumber;
+    return subArray.reduce(function(
+      previousLargestNumber,
+      currentLargestNumber
+    ) {
+      return currentLargestNumber > previousLargestNumber
+        ? currentLargestNumber
+        : previousLargestNumber;
 
       /* Map process and Reduce method cycles
       currentLargestNumber => cLN
@@ -901,23 +924,34 @@ function largestOfFour(mainArray) {
         Fourth iteration:        1         1001       1 > 1001? => FALSE         /             1001
         Fifth iteration:         /         1001                                              returns 1001
       Exit the first array and continue on the fourth one */
-    }, 0); // 0 serves as the context for the first pLN in each sub array
+    },
+    0); // 0 serves as the context for the first pLN in each sub array
   });
 }
 
-largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
+largestOfFour([
+  [4, 5, 1, 3],
+  [13, 27, 18, 26],
+  [32, 35, 37, 39],
+  [1000, 1001, 857, 1],
+]);
 ```
 
 ```javascript
-
 function largestOfFour(mainArray) {
   // Step 1. Map over the main arrays
-  return mainArray.map(function(subArray) { // Step 3. Return the largest numbers of each sub-arrays => returns [5,27,39,1001]
-    
+  return mainArray.map(function(subArray) {
+    // Step 3. Return the largest numbers of each sub-arrays => returns [5,27,39,1001]
+
     // Step 2. Return the largest numbers for each sub-arrays with Math.max() method
     return Math.max.apply(null, subArray);
   });
 }
 
-largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
+largestOfFour([
+  [4, 5, 1, 3],
+  [13, 27, 18, 26],
+  [32, 35, 37, 39],
+  [1000, 1001, 857, 1],
+]);
 ```
