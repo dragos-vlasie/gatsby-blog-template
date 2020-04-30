@@ -26,6 +26,7 @@ const CatergoriesWrapper = styled.div`
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  margin-top: -175px;
   justify-content: flex-start;
   margin: 4rem 4rem 1rem 4rem;
   @media (max-width: 1000px) {
@@ -57,8 +58,14 @@ const Index = ({ data }) => {
 
   return (
     <Layout>
-      <Helmet title={'Home Page'} />
-      <Header title="Home Page"> Gatsby Blog Template</Header>
+      <Helmet title={'Travel Alma'} />
+      <Header
+        title="Travel Alma"
+        cover={edges[0].node.frontmatter.cover.childImageSharp.fluid}
+      >
+        {' '}
+        "a journal for myself, curious eyes and fellow travellers!"
+      </Header>
       <FadeIn>
         <CatergoriesWrapper>
           {tags &&
