@@ -12,7 +12,6 @@ module.exports = {
       options: {
         name: 'posts',
         path: `${__dirname}/content`,
-        
       },
     },
     'gatsby-transformer-sharp',
@@ -61,6 +60,7 @@ module.exports = {
         icon: config.favicon,
       },
     },
+    `gatsby-plugin-netlify-cms`,
     'gatsby-plugin-offline',
   ],
 };
