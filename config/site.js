@@ -9,7 +9,7 @@ module.exports = {
   logo: 'static/logo/header-logo.png', // Used for SEO
   banner: 'static/logo/header-logo.png',
   // JSONLD / Manifest
-  favicon: 'static/logo/favicon.ico', // Used for manifest favicon generation
+  favicon: '', // Used for manifest favicon generation
   shortName: 'GatsbyTem', // shortname for manifest. MUST be shorter than 12 characters
   author: 'Dragos', // Author for schemaORGJSONLD
   themeColor: '#3e7bf2',
