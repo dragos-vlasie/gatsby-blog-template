@@ -1,6 +1,6 @@
-import React from 'react';
-import { Link } from 'gatsby';
 import styled from '@emotion/styled';
+import { Link } from 'gatsby';
+import React from 'react';
 import Headroom from 'react-headroom';
 import logo from '../../static/logo/header-logo.png';
 
@@ -34,8 +34,11 @@ const NavBar = () => (
     </StyledLink>
     <Nav>
       <Link to="/">Home</Link>
-      <Link to="/blog">Blog</Link>
       <Link to="/about">About</Link>
+      <Link to="/blog">The Journal</Link>
+      <Link to="/about">Destinations</Link>
+      <Link to="/about">Resources</Link>
+      <Link to="/about">Inspire</Link>
     </Nav>
   </Headroom>
 );

@@ -40,6 +40,11 @@ const headroom = css`
     transition: ${theme.transitions.headroom.transition};
     background-color: ${theme.colors.white.light};
     box-shadow: 0 5px 30px rgba(0, 0, 0, 0.2);
+    a {
+      img {
+        margin: 0;
+      }
+    }
     nav {
       a {
         color: ${theme.colors.black.base};

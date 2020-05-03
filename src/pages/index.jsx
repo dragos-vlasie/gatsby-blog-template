@@ -24,6 +24,7 @@ const PostWrapper = styled.div`
 
 const CatergoriesWrapper = styled.div`
   display: flex;
+  margin-top: -130px;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
@@ -33,6 +34,9 @@ const CatergoriesWrapper = styled.div`
   }
   @media (max-width: 700px) {
     margin: 4rem 1rem 1rem 1rem;
+  }
+  @media (max-width: 600px) {
+    display: none;
   }
 `;
 
@@ -57,8 +61,15 @@ const Index = ({ data }) => {
 
   return (
     <Layout>
-      <Helmet title={'Home Page'} />
-      <Header title="Home Page"> Gatsby Blog Template</Header>
+      <Helmet title={'Travel Alma'} />
+      <Header
+        title="Travel Alma"
+        cover={edges[0].node.frontmatter.cover.childImageSharp.fluid}
+        homePage={true}
+      >
+        {' '}
+        "a journal for myself, curious eyes and fellow travellers!"
+      </Header>
       <FadeIn>
         <CatergoriesWrapper>
           {tags &&

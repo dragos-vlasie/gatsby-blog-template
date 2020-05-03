@@ -14,6 +14,11 @@ const Wrapper = styled.header`
   @media (max-width: ${props => props.theme.breakpoints.s}) {
     height: ${props => (props.big ? '500px' : '325px')};
   }
+  z-index: ${props => (props.homePage ? 0 : 1)};
+  margin-bottom: ${props => (props.homePage ? '-210px' : 0)};
+  @media (max-width: ${props => props.theme.breakpoints.s}) {
+    margin-bottom: ${props => (props.homePage ? 0 : 0)};
+  }
   position: relative;
   overflow: hidden;
   .gatsby-image-wrapper {
@@ -53,9 +58,10 @@ const Text = styled.div`
 const Subtitle = styled(animated.p)`
   max-width: 650px;
   color: ${props => props.theme.colors.white.blue};
+  font-style: italic;
 `;
 
-const Header = ({ children, title, date, cover, big }) => {
+const Header = ({ children, title, date, cover, big, homePage }) => {
   const titleProps = useSpring({
     from: { opacity: 0, transform: 'translate3d(0, -30px, 0)' },
     to: { opacity: 1, transform: 'translate3d(0, 0, 0)' },
@@ -68,7 +74,7 @@ const Header = ({ children, title, date, cover, big }) => {
     to: { opacity: 1 },
   });
   return (
-    <Wrapper big={true}>
+    <Wrapper big={true} homePage={homePage}>
       <Img fluid={cover || {} || [] || ''} />
       <Text>
         <animated.h1 data-testid="header-title" style={titleProps}>
