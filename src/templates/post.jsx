@@ -1,11 +1,12 @@
-import { Header, SEO, TagsBlock } from 'components';
-import { graphql } from 'gatsby';
-import { Container, Content, Layout } from 'layouts';
-import PropTypes from 'prop-types';
 import React from 'react';
+import { graphql, Link } from 'gatsby';
+import styled from '@emotion/styled';
+import PropTypes from 'prop-types';
+import { Layout, Container, Content } from 'layouts';
+import { TagsBlock, Header, SEO } from 'components';
+import '../styles/prism';
 import FadeIn from '../elements/FadeIn';
 import Suggestions from '../elements/Suggestions';
-import '../styles/prism';
 
 const Post = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
@@ -47,7 +48,7 @@ Post.propTypes = {
 };
 
 export const query = graphql`
-  query($pathSlug: String) {
+  query($pathSlug: String!) {
     markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
       html
       frontmatter {

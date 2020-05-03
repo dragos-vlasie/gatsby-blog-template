@@ -6,10 +6,10 @@ module.exports = {
   siteLanguage: 'en', // Language Tag on <html> element
   siteUrl: 'https://blissful-stonebraker-79eda2.netlify.com',
   url: 'https://blissful-stonebraker-79eda2.netlify.com',
-  logo: 'static/logo/header-logo.png', // Used for SEO
-  banner: 'static/logo/header-logo.png',
+  logo: 'static/logo/logo.png', // Used for SEO
+  banner: 'static/logo/banner.png',
   // JSONLD / Manifest
-  favicon: 'static/logo/logo.png', // Used for manifest favicon generation
+  favicon: 'static/logo/favicon.png', // Used for manifest favicon generation
   shortName: 'GatsbyTem', // shortname for manifest. MUST be shorter than 12 characters
   author: 'Dragos', // Author for schemaORGJSONLD
   themeColor: '#3e7bf2',
