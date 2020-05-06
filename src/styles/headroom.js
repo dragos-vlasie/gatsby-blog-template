@@ -14,6 +14,11 @@ const headroom = css`
     flex-direction: row;
     width: 100%;
     padding: 1rem 1.5rem;
+    a {
+      img {
+        margin-bottom: 0;
+      }
+    }
     svg {
       height: 2.5rem;
       g {
