@@ -1,15 +1,16 @@
-import React from 'react';
-import { graphql, Link } from 'gatsby';
-import styled from '@emotion/styled';
+import { Header, SEO, TagsBlock } from 'components';
+import { graphql } from 'gatsby';
+import { Container, Content, Layout } from 'layouts';
 import PropTypes from 'prop-types';
-import { Layout, Container, Content } from 'layouts';
-import { TagsBlock, Header, SEO } from 'components';
-import '../styles/prism';
+import React from 'react';
 import FadeIn from '../elements/FadeIn';
 import Suggestions from '../elements/Suggestions';
+import '../styles/prism';
 
 const Post = ({ data, pageContext }) => {
+  console.log('Post -> data', data);
   const { next, prev } = pageContext;
+  console.log('Post -> next', next);
   const { html, frontmatter, excerpt } = data.markdownRemark;
   const { date, title, tags, path, description } = frontmatter;
   const image = frontmatter.cover.childImageSharp.fluid;

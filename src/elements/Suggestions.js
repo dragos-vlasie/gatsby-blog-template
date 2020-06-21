@@ -58,7 +58,7 @@ const Wrapper = styled.article`
     max-width: 100%;
     width: 100%;
     height: 12rem;
-    &:first-child {
+    &:first-of-type {
       margin-bottom: 2rem;
     }
   }
@@ -197,7 +197,17 @@ const Suggestions = ({ left, right }) => (
                   alt=""
                 />
               </Image>
-              <StyledLink to={left.frontmatter.path} cardstyle={'cardstyle'}>
+              <StyledLink
+                to={
+                  left.fileAbsolutePath
+                    .split('/')
+                    .slice(
+                      left.fileAbsolutePath.split('/').indexOf('content') + 1,
+                      left.fileAbsolutePath.split('/').indexOf('index.md') - 1
+                    ) + left.frontmatter.path
+                }
+                cardstyle={'cardstyle'}
+              >
                 <Title>{left.frontmatter.title}</Title>
               </StyledLink>
               <ImageOverlay cardstyle={'cardstyle'} />

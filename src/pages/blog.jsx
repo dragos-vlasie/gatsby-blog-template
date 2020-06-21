@@ -1,11 +1,10 @@
-import React from 'react';
-import { graphql } from 'gatsby';
 import styled from '@emotion/styled';
-import Helmet from 'react-helmet';
+import { BlogList, Header } from 'components';
+import { graphql } from 'gatsby';
+import { Container, Layout } from 'layouts';
 import PropTypes from 'prop-types';
-import { Header, BlogList } from 'components';
-import { Layout } from 'layouts';
-import { Container } from 'layouts';
+import React from 'react';
+import Helmet from 'react-helmet';
 import FadeIn from '../elements/FadeIn';
 
 const Base = styled.div`
@@ -17,6 +16,7 @@ const Base = styled.div`
 
 const Blog = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
+  console.log('Blog -> edges', edges);
   return (
     <Layout>
       <Helmet title={'Blog Page'} />
@@ -24,17 +24,26 @@ const Blog = ({ data }) => {
       <FadeIn>
         <Container>
           <Base>
-            {edges.map(({ node }) => (
-              <BlogList
-                key={node.id}
-                cover={node.frontmatter.cover.childImageSharp.fluid}
-                path={node.frontmatter.path}
-                title={node.frontmatter.title}
-                date={node.frontmatter.date}
-                tags={node.frontmatter.tags}
-                excerpt={node.excerpt}
-              />
-            ))}
+            {edges.map(({ node }) => {
+              const arrayPath = node.fileAbsolutePath.split('/');
+              const category = arrayPath
+                .slice(
+                  arrayPath.indexOf('content') + 1,
+                  arrayPath.indexOf('index.md') - 1
+                )
+                .join();
+              return (
+                <BlogList
+                  key={node.id}
+                  cover={node.frontmatter.cover.childImageSharp.fluid}
+                  path={`${category}${node.frontmatter.path}`}
+                  title={node.frontmatter.title}
+                  date={node.frontmatter.date}
+                  tags={node.frontmatter.tags}
+                  excerpt={node.excerpt}
+                />
+              );
+            })}
           </Base>
         </Container>
       </FadeIn>
@@ -89,6 +98,7 @@ export const query = graphql`
               }
             }
           }
+          fileAbsolutePath
         }
       }
     }

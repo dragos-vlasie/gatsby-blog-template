@@ -75,7 +75,7 @@ exports.createPages = ({ graphql, actions }) => {
 
         //create posts
         posts.forEach(({ node }, index) => {
-          const path = node.frontmatter.path;
+          const postPath = node.frontmatter.path;
           const arrayPath = node.fileAbsolutePath.split('/');
           const category = arrayPath
             .slice(
@@ -83,11 +83,12 @@ exports.createPages = ({ graphql, actions }) => {
               arrayPath.indexOf('index.md') - 1
             )
             .join();
+          const path = `${category}${postPath}`;
           const prev = index === 0 ? null : posts[index - 1].node;
           const next =
             index === posts.length - 1 ? null : posts[index + 1].node;
           createPage({
-            path: `${category}${path}`,
+            path: path,
             component: postTemplate,
             context: {
               pathSlug: path,
