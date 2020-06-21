@@ -199,12 +199,12 @@ const Suggestions = ({ left, right }) => (
               </Image>
               <StyledLink
                 to={
-                  left.fileAbsolutePath
-                    .split('/')
-                    .slice(
-                      left.fileAbsolutePath.split('/').indexOf('content') + 1,
-                      left.fileAbsolutePath.split('/').indexOf('index.md') - 1
-                    ) + left.frontmatter.path
+                  // left.fileAbsolutePath
+                  //   .split('/')
+                  //   .slice(
+                  //     left.fileAbsolutePath.split('/').indexOf('content') + 1,
+                  //     left.fileAbsolutePath.split('/').indexOf('index.md') - 1
+                  //   ) + left.frontmatter.path
                 }
                 cardstyle={'cardstyle'}
               >
