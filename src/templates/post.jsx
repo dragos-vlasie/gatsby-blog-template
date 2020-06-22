@@ -8,9 +8,8 @@ import Suggestions from '../elements/Suggestions';
 import '../styles/prism';
 
 const Post = ({ data, pageContext }) => {
-  console.log('Post -> data', data);
   const { next, prev } = pageContext;
-  console.log('Post -> next', next);
+  console.log('Post -> data.markdownRemark', data.markdownRemark);
   const { html, frontmatter, excerpt } = data.markdownRemark;
   const { date, title, tags, path, description } = frontmatter;
   const image = frontmatter.cover.childImageSharp.fluid;

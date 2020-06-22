@@ -38,6 +38,7 @@ const CatergoriesWrapper = styled.div`
 
 const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
+  console.log('Index -> data.allMarkdownRemark', data.allMarkdownRemark);
   console.log(edges);
   const postsByTag = {};
 
@@ -69,21 +70,13 @@ const Index = ({ data }) => {
         <PostWrapper>
           {edges &&
             edges.slice(0, 6).map(({ node }) => {
-              const { id, excerpt, frontmatter, fileAbsolutePath } = node;
+              const { id, excerpt, frontmatter } = node;
               const { cover, path, title, date } = frontmatter;
-              const arrayPath = fileAbsolutePath.split('/');
-              const category = arrayPath
-                .slice(
-                  arrayPath.indexOf('content') + 1,
-                  arrayPath.indexOf('index.md') - 1
-                )
-                .join();
-              console.log(category);
               return (
                 <PostList
                   key={id}
                   cover={cover.childImageSharp.fluid}
-                  path={`${category}${path}`}
+                  path={path}
                   title={title}
                   date={date}
                   excerpt={excerpt}

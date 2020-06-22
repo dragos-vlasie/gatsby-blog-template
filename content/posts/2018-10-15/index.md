@@ -1,5 +1,5 @@
 ---
-path: '/post-one'
+path: 'learn/post-one'
 cover: './blocks.jpg'
 date: '2018-10-15'
 title: 'Learn'

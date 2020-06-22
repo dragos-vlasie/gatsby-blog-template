@@ -76,22 +76,15 @@ exports.createPages = ({ graphql, actions }) => {
         //create posts
         posts.forEach(({ node }, index) => {
           const postPath = node.frontmatter.path;
-          const arrayPath = node.fileAbsolutePath.split('/');
-          const category = arrayPath
-            .slice(
-              arrayPath.indexOf('content') + 1,
-              arrayPath.indexOf('index.md') - 1
-            )
-            .join();
-          const path = `${category}${postPath}`;
+
           const prev = index === 0 ? null : posts[index - 1].node;
           const next =
             index === posts.length - 1 ? null : posts[index + 1].node;
           createPage({
-            path: path,
+            path: postPath,
             component: postTemplate,
             context: {
-              pathSlug: path,
+              pathSlug: postPath,
               prev,
               next,
             },

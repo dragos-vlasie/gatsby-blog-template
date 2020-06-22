@@ -36,7 +36,7 @@ const Blog = ({ data }) => {
                 <BlogList
                   key={node.id}
                   cover={node.frontmatter.cover.childImageSharp.fluid}
-                  path={`${category}${node.frontmatter.path}`}
+                  path={node.frontmatter.path}
                   title={node.frontmatter.title}
                   date={node.frontmatter.date}
                   tags={node.frontmatter.tags}

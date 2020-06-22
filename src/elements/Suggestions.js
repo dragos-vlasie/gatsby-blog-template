@@ -184,22 +184,6 @@ const Suggestions = ({ left, right }) => (
         data.allMarkdownRemark.edges.find(
           element => element.node.frontmatter.title === right.frontmatter.title
         );
-      const pathLeft =
-        left &&
-        left.fileAbsolutePath
-          .split('/')
-          .slice(
-            left.fileAbsolutePath.split('/').indexOf('content') + 1,
-            left.fileAbsolutePath.split('/').indexOf('index.md') - 1
-          ) + left.frontmatter.path;
-      const pathRight =
-        right &&
-        right.fileAbsolutePath
-          .split('/')
-          .slice(
-            right.fileAbsolutePath.split('/').indexOf('content') + 1,
-            right.fileAbsolutePath.split('/').indexOf('index.md') - 1
-          ) + right.frontmatter.path;
       return (
         <Row>
           {left && (
@@ -212,7 +196,7 @@ const Suggestions = ({ left, right }) => (
                   alt=""
                 />
               </Image>
-              <StyledLink to={pathLeft} cardstyle={'cardstyle'}>
+              <StyledLink to={left.frontmatter.path} cardstyle={'cardstyle'}>
                 <Title>{left.frontmatter.title}</Title>
               </StyledLink>
               <ImageOverlay cardstyle={'cardstyle'} />
@@ -229,7 +213,7 @@ const Suggestions = ({ left, right }) => (
                   alt=""
                 />
               </Image>
-              <StyledLink to={pathRight} cardstyle={'cardstyle'}>
+              <StyledLink to={right.frontmatter.path} cardstyle={'cardstyle'}>
                 <Title>{right.frontmatter.title}</Title>
               </StyledLink>
               <ImageOverlay cardstyle={'cardstyle'} />
