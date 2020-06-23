@@ -38,6 +38,7 @@ const Layout = ({ children }) => (
 
           body {
             display: flex;
+            background-color: ${theme.colors.white.light};
             flex-direction: column;
             min-height: 100vh;
           }

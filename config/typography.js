@@ -14,16 +14,7 @@ export const typography = new Typography({
     'Arial',
     'sans-serif',
   ],
-  bodyFontFamily: [
-    'Open Sans',
-    '-apple-system',
-    'BlinkMacSystemFont',
-    'Segoe UI',
-    'Roboto',
-    'Helvetica',
-    'Arial',
-    'sans-serif',
-  ],
+  bodyFontFamily: ['Roboto', 'Helvetica', 'Arial', 'sans-serif'],
   headerWeight: 500,
 });
 

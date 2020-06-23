@@ -24,12 +24,10 @@ const Post = ({ data, pageContext }) => {
         article
       />
       <Header title={title} date={date} cover={image} />
-      <Container type="article">
-        <FadeIn>
-          <Content input={html} />
-        </FadeIn>
-        <TagsBlock list={tags || []} />
-      </Container>
+      <FadeIn>
+        <Content input={html} />
+      </FadeIn>
+      <TagsBlock list={tags || []} />
       <Container>
         <Suggestions left={prev} right={next} cardstyle="secondary" />
       </Container>

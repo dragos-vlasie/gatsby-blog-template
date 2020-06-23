@@ -4,14 +4,20 @@ import PropTypes from 'prop-types';
 import prism from '../styles/prism';
 
 const Wrapper = styled.div`
+  background: white;
+  padding: 30px;
+  max-width: 50rem;
+  margin: auto;
+  margin-top: -5rem;
+  z-index: 1;
   ${prism};
   p,
   li {
     letter-spacing: -0.005em;
     --baseline-multiplier: 0.179;
     --x-height-multiplier: 0.35;
-    font-size: 0.95rem;
-    line-height: 1.6;
+    font-size: 1.05rem;
+    line-height: 1.5;
     code {
       padding: 0.2rem 0.5rem;
       margin: 0.5rem 0;
