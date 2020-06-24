@@ -7,95 +7,96 @@ tags: ['Europa']
 published: true
 ---
 
-path: '/post-Seven'
-cover: '../2018-10-16/speed.jpg'
-date: '2019-10-15'
-title: 'Post Number Seven'
-tags: ['Europa']
-published: true
----
-
-##StrongLifts 5 × 5: Fii mai puternic ridicand greutati doar de 3ori / saptamana
+##StrongLifts 5 × 5: Fii mai puternic ridicand greutati doar de 3 ori / saptamana
 
 Programul StrongLifts 5 × 5 de formare a fortei consta din doua antrenamente...
 
-**Antrenament A**: Squat (Genoflexiuni), Bench Press(piept) , Barbell Row(spate)
+- **Antrenament A**: Squat (Genuflexiuni cu bara), Bench Press(piept) , Barbell Row(exercitiu de ramat cu bara(spate)
 
-**Antrenament B**: Squat(Genoflexiuni), Overhead Press(Presa in picioare pt umeri) , Deadlift(Indreptari)
+- **Antrenament B**: Squat(Genuflexiuni cu bara), Overhead Press(Presa in picioare pt umeri) , Deadlift(Indreptari)
 
 Faceti trei antrenamente pe saptamana. Nu te antrena niciodata doua zile la rand sau sa faci doua antrenamente intr-o zi. Asteptati o zi inainte sa va faceti urmatorul antrenament. Acest lucru ofera corpului tau timp sa se recupereze, sa se intareasca si sa-si construiasca muschiul, astfel incat sa poti ridica mai mai mult la urmatorul antrenament. Alterneaza antrenamentele A si B de fiecare data cand te antrenezi.
 
-Majoritatea oamenilor se antreneaza luni, miercuri si vineri. Asta va ofera o zi de recuperare intre fiecare antrenament si doua zile de recuperare inainte de urmatorul antrenament de luni. Ceea ce functioneaza, de asemenea, este sa te antrenezi marti, joi si sambata ... sau duminica, marti si joi.
+Majoritatea oamenilor se antreneaza luni, miercuri si vineri. Asta va ofera o zi de recuperare intre fiecare antrenament si doua zile de recuperare inainte de urmatorul antrenament de luni. Ceea ce functioneaza, de asemenea, este sa te antrenezi marti, joi si sambata... sau duminica, marti si joi.
 
-Incepeti StrongLifts 5 × 5 facand antrenamentul A. Mergeti acasa, mancati si dormiti. Doua zile mai tarziu, faceti antrenament B. Alte doua zile mai tarziu faceti antrenament A. Prima dvs. saptamana va arata asa daca va antrenati Luni / Miercuri / Vineri ...
+Incepeti StrongLifts 5 × 5 facand antrenamentul A. Mergeti acasa, mancati si dormiti. Doua zile mai tarziu, faceti antrenament B. Alte doua zile mai tarziu faceti antrenament A. Prima saptamana va arata asa daca va antrenati Luni / Miercuri / Vineri...
 
-StrongLifts 5x5 Saptamana 1
-Luni - antrenament A Miercuri - antrenament B Vineri - antrenament A
-Squat 5x5 Squat 5x5 Squat 5x5
-Bench Press 5x5 Apasati deasupra 5x5 Bench Press 5x5
-Barbell Row 5x5 Deadlift 1x5 Barbell Row 5x5
-Incepeti saptamana a doua cu antrenamentul B, deoarece ati terminat saptamana unu cu antrenamentul A. Apoi continuati sa alternati antrenamentele de fiecare data cand mergeti la sala. A doua saptamana va arata asa, daca te duci la sala luni, miercuri si vineri ca majoritatea oamenilor ...
+#### StrongLifts 5x5 Saptamana 1
 
-StrongLifts 5x5 Saptamana 2
-luni miercuri vineri
-Squat 5x5 Squat 5x5 Squat 5x5
-Apasati deasupra 5x5 Bench Press 5x5 Apasati deasupra 5x5
-Deadlift 1x5 Barbell Row 5x5 Deadlift 1x5
-Continuati antrenamentele A si B. Saptamana trei si cinci va arata ca prima saptamana. Saptamana patru si sase vor parea ca a doua saptamana. Daca acest lucru nu are sens, inscrieti-va la sfaturile mele saptamanale de e-mail pentru a obtine foi de calcul - veti primi o imagine de ansamblu a primelor 12 saptamani.
+<div style="overflow-x: auto;">
 
-Incepeti cu o greutate cu care te simti comfortabil, astfel incat corpul tau sa se obisnuiasca cu genoflexiuni(squads), sa impinga(Bench press[impins la presa]) si sa traga(Barbell Row) de trei ori pe saptamana. Daca ati facut aceste exercitii inainte, cu o forma adecvata, incepeti cu 50% din maximum vostru. Puteti introduce maximile in fisele de calcul si va vor calcula automat ponderile de pornire.
+| Luni - A                                    | Miercuri - B               | Vineri - A                                  |
+| ------------------------------------------- | -------------------------- | ------------------------------------------- |
+| Genuflexiuni cu bara 5x5                    | Genuflexiuni cu bara 5x5   | Genuflexiuni cu bara 5x5                    |
+| Bench Press 5x5                             | Presa deasupra capului 5x5 | Bench Press 5x5                             |
+| Barbell Row(exercitiu de ramat cu bara) 5x5 | Indreptari 1x5             | Barbell Row(exercitiu de ramat cu bara) 5x5 |
 
-Daca nu ati facut niciodata aceste exercitii inainte, nu le-ati facut in ani de zile atunci incepeti cu cele mai mici greutati posibile. In acest fel va puteti acumula increderea si exersa o forma adecvata. Iata greutatile de pornire recomandate daca sunteti nou la ridicare ...
+</div>
 
-Squat , Press Bench , Presa aeriana : 20kg / 45lb (Bara olimpica goala)
-Deadlift : 40kg / 95lb (bara goala cu o placa de 10 kg / 25lb pe fiecare parte)
-Randul Barbell : 30kg / 65lb (bara goala cu 5kg / 10lb pe fiecare parte)
-5 × 5 inseamna ca faceti cinci seturi de cinci repetari cu aceeasi greutate. Faceti genoflexiiuni cu 20 kg de cinci ori, pune greutatea inpoi si odihneste 90 de secunde. Apoi Genoflexiiuni cu 20 kg pentru cinci repetari din nou. Repetati pana cand ati facut cinci seturi de cinci (5 × 5). Apoi treceti la urmatorul exercitiu.
+Incepeti saptamana a doua cu antrenamentul B, deoarece ati terminat saptamana unu cu antrenamentul A. Apoi continuati sa alternati antrenamentele de fiecare data cand mergeti la sala. A doua saptamana va arata asa, daca te duci la sala luni, miercuri si vineri ca majoritatea oamenilor...
+
+#### StrongLifts 5x5 Saptamana 2
+
+<div style="overflow-x: auto;">
+
+| Luni - B                                    | Miercuri - A                                | Vineri - B                 |
+| ------------------------------------------- | ------------------------------------------- | -------------------------- |
+| Genuflexiuni cu bara 5x5                    | Genuflexiuni cu bara 5x5                    | Genuflexiuni cu bara 5x5   |
+| Presa deasupra capului 5x5                  | Bench Press 5x5                             | Presa deasupra capului 5x5 |
+| Barbell Row(exercitiu de ramat cu bara) 5x5 | Barbell Row(exercitiu de ramat cu bara) 5x5 | Indreptari 1x5             |
+
+</div>
+
+Continuati antrenamentele A si B. Saptamana trei si cinci va arata ca prima saptamana. Saptamana patru si sase vor arata ca a doua saptamana.
+
+Incepe cu o greutate cu care te simti comfortabil, astfel incat corpul tau sa se obisnuiasca cu Genuflexiuni cu bara(squads), sa impins din culcat cu haltera(Bench press) si sa traga(Barbell Row(exercitiu de ramat cu bara) de trei ori pe saptamana. Daca ati facut aceste exercitii inainte, cu o forma adecvata, incepeti cu 50% din maximum vostru. Puteti introduce maximile in fisele de calcul si va vor calcula automat ponderile de pornire.
+
+Daca nu ati facut niciodata aceste exercitii inainte, nu le-ati facut in ani de zile atunci incepeti cu cele mai mici greutati posibile. In acest fel va puteti acumula increderea si exersa o forma adecvata. Iata greutatile de pornire recomandate daca sunteti nou la ridicare...
+
+- Squat , Press Bench , Presa aeriana : 20kg / 45lb (Bara olimpica goala)
+- Deadlift : 40kg / 95lb (bara goala cu o placa de 10 kg / 25lb pe fiecare parte)
+- Randul Barbell : 30kg/ 65lb (bara goala cu 5kg / 10lb pe fiecare parte)
+
+5 × 5 inseamna ca faceti cinci seturi de cinci repetari cu aceeasi greutate. Faceti Genuflexiuni cu bara cu 20 kg de cinci ori, pune greutatea inpoi si odihneste 90 de secunde. Apoi Genuflexiuni cu bara cu 20 kg pentru cinci repetari din nou. Repetati pana cand ati facut cinci seturi de cinci (5 × 5). Apoi treceti la urmatorul exercitiu.
 
 Retineti ca Deadlifts este doar un set de cinci repetari (1 × 5). Acest lucru se datoreaza faptului ca faceti Squats 3x / saptamana cu greutati crescande. Cei mai multi oameni considera ca 5 × 5 Deadlifts dupa 5 × 5 Squats este prea greu odata ce greutatile se ingreuneaza si ca Deadlift creste bine facand doar 1 × 5.
 
 Daca doriti sa faceti mai mult de 1 × 5 Deadlift, mai bine este sa va incalziti facand seturi de cinci repetari (aplicatia sugereaza acest tip de incalzire). Acest lucru va ofera mai mult volum Deadlift fara intensitatea de a face mai multe seturi de cinci cu aceeasi greutate.
 
-Mariti greutatea la fiecare antrenament nou(fie A sau B) la fiecare exercitiu in care ati completat cinci repetari pe fiecare set. Adaugati 2,5 kg / 5lb pe acele exercitii. Pe Deadlift adaugati 5kg / 10lb. Asadar, daca sunteti nou la ridicare si ati inceput cu greutatile de pornire recomandate, primele doua saptamani vor arata astfel ...
+Mariti greutatea la fiecare antrenament nou(fie A sau B) la fiecare exercitiu in care ati completat cinci repetari pe fiecare set. Adaugati 2,5 kg / 5lb pe acele exercitii. Pe Deadlift adaugati 5kg / 10lb. Asadar, daca sunteti nou la ridicare si ati inceput cu greutatile de pornire recomandate, primele doua saptamani vor arata astfel...
 
-StrongLifts 5x5 Saptamana 1
+#### StrongLifts 5x5 Saptamana 1
 
-- Luni - A | Miercuri - B | Vineri - A
-- Genoflexiiuni
-  - 5x5 20kg / 45lb Ghemuit
-  - 5x5 22,5kg / 50lb Ghemuit
-  - 5x5 25kg / 55lb
-- Bench Press
-  - 5x5 20kg / 45lb Presa deasupra capului
-  - 5x5 20kg / 45lb Bench Press
-  - 5x5 22,5kg / 50lb
-- Barbell Row
-  - 5x5 30kg / 65lb Indreptare
-    -1x5 40kg / 95lb Barbell Row
-  - 5x5 32,5 kg / 70lb
+<div style="overflow-x: auto;">
 
-StrongLifts 5x5 Saptamana 2
-Luni - B Miercuri - A Vineri - B
+| Luni - A                                         | Miercuri - B                    | Vineri - A                                       |
+| ------------------------------------------------ | ------------------------------- | ------------------------------------------------ |
+| Genuflexiuni cu bara 5x5 20kg                    | Genuflexiuni cu bara 5x5 22,5kg | Genuflexiuni cu bara 5x5 25kg                    |
+| Bench Press 5x5 20kg                             | Presa deasupra capului 20kg     | Bench Press 5x5 22,5kg                           |
+| Barbell Row(exercitiu de ramat cu bara) 5x5 30kg | Indreptari 1x5 40kg             | Barbell Row(exercitiu de ramat cu bara) 5x5 30kg |
 
-- Ghemuit
-  - 5x5 27,5kg / 60lb Ghemuit
-  - 5x5 30kg / 65lb Ghemuit
-  - 5x5 32,5 kg / 70lb
-- Presa deasupra capului
-  - 5x5 22,5kg / 50lb Bench Press
-  - 5x5 25kg / 55lb Presa deasupra capului
-  - 5x5 25kg / 55lb
-- Indreptare
-  - 1x5 45kg / 105lb Barbell Row
-  - 5x5 35kg / 75lb Indreptare
-  - 1x5 50kg / 115lb
+</div>
 
-Gratuit: descarcati fisa de calcul StrongLifts 5 × 5 pentru a va calcula primele 12 saptamani de antrenament. Vei cunoaste exercitiile, greutatile, seturile si repetitiile de facut. Iar graficele de progres te vor tine motivat. Inscrieti-va la sfaturile mele de e-mail saptamanale pentru a obtine foaia de calcul. Doar faceti clic aici
+#### StrongLifts 5x5 Saptamana 2
+
+<div style="overflow-x: auto;">
+
+| Luni - B                                    | Miercuri - A                                | Vineri - B                        |
+| ------------------------------------------- | ------------------------------------------- | --------------------------------- |
+| Genuflexiuni cu bara 5x5 27,5kg             | Genuflexiuni cu bara 5x5 30kg               | Genuflexiuni cu bara 5x5 32,5kg   |
+| Presa deasupra capului 5x5 22,5kg           | Bench Press 5x5 25kg                        | Presa deasupra capului 5x5 27,5kg |
+| Barbell Row(exercitiu de ramat cu bara) 5x5 | Barbell Row(exercitiu de ramat cu bara) 5x5 | Indreptari 1x5                    |
+
+</div>
+
 Toate greutatile includ bara, deoarece o ridicati. Asadar Squat 5 × 5 27,5 kg / 60lb inseamna ca ati pus 3,75 kg / 7,5 lb pe fiecare parte a barei olimpice de 20 kg / 45 lb. Pentru a face acest lucru, aveti nevoie de placi mici de 1,25 kg / 2,5 lb.
 
-Primele saptamani se vor simti usor. Dar greutatea va creste rapid. In patru saptamani veti avea Genoflexiuni cu 30kg / 60lb mai mult, bench press cu 15kg / 30lb mai mult si Deadlifting 30 kg / 60lb mai mult. Incepeti cu bara si ati putea ajunge la Squads de 100 kg / 220lb pentru 5 × 5 in 12 saptamani. Asta inseamna mai mult decat majoritatea oamenilor.
+Primele saptamani se vor simti usor. Dar greutatea va creste rapid. In patru saptamani veti avea Genuflexiuni cu bara cu 30kg / 60lb mai mult, bench press cu 15kg / 30lb mai mult si Deadlifting 30 kg / 60lb mai mult. Incepeti cu bara si ati putea ajunge la Squads de 100 kg / 220lb pentru 5 × 5 in 12 saptamani. Asta inseamna mai mult decat majoritatea oamenilor.
 
 Obiectivul tau este sa adaugi greutate la fiecare antrenament cat poti. Nu veti putea face asta pentru totdeauna. Pana la urma te vei lupta sa obtii cinci repetari si sa esuezi (exista modalitati de a le ocoli). Dar majoritatea oamenilor sunt surprinsi de cat timp pot adauga greutate fiecare antrenament cu un program atat de simplu.
+
+<details><summary>Cuprins [ ascunde/arata ]</summary>
+<p>
 
 Cuprins [ ascunde ]
 
@@ -223,6 +224,9 @@ Cuprins [ ascunde ]
 
 8.7 Nu se ridica greu
 
+</p>
+</details>
+
 ## Prezentare generala<a name="prezentare-generala"></a>
 
 Rezultate tipice
@@ -230,11 +234,11 @@ Rezultate tipice
 Rezultatele voastre depind de varsta, sexul, greutatea, tehnica, alimentatia, somnul, experienta, consecventa, efortul, etc. Multi oameni si-au dublat Squat-ul pana la 136kg intr-un an folosind acest program. Dar
 aceste rezultate sunt atipice pentru cei mai inaintati in varsta sau femeile care au mai putin testosteron.
 
-Rezultatul tipic la care va puteti astepta daca faceti StrongLifts 5 × 5 asa cum este prevazut este o crestere a fortei si a masei musculare. Marimea castigurilor si timpul necesar variaza. Dar nu am intalnit pe cineva care nu s-a imbunatatit cu acest program. Fa-l dupa regulile de mai sus si iata la ce te poti astepta ...
+Rezultatul tipic la care va puteti astepta daca faceti StrongLifts 5 × 5 asa cum este prevazut este o crestere a fortei si a masei musculare. Marimea castigurilor si timpul necesar variaza. Dar nu am intalnit pe cineva care nu s-a imbunatatit cu acest program. Fa-l dupa regulile de mai sus si iata la ce te poti astepta...
 
 - **Mai multa forta**. Vei fi mai puternic dupa fiecare antrenament StrongLifts 5 × 5. Vei creste in forta mai rapid decat alti oameni. Forta ta se va transfera la activitati fizice din afara salii de sport. Ridicarea obiectelor grele, transportul alimentelor sau urcarea scarilor va fi mai usoara.
 
-- **Mai mult muschi**. Muschii tai vor deveni mai puternici si mai mari pentru a ridica greutatile. Daca nu ati facut niciodata un program de antrenament adecvat ca acesta inainte, puteti obtine pana la 12kg de masa muscluara intr-un an . De asemenea, veti recapata muschi pierduti si veti opri pierderea musculara din imbatranire / dieta.
+- **Mai multi muschi**. Muschii tai vor deveni mai puternici si mai mari pentru a ridica greutatile. Daca nu ati facut niciodata un program de antrenament adecvat ca acesta inainte, puteti obtine pana la 12kg de masa muscluara intr-un an . De asemenea, veti recapata muschi pierduti si veti opri pierderea musculara din imbatranire / dieta.
 
 - **Mai putina grasimea in corp**. Cu cat greutatile sunt mai mari, cu atat vei arde mai multa energie. De asemenea, vei arde mai multa energie inainte de antrenament pentru recuperarea muschilor. Metabolismul tau va fi mai eficient. Daca mancati correspunzator veti putea adauga masa muscluara si pierde grasime in acelasi timp. Talia ta si grasimea corpului va scadea - fara a face cardio.
 
@@ -244,7 +248,7 @@ Rezultatul tipic la care va puteti astepta daca faceti StrongLifts 5 × 5 asa cu
 
 - **Mai multa putere**. Muschii mai puternici pot face mai multa munca in aceeasi perioada de timp. Cresterea fortei va va face astfel mai puternic si mai exploziv pentru sport. Vei fi mai rapid pe teren, mai greu de doborat si vei lovi mai tare. Vei fi mai greu de invins.
 
-- **Mai mult fitness**. Muschiul inimii tale va deveni mai puternic ca orice alt muschi. Activitatile zilnice vor lua mai putin efort, deoarece vor vor cerere mai putin de la inima ta care a devenimmt mai puternica. Tensiunea arteriala si ritmul cardiac vor scadea. Fitnessul vostru cardiovascular va creste.
+- **Mai multa energie**. Muschiul inimii tale va deveni mai puternic ca orice alt muschi. Activitatile zilnice vor lua mai putin efort, deoarece vor cerere mai putin de la inima ta care a devenimmt mai puternica. Tensiunea arteriala si ritmul cardiac vor scadea. Fitnessul vostru cardiovascular va creste.
 
 - **Mai multa flexibilitate**. Mobilitatea soldului tau va creste, deoarece ghemuitul de trei ori pe saptamana iti misca picioarele printr-o gama completa de miscare. Flexibilitatea umarului dvs. va creste de la mentinerea barei pe partea superioara a spatelui - acest lucru va deschide pieptul si va imbunatateste postura.
 
@@ -260,9 +264,9 @@ Rezultatul tipic la care va puteti astepta daca faceti StrongLifts 5 × 5 asa cu
 
 - **Mai multi bani**. Nu veti avea nevoie de suplimente costisitoare pentru a obtine rezultate (majoritatea nu functioneaza oricum). De asemenea, nu veti avea nevoie de o multime de echipamente. Puteti construi cu usurinta o sala de gimnastica si sa va antrenati din garaj. Acest lucru economiseste bani la abonamentul de la sala.
 
-Pentru cele mai bune rezultate, baietii trebuie sa creasca exercittile principale la 140kg / 300lb Squat(Genoflexiuni), 100kg / 220lb Bench(Piept) si 180kg / 400lb Deadlift(Indreptari). Orice lucru mai jos de atat, nu este suficient pentru a vedea imbunatatiri dramatice. Prin urmare, atentia voastra. ar trebui sa fie focusata pe cresterea greutatii pana cand atingeti aceste obiective minime.
+Pentru cele mai bune rezultate, baietii trebuie sa creasca exercittile principale la 140kg / 300lb Squat(Genuflexiuni cu bara), 100kg / 220lb Bench(Piept) si 180kg / 400lb Deadlift(Indreptari). Orice lucru mai jos de atat, nu este suficient pentru a vedea imbunatatiri dramatice. Prin urmare, atentia voastra. ar trebui sa fie focusata pe cresterea greutatii pana cand atingeti aceste obiective minime.
 
-**Avertisment**: acest program pare usor, dar nu este. Adaugati greutate la fiecare antrenament. Acest lucru determina corpul vostru. sa castige forta si muschi pentru a ridica mai greu la urmatorul antrenament. Este cel mai eficient mod de a te antrena, dar este o munca grea. Unii oameni nu au forta mentala pentru asta. Daca o faci, vei castiga.
+**Avertisment**: acest program pare usor, dar nu este. Adaugati greutate la fiecare antrenament. Acest lucru determina corpul vostru sa castige forta si muschi pentru a ridica mai greu la urmatorul antrenament. Este cel mai eficient mod de a te antrena, dar este o munca grea. Unii oameni nu au forta mentala pentru asta. Daca o faci, vei castiga.
 
 ## Muschi lucrati<a name="muschi-lucrati"></a>
 
@@ -272,15 +276,15 @@ Acest lucru poate fi greu de crezut daca esti obisnuit sa antrenezi un muschi pe
 
 Acesta este motivul pentru care cu cat ai mai multa forta cu atat ai un corp mai mult muscular . Cu cat esti mai puternic, cu atat poti sa ridicii greutati si mai grele, asfel, vei pune mai multa masa musculara. Muschii tai trebuie sa creasca pentru a ridica greutatile mai grele. Prin urmare, nu este importanta cantitatea de exercitii pe care le faceti. Este intensitatea.
 
-Intensitatea este mai mare la exercitiile compuse, deoarece puteti utiliza greutati mai mari. StrongLifts 5 × 5 foloseste cele mai bune cinci exercitii compuse - “the big five”. Iata toti muschii pe care ii veti lucra facand Squat(Genoflexiuni) , Bench Press(Piept), Overhead Press , Deadlift si Barbell Row in fiecare saptamana ...
+Intensitatea este mai mare la exercitiile compuse, deoarece puteti utiliza greutati mai mari. StrongLifts 5 × 5 foloseste cele mai bune cinci exercitii compuse - “the big five”. Iata toti muschii pe care ii veti lucra facand Squat(Genuflexiuni cu bara) , Bench Press(Piept), Overhead Press , Deadlift si Barbell Row(exercitiu de ramat cu bara in fiecare saptamana...
 
 - **Piept**. Tot pieptul tau lucreaza pentru a indeparta bara de tine cand faci ridicari la piept - Bench Press. Pieptul superior actioneaza pentru a ridica greutatea atunci cand apasati deasupra capului.
 - **Umerii**. Intreaga umar (fata, lateral, spate) functioneaza pentru a ridica bratele atunci cand impingeti bara deasupra capului - Overhead Press. Umerii vostri din fata lucreaza, de asemenea, pentru a ridica bratele atunci cand impingeti la piept - Bench Press.
-- **Brate(Biceps/Triceps)**. Bicepsul tau iti trage greutatea atunci cand faci Barbell Row. Triceps-ul tau impinge greutatea atunci cand apasa Bench / Overhead. Bratele se contracta la fiecare exercitiu pentru a tine bara.
+- **Brate(Biceps/Triceps)**. Bicepsul tau iti trage greutatea atunci cand faci Barbell Row(exercitiu de ramat cu bara. Triceps-ul tau impinge greutatea atunci cand apasa Bench / Overhead. Bratele se contracta la fiecare exercitiu pentru a tine bara.
 - **Antebrat**. Antebratele tin bara in maini la toate exercitiile. Lucreaza foarte mult la Deadlifts pentru a va tine mainile inchise impotriva gravitatiei, astfel incat sa nu pierdeti bara.
 - **Abdomen(Abs**). Abdomen tau lucreaza la fiecare exercitiu pentru a-ti sustine coloana vertebrala. Iti impiedica partea inferioara a spatelui de la rotunjire la Deadlifts, Squats si Rows. Il impiedica sa se arcuiasca la Overhead press presei aeriene.
 - **Gambe**. Gambele actioneaza pentru a indrepta gleznele atunci cand ridicati la Squads si Deadlift. De asemenea, te stabilizeaza atunci cand presezi deasupra Overhead si Bench press.
-- **Trapezul**. Trapezul vostru lucreaza pentru a mentine umerii in loc atunci cand faceti Deadlift si Barbell Row. Ele transfera puterea in bar. De asemenea, se contracta in partea de sus a Overhead Press.
+- **Trapezul**. Trapezul vostru lucreaza pentru a mentine umerii in loc atunci cand faceti Deadlift si Barbell Row(exercitiu de ramat cu bara. Ele transfera puterea in bar. De asemenea, se contracta in partea de sus a Overhead Press.
 - **Coapse**. Coapsele, fesele si hamstring indreptati picioarele si soldurile atunci cand Squads si Deadlift. De asemenea, va mentin stabilizat atunci cand faceti Overhead si Bench press.
 - **Spate**. Partea inferioara a spatelui impiedica coloana vertebrala sa se rotunjeasca pe Deadlifts, Squats si Row. Partea superioara a spatelui trage greutatea inapoi pe Row. De asemenea, mentine barul aproape cand faceti Deadlifts.
 
@@ -321,7 +325,7 @@ StrongLifts 5 × 5 se bazeaza pe bunul simt. Daca esti un ganditor logic ca mine
 
 ## Istoria StrongLifts de 5 × 5<a name="istoria"></a>
 
-StrongLifts 5 × 5 se bazeaza pe rutina 5 × 5. Nu am inventat 5 × 5 - am scris doar un ghid definitiv. Nu este clar cine a inventat rutina 5 × 5, dar se pare ca a existat de aproape 100 de ani acum. Iata o scurta istorie despre originile sale ...
+StrongLifts 5 × 5 se bazeaza pe rutina 5 × 5. Nu am inventat 5 × 5 - am scris doar un ghid definitiv. Nu este clar cine a inventat rutina 5 × 5, dar se pare ca a existat de aproape 100 de ani acum. Iata o scurta istorie despre originile sale...
 
 In „Muscle, Smoke and Mirrors” , Randy Roach a scris ca Milo Steinborn a adus Squat in SUA din Germania, in anii 1920. Power Racks nu exista inca, asa ca a pus bara vertical si apoi a lasat-o pe partea superioara a spatelui. Milo ar putea Squds 250 kg / 550lb asa de incalzire...
 
@@ -331,17 +335,19 @@ Doua decenii mai tarziu in Marea Britanie, Reg Park a fost 3x Mr. Universe. El a
 
 Reg Park a devenit ulterior mentorul lui Arnold Schwarzenegger. Biografiile sale Total Recall si Educatia unui culturist dezvaluie ca Arnold a facut o multime de ridicari cu greutati mari. El a fost un competitor olimpic si facea powerlifting inainte de a se transforma in culturist. Reg Park l-a antrenat pe Arnold folosind StrongLifts 5 × 5.
 
-Intre timp, halterofilul canadian Doug Hepburn a castigat aur la Olimpiada din 1953. Era un mare fan al programului 5 × 5 si putea Squat 760lb, Bench Press 580lb si Deadlift 705lb. Interesant este ca Hepburn s-a antrenat in sala de sport Ed Yaricks din California, pe care Reg Park a vizitat-o ​​in 1949. Probabil de aceea a folosit acest program ...
+Intre timp, halterofilul canadian Doug Hepburn a castigat aur la Olimpiada din 1953. Era un mare fan al programului 5 × 5 si putea Squat 760lb, Bench Press 580lb si Deadlift 705lb. Interesant este ca Hepburn s-a antrenat in sala de sport Ed Yaricks din California, pe care Reg Park a vizitat-o in 1949. Probabil de aceea a folosit acest program...
 
 Multi oameni il considera pe Bill Starr tatal rutinei 5 × 5. In 1976 l-a popularizat in cartea sa “The Strongest Shall Survive” . Starr a numit programul sau „The Big Three” - care vizeaza fotbalul american, acesta a fost centrat in jurul Squat, Bench Press si Power Clean pentru cinci seturi de cinci repetari.
 
 Nu am inventat 5 × 5. Rutina si principiile sale au fost cu mult inainte de a ma naste. Si va fi in jur de mult dupa ce voi fi plecat. Multe programe de instruire vin si pleaca. Dar rutina 5 × 5 a rezistat testul timpului. Motivul ar trebui sa fie evident - este simplu si functioneaza !
 
-## Program Antrenamente<a name="program-antrenamente"></a>
+## Program
+
+### Antrenamente<a name="program-antrenamente"></a>
 
 StrongLifts 5 × 5 declanseaza forta si cresterea muschilor in intregul corp folosind doua antrenamente A si B. Ve ti face Squads la fiecare antrenament ca prim exercitiu, deoarece acesta este coloana vertebrala a programului. Urmatoarele doua exercitii se schimba in functie de ce antrenament faceti A sau B.
 
-Antrenament A: Squat 5 × 5, Bench Press 5 × 5, Barbell Row 5 × 5
+Antrenament A: Squat 5 × 5, Bench Press 5 × 5, Barbell Row(exercitiu de ramat cu bara 5 × 5
 Antrenament B: Squat 5 × 5, OverheadPress 5 × 5, Deadlift 1 × 5
 Faceti un antrenament pe zi. Daca acest lucru nu se simte suficient, greutatea este prea usoara. Ai rabdare sau creste greutatea. Odata ce greutatea este destul de grea, nu veti putea face mai mult de trei exercitii fara a pierde din forta. Bench press iti oboseste umerii pentru Overhead, iar Rows iti oboseste spatele pentru Deadlifts.
 
@@ -358,7 +364,7 @@ Retineti ca aceste trei antrenamente pe saptamana sunt un program complet de for
 
 ## Exercitii<a name="exercitii"></a>
 
-Pentru StrongLifts 5 × 5 faci cinci exercitii - Squat, Bench Press, Deadlift, Overhead Press si Barbell Row. Fiecare antrenament incepe cu Squats. Celelalte exercitii alterneaza depinzand de antrenament.
+Pentru StrongLifts 5 × 5 faci cinci exercitii - Squat, Bench Press, Deadlift, Overhead Press si Barbell Row(exercitiu de ramat cu bara. Fiecare antrenament incepe cu Squats. Celelalte exercitii alterneaza depinzand de antrenament.
 
 - **Squads** Coloana vertebrala a programului. Squats va intaresc picioarele si orice altceva datorita greutati mari pe care le ridicatii la acest exercitiu. Bara se deplaseaza printr-un interval mai lung de miscare decat orice alt exercitiu.
 - **Bench Press**. Echivalentul Squats pentru partea superioara a corpului. Bench press iti intareste si mareste pieptul, umerii si bratele. Aici poti ridica maii mult deacat la orice alt exercitiu pentru partea superioara a corpului.
@@ -372,11 +378,11 @@ Utilizati o bara olimpica pentru fiecare exercitiu. Puteti incarca bara cu mult 
 
 Bara trebuie sa se miste liber. Nu poate fi atasata la un aparat, deoarece asta iti va scoate munca din muschii tai. Trebuie sa echilibrezi singur greutatea, sa nu lasi o masina sa o faca. De asemenea, aveti nevoie de control total asupra modului de miscare a barei - o masina nu poate determina calea barei.
 
-Asa ca nu faceti StrongLifts 5 × 5 folosind aparate. Bara de pe aparat este fixa ce ​​face ca muschii sa functioneze mai putin, deoarece nu trebuie sa o echilibrezi. De asemenea, te forteaza in miscari nefiresti care pot provoca dureri si rani.
+Asa ca nu faceti StrongLifts 5 × 5 folosind aparate. Bara de pe aparat este fixa ce face ca muschii sa functioneze mai putin, deoarece nu trebuie sa o echilibrezi. De asemenea, te forteaza in miscari nefiresti care pot provoca dureri si rani.
 
 Ganterele nu functioneaza pentru acest program. Nu poti Squads sau Deadlift foarte greu, deoarece trebuie sa tii greutatilor pe o bara. Si majoritatea ganterelor cresc cu 2kg. Te obliga sa folosesti cresteri mai mari de 4kg pe antrenament. Ceea ce va va stagna cresterea.
 
-Problemele de siguranta ii determina, de obicei, pe oameni sa prefere aparatul de presa sau ganterele. Dar nu esti primul care se gandeste la siguranta sa. Multi culturisti puternici ridica greutati mai mari decat vom ridica vreodata. Daca ar face o greseala bara incarcata i ar putea ucide. Cu toate acestea, rata de accidentare este scazuta, deoarece au rezolvat deja aceasta problema ...
+Problemele de siguranta ii determina, de obicei, pe oameni sa prefere aparatul de presa sau ganterele. Dar nu esti primul care se gandeste la siguranta sa. Multi culturisti puternici ridica greutati mai mari decat vom ridica vreodata. Daca ar face o greseala bara incarcata i ar putea ucide. Cu toate acestea, rata de accidentare este scazuta, deoarece au rezolvat deja aceasta problema...
 
 - **Ridicati in cadrul de forta**. Alpinistii folosesc o sfoara pentru a-i prinde daca cad. StrongLifters folosesc un cadru de forta(Power rack) pentru a prinde bara daca nu reusesc sa duca repetarea la sfarrsit. Am ridicat in mare parte singur in sala de sport. Am esuat din plin, dar niciodata nu am avut probleme, deoarece am ridicat in Power Rack.
 - **Incepeti cu o greutate mica**. Nu puneti patru discurii pe bara pentru ca ati citit ca se poate sa Squad atat. Inveti sa mergi inainte sa incerci sa alergi. Incepeti cu bara goala si adaugati putina greutate la fiecare antrenament. Pe masura ce greutatea creste, la fel va creste si experienta, confortul si increderea.
@@ -396,7 +402,7 @@ Ordinea de exercitiu a StrongLifts 5 × 5 nu este aleatorie, ci intentionata. De
 
 Incepeti intotdeauna cu Squats . Sunt cele mai grele exercitii si exercitiul principal al programului. Daca Squat va fii al doilea sau ultimul exercitiu, il vei face mai greu pentru ca esti deja obosit. Asadar, este mai probabil sa le sari peste ele (mai ales daca urasti Squats). Squads pentru primul exercitiu, pentru a fi cat mai consecvent.
 
-Bench sau Overhead for fii urmatoarele. Acest lucru ofera picioarelor si spatelui odihna, inainte de a le folosi din nou pe Barbell Rows sau Deadlifts. Daca inversati ordinea exercitiilor, va veti chinui sa faceti aceste exerciti. Partea inferioara a spatelui si picioarele vor fi obosite de la Squats. Ai nevoie de ele pentru Rows and Deadlifts.
+Bench sau Overhead for fii urmatoarele. Acest lucru ofera picioarelor si spatelui odihna, inainte de a le folosi din nou pe Barbell Row(exercitiu de ramat cu baras sau Deadlifts. Daca inversati ordinea exercitiilor, va veti chinui sa faceti aceste exerciti. Partea inferioara a spatelui si picioarele vor fi obosite de la Squats. Ai nevoie de ele pentru Rows and Deadlifts.
 
 Incepand cu Deadlifts obosestii partea inferioarra a spatele pentru Squats. Squats obosesc spatele si pentru Deadlifts. Dar Deadlift veti face pentru 1 × 5 dupa Squats. Sa Squads pentru 5 × 5 este greu, iar Squats pentru 5 × 5 dupa Deadlifts este si mai greu. Veti fi tentat sa va taiati Squats-ul sau sa le omiteti cu totul.
 
@@ -406,7 +412,7 @@ Squads mai intai te oboseste pentru Bench / Overhead. Dar obiectivul tau nu este
 
 Nu Squad un set, Bench un set, Row un set si apoi du-te inapoi la Squats. Faceti cinci seturi de cinci la un exercitiu inainte de a trece la urmatorul. Stai concentrat pe un exercitiu in loc sa te schimbi de la unul la altul. Veti avea o tehnica mai buna care va va ajuta sa puneti mai multe discuri pe bara.
 
-Este posibil ca Power Rack-ul(cadrul de forta) sa nu fie liber atunci cand ajungeti la sala. Sau Benchul ar putea fi luat atunci cand ai terminat Squads. Intalnesc aceste situatii tot timpul, dar nu schimba niciodata ordinea de in care se fac exercitiile. Intreaba-te doar cat a mai ramas. Vei primi una dintre aceste raspunsuri ...
+Este posibil ca Power Rack-ul(cadrul de forta) sa nu fie liber atunci cand ajungeti la sala. Sau Benchul ar putea fi luat atunci cand ai terminat Squads. Intalnesc aceste situatii tot timpul, dar nu schimba niciodata ordinea de in care se fac exercitiile. Intreaba-te doar cat a mai ramas. Vei primi una dintre aceste raspunsuri...
 
 - De obicei, iti va spune ca mai ramane doar unul sau doua seturi. Grozav - abia astepti. Adunati discurile. Te poti incalzii pentru Squats in timp ce astepti. El va fi terminat in cinci minute, atunci este randul tau. Ce e important este ca nu ai schimbat ordinea de exercitiu.
 - Uneori, tocmai a inceput sau mai are multe seturi de facut. Asteptarea ar dura prea mult. Intrebati daca va puteti alatura si poti folosi echipamentul impreuna si puteti face seturile voastre. Nu fi timid, fa-o.
@@ -423,7 +429,7 @@ Efectuati cinci seturi de cinci repetari (5 × 5) pe Squats , Bench , Press Over
 
 StrongLifts 5 × 5 foloseste seturi de cinci repetari - nu opt sau zece repetari ca pe 3 × 8 sau 3 × 10. Asta nu inseamna ca a face opt sau zece repetari nu are valoare. Dar nu este eficient pentru persoanele care nu au construit o forta de baza, masa musculara si tehnica. Iata de ce cinci repetari functioneaza mai bine:
 
-- **Greutate mai mare** Cinci repetari iti scurteaza seturile. S-au terminat inainte de a fi extenuat. Deci, puteti ridica maximum cu cinci decat opt ​​sau zece repetari. Greutatile mari iti declanseaza corpul mai mult pentru a castiga forta si muschi. Trebuie sa devina mai puternic si sa construiasca muschi pentru a ridica greutatile mai mari.
+- **Greutate mai mare** Cinci repetari iti scurteaza seturile. S-au terminat inainte de a fi extenuat. Deci, puteti ridica maximum cu cinci decat opt sau zece repetari. Greutatile mari iti declanseaza corpul mai mult pentru a castiga forta si muschi. Trebuie sa devina mai puternic si sa construiasca muschi pentru a ridica greutatile mai mari.
 - **Progres rapid**. Puteti adauga 2,5 kg la fiecare antrenament mai usor cand faceti cinci repetari, deoarece puteti ridica mai din ce in ce mai greu. Acest lucru inseamna ca puteti aplica o suprasarcina progresiva mai mult timp fara a stagna. Vei ridica mai mult, vei fi mai puternic si vei construi astfel mai multa masa musculara facand 5 repetari.
 - **O forma mai buna**. Setul mai scurt face mai usor sa ramaneti concentrat pe ridicare cu o forma adecvata. Si din moment ce s-a terminat inainte de a fi obosit, puteti pastra acea forma corespunzatoare mai mult timp. Acest lucru creste eficienta si siguranta ridicarii. Puteti ridica greutati mai grele fara sa va raniti.
 
@@ -439,7 +445,7 @@ Odihneste-te cat ai nevoie intre seturi pentru a obtine cinci repetari in setul 
 - **3min** daca te-ai straduit sa obtii cinci repetari in ultimul set
 - **5 min** daca nu ati reusit sa obtineti cinci repetari la ultimul set
 
-\*ATP-ul ori Adenozina Tri-Fosfat este forma in care energia este stocata. Corpul uman contine doar 85g. Aceste rezerve scazute nu permit efortul prelungit sa fie mentinut. Aceste stocuri sunt epuizate in cateva secunde, deci trebuie sa fie continuu inlocuite.
+**ATP-ul ori Adenozina Tri-Fosfat** este forma in care energia este stocata. Corpul uman contine doar 85g. Aceste rezerve scazute nu permit efortul prelungit sa fie mentinut. Aceste stocuri sunt epuizate in cateva secunde, deci trebuie sa fie continuu inlocuite.
 
 Timpurile de odihna conteaza deoarece ATP este sursa dumneavoastra de energie primara pentru ridicare. Fiecare set va epuizeaza rezelvele ATP. Dureaza trei minute sa recuperezi 80%. Odihneste-te cinci minute si ai 95% inapoi. Deci, pauza mai lunga intre seturi va ofera mai mult ATP pentru setul urmator. Te ajuta sa ridici mai multa greutate.
 
@@ -905,7 +911,8 @@ Alte cateva sfaturi care sa va ajute sa va imbunatatiti somnul, astfel incat sa 
 - Nu bea tarziu. Daca bei prea multa apa inainte de a te culca, va trebui sa te trezesti sa faci pipi. Nu mai bea doua ore inainte de a te culca.
 - Somn consecvent. Evitati sa stati tarziu in sfarsit de saptamana si apoi sa va treziti devreme in zilele de saptamana. Este ca si cum ai fi supusa unei diferente de fus orar in fiecare luni. Treziti-va la aceeasi ora in fiecare zi.
 - Fara mese mari. Dureaza aproximativ trei ore pana la digerarea alimentelor. Nu mancati mese mari inainte de culcare sau va veti chinui sa dormiti. Mutati ora cina mai devreme si mancati usor inainte de culcare.
-  Daca puteti avea parte de un pui de somn inainte de a va face antrenamentele, faceti-o. Mai ales daca ai dormit putin cu o seara inainte, te vei simti mai energizat dupa somn. Dar nu dormi dupa 17:00 sau mai mult de 30 de minute. Altfel iti va fi greu sa adormi noaptea si o sa obosesti din nou pentru ziua urmatoare.
+
+Daca puteti avea parte de un pui de somn inainte de a va face antrenamentele, faceti-o. Mai ales daca ai dormit putin cu o seara inainte, te vei simti mai energizat dupa somn. Dar nu dormi dupa 17:00 sau mai mult de 30 de minute. Altfel iti va fi greu sa adormi noaptea si o sa obosesti din nou pentru ziua urmatoare.
 
 Si relaxeaza-te. Stresul psihologic adauga in plus stresul fizic pe care il obtineti din ridicarea greutatilor. A fi nelinistit de greutatile pe care urmeaza sa le ridici azi sfarseste prin a face acest antrenament mai greu. Respira profund inainte de a-ti face setul pentru a te calma.
 
