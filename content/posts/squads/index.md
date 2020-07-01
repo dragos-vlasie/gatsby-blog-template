@@ -2,7 +2,7 @@
 path: '/exercitii/picioare/squads'
 cover: './blocks.jpg'
 date: '2020-02-15'
-title: 'Bench press'
+title: 'Squads'
 tags: ['Europa']
 published: true
 ---
