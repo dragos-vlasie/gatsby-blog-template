@@ -20,6 +20,9 @@ const headroom = css`
         fill: ${theme.colors.white.base};
       }
     }
+    img {
+      margin-bottom: 0;
+    }
   }
   .headroom--unfixed {
     position: relative;
