@@ -101,7 +101,7 @@ Daca iti lipseste puterea pentru a face macar o tractiune, fa repetari negative.
 ![Proper Pullup Form](./assets/pullups-back.jpg)
 Forma de tractiune corecta: bratele drepte in partea de jos(bottom), barbie peste bara in varf(top).
 
-Constructia dvs. determina distanta dintre maini(prize). Cu cat umerii sunt mai lati, cu atat prize ar trebui sa fie mai larga. Dar niciodata nu poate fi mai larga sau mai ingust decat latimea umerilor. Si fiecare repetare trebuie sa inceapa cu coatele blocate/fixate in partea de jos si sa se incheie cu barbia aflata peste bara, in partea de sus. Nu faceti jumatate din repetare, veti obtine jumatate din castiguri. Folositi o gama completa de miscare. Urmati aceste instructiuni pentru a face tractiuni(Pullups) cu o forma corecta ...
+Constructia dvs. determina distanta dintre maini(prize). Cu cat umerii sunt mai lati, cu atat prize ar trebui sa fie mai larga. Dar niciodata nu poate fi mai larga sau mai ingust decat latimea umerilor. Si fiecare repetare trebuie sa inceapa cu coatele blocate/fixate in partea de jos si sa se incheie cu barbia aflata peste bara, in partea de sus. Nu faceti jumatate din repetare, veti obtine jumatate din castiguri. Folositi o gama completa de miscare. Urmati aceste instructiuni pentru a face tractiuni(Pullups) cu o forma corecta...
 
 - **Prinderea**. Priza/prinderea completa. Palmele in jos. Tineti bara sus, aproape de degete.
 - **Latime prinderii/prizei**. Mainile tale ar trebui sa fie la o distanta egala cu latimea umerilor.Nu prindeti prea larg(distanta dintre maine prea mare).
@@ -252,7 +252,7 @@ Daca nu ai pe nimeni sa te ajute, foloseste o banda de rezistenta. Buclati-o in 
 ![Chinups with resistance band](./assets/chinups-resistance-band.jpg)
 _Folositi o banda de rezistenta pentru a va ajuta pe urcare._
 
-Benzile de rezistenta de care aveti nevoie pentru tractiuni(Pullups) sunt de 1m / 41 ″ lungime si 4.5mm grosime. Latimea lor variaza, dar cu cat sunt mai largi, cu atat vei primi mai multa sustinere. Oamenii de dimensiuni medii ca mine (am 75 kg) au nevoie de mai putin ajutor. De obicei, suntem bine cu o banda de rezistenta medie. Baietii mai mari au nevoie de mai mult ajutor. Daca cantariti + 100kg / 220lb, aveti nevoie de o banda de rezistenta mare (sau una medie + mica). Iata cateva benzi de rezistenta pe care le recomand ...
+Benzile de rezistenta de care aveti nevoie pentru tractiuni(Pullups) sunt de 1m / 41 ″ lungime si 4.5mm grosime. Latimea lor variaza, dar cu cat sunt mai largi, cu atat vei primi mai multa sustinere. Oamenii de dimensiuni medii ca mine (am 75 kg) au nevoie de mai putin ajutor. De obicei, suntem bine cu o banda de rezistenta medie. Baietii mai mari au nevoie de mai mult ajutor. Daca cantariti + 100kg / 220lb, aveti nevoie de o banda de rezistenta mare (sau una medie + mica). Iata cateva benzi de rezistenta pe care le recomand...
 
 - **Benzi serioase de otel - albastru # 3 daca aveti o dimensiune medie, adaugati rosu # 2 daca sunteti mmai greu**
 - **Benzi lemnoase de fier**

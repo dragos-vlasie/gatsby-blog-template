@@ -101,7 +101,7 @@ Acesta este ghidul definitiv pentru o forma corespunzatoare pe Impinsul cu halte
            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nu-incercati-sa-faceti-pr-uri!"> 5.2.4. Nu incercati sa faceti PR-uri!</a></li>
            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#daca-te-blochezi"> 5.2.5. Daca te blochezi</a></li>
            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#tip!"> tip!</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#alternative-nu-atat-de-sigure-"> 5.3. Alternative nu atat de sigure ...</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#alternative-nu-atat-de-sigure-"> 5.3. Alternative nu atat de sigure...</a></li>
            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#bench-smith"> 5.3.1. Aparatul Bench Press Smith</a></li>
            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#bench-press-cu-gantere"> 5.3.2. Bench Press cu gantere</a></li>
            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#spotters"> 5.3.3. Spotters</a></li>
@@ -638,9 +638,9 @@ Cand salvatorul tau este acolo, ajuta-l sa ridice bara. Mentineti-va priza/prind
 
 Nu am fost pus in situatia de mai sus,niciodata in 16 ani de pregatire. Nici macar in primii cinci ani, cand faceam Bench Press intr-o sala de sport fara Power Rack. Am cerut intotdeauna un loc la seturile mele grele. Am vazut oameni de cateva ori prinsi sub bara. Se intampla rapid si reactionam prea lent. Acesta este un mod stupid de a te rani sau de a muri. Cere-I cuiva un loc(spot). Daca nu exista nimeni, nu face Bench Press puternic. Foloseste-ti capul si vei fi in siguranta.
 
-[Acest tip a avut noroc ...](https://www.youtube.com/watch?v=3q6hAY6lscM)
+[Acest tip a avut noroc...](https://www.youtube.com/watch?v=3q6hAY6lscM)
 
-## Alternativele nu atat de sigure ...<a name="alternative-nu-atat-de-sigure"></a>
+## Alternativele nu atat de sigure...<a name="alternative-nu-atat-de-sigure"></a>
 
 ## Smith Machine Bench Press<a name="bench-smith"></a>
 
@@ -844,7 +844,7 @@ Greutatea este mai usor de ridicat cand ridicati fundul de pe banca. Dar trisati
 
 Tineti-va fundul pe banca. Nu va impingeti doar picioarele pe podea atunci cand faceti Bench Press. Pastrati-va partea superioara a spatelui si funduli pe banca. Impinge-te departe de bara in loc sa impingi bara. Partea inferioara a spatelui se poate ridica de pe banca pentru a va ajuta sa va mentineti pieptul sus. Dar fundul tau nu poate iesi niciodata de pe banca. Daca se intampla in orice moment al reprizai, aceasta nu mai este valabila. Este un set esuat si trebuie sa repetati greutatea.
 
-Daca fundul tau continua sa iasa de pe banca, verificati inaltimea. Unele sali de gimnastica au banci scurte care fac imposibila mentinerea fundului pe banca. Ar trebui sa aiba 45cm / 18 ″ inaltime, astfel incat soldurile dvs. sunt putin mai inalte decat genunchii cand va intindeti. Daca banca dvs. este mai joasa, puneti placi plate sub picioare pentru a o ridica. Daca te antrenezi acasa ca mine, trebuie doar sa ai o banca mai buna, astfel incat sa nu fii nevoit sa te incurci cu discuri/placi. Iata cateva pe care le recomand pentru StrongLifts 5 × 5 ...
+Daca fundul tau continua sa iasa de pe banca, verificati inaltimea. Unele sali de gimnastica au banci scurte care fac imposibila mentinerea fundului pe banca. Ar trebui sa aiba 45cm / 18 ″ inaltime, astfel incat soldurile dvs. sunt putin mai inalte decat genunchii cand va intindeti. Daca banca dvs. este mai joasa, puneti placi plate sub picioare pentru a o ridica. Daca te antrenezi acasa ca mine, trebuie doar sa ai o banca mai buna, astfel incat sa nu fii nevoit sa te incurci cu discuri/placi. Iata cateva pe care le recomand pentru StrongLifts 5 × 5...
 
 - Bench Flat Adidas - sustine pana la 600lb
 - Rogue Flat Bench Press - sustine pana la 1000lb
@@ -928,7 +928,7 @@ Incheieturile slabe este o alta scuza des intalnita. Nu aveti nevoie de exerciti
 
 Verificati intotdeauna priza/ prinderea mai intai daca va dor incheieturile mainiilor. Faceti Bench Press cu incheieturile drepte. Pozitionati bara la baza palmei, aproape de incheieturi, peste oasele antebratelor. Folositi prinderea Bulldog pentru a reduce bara. Strangeti-o tare, pentru ca bara sa nu se poata deplasa din pozitie. Nu ezitati sa reduceti greutatea dvs. timp de cateva saptamani pentru a va obisnui cu noua priza/ prindere. Acest lucru va va oferi, de asemenea, o pauza incheieturilor pentru a se recupera.
 
-Daca incheieturile va dor in ciuda faptului ca faceti Bench Press cu incheieturile drepte, atunci incercati benzile pentru incheieturi. Cu cat sunt mai lungi, cu atat le puteti infasura de mai multe ori in jurul incheieturilor, cu atat articulatiile vor fi mai rigide. Mai multa rigiditate este egal cu mai mult sprijin pentru incheieturi. Totusi, nu va doriti prea rigid, deoarece acest lucru poate restrictiona miscarea si poate determina o postura proasta. Dar daca nu sunteti femeie, invelisurile scurte de la incheietura mainii nu vor fi eficiente. Mergi cel putin cu 60cm / 24 ″. Iata cateva invelisuri bune pentru incheietura mainii ...
+Daca incheieturile va dor in ciuda faptului ca faceti Bench Press cu incheieturile drepte, atunci incercati benzile pentru incheieturi. Cu cat sunt mai lungi, cu atat le puteti infasura de mai multe ori in jurul incheieturilor, cu atat articulatiile vor fi mai rigide. Mai multa rigiditate este egal cu mai mult sprijin pentru incheieturi. Totusi, nu va doriti prea rigid, deoarece acest lucru poate restrictiona miscarea si poate determina o postura proasta. Dar daca nu sunteti femeie, invelisurile scurte de la incheietura mainii nu vor fi eficiente. Mergi cel putin cu 60cm / 24 ″. Iata cateva invelisuri bune pentru incheietura mainii...
 
 - Benzi pentru incheieturi Inzer
 - Benzi pentru incheieturi Titan
@@ -1066,7 +1066,7 @@ Obtineti placi fractionale mai mici, care cantaresc 0,25 kg pana la 1 kg (versiu
 
 Unii oameni pun la indoiala eficienta microloading-ului. Este adevarat ca placile variaza adesea in greutate. Placile de 20kg / 45 pot fi adesea oprite cu 1 kg / 2-3lb. Acest lucru neaga microloading-ul. Dar, de asemenea, nu aceasta este ideea. Obiectivul nu este un microloading unic. Scopul este microloadingul cumulativ. Adaugati 1kg / 2lb la Bench Press in fiecare saptamana si va creste cu 52 kg / 104lb pe an. Variatia aleatorie a greutatii este irelevanta. Tendinta ascendenta conteaza.
 
-Nu va lasa socat de pretul pe kg / lb al placilor fractionale. Sunt intr-adevar mai scumpe decat placile obisnuite. Dar este normal. Costa mai mult fabricarea placilor cu o toleranta mai mica a greutatii. Pentru asta platiti. Asigurati-va ca obtineti placi fractionale cu gauri de 5 cm / 2 ″, astfel incat sa se potriveasca pe bara vostru olimpica (Olympic Barbell). Iata cateva placi fractionale pe care vi le recomand pentru a va mari Bench Press-ul ...
+Nu va lasa socat de pretul pe kg / lb al placilor fractionale. Sunt intr-adevar mai scumpe decat placile obisnuite. Dar este normal. Costa mai mult fabricarea placilor cu o toleranta mai mica a greutatii. Pentru asta platiti. Asigurati-va ca obtineti placi fractionale cu gauri de 5 cm / 2 ″, astfel incat sa se potriveasca pe bara vostru olimpica (Olympic Barbell). Iata cateva placi fractionale pe care vi le recomand pentru a va mari Bench Press-ul...
 
 - Placi fractionale Ader
 - Placile fractionare Rogue lb

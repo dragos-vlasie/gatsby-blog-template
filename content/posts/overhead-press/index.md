@@ -11,7 +11,7 @@ published: true
 
 ## Cum să faceti Overhead Press: impingeți bara de pe umeri peste cap, ținând picioarele drepte.
 
-Iată cum să faceți Overhead Press cu forma corectă ...
+Iată cum să faceți Overhead Press cu forma corectă...
 
 1. Stai cu bara pe umerii din față și cu mâinile lângă umeri
 2. Impingeți bara deasupra capului, până când este in echilibru peste umeri și pe directia oaselor metatarsiene
@@ -85,7 +85,7 @@ Introducere
 
 Impingeți bara într-o linie verticală de pe umeri până când coatele sunt blocate. Ridică din umeri în vârf.
 
-Faceti Overhead Press in Power Rack, dacă este suficient de înalt. Dacă este prea mic ca al meu, setați bara în montantii (uprights) exteriori ai Power Rack-ului dvs. și deblocati-o (unrack). Dacă Power Rack-ul dvs. nu are montanti (uprights) exteriori sau nu aveți Power Rack, trageți bara de la podea pe umeri (Power Clean). După ce bara este pe umerii dvs. din față, urmați acești cinci pași simpli pentru a face Overhead Press cu o formă corectă ...
+Faceti Overhead Press in Power Rack, dacă este suficient de înalt. Dacă este prea mic ca al meu, setați bara în montantii (uprights) exteriori ai Power Rack-ului dvs. și deblocati-o (unrack). Dacă Power Rack-ul dvs. nu are montanti (uprights) exteriori sau nu aveți Power Rack, trageți bara de la podea pe umeri (Power Clean). După ce bara este pe umerii dvs. din față, urmați acești cinci pași simpli pentru a face Overhead Press cu o formă corectă...
 
 **-Pregatirea (Setup)**.Stai cu bara pe umerii din față. Prindere îngustă, încheieturi drepte, antebrațe verticale. Cu genunchii și șoldurile fixate.
 **-Ridică-ți pieptul**.Ridicați-vă pieptul spre tavan arcuindu-vă partea superioară a spatelui. Încercați să vă atingeți bărbia cu pieptul superior.
@@ -390,7 +390,7 @@ Majoritatea oamenilor fac Overhead Press cu coatele în spatele barei. Probabil 
 
 ## Push Press
 
-Push Press este un Overhead Press utilizand picioarele. Stai cu bara pe umeri. Îndoaie ușor genunchii și șoldurile ca și cum ai face un sfert de genuflexiune (Quarter Squat). Apoi îndreptați-le rapid pentru a crea impuls. Odată ce sunt blocare, impingeți bara de pe umeri. Te vei antrena cu mai mult în greutate decât la Overhead Press, deoarece Push Press folosește mai mulți mușchi. Îți folosește picioarele și mușchii șoldului mai puternici pentru a impinge. Video de la Klokov ...
+Push Press este un Overhead Press utilizand picioarele. Stai cu bara pe umeri. Îndoaie ușor genunchii și șoldurile ca și cum ai face un sfert de genuflexiune (Quarter Squat). Apoi îndreptați-le rapid pentru a crea impuls. Odată ce sunt blocare, impingeți bara de pe umeri. Te vei antrena cu mai mult în greutate decât la Overhead Press, deoarece Push Press folosește mai mulți mușchi. Îți folosește picioarele și mușchii șoldului mai puternici pentru a impinge. Video de la Klokov...
 
 Folosirea picioarelor atunci când te faci Overhead Press este considerata trisare. Iti micsoreaza efortul suportat de catre umeri. Picioarele ridică bara până la nas în timp ce brațele o blochează. Umerii tăi nu trebuie să muncească la fel de tare, in partea de jos. Push Press nu dezvoltă forța umărului și masa musculară construită de Overhead Press. Nu contează dacă puteți ridica mai multă greutate pe Push Press. Lucreaza în mare parte picioare și șolduri.
 

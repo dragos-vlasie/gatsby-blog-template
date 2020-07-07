@@ -61,7 +61,7 @@ Gratuit: descărcați lista mea de verificare pentru a obține cele mai bune sfa
 
 ## Cum să faci Dips
 
-Aveți nevoie de două bare Dip pentru a face Dips. Aceste bare trebuie să fie paralele, fixe și stabile. Majoritatea sălilor de gimnastică au o stație Dip pe care o puteți folosi și pentru Pullups și ridicarea genunchiului agățat. Puteți face și Dips-uri în Power Rack, dacă primiți două mânere de scufundare care se încadrează în ace de siguranță. Nu faceți Dips pe inele sau între bănci, ambele vă pot răni umerii. Utilizați în schimb bare paralele. Iată cum se face Dips cu o formă corectă în cinci pași simpli ...
+Aveți nevoie de două bare Dip pentru a face Dips. Aceste bare trebuie să fie paralele, fixe și stabile. Majoritatea sălilor de gimnastică au o stație Dip pe care o puteți folosi și pentru Pullups și ridicarea genunchiului agățat. Puteți face și Dips-uri în Power Rack, dacă primiți două mânere de scufundare care se încadrează în ace de siguranță. Nu faceți Dips pe inele sau între bănci, ambele vă pot răni umerii. Utilizați în schimb bare paralele. Iată cum se face Dips cu o formă corectă în cinci pași simpli...
 
 - Pregatirea. Prinde barele și sări. Echilibrează-te cu coatele fixate.
 - Dips. Coborâți-vă corpul indoindu-va brațele. Înclinați-vă trunchiul ușor înainte.
@@ -73,7 +73,7 @@ Dacă vă lipsește puterea pentru a face o singură repetare, faceți exercitii
 
 ## Dips Form 101
 
-Modul ideal de a face Dips este cu mâinile sub umeri. Acest lucru menține brațele aproape de corp. Umerii mai largi au nevoie de o prindere mai largă. Dar aveți nevoie de bare în unghi pentru a le regla. Barele mele sunt paralele, așa că lățimea mea de prindere urmărește echipamentul meu. Acest lucru funcționează bine dacă aveți o greutate medie. Dar poate fi o problemă pentru corpurile speciale. Tine minte și urmați aceste recomandări pentru a face Dips cu o formă corectă ...
+Modul ideal de a face Dips este cu mâinile sub umeri. Acest lucru menține brațele aproape de corp. Umerii mai largi au nevoie de o prindere mai largă. Dar aveți nevoie de bare în unghi pentru a le regla. Barele mele sunt paralele, așa că lățimea mea de prindere urmărește echipamentul meu. Acest lucru funcționează bine dacă aveți o greutate medie. Dar poate fi o problemă pentru corpurile speciale. Tine minte și urmați aceste recomandări pentru a face Dips cu o formă corectă...
 
 - **Lățimea prizei** . Mâinile tale ar trebui să fie la acelasi nivel cu umerii și în afara șoldurilor.
 - **Priza**. Țineți barele cu mâna joasă, aproape de încheieturi. Folosiți o strângere completă și strângeți barele.
@@ -104,7 +104,7 @@ Dips lucreaza mai mult decât tricepsul. Brațele se îndoaie și se îndreaptă
 
 Dips-urile lucrează aceeasi mușchi ca Bench Press și Pushup. Diferența este că poți lucru mai intens pe Bench decât Dips, și pe Dips decât Pushups. Pe Bench, doar adăugați plăci pe bară. La Dips puteți adăuga cu ușurință greutate folosind o curea(dip belt). Pushup-urile sunt greu de făcut. Ai nevoie de o vestă x (x-vest) sau de lanțuri în jurul gâtului sau cineva trebuie să-ți pună o farfurie pe spate. Cu Press Bench și Dips este mai ușor sa avansezi, sa adaugi o greutate mai mare.
 
-Dips-urile sunt mai eficiente decat pushdowns sau skullcrushers la a construi brațe mai mari. Greutatea pe Dips este mai mare. Trebuie să vă ridicați greutatea. Un tip mediu de 75 kg ca mine poate face cu ușurință Dips-uri cu greutate corporală. Le pot face cu 20 kg în plus, in total 95 kg. Încercați pushdowns sau skullcrushers cu 95 kg ... Dips sunt mai eficiente pentru că îți lucrează tricepsul cu o greutate mai mare. Mai multă greutate este egala cu mai multă forță, care este egala cu mai multi mușchi.
+Dips-urile sunt mai eficiente decat pushdowns sau skullcrushers la a construi brațe mai mari. Greutatea pe Dips este mai mare. Trebuie să vă ridicați greutatea. Un tip mediu de 75 kg ca mine poate face cu ușurință Dips-uri cu greutate corporală. Le pot face cu 20 kg în plus, in total 95 kg. Încercați pushdowns sau skullcrushers cu 95 kg... Dips sunt mai eficiente pentru că îți lucrează tricepsul cu o greutate mai mare. Mai multă greutate este egala cu mai multă forță, care este egala cu mai multi mușchi.
 
 ## Tehnica Dip
 
@@ -219,7 +219,7 @@ Dips-urile ponderate(Weighted dips) sunt dips cu greutate suplimentară. Puneți
 Cea mai ușoară modalitate de a face Weighted Dips este folosirea unei curele pentru dips. Aceasta este o centură pe care o pui în jurul taliei. Are un lanț care intră în găurile plăcilor/discurilor pe care le pui pe bară. Plăcile atârnă de lanțul respectiv și cureaua dintre picioare, în timp ce faci Dips. Centurile de calitate pot suporta cu ușurință o greutate de peste 80kg / 150lb.
 Utilizați o curea pentru dips pentru a adăuga greutate.
 
-Nu puneți un lanț pe centura pe care o utilizați pentru genuflexiuni(Squats) and Deadlifts. O veți deteriora. Obțineți în schimb o curea speciala pentru dips. Iată câteva pe care le recomand ...
+Nu puneți un lanț pe centura pe care o utilizați pentru genuflexiuni(Squats) and Deadlifts. O veți deteriora. Obțineți în schimb o curea speciala pentru dips. Iată câteva pe care le recomand...
 
 - **Curea** Dip Polypro
 - **Curea** Brute

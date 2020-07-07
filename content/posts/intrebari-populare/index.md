@@ -13,20 +13,20 @@ published: true
 
 A functionat pentru mine si cei doi frati ai mei. A functionat pentru mai multi dintre prietenii mei. A functionat pentru fetele cu care m-am intalnit. A functionat oricarui persoanei careia i-am dat acest program. Primesc e-mailuri in fiecare zi de la oameni din toata lumea spunand ca acest program este cel mai bun, pentru ei a functionat cel mai bine.
 
-Deci, sunt sigur ca StrongLifts 5×5 va functiona si pentru tine. Va functiona foarte bine daca ...
+Deci, sunt sigur ca StrongLifts 5×5 va functiona si pentru tine. Va functiona foarte bine daca...
 
 - Nu ai intrat niciodata intr-o sala de sport. Esti intimidat de gantere,speriat de rani sau pur si simplu slab. Acest program incepe usor si se concentreaza pe forma. Incet va faceti confortabil cu greutatile evitand in acelasi timp riscul de a te rani. Forta si increderea ta cresc odata cu cresterea greutatii.
 - Nu ai folosit niciodata ganterele. Ati mai mers la sala inainte, dar doar masini ati folosit. Poate ca te-ai descurcat cu ganterele, dar nu ai facut niciodata Genoflexiuni cu haltera, [Indreptari(Deadlifts)](/exercitii/spate/indreptari) si OHPress. Veti invata sa ridicati greutati daca incepeti usor, facandu-le mult si adaugand greutate la fiecare antrenament.
 - Ati relua antrenamentele dupa o pauza. Ai facut aceste exercitii inainte. Dar ai renuntat la ele vara trecuta. Sau nu ai mai ridicat greutati din liceu. Acest program va va readuce in forma rapid. Veti obtine o forma si mai buna daca nu ati folosit niciodata acest tip de program de instruire structurat.
 
 Nu am vazut niciodata ca StrongLifts 5×5 nu functioneaza. Am vazut povesti pe internet care spun ca acest program nu functioneaza pentru ei.
-Dar este de obicei pentru ca ...
+Dar este de obicei pentru ca...
 
 - Acest antrenament NU este pentru cei cu experienta. Nu faceti acest lucru daca puteti face genuflexiuni (Squat) cu 150kg si Indreptari 200kg chiar acum. Nu puteti adauga greutate la fiecare antrenament cu aceste greutati. De aceea nu mai fac StrongLifts 5×5 - greutatile mele sunt prea grele. Faceti Madcow 5×5 in schimb.
 - Acest antrenament NU este pentru cei ce “stiu totul”. Trebuie sa faceti programul asa cum este stabilit pentru ca acesta sa functioneze. Daca o faci in felul tau schimband lucrurile, nu va functiona. Trebuie sa fii antrenabil. Si ar trebui sa cititi acest ghid la fiecare doua saptamani pentru a vedea lucruri care v-au omis prima data.
 - Acest antrenament NU este pentru o persoana delasatoare. Acest program nu va functiona daca sariti antrenamentele. Nu functioneaza daca sariti Genoflexiuni cu haltera. Nu functioneaza daca nu iti maresti greutatea pe care o ridici. Nu vei deveni puternic si mare decat daca ridici greutati mari. Acest lucru necesita multa munca.
 
-Deci, daca ai 60kg/135lb la 1m82/6'2 ″ ... abia mananci pentru a evita cresterile de grasime ... Squat-ul tau este blocat la 80kg/175lb dupa 10 saptamani ... si nu esti multumit de aspectul corpului tau ... acesta este NORMAL. Nu mananci suficient, nu ridici suficient de greu si nu esti suficient de rabdator.
+Deci, daca ai 60kg/135lb la 1m82/6'2 ″... abia mananci pentru a evita cresterile de grasime... Squat-ul tau este blocat la 80kg/175lb dupa 10 saptamani... si nu esti multumit de aspectul corpului tau... acesta este NORMAL. Nu mananci suficient, nu ridici suficient de greu si nu esti suficient de rabdator.
 
 ### Cat dureaza pentru a vedea rezultatele?
 
@@ -122,7 +122,7 @@ Cititi ghidul despre cum puteti pierde grasime.
 
 Da. Corpul tau nu se recupereaza la fel de repede ca cel al tinerilor. Dar vei castiga forta si muschi, chiar daca nu ai ridicat niciodata sau esti in anii 70. Varsta ta va fi o problema doar daca crezi ca este.
 
-Oamenii mai in varsta imi spun ca StrongLifts 5×5 a fost ca o fantana a tineretii. Daca corpul tau se simte batran, te simti batran si te comporte ca o persoana in varsta. Dar daca corpul tau se simte tanar, te simti tanar si te comporti ca o persoana mai tanara. Iata cum acest program te ajuta sa realizezi asta ...
+Oamenii mai in varsta imi spun ca StrongLifts 5×5 a fost ca o fantana a tineretii. Daca corpul tau se simte batran, te simti batran si te comporte ca o persoana in varsta. Dar daca corpul tau se simte tanar, te simti tanar si te comporti ca o persoana mai tanara. Iata cum acest program te ajuta sa realizezi asta...
 
 - Construiti muschi . Pierdeti muschii din inactivitate si din stilul de viata sedentar pe masura ce imbatranesti. De asemenea, pierzi muschi ca parte a procesului de imbatranire - cu pana la 10% pe deceniu peste 50. Cresterea greutatilor scade pierderea musculara din imbatranire prin construirea muschiului. Veti castiga mult din spatele muschiului pierdut.
 - Pierde grasime. Inactivitatea te face sa te ingrasi, mai ales daca nu mananci mai putin, desi te misti mai putin. Muschiul pierdut este inlocuit cu grasime, si vei deveni gras. Acest program inverseaza faptul ca prin construirea de muschi, arderea caloriilor si stimularea metabolismului. Pierzi grasime.
@@ -189,7 +189,7 @@ In al doilea rand, fracturile sunt mai frecvente in sporturile de contact si de 
 
 Daca credeti ca fracturile va pot impiedica cresterea, atunci ar trebui sa va fie mai frica de sportul de contact si de coliziune decat de ridicare. Daca faci aceste sporturi, atunci este inteligent sa ridici greutati, deoarece asta creste densitatea oaselor si intareste articulatiile. Acest lucru va protejeaza impotriva fracturilor si ranilor.
 
-Dar ridicarea greutatilor nu va va impiedica cresterea. Acest mit a inceput probabil in anii 80, cu elevul olimpic Naim Süleymanoğlu, cunoscut si ca Pocket Hercules. Avea doar 1m47/4'10 ", dar putea ridica + 180kg/400lb peste cap. Unii oameni au concluzionat ca greutatile grele l-au impiedicat sa creasca ...
+Dar ridicarea greutatilor nu va va impiedica cresterea. Acest mit a inceput probabil in anii 80, cu elevul olimpic Naim Süleymanoğlu, cunoscut si ca Pocket Hercules. Avea doar 1m47/4'10 ", dar putea ridica + 180kg/400lb peste cap. Unii oameni au concluzionat ca greutatile grele l-au impiedicat sa creasca...
 
 Acest lucru este ca si cum ai spune ca jucatorii de baschet sunt inalti pentru ca sar. Nu se coreleaza, dar prejudecata de selectie. Exista o modalitate de compresie mai mare atunci cand alergi sau sari decat ridicarea, iar coloana vertebrala se descurca bine. Ridicarea greutatilor te poate face de fapt sa arati mai inalt, imbunatatindu-ti postura, astfel incat sa incetezi sa stai aplecat, cocosat.
 
@@ -306,7 +306,7 @@ Daca doriti o pauza, atunci faceti o saptamana mai usoara unde ridicati cu 10% m
 
 Nu. M-am antrenat in principal singur de cand am inceput sa ridic in 2014. Majoritatea oamenilor te vor trage in jos, asa ca de multe ori esti mai bine singur.
 
-Daca gasesti pe cineva care ridica de ceva timp, care are rezultate de aratat, care stie sa se antreneze corect si ridica numere decente ... atunci iti recomand sa te antrenezi cu el. Mentorul meu de la inceput a fost asa si am invatat o tona de la el.
+Daca gasesti pe cineva care ridica de ceva timp, care are rezultate de aratat, care stie sa se antreneze corect si ridica numere decente... atunci iti recomand sa te antrenezi cu el. Mentorul meu de la inceput a fost asa si am invatat o tona de la el.
 
 Prieten tau cel mai bun, care doreste sa inceapa sa ridice cu tine, este de obicei un partener de antrenament prost. Este un incepator ca tine, nu are cunostinte sau experienta. El nu va fi de niciun ajutor. El doar te poate trage in jos, neprezentandu-te, plangandu-se de modul in care ridicarea este dificila, implanteaza idei proaste ca sa sarim peste antrenamentul de astazi, sa te distraga cu alte antrenamente, etc.
 
@@ -495,7 +495,7 @@ Se pare ca unii tipi cred ca sunt prea batrani pentru a face acest lucru. Cred c
 
 Ridicarea greutatilor nu scade flexibilitatea. Acesta este un mit raspandit de oameni care fac mai ales exercitii de izolare. Cei care ridica greutati si cei olimpici trebuie sa fie flexibili, altfel nu-si pot aduce soldurile sub genunchi atunci cand fac genuflexiuni(Genoflexiuni cu haltera.) A face regulat genuflexiuni(Genoflexiuni cu haltera) mentine de fapt flexibilitate.
 
-Daca ati fost sedentar ani de zile, ar putea fi necesar sa va intindeti. Ceea ce nu folosesti, pierzi. Daca nu va miscati niciodata muschii printr-o gama completa de miscare, acestea se strang. Deci pierdeti capacitatea de a va deplasa corect, ceea ce poate provoca o forma proasta. Exemple obisnuite includ ...
+Daca ati fost sedentar ani de zile, ar putea fi necesar sa va intindeti. Ceea ce nu folosesti, pierzi. Daca nu va miscati niciodata muschii printr-o gama completa de miscare, acestea se strang. Deci pierdeti capacitatea de a va deplasa corect, ceea ce poate provoca o forma proasta. Exemple obisnuite includ...
 
 - Soldurile rigide impiedica genunchii sa ramana afara cand faci genuflexiuni. Acest lucru cauzeaza rotunjirea spatelui in partea inferioara cand faceti genuflexiuni( Genoflexiuni cu haltera) - care provoaca dureri de spate. Stretching-ul(intinderea) va poate ajuta sa va mentineti genunchii in afara, astfel incat coloana vertebrala sa ramana neutra. De asemenea, ajuta la ruperea pozitiei initiale mai usor.
 - Umerii ingusti/rigizi va impiedica sa blocati bara deasupra umerilor, OverheadPress. Trebuie sa stea in fata, ceea ce este mai greu. Coloana vertebrala poate compensa prin arcuire pentru a obtine bara echilibrata peste umeri. Acest lucru poate provoca dureri ale spate in partea inferioare.

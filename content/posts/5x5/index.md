@@ -521,7 +521,7 @@ Inceperea cu prea multa greutate poate provoca dureri, iar mai apoi accidentari.
 
 Unii vor incepe prea mult pe Genoflexiuni cu haltera, pentru ca sunt obisnuiti cu bicicleta sau cu alergatul. Dar acest lucru este irelevant. Intervalul de miscare este mai mic in ciclism/alergare fata de Genoflexiuni cu haltera. Vei avea febra musculara la picioare daca incepi cu o greutate prea mare pe [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) si asta iti va ingreuna sau chiar opri progresul.
 
-Inceperea cu o greutate prea mare provoaca, de asemenea, plafonari. Daca incepeti astazi cu cele cinci reprezentante maxime, nu puteti ridica inca doua zile mai tarziu ... si inca doua zile mai tarziu. Iti va fi dor de repetitii, sa te duci si sa te inchei blocat. Greutatea dvs. initiala trebuie sa fie usoara, astfel incat sa aveti loc pentru a adauga cu usurinta greutate pentru urmatoarele antrenamente.
+Inceperea cu o greutate prea mare provoaca, de asemenea, plafonari. Daca incepeti astazi cu cele cinci reprezentante maxime, nu puteti ridica inca doua zile mai tarziu... si inca doua zile mai tarziu. Iti va fi dor de repetitii, sa te duci si sa te inchei blocat. Greutatea dvs. initiala trebuie sa fie usoara, astfel incat sa aveti loc pentru a adauga cu usurinta greutate pentru urmatoarele antrenamente.
 
 Conceptia care sustine ca greutatile mici nu intaresc puterea si muschii este gresita. Desigur, ridicarea unei greutati mai mare este mai bine. Si veti lucra pentru asta cu StrongLifts 5×5. Dar greutatile mai usoare iti ajuta corpul sa castige forta si muschi. Nu este necesar sa va ridicati maximul absolut de fiecare data.
 
@@ -531,7 +531,7 @@ A incepe intens inseamna sa incerci sa iti accelerezi progresul. Crezi ca te va 
 
 Amintiti-va fabula iepurelui care a pierdut cursa impotriva broastei testoasa. Nu vrei sa fi iepurele care incepe intens, devine dureros , te blochezi si apoi trebuie sa o iei de la capat. Vrei sa fii ca broasca testoasa –incepi usor, adaugand greutate constant si ajungand mai repede, evitand durerea si plafonarile pe parcurs.
 
-Greutatile de pornire depind de puterea si experienta ta. Descarcati foile de calcul si aplicatiile , acestea vor calcula ponderile de pornire pentru dvs. Iata ideea de baza ...
+Greutatile de pornire depind de puterea si experienta ta. Descarcati foile de calcul si aplicatiile , acestea vor calcula ponderile de pornire pentru dvs. Iata ideea de baza...
 
 **- Daca ati facut aceste exercitii inainte, cu o forma adecvata, atunci incepeti cu 50% din numarul maxim**. Deci, daca puteti [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 5x100kg/220lb, incepeti cu 50kg/110lb. Acest lucru va fi usor, dar in doua luni veti castiga 110kg/245lb pentru 5×5 - mai mult decat ati inceput.
 **- Daca nu ati facut niciodata acest exercitiu sau nu le-ati practicat de multi ani, atunci incepeti cu haltera goala**. Puteti parea ridicol o perioada, dar greutatea va creste la fiecare antrenament. In trei luni, veti face Squat(Genoflexiuni cu haltera) 100kg/220lb pentru 5×5 - mai mult decat majoritatea oamenilor.
@@ -581,7 +581,7 @@ Acestea fiind spuse, daca te antrenezi de trei ori pe saptamana, 45 de saptamani
 
 Nu pierzi multa putere daca mananci corect si ramai activ in timpul pauzei. Puteti reveni mai puternic din odihna suplimentara. Ar trebui sa poti continua de unde ai plecat. Dar nu ezitati sa scadeti greutatea poate cu 10% pentru a usura inapoi lucrurile si a evita o febra musculara.
 
-Alta situatie este atunci cand ati petrecut o saptamana consumand alcool, mancand prostii si abia daca ati dormit. Va fi dificil cand veti reveni - vorbind din experienta. Reduceti greutatea mai mult pentru a va usura antrenamentul. Sau poate nu ... sa te invete o lectie si sa nu o mai faci din nou data viitoare ...
+Alta situatie este atunci cand ati petrecut o saptamana consumand alcool, mancand prostii si abia daca ati dormit. Va fi dificil cand veti reveni - vorbind din experienta. Reduceti greutatea mai mult pentru a va usura antrenamentul. Sau poate nu... sa te invete o lectie si sa nu o mai faci din nou data viitoare...
 
 Este crucial sa va intoarceti la sala cat mai curand posibil dupa pauza. Daca reveniti din pauza de sarbatori duminica, luni ar trebui sa va intoarceti la sala. Aveti deja o saptamana libera. Nu vrei sa dureze inca o saptamana, intrucat iti ingreuneaza revenirea. Nu te gandi la asta, mergi.
 
@@ -595,7 +595,7 @@ Retineti ca aplicatia StrongLifts va va spune cu ce greutate sa incepeti dupa pa
 
 ## Obiectivele de forta<a name="obiective"></a>
 
-Obiectivele iti dau directie. Acestea va reamintesc ce trebuie sa faceti pentru a ajunge acolo unde doriti. Ele elimina distragerile, tinandu-va concentrat pe ceea ce conteaza. Stabiliti obiectivele de rezistenta SMART ...
+Obiectivele iti dau directie. Acestea va reamintesc ce trebuie sa faceti pentru a ajunge acolo unde doriti. Ele elimina distragerile, tinandu-va concentrat pe ceea ce conteaza. Stabiliti obiectivele de rezistenta SMART...
 
 **- Specific: nu exista exercitii vagi „sa te intaresti”, dar specifice - [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera)**. Bench, etc
 
@@ -604,7 +604,7 @@ Obiectivele iti dau directie. Acestea va reamintesc ce trebuie sa faceti pentru 
 - Realist: nu te astepta sa arati ca Arnold si sa rupi recordurile mondiale dupa numai sase luni
   **- Termen limitat: setati un termen pentru obiectivele dvs**. (ziua de nastere, sfarsitul anului, competitia, etc.)
 
-Iata cateva obiective solide si INTELIGENTE pe care ar trebui sa le stabilesti ...
+Iata cateva obiective solide si INTELIGENTE pe care ar trebui sa le stabilesti...
 
 #### StrongLifts 5x5 Saptamana 1
 
@@ -635,7 +635,7 @@ Incercati doar sa imbunatatiti. Majoritatea baietilor pot atinge cu usurinta niv
 
 Retineti ca este putin probabil sa aveti un progres constant. La inceput o vei face. Cu toate acestea, pe masura ce greutatea creste, vei ajunge in cele din urma sa te plafonezi. Toata lumea face sau cu totii am ghemuit 500kg. Dar unii oameni au lovit plafonarile mai devreme decat altii. Acest lucru explica intervalul de timp.
 
-Impartiti-va obiectivele in mini-obiective. Inainte de a putea [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 400lb, mai intai trebuie sa faci cu 350lb, 300lb, 265lb si 220lb. Concentreaza-te pe urmatorul tau pas in loc sa te uiti la varful muntelui. Obiectivul principal va parea mai usor de atins si va puteti verifica progresul pe drum. Cateva idei ...
+Impartiti-va obiectivele in mini-obiective. Inainte de a putea [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 400lb, mai intai trebuie sa faci cu 350lb, 300lb, 265lb si 220lb. Concentreaza-te pe urmatorul tau pas in loc sa te uiti la varful muntelui. Obiectivul principal va parea mai usor de atins si va puteti verifica progresul pe drum. Cateva idei...
 
 **- Forta relativa**. Stabiliti mai multe din greutatea corpului dvs. ca obiective. Sa zicem ca ai o masa corporala de 80kg/175lb. 1xbw = 80k5/175lb Squat(Genoflexiuni cu haltera). 1.5x = 120kg/260lb. Puteti viza 1x, 1.5x, 2x, 2.5x, 3x etc.
 **- Discuri**. Stabiliti „discuri mari pentru baieti” ca obiective. O prima placa mare de 20kg/45lb pe fiecare parte a barei pe Squat(Genoflexiuni cu haltera). Apoi doua discuri mari, apoi trei si apoi patru.
@@ -651,7 +651,7 @@ Esecul face parte din joc. Nu puteti adauga greutate la fiecare antrenament pent
 
 Uneori “esuati” anumite exercitii pentru ca aveti o zi proasta. Nu ati dormit bine aseara. Nu ati mancat astazi. Ati avut o zi lunga la serviciu. Mintea ta este in alta parte. Te simti rau. Se intampla. Ceea ce conteaza este ca oricum continui. Faceti tot posibilul azi, veti face mai bine urmatorul antrenament.
 
-Uneori nu iti reuseste antrenamentul, deoarece gresesti de ceva vreme. Nu aveai aceasta problema cand greutatile erau usoare. Dar acum ca sunt mai grele, te fac sa esuezi. Greselile obisnuite se strecoara printre antrenamentele tale, incercand sa accelerezi progresul si sa nu te recuperezi corect ...
+Uneori nu iti reuseste antrenamentul, deoarece gresesti de ceva vreme. Nu aveai aceasta problema cand greutatile erau usoare. Dar acum ca sunt mai grele, te fac sa esuezi. Greselile obisnuite se strecoara printre antrenamentele tale, incercand sa accelerezi progresul si sa nu te recuperezi corect...
 
 **- Timpuri scurte de odihna**. Nerespectarea completa din ultimul set == mai multe esecuri.
 **- Cresteri mari**. Adaugarea de prea multa greutate la fiecare antrenament == mai multe esecuri.
@@ -663,9 +663,9 @@ Uneori nu iti reuseste antrenamentul, deoarece gresesti de ceva vreme. Nu aveai 
 **- Lipsa de hrana**. Alimentarea precara impiedica recuperarea == inca un esec.
 Unii oameni incep sa caute un nou program atunci cand nu reusesc repetarile. Ei cred ca acesta trebuie eliminat. Cei care sunt cei mai puternici nu renunta la un program atat de usor. De asemenea, isi perfectioneaza tehnica, nutritia si dorm mai mult. Ei o considera parte a pregatirii lor - pentru ca asa este.
 
-Aceasta este multa munca. Dar, daca nu cumva sunteti un fenomen genetic sau sub influenta drogurilor, va trebui sa munciti din greu. De fapt, cu cat vrei sa fii mai puternic si mai musculos, cu atat mai mult timp si efort trebuie sa depui. Daca nu, nu vei reusi programul ... si atunci ridicarile, forta si masa musculara nu pot creste.
+Aceasta este multa munca. Dar, daca nu cumva sunteti un fenomen genetic sau sub influenta drogurilor, va trebui sa munciti din greu. De fapt, cu cat vrei sa fii mai puternic si mai musculos, cu atat mai mult timp si efort trebuie sa depui. Daca nu, nu vei reusi programul... si atunci ridicarile, forta si masa musculara nu pot creste.
 
-Asadar, daca ai mancat o masa pe zi, dormind cinci ore pe noapte, facand cardio de sase ori pe saptamana, adaugand 5kg/10lb pe antrenament, odihnind doar 30 sec intre seturi, fara o incalzire corect si sariti antrenamentele ... atunci sa nu fi surprins in momentul in care antrenamentul nu o sa-ti iasa. Remediati toate acestea in loc sa schimbati programul.
+Asadar, daca ai mancat o masa pe zi, dormind cinci ore pe noapte, facand cardio de sase ori pe saptamana, adaugand 5kg/10lb pe antrenament, odihnind doar 30 sec intre seturi, fara o incalzire corect si sariti antrenamentele... atunci sa nu fi surprins in momentul in care antrenamentul nu o sa-ti iasa. Remediati toate acestea in loc sa schimbati programul.
 
 Oricum, primul lucru pe care il faci cand esuezi un set este sa te odihnesti mai mult. Pune bara la loc si asteptati cel putin cinci minute inainte de a face setul urmator. Rezervele tale de ATP trebuie sa fie recuperate complet, altfel veti esua in efectuarea repetarii din nou. Acesta nu este cardio, ci antrenament de forta. Odihneste-te mai mult ca sa poti ridica greutati.
 
@@ -715,7 +715,7 @@ Prin micsorarea greutatii, ii oferi corpului odihna suplimentara pentru a deveni
 
 De asemenea, micsorarea greutatii previne plafonarile mentale. In loc sa te lovesti de peretele acela de caramida, te opresti dupa trei antrenamente esuate. Reduceti greutatea in schimb si va pregatiti din nou. Greutatile vor fi usoare pentru mai multe antrenamente. Acest lucru va creste impulsul si va va readuce motivatia.
 
-Ceea ce descarcarea(deload) nu rezolva reprezinta antrenamentele esuate cauzate de antrenarea sau recuperarea necorespunzatoare. Repetarile esuate inseamna ca nu sunteti inca suficient de puternic pentru acea greutate. Exista doua motive pentru care acest lucru s-ar putea intampla ...
+Ceea ce descarcarea(deload) nu rezolva reprezinta antrenamentele esuate cauzate de antrenarea sau recuperarea necorespunzatoare. Repetarile esuate inseamna ca nu sunteti inca suficient de puternic pentru acea greutate. Exista doua motive pentru care acest lucru s-ar putea intampla...
 
 **- Subantrenament**. Nu iti stresezi corpul suficient pentru a-l declansa pentru a deveni mai puternic. Exemplu: sariti antrenamente sau exercitii. Exercitiile tale nu se pot imbunatatii daca abia le faci. Stimulul trebuie sa fie acolo pentru ca al tau corp sa acumuleze forta si muschi.
 **- Supraantrenament**. Ti-ai stresat corpul mai mult decat se poate descurca (pornind prea greu sau cu prea multa greutate). Sau nu te recuperezi bine intre antrenamente - daca abia mananci sau dormi, corpul tau nu se poate recupera. Deci nu poate fi mai puternic sau sa ridice mai mult.
@@ -734,7 +734,7 @@ In acest caz, eliminate-l si treceti la 3×5. Ultimele doua seturi de 5×5 sunt 
 
 Trecand la 3×5, puteti creste din nou greutatea la fiecare antrenament. Nu mai trebuie sa repetati greutatea sau o micsorati, deoarece nu mai esuati pe ultimele doua seturi. Corpul tau se redreseaza mai bine odata cu cele doua seturi infioratoare disparute. Si antrenamentul tau dureaza din nou mai putin timp.
 
-Acesta este un mod de a sti daca este timpul sa treci de la 5×5 la 3×5. Daca antrenamentele dvs. dureaza doua ore, deoarece trebuie sa va odihniti 10 minute intre seturi pentru a obtine 5×5 ... probabil ca exagerati. Nu te incapatana sa ramai cu 5×5. Treceti la 3×5 pentru a putea continua sa progresati.
+Acesta este un mod de a sti daca este timpul sa treci de la 5×5 la 3×5. Daca antrenamentele dvs. dureaza doua ore, deoarece trebuie sa va odihniti 10 minute intre seturi pentru a obtine 5×5... probabil ca exagerati. Nu te incapatana sa ramai cu 5×5. Treceti la 3×5 pentru a putea continua sa progresati.
 
 Antrenamentele vor fi mai usoare dupa ce treceti la 3×5. Se va simti ca o amagire indelungata. Dar greutatile vor creste la fiecare antrenament. Asa ca, in cele din urma, veti avea aceeasi problema. Stresul de la greutati, acum si mai grele, 3×5 va fi prea mult pentru ca corpul dvs. sa se descurce din nou. Nu vei reusi sa obtii cinci repetari.
 
@@ -750,7 +750,7 @@ Folositi aplicatia mea - va va spune cand sa treceti la 3×5/3×3/1x3. Practic, 
 
 Madcow 5×5 este programul de antrenament dupa StrongLifts 5×5. Utilizeaza aceleasi exercitii si principii precum supraincarcarea progresiva. Diferenta consta in cresterea in greutate in fiecare saptamana nu la fiecare antrenament. Cand nu mai faceti progrese pe StrongLifts 5×5, treceti la Madcow 5×5.
 
-Oamenii intreaba des daca fac StrongLifts 5×5. Am facut-o cu ani in urma, dar nu mai pot acum. Greutatile mele sunt prea grele pentru asta. Fac Squat(Genoflexiuni cu haltera) cu 147.5kg pentru 5×5. Aceasta este aproape de doua ori greutatea mea corporala. In nici un caz corpul meu nu poate sa-si revina in timp, pentru a face Squat(Genoflexiuni cu haltera) cu 150kg pentru 5×5 doua zile mai tarziu ... si apoi 152,5kg inca doua zile. As esua.
+Oamenii intreaba des daca fac StrongLifts 5×5. Am facut-o cu ani in urma, dar nu mai pot acum. Greutatile mele sunt prea grele pentru asta. Fac Squat(Genoflexiuni cu haltera) cu 147.5kg pentru 5×5. Aceasta este aproape de doua ori greutatea mea corporala. In nici un caz corpul meu nu poate sa-si revina in timp, pentru a face Squat(Genoflexiuni cu haltera) cu 150kg pentru 5×5 doua zile mai tarziu... si apoi 152,5kg inca doua zile. As esua.
 
 Mi-as dori sa mai pot adauga greutate la fiecare antrenament. Dar am nevoie de o progresie mai lenta pentru a deveni mai puternic. Trebuie sa adaug greutate in fiecare saptamana. Acest lucru ofera corpului meu mai mult timp pentru a ma recupera din greutatile mai grele, subliniind-o. Ii ofera o saptamana pentru a se intari si a construi muschi pentru a ridica mai greu data viitoare.
 
@@ -802,11 +802,11 @@ Mancarea caloriilor de intretinere este mai bine, dar nu ideal. Pana la urma, nu
 
 Cele mai bune programe care va calculeaza necesarul de calorii vor sugera baietilor 16kcal/lb pentru intretinere. Daca cantaresti 75kg/165lb, aceasta este 2640kcal. Dar, din nou, nu incercati sa mentineti, ci sa imbunatatiti. Si adaugarea in greutate la fiecare antrenament este o munca grea. Prin urmare, are sens sa mananci mai mult. Acest lucru ne aduce la 3000kcal/zi.
 
-Daca acest numar te sperie, nu uita: forma urmeaza functia. Corpul tau se schimba ca raspuns la munca pe care o faci. Devine slab, gras si slab dintr-un stil de viata sedentar. Si devine puternic, musculos doar atunci cand va antrenati intens ... DAR DOAR DACA ii oferiti corpului dvs. mancarea de care are nevoie pentru a se antrena din greu si pentru a se recupera.
+Daca acest numar te sperie, nu uita: forma urmeaza functia. Corpul tau se schimba ca raspuns la munca pe care o faci. Devine slab, gras si slab dintr-un stil de viata sedentar. Si devine puternic, musculos doar atunci cand va antrenati intens... DAR DOAR DACA ii oferiti corpului dvs. mancarea de care are nevoie pentru a se antrena din greu si pentru a se recupera.
 
 Stiu ca nu vrei sa te ingrasi. Din pacate, este greu sa construiesti muschi fara sa castigi grasime. Trebuie sa mananci mai mult pentru a construi muschi. Dar trebuie sa mananci mai putin pentru a pierde grasime . Aceste obiective contravin. Daca incercati sa faceti ambele, fie veti ajunge sa mancati prea putin pentru a-ti construi muschi, fie prea mult pentru a pierde grasime.
 
-Acesta este motivul pentru care culturistii alterneaza in mod traditional fazele de castig si pierdere de grasime. Ei mananca mai multe alimente in cea mai mare parte, dar exista si pause in care mananca mai putin. Acesta este cel mai simplu mod de a construi muschi, fara a obtine grasime care functioneaza de fapt ... daca nu esti obez, nu te-ai antrenat pana acum si nu folosesti droguri.
+Acesta este motivul pentru care culturistii alterneaza in mod traditional fazele de castig si pierdere de grasime. Ei mananca mai multe alimente in cea mai mare parte, dar exista si pause in care mananca mai putin. Acesta este cel mai simplu mod de a construi muschi, fara a obtine grasime care functioneaza de fapt... daca nu esti obez, nu te-ai antrenat pana acum si nu folosesti droguri.
 
 Baietii obezi pot construi intr-adevar muschi in timp ce isi pierd grasimea atunci cand incep sa ridice. Corpurile lor isi folosesc rezervele de grasime pentru a construi muschi. Construiesc mai rapid forta si muschii fara a avea nevoie de atat de multa hrana. Si din moment ce muschiul este mai dens decat grasimea, ajung sa arate mai subtiri la aceeasi greutate corporala.
 
@@ -870,7 +870,7 @@ Puteti scapa dormind mai putin de opt ore in unele nopti. Am atins PR-uri la cin
 
 Pastrarea unui jurnal de somn ajuta. Folosesc aplicatia pentru sanatate pentru iPhone si alarma la culcare. Seteaza-ti ora de trezire si ora de culcare, astfel incat sa ai cele opt ore de somn. Telefonul dvs. va va anunta cand este timpul sa dormiti. Apoi urmariti timpul mediu de somn in aplicatia de sanatate. Ma apropii de opt ore.
 
-Alte cateva sfaturi care sa va ajute sa va imbunatatiti somnul, astfel incat sa va recuperati mai bine din antrenamentele dvs. ...
+Alte cateva sfaturi care sa va ajute sa va imbunatatiti somnul, astfel incat sa va recuperati mai bine din antrenamentele dvs....
 
 **- Dormitor intunecat**. Creierul tau are un ceas incorporat care iti regleaza somnul. Este influentat de lumina. Obtineti perdele negre sau o masca buna pentru ochi pentru a spune creierului dvs. ca este timpul sa dormiti.
 **- Opriti lumina albastra**. Televizorul, calculatoarele si telefoanele emit o lumina albastra care te tine treaz. Nu le folositi in dormitorul dvs. Activati costum de noapte pe iPhone si f.lux pe computer.
@@ -922,7 +922,7 @@ Chinups lucreaza mai mult muschii decat flexia cu hantera(curl). De aceea, putet
 
 Gropile(Dips) sunt cele mai bune exercitii de izolare pentru tricepsul tau. Indreptati bratele pentru a ridica greutatea, ca atunci cand lucrati concasoarele de craniu(skullcrushers). Dar iti poti implica si muschii pieptului. Cu cat lucrati mai multi muschi, cu atat puteti ridica o greutate mai mare. Dips-urile iti lucreaza muschiul triceps sa creasca mai mult decat o fac skullcrushers.
 
-Daca doriti sa lucrati bratele mai mult, adaugati Dips la antrenamentul A si Chinups la antrenamentul B. Trei seturi sunt suficiente, deoarece exercitiile principale functioneaza deja cu bratele. Programul tau va arata astfel ...
+Daca doriti sa lucrati bratele mai mult, adaugati Dips la antrenamentul A si Chinups la antrenamentul B. Trei seturi sunt suficiente, deoarece exercitiile principale functioneaza deja cu bratele. Programul tau va arata astfel...
 
 #### StrongLifts 5x5 Saptamana 1
 
@@ -1018,7 +1018,7 @@ Nutritia este, de asemenea, mai importanta decat cardio. Majoritatea oamenilor n
 
 De fapt, nu aveti nevoie de cardio pentru a pierde grasime. Puteti crea un deficit caloric consumand mai putin in timp ce ridicati greutati. Cardio va permite doar sa mancati calorii de intretinere in timp ce creati un deficit. Sau poate crea un deficit mai mare pentru a accelera pierderea de grasime. Dar poti sa slabesti fara sa faci niciun cardio. Eu nu fac.
 
-Unii oameni insista oricum sa faca cardio, asa ca iata optiunile voastre ...
+Unii oameni insista oricum sa faca cardio, asa ca iata optiunile voastre...
 
 **- HIIT**. Antrenament de inalta intensitate. Alterneaza exercitii intense cu perioade scurte de odihna. Frecventa cardiaca depaseste 85% in timpul atacurilor intense. Metabolismul creste pana la 48 de ore dupa HIIT. Dar este greu sa o faci mai mult de 20 de minute. Exemplu de HIIT: sprinturi cu intervale.
 **- LISS**. Intensitate scazuta cardio de stat. Frecventa cardiaca ramane constanta, intre 60-85% max. Puteti face LISS mai mult timp din cauza intensitatii mai mici. Dar metabolismul tau nu creste mult dupa aceea. Exemplu de LISS este mersul pe bicicleta stationara pentru 45 de minute.
@@ -1118,7 +1118,7 @@ Creta scade, de asemenea, acumularea calusului de la ridicare. Creeaza o suprafa
 
 Puiul nu este creta. Acesta este talc si scade frecarea. Powerlifters pun puiul de copil pe picioare atunci cand au [Indreptari](exerciti/spate/indreptari), astfel incat bara sa urce mai repede. Dar nu l-au pus niciodata pe maini, deoarece acest lucru face ca bara sa fie mai dificila si mai greu de retinut. Babypowder iti agraveaza stransoarea in loc sa o imbunatateasca.
 
-Creta de bord nu este la fel cu creta de sala. Creta de bord este fabricata din sulfat de calciu. Creta gimnastica este fabricata din carbonat de magneziu. Este acelasi care folosesc alpinistii de piatra alba si gimnaste. Puteti gasi creta in majoritatea magazinelor de alpinism. Sau il puteti comanda online, link-uri ...
+Creta de bord nu este la fel cu creta de sala. Creta de bord este fabricata din sulfat de calciu. Creta gimnastica este fabricata din carbonat de magneziu. Este acelasi care folosesc alpinistii de piatra alba si gimnaste. Puteti gasi creta in majoritatea magazinelor de alpinism. Sau il puteti comanda online, link-uri...
 
 **- GSC Gym Chalk **. Opt blocuri pentru un total de 1lb. Aceasta ar trebui sa dureze cateva luni. Spargeti unul in bucati intr-o galeata. Apoi puneti-va pe palme, astfel incat sa va umple pliurile pielii. Este normal sa fie necesar sa reaplicati creta pe setul urmator.
 **- Galeata Primo Chalk , 1lb creta intr-o galeata convenabila**. Dublati pretul, dar o calitate mai mare. Am avut in trecut eczeme din creta. Acesta pare sa fie mai usor pe maini.
@@ -1136,7 +1136,7 @@ Pantofii de alergare sunt groaznici pentru ridicare. Talpile au umplere de aer s
 
 Ridicarea descultului este mai buna, dar nu ideala, piciorul tau poate aluneca atunci cand te ghemuiesti sau Bench, deoarece nu ai tractiune. Arcul tau nu primeste niciun sprijin, ceea ce poate fi o idee proasta daca esti cu piciorul plat ca mine. Si multe sali de sport nu permit ridicarea descultelor, deoarece este necurat si nesigur.
 
-Cel mai bine este sa purtati pantofi cu talpa din plastic dur sau cauciuc dens. Talpa subtire te pune mai aproape de podea. Acestea scurteaza distanta pe care o parcurge bara cand faceti Indreptari, ajutandu-va sa trageti mai greu. Talpile plate va ajuta sa implicati lantul posterior mai mult pe Squat(Genoflexiuni cu haltera) and Indreptari(Deadlifts) Verificati aceste ...
+Cel mai bine este sa purtati pantofi cu talpa din plastic dur sau cauciuc dens. Talpa subtire te pune mai aproape de podea. Acestea scurteaza distanta pe care o parcurge bara cand faceti Indreptari, ajutandu-va sa trageti mai greu. Talpile plate va ajuta sa implicati lantul posterior mai mult pe Squat(Genoflexiuni cu haltera) and Indreptari(Deadlifts) Verificati aceste...
 
 **- Chuck Taylor **. Am ridicat in acestea timp de 10 ani. Talpa plata, tractiune buna, ieftin. Dar talpa este din cauciuc, astfel incat comprima putin. De asemenea, sunt inguste, care pot fi incomode daca aveti picioare late ca mine (motivul pentru care am incetat sa le folosesc pana la urma).
 **- Reebok Lite TR **. Asemanator lui Chuck, dar mai larg si cu un suport mai bun pentru glezna. Sunt mai vrac, mai scumpe si se pot incalzi. Am ridicat in acestea trei ani.
@@ -1164,7 +1164,7 @@ Centura trebuie sa aiba aceeasi latime in fata si in spate. Curele pentru cultur
 
 Curelele cu prindere unica sunt mai usor de instalat/dezactivat decat doua pini. Centurile cu prajini sunt mai usor de reglat decat centurile de parghie. Daca purtati cureaua mai stransa/mai stransa la unele exercitii, veti avea nevoie de o surubelnita pentru a regla centura. Cu centurile de pronga, pur si simplu mutati prongul in urmatoarea crestatura.
 
-Obtineti o centura groasa de 10 mm, daca nu sunteti un tip cu adevarat mare. Verificati aceste ...
+Obtineti o centura groasa de 10 mm, daca nu sunteti un tip cu adevarat mare. Verificati aceste...
 
 Curea Ader Powerlifting . 10mm grosime, 4 ″ latime, o singura prong. Pret bun.
 Flexz curea de ridicare . 10mm grosime, 4 ″ latime, o singura prong
@@ -1176,13 +1176,13 @@ Intotdeauna incalzire fara centura. Puneti-l pentru ultimele seturi de incalzire
 
 ## Accesorii<a name="accesorii"></a>
 
-Mai intai lucrurile de care nu ai nevoie si ar trebui sa nu mai folosesti ...
+Mai intai lucrurile de care nu ai nevoie si ar trebui sa nu mai folosesti...
 
 **- Oglinzi**. Ele va arata doar vederea din fata. Acestea iti pot regla gatul daca intorci capul pentru a verifica oglinda deoparte. Si provoaca o forma proasta. Atletii nu isi verifica forma intr-o oglinda in fotbal, fotbal sau tenis. Invata sa asculte cum se misca corpul lor. Daca doriti sa va verificati formularul, primiti in schimb un pod gorila si inregistrati-va telefonul.
 **- Manusi**. Ele fac bara mai groasa si mai greu de retinut. Acestea sunt ca niste sosete vechi, dupa cateva antrenamente. Se uzeaza rapid si adauga o cheltuiala inutila. Folositi creta in schimb pentru a va imbunatati stransoarea si a reduce calusurile. Si rade-ti calusele cu o piatra ponce .
 **- Schele**. Utilizarea de curele la fiecare exercitiu si set va va slabi stransoarea. Lasati-va stransoarea in loc sa o acoperiti cu curele. Folositi creta, strangeti cu greu bara si amestecati prinderea pe praguri.
 
-Puteti lua in considerare ...
+Puteti lua in considerare...
 
 **- Curea Dip**. Aceasta este o centura cu un lant pentru a atasa greutate pentru chinups si scufundari. Ar trebui sa faceti aceste exercitii ca orice alt exercitiu compus - greu. Obtineti o curea de baie pentru a adauga greutate odata ce le puteti face fara greutate. Nu faceti repetari interminabile sau pur si simplu antrenati rezistenta.
 **- Maneci genunchi **. Iti ung articulatiile prin captarea caldurii in jurul genunchilor. Acest lucru le face mai putin probabil sa se raneasca. Manecele genunchilor va pot oferi, de asemenea, increderea in Squat(Genoflexiuni cu haltera) daca aveti genunchii rai.Daca sunteti un pic mai in varsta, cel mai bine este sa purtati manecile genunchiului. Dar folositi o forma buna.
@@ -1286,11 +1286,11 @@ Multi oameni au fost surprinsi sa afle ca urmatorul lor antrenament cu mai multa
 
 Nu va fie teama de esec. Increderea dvs. nu poate creste daca evitati ceea ce va este frica. Toata lumea esueaza, am esuat mult. Ridicati in suportul de alimentare. Setati sigurantele. Intreaba de un loc,poate. Cateodata nu o sa reusesti, dar trebuie sa experimentezi si acest lucru. Dar nu evita esecul.
 
-Unii oameni nu adauga greutate pentru ca sunt nemultumiti de forma lor fizica. Daca corpul dvs. este perfect 80%, adaugati greutate. Atata timp cat nu comiti greseli periculoase, cum ar fi aplecarea pe spate prea mult, pozitia coatelor incorecta( prea departate) pe Bench, genunchii care sunt prea apropiati in ghemuit sau va arcuiti prea mult pe ohp ... continuati.
+Unii oameni nu adauga greutate pentru ca sunt nemultumiti de forma lor fizica. Daca corpul dvs. este perfect 80%, adaugati greutate. Atata timp cat nu comiti greseli periculoase, cum ar fi aplecarea pe spate prea mult, pozitia coatelor incorecta( prea departate) pe Bench, genunchii care sunt prea apropiati in ghemuit sau va arcuiti prea mult pe ohp... continuati.
 
 Greselile de 20% mai mici, incercati sa remediati in timp ce adaugati greutate. Lucreaza la postura in timpul incalzirii. Dar nu ramaneti cu greutati usoare pentru a obtine o forma perfecta. Oricine poate avea o forma perfecta cu greutati usoare. Este nevoie de forta pentru a avea o forma perfecta cu greutate mare. Trebuie sa ridici greutati mari pentru asta.
 
-In cele din urma, din cand in cand, exista un tip care renunta la program, pentru ca nu adaugat masa muscular/muschi. Privind mai aproape, de obicei, se dovedeste ca el nu a facut programul mai mult de cateva saptamani ... si niciodata nu si-a ridicat puterea de ridicare dincolo de 80kg/175lb [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera). 60kg/135lb Bench si 100kg/220 Indreptari ...
+In cele din urma, din cand in cand, exista un tip care renunta la program, pentru ca nu adaugat masa muscular/muschi. Privind mai aproape, de obicei, se dovedeste ca el nu a facut programul mai mult de cateva saptamani... si niciodata nu si-a ridicat puterea de ridicare dincolo de 80kg/175lb [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera). 60kg/135lb Bench si 100kg/220 Indreptari...
 
 Ar trebui sa fie evident ca nu puteti avea picioarele unei pesoane care face genuflexiuni(Genoflexiuni cu haltera) cu 140kg/300lb daca ridicati jumatate. Nu poti avea pieptul unei persoane care ridica la piept 100kg/220lb daca ai pus pe bara jumatate. Si nu poti avea spate dezvoltat precum al cuiva care [Indreptari(Deadlifts)](/exercitii/spate/indreptari) 180kg/400lb daca ridici jumatate. Duh.
 
