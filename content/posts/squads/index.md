@@ -610,7 +610,7 @@ Genuflexiunile(Squats) pot provoca, de asemenea, dureri de sold daca nu reusiti 
 
 ## Durerea inghinala(groin)<a name="#durerea-inghinala"></a>
 
-![Squat Groin Pain](/assets/squat-groin-pain.webp)
+![Squat Groin Pain](/content/posts/squads/assets/squat-groin-pain.webp)
 Faceti genufleiuni(Squats) cu o pozitie larga, de sumo, este greu la nivelul tau. In schimb, pastrati-ti latimea umerilor ca punct de reper.
 
 Genuflexiunile(Squats) pot provoca dureri ale muschilor inghinali daca ai o pozitie prea larga, departata. Nu flexati cu o pozitie de sumo. Nu imitati geared Powerlifters, care au o pozitie larga. Poarta costume compresive speciale pentru genuflexiuni(Squats) care le protejeaza zona inghinala. Squatters raw ca noi nu purtam si flexarea(Squatting) cu o pozitie larga ne va forta muschii/zona inghinala(groin). Ingusteaza-ti pozitia, astfel incat calcaiele sa fie la acelasi nivel cu umeri. Puteti merge si mai ingust pentru o perioada pentru a va solicita mai putin aductorii inghinali, astfel incat muschii/zona inghinala(groin) sa se recupereze.
