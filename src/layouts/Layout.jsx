@@ -42,6 +42,22 @@ const Layout = ({ children }) => (
             flex-direction: column;
             min-height: 100vh;
           }
+
+          .contents .contents-ul {
+            column-count: 2;
+            column-gap: 18%;
+            columns: 2;
+            list-style: none;
+          }
+
+          @media (max-width: ${theme.breakpoints.m}) {
+            .contents .contents-ul {
+              column-count: 1;
+              column-gap: 18%;
+              columns: 1;
+              list-style: none;
+            }
+          }
           a {
             color: ${theme.colors.link};
             transition: color 0.5s;
@@ -55,6 +71,11 @@ const Layout = ({ children }) => (
             font-size: 5rem;
             font-size: bold;
             font-family: ${theme.fontFamily.heading};
+          }
+          @media (max-width: ${theme.breakpoints.m}) {
+            h2 {
+              font-size: 1rem;
+            }
           }
           ${headroom}
         `}

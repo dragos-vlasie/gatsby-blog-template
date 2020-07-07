@@ -9,7 +9,9 @@ published: true
 
 ## Cum să faceți tracțiuni (Pullups) cu o formă corectă: Ghidul definitiv
 
-## Cum se face tracțiuni: stati atârnați pe bara cu brațele drepte. Trageți până când bărbia vă trece de bara.
+## Cum se face tracțiuni: stati atârnați pe bara cu brațele drepte.
+
+**Trageți până când bărbia vă trece de bara.**
 
 Iată cum puteți face tractiuni(Pullups) cu o formă adecvată:
 
@@ -61,11 +63,11 @@ Tineti-va de bara cu brațele drepte, trageți-vă în sus până când bărbia 
 
 Agățați-vă de bara pentru tracțiuni (Pullups) a Power Rack-ului dvs. pentru a face tracțiuni (Pullups). Dacă nu are acest tip de bara, ridicați pozițiile verticale ale Power Rack sau Squat Rack cât mai sus. Apoi puneți bara în montanti(uprights) și agățați-o pentru a face tracțiuni (Pullups). Dacă nu aveți Power Rack, obțineți o bara tracțiuni (Pullups) pentru uși(doorway pullup bar). După ce aveți o bară de care să vă agățați, urmați acești cinci pași simpli pentru a face tractiuni(Pullups) cu o formă adecvată.
 
-**- Prinde bara**.Priza trebuie sa fie egala cu lățimea umerilor. Priza trebuie sa fie deplina cu palmele în jos.
-**- Stai atârnat**.Ridicați-va picioarele de pe podea indoindu-va genunchii. Brațele trebuie sa fie drepte.
-**- Trage**.Trageți-vă în sus trăgând coatele în jos. Ține-ți coatele aproape.
-**- Treceți de bara**.Trageți-vă până la capăt până când bărbia vă trece de bara. Nu faceți jumatate de repetare.
-**- Repeta**.Coborâți până jos, până când brațele sunt drepte. Respira. Fa tracțiuni(Pullups) din nou.
+- **Prinde bara**.Priza trebuie sa fie egala cu lățimea umerilor. Priza trebuie sa fie deplina cu palmele în jos.
+- **Stai atârnat**.Ridicați-va picioarele de pe podea indoindu-va genunchii. Brațele trebuie sa fie drepte.
+- **Trage**.Trageți-vă în sus trăgând coatele în jos. Ține-ți coatele aproape.
+- **Treceți de bara**.Trageți-vă până la capăt până când bărbia vă trece de bara. Nu faceți jumatate de repetare.
+- **Repeta**.Coborâți până jos, până când brațele sunt drepte. Respira. Fa tracțiuni(Pullups) din nou.
 
 Dacă îți lipsește puterea pentru a face macar o tractiune, fă repetari negative. Vei ajunge cu bărbia peste bară, stând pe bancă sau pe carligele de siguranță(safety pins) ale Power Rack. Coborâți încet și apoi săriți din nou pentru următoarea repetare. De asemenea, puteți pune o bandă de rezistență în jurul piciorului pentru a vă ajuta. Sau puteți ruga pe cineva să vă ajute ținându-vă picioarele. Dar nu folosiți aparate speciale(Pullup machines). Cel mai bun mod de a deveni mai bun la tractiuni este să faci tractiuni (Pullups).
 
@@ -75,19 +77,19 @@ Forma de tractiune corectă: brațele drepte în partea de jos(bottom), bărbie 
 
 Construcția dvs. determină distanta dintre maini(prize). Cu cât umerii sunt mai lăți, cu atât prize ar trebui să fie mai largă. Dar niciodată nu poate fi mai larga sau mai îngust decât lățimea umerilor. Și fiecare repetare trebuie să înceapă cu coatele blocate/fixate în partea de jos și să se încheie cu bărbia aflata peste bară, în partea de sus. Nu faceți jumătate din repetare, veți obține jumătate din câștiguri. Folosiți o gamă completă de mișcare. Urmați aceste instrucțiuni pentru a face tractiuni(Pullups) cu o formă corectă ...
 
-**- Prinderea**.Priza/prinderea completa. Palmele in jos. Țineți bara sus, aproape de degete.
-**- Lățime prinderii/prizei.Mâinile tale ar trebui să fie la o distanță egala cu latimea umerilor**.Nu prindeti prea larg(distanta dintre maine prea mare).
-**- Coatele**.Păstrați-le la 45 ° ca atunci când faceti Overhead Press. Nu vă lăsați coatele in afară.
-**- Pieptul**.Ridică-ți pieptul. Conduce cu el in urcare. Încercați să atingeți bara cu pieptul.
-**- Umerii**.Ține-i în spate/inapoi. Nu ii tine înainte. Nu vă incordati omoplatele.
-**- Cap**.Păstrați-l neutru. Priviti inainte. Nu te uita la bara. Nu o atinge cu capul.
-**- Partea inferioară a spatelui**.Aceasta rămâne neutra. Trebuie sa se creeze o linie dreaptă de la umeri până la genunchi. Nu vă arcuiti partea inferioară a spatelui.
-**- Picioare**.Îndoiți genunchii pentru a vă ridica picioarele de podea. Încrucișează-ți picioarele și contractati-va muschii fesieri.
-**- Pozitia initiala, cea de jos**.Atarnati cu brațele drepte și coatele blocate/fixe. Ridică umerii spre tavan, in sus.
-**- Ridicarea**.Trageți-vă în sus, trăgând coatele în jos și spre podea. Conduce cu pieptul.
-**- Varful**.Trageti pana cand bărbia este peste bară. Ține-ți capul neutru . Nu-l ridicati capul, pentru a trece de bară.
-**- Coborarea**.Coborâți până jos, până când brațele sunt drepte.
-**- Respiraţia**.Respirați în partea de jos, țineți-va respiratia în partea de sus, expirați / inspirați în partea de jos.
+- **Prinderea**.Priza/prinderea completa. Palmele in jos. Țineți bara sus, aproape de degete.
+- **Lățime prinderii/prizei**.Mâinile tale ar trebui să fie la o distanță egala cu latimea umerilor.Nu prindeti prea larg(distanta dintre maine prea mare).
+- **Coatele**.Păstrați-le la 45 ° ca atunci când faceti Overhead Press. Nu vă lăsați coatele in afară.
+- **Pieptul**.Ridică-ți pieptul. Conduce cu el in urcare. Încercați să atingeți bara cu pieptul.
+- **Umerii**.Ține-i în spate/inapoi. Nu ii tine înainte. Nu vă incordati omoplatele.
+- **Cap**.Păstrați-l neutru. Priviti inainte. Nu te uita la bara. Nu o atinge cu capul.
+- **Partea inferioară a spatelui**.Aceasta rămâne neutra. Trebuie sa se creeze o linie dreaptă de la umeri până la genunchi. Nu vă arcuiti partea inferioară a spatelui.
+- **Picioare**.Îndoiți genunchii pentru a vă ridica picioarele de podea. Încrucișează-ți picioarele și contractati-va muschii fesieri.
+- **Pozitia initiala, cea de jos**.Atarnati cu brațele drepte și coatele blocate/fixe. Ridică umerii spre tavan, in sus.
+- **Ridicarea**.Trageți-vă în sus, trăgând coatele în jos și spre podea. Conduce cu pieptul.
+- **Varful**.Trageti pana cand bărbia este peste bară. Ține-ți capul neutru . Nu-l ridicati capul, pentru a trece de bară.
+- **Coborarea**.Coborâți până jos, până când brațele sunt drepte.
+- **Respiraţia**.Respirați în partea de jos, țineți-va respiratia în partea de sus, expirați / inspirați în partea de jos.
 
 Gratuit: descărcați lista mea de verificare Pullups pentru a obține cele mai bune sfaturi pentru a face tractiuni (Pullups) cu o formă adecvată. Revedeti aceste sfaturi între seturi și veți face mai multe tractiuni fără să vă răniți. Înscrieți-vă pentru a avea acces instantaneu la lista de verificare si va voi trimite sfaturi si trucuri zilnice pe e-mail. Doar faceți click aici.
 
@@ -96,9 +98,9 @@ Gratuit: descărcați lista mea de verificare Pullups pentru a obține cele mai 
 Tractiunile(Pullups) sunt în mare parte un exercițiu pentru partea superioară a spatelui și brațe, precum Barbell Rows. Dar vă antrenează altfel spatele. Tractiunile(Pullups) sunt o mișcare verticală ca Overhead Press. Barbell Rows este o mișcare orizontală precum Bench Press. Tractiunile(Pullups) antrenează mai puțin mușchi decât Barbell Rows, deoarece picioarele și șoldurile nu fac altceva decât să atârne.
 Tractiunile (Pullups) sunt, așadar, mai puțin potrivite pentru tot corpul și mai mult focalizate pe partea superioara. Iată mușchii pe care acestea ii lucreaza…
 
-**- Spatele superior**.“Latissimus dorsi”, numiti si “Lats” sau dorsul mare, trage brațele superioare în jos pentru a se te ridica pe tine. Muschiul dorsal mare este cel mai mare mușchi al spatelui care creează un aspect „în formă de v”. Tractiunile(Pullups) îți lucrează trapezul, umerii din spate și diverși mușchi mici din partea superioară a spatelui.
-**- Bratele**.Bicepsul îți îndoaie coatele pentru a te ridica. Bicepsul tău lucrează cel mai mult atunci când faci Chinups cu palmele în sus. Mușchii de la antebrațe lucreaza, de asemenea, pentru a vă îndoi cotul și pentru a vă ține de bară. Tricepsul îți trage coatele înapoi spre trunchi.
-**- Abdomenul**.Mușchii abdominal împiedică spatele inferior sa se arcuiasca în timp ce faci tractiuni. Ei mențin o linie dreaptă: de la umeri până la genunchi. Acest lucru lucreaza mușchiul „6 pack” care îți trece peste burtă, rectus abdominus. Mâncați corect și vor apărea.
+- **Spatele superior**.“Latissimus dorsi”, numiti si “Lats” sau dorsul mare, trage brațele superioare în jos pentru a se te ridica pe tine. Muschiul dorsal mare este cel mai mare mușchi al spatelui care creează un aspect „în formă de v”. Tractiunile(Pullups) îți lucrează trapezul, umerii din spate și diverși mușchi mici din partea superioară a spatelui.
+- **Bratele**.Bicepsul îți îndoaie coatele pentru a te ridica. Bicepsul tău lucrează cel mai mult atunci când faci Chinups cu palmele în sus. Mușchii de la antebrațe lucreaza, de asemenea, pentru a vă îndoi cotul și pentru a vă ține de bară. Tricepsul îți trage coatele înapoi spre trunchi.
+- **Abdomenul**.Mușchii abdominal împiedică spatele inferior sa se arcuiasca în timp ce faci tractiuni. Ei mențin o linie dreaptă: de la umeri până la genunchi. Acest lucru lucreaza mușchiul „6 pack” care îți trece peste burtă, rectus abdominus. Mâncați corect și vor apărea.
 
 Puteți adăuga tractiuni(Pullups) ca exercițiu de izolare la StrongLifts 5 × 5. Pentru mai multe informații, citiți aici.
 
@@ -128,33 +130,33 @@ Double Overhand. Țineți bara cu palmele orientate în sus pentru tractiuni (Pu
 
 Prindeti bara astfel incat distanta dintre maini sa fie egala cu latime cu umerii cand faceti tractiuni(pull-ups).
 
-**- Prindere îngustă**.Distanta dintre maine trebuie sa fie egala cu lățimea umerilor când faceți tractiuni (Pullups) sau Chinups. Mâinile tale ar trebui să fie chiar în afara umerilor când bărbia trece de bara, în vârf. Inseamnă că lățimea dvs. de prindere pentru tractiuni(Pullups) ar trebui să fie aceeași ca atunci când faceti Overhead Press. Lățimea exactă a prizei depinde de latimea umerilor. Dar brațele ar trebui să fie aproape de verticală atunci când stai agățat de bară.
+- **Prindere îngustă**.Distanta dintre maine trebuie sa fie egala cu lățimea umerilor când faceți tractiuni (Pullups) sau Chinups. Mâinile tale ar trebui să fie chiar în afara umerilor când bărbia trece de bara, în vârf. Inseamnă că lățimea dvs. de prindere pentru tractiuni(Pullups) ar trebui să fie aceeași ca atunci când faceti Overhead Press. Lățimea exactă a prizei depinde de latimea umerilor. Dar brațele ar trebui să fie aproape de verticală atunci când stai agățat de bară.
 
-**- Fără prize largi**.Prinderea largă scurtează raza de mișcare. Îți ușurează tractiunile (Pullups) pentru că te tragi pe o distanță mai scurtă. Dar, de asemenea, vă poate face să vă suprasolicitati coatele și să vă răniți umerii. În plus, vrei să îți lucrezi mușchii printr-o gamă completă de mișcare, nu pe jumătate. Acest lucru vă consolidează dorsul mare(lats) și crește dimensiunea spatelui. O priza largă este inutilă și neproductivă. Lucrati cu o prindere/priza îngustă și grea.
+- **Fără prize largi**.Prinderea largă scurtează raza de mișcare. Îți ușurează tractiunile (Pullups) pentru că te tragi pe o distanță mai scurtă. Dar, de asemenea, vă poate face să vă suprasolicitati coatele și să vă răniți umerii. În plus, vrei să îți lucrezi mușchii printr-o gamă completă de mișcare, nu pe jumătate. Acest lucru vă consolidează dorsul mare(lats) și crește dimensiunea spatelui. O priza largă este inutilă și neproductivă. Lucrati cu o prindere/priza îngustă și grea.
 
 ## Coate
 
 Începeți fiecare repetare cu coatele blocate pentru o dezvoltare maximă a brațului
 
-**- Blocați-vă în partea de jos**.Începeți fiecare repetare cu coatele blocate. Repetarea nu este valida dacă brațele au început să fie îndoite în partea de jos. Brațele tale trebuie să fie drepte înainte să te ridici. Stati agatati pe bara cu coatele blocate/fixate. Coborâți-vă până la capăt între repetări. Acest lucru va fi mai greu, deoarece drumul de mișcare este mai lung. Dar nu este rău pentru articulațiile cotului, atât timp cât nu hiper-extindeți. Blocheaza ușor coatele.
+- **Blocați-vă în partea de jos**.Începeți fiecare repetare cu coatele blocate. Repetarea nu este valida dacă brațele au început să fie îndoite în partea de jos. Brațele tale trebuie să fie drepte înainte să te ridici. Stati agatati pe bara cu coatele blocate/fixate. Coborâți-vă până la capăt între repetări. Acest lucru va fi mai greu, deoarece drumul de mișcare este mai lung. Dar nu este rău pentru articulațiile cotului, atât timp cât nu hiper-extindeți. Blocheaza ușor coatele.
 
-**- Coatele la 45 °**.Trageți-vă în sus, impingând coatele în jos. Ține coatele aproape de trunchi. Coatele nu ar trebui să fie flare și să nu ajunga perpendicular pe trunchiul dvs. în partea de sus. Acestea ar trebui să-ți atingă cutia toracica / muschiul dorsal mare, la aproximativ 45 °. Trebuie să strângi bara îngustă, chiar în afara umerilor, pentru ca acest lucru să funcționeze. Dacă o faceți corect, poziția superioară a tractiunii(pull-ups) va arăta ca poziția de jos a Overhead Press.
+- **Coatele la 45 °**.Trageți-vă în sus, impingând coatele în jos. Ține coatele aproape de trunchi. Coatele nu ar trebui să fie flare și să nu ajunga perpendicular pe trunchiul dvs. în partea de sus. Acestea ar trebui să-ți atingă cutia toracica / muschiul dorsal mare, la aproximativ 45 °. Trebuie să strângi bara îngustă, chiar în afara umerilor, pentru ca acest lucru să funcționeze. Dacă o faceți corect, poziția superioară a tractiunii(pull-ups) va arăta ca poziția de jos a Overhead Press.
 
 ## Pieptul
 
-**- Condu cu pieptul**.Ridica-te, conducând cu pieptul. Încercați să atingeți bara cu pieptul superior (claviculă). Nu vă faceți griji dacă nu puteți atinge bara cu pieptul. Atâta timp cât bărbia ta a trecut de bară, repetarea este buna. Scopul este de a evita umerii să se duca înainte. Vrei să ii ții înapoi pentru a nu-i răni. Trucul este de a duce cu tine pieptul pe drumul de urcare a tractiunii(Pullups).
+- **Condu cu pieptul**.Ridica-te, conducând cu pieptul. Încercați să atingeți bara cu pieptul superior (claviculă). Nu vă faceți griji dacă nu puteți atinge bara cu pieptul. Atâta timp cât bărbia ta a trecut de bară, repetarea este buna. Scopul este de a evita umerii să se duca înainte. Vrei să ii ții înapoi pentru a nu-i răni. Trucul este de a duce cu tine pieptul pe drumul de urcare a tractiunii(Pullups).
 
 ## Umerii
 
-**- Ține-ți umerii în spate**.Nu lăsați umerii să se duca înainte în timpul tractiunii(Pullups) sau Chinups. Rularea umerilor înainte poate duce la dureri de umăr. Ține-ți umerii înapoi. Nu trebuie să strângeți omoplatele pentru a face acest lucru. În schimb, trageți-vă în sus, conducând cu pieptul. Acest lucru vă va menține umerii înapoi. Nu faceți tractiuni(Pullups) cu o formă proastă doar pentru a obține mai multe repetări. Fă bine, ca să nu te doară.
+- **Ține-ți umerii în spate**.Nu lăsați umerii să se duca înainte în timpul tractiunii(Pullups) sau Chinups. Rularea umerilor înainte poate duce la dureri de umăr. Ține-ți umerii înapoi. Nu trebuie să strângeți omoplatele pentru a face acest lucru. În schimb, trageți-vă în sus, conducând cu pieptul. Acest lucru vă va menține umerii înapoi. Nu faceți tractiuni(Pullups) cu o formă proastă doar pentru a obține mai multe repetări. Fă bine, ca să nu te doară.
 
 ## Cap
 
-**- Uita-te in fata**.Nu te uita la tavan sau la bara. Nu priviți intr-o parte și nu vă înclinați capul. Privește in fata, în schimb. Mențineți-vă capul pe linie cu trunchiul. În acest fel nu există nicio perforare a discurilor spinale din gât. Ește mai puțin probabil să faci dureri de gât din cauza tractiunilor (Pullups). Uită-te la peretele din fața ta. Dacă există o oglindă, uită-te prin ea. Ar trebui să ai o linie dreaptă de la cap la șold atunci când faci tractiuni (Pullups) sau Chinups.
+- **Uita-te in fata**.Nu te uita la tavan sau la bara. Nu priviți intr-o parte și nu vă înclinați capul. Privește in fata, în schimb. Mențineți-vă capul pe linie cu trunchiul. În acest fel nu există nicio perforare a discurilor spinale din gât. Ește mai puțin probabil să faci dureri de gât din cauza tractiunilor (Pullups). Uită-te la peretele din fața ta. Dacă există o oglindă, uită-te prin ea. Ar trebui să ai o linie dreaptă de la cap la șold atunci când faci tractiuni (Pullups) sau Chinups.
 
 ## Partea inferioară a spatelui
 
-**- Arc natural**.Mențineți-vă spatele inferior neutru. Nu ar trebui să fie plat, dar nici arcuit. În schimb, ar trebui să faci tractiuni (Pullups) cu un arc natural în spatele inferior ca atunci când stai. Nu-l lăsați să se arcuiasca sau o sa va perforati coloanele vertebrale și s-ar putea să ai dureri de spate. Tineti-l neutru, ținându-vă cutia toracica în jos. Incordati-va abdomenul și îndreptați-vă picioarele pe drumul de urcare. Păstrați o linie dreaptă de la umeri până la genunchi.
+- **Arc natural**.Mențineți-vă spatele inferior neutru. Nu ar trebui să fie plat, dar nici arcuit. În schimb, ar trebui să faci tractiuni (Pullups) cu un arc natural în spatele inferior ca atunci când stai. Nu-l lăsați să se arcuiasca sau o sa va perforati coloanele vertebrale și s-ar putea să ai dureri de spate. Tineti-l neutru, ținându-vă cutia toracica în jos. Incordati-va abdomenul și îndreptați-vă picioarele pe drumul de urcare. Păstrați o linie dreaptă de la umeri până la genunchi.
 
 ## Picioare
 
@@ -164,7 +166,7 @@ Genunchii îndoiti împotriva(vs) picioarelor drepte. Tractiunile(Pullups)facute
 
 Brațele trebuie sa fie drepte in partea de jos a fiecarei tractiuni(Pullups).
 
-**- Brațe drepte**.Stati agatati cu brațele drepte și coatele blocare/fixe înainte de a vă ridica pentru prima repriză. Lasa-ti spatele si muschiul dorsal sa se intinde(stretching). Ridicați din umeri către tavan. Respirați puternic, mentineti-va respiratia și trageți-vă în sus, conducând coatele în jos. Apoi coborâți până la capăt până când brațele sunt din nou drepte si blocate. Lasă totul să se întindă. Nu începeți nici o repetare cu coatele îndoite. Asa trisezi.
+- **Brațe drepte**.Stati agatati cu brațele drepte și coatele blocare/fixe înainte de a vă ridica pentru prima repriză. Lasa-ti spatele si muschiul dorsal sa se intinde(stretching). Ridicați din umeri către tavan. Respirați puternic, mentineti-va respiratia și trageți-vă în sus, conducând coatele în jos. Apoi coborâți până la capăt până când brațele sunt din nou drepte si blocate. Lasă totul să se întindă. Nu începeți nici o repetare cu coatele îndoite. Asa trisezi.
 
 ## Ridicarea
 
@@ -174,15 +176,15 @@ Coatele în jos. Trageți-vă în sus, ducându-vă coatele în jos. Ține-ți c
 
 Trageți bărbia peste bară, in partea de sus a tractiunii(pull-ups). Jumătate de repetare nu contează.
 
-**- Barbia peste bara**.Trageți-vă până la capăt până când bărbia vă trece bara. Doar fruntea mai sus de bara nu contează. Nasul deasupra barei nu contează, de asemenea. Ambele scurtează raza de mișcare. Este ca și cum ai face o jumătate de genuflexiunie(Squat). Obțineți jumătate din rezultat, deoarece brațele nu au o contracție completă în partea de sus. Treci cu bărbia peste bară, fără a-ti forta capul, sau fara sa-ti lungesti gatul. Dacă nu o puteți face, utilizați o bandă de rezistență pentru a vă ajuta.
+- **Barbia peste bara**.Trageți-vă până la capăt până când bărbia vă trece bara. Doar fruntea mai sus de bara nu contează. Nasul deasupra barei nu contează, de asemenea. Ambele scurtează raza de mișcare. Este ca și cum ai face o jumătate de genuflexiunie(Squat). Obțineți jumătate din rezultat, deoarece brațele nu au o contracție completă în partea de sus. Treci cu bărbia peste bară, fără a-ti forta capul, sau fara sa-ti lungesti gatul. Dacă nu o puteți face, utilizați o bandă de rezistență pentru a vă ajuta.
 
 ## Coborarea
 
-**- Blochează-ți coatele**.Coborâți-vă până la capăt, până când coatele sunt încuiate. Brațele tale trebuie să fie drepte când stai agatat între repetari. Nu începe niciodată următoarea repetare cu coatele îndoite. Repetarea nu este corecta, validata, dacă coatele nu au fost blocate, deoarece acest lucru scurtează intervalul de mișcare. Este ca și cum ai face o jumătate de genuflexiune(Squat). Mergeți până la capăt. Atâta timp cât nu îți hiper-extindeți coatele, dar blocați ușor, coatele vor fi în siguranță.
+- **Blochează-ți coatele**.Coborâți-vă până la capăt, până când coatele sunt încuiate. Brațele tale trebuie să fie drepte când stai agatat între repetari. Nu începe niciodată următoarea repetare cu coatele îndoite. Repetarea nu este corecta, validata, dacă coatele nu au fost blocate, deoarece acest lucru scurtează intervalul de mișcare. Este ca și cum ai face o jumătate de genuflexiune(Squat). Mergeți până la capăt. Atâta timp cât nu îți hiper-extindeți coatele, dar blocați ușor, coatele vor fi în siguranță.
 
 ## Respiraţie
 
-**- Respirați în partea de jos**.Stati agățați de bara cu brațele drepte si picioarele dezlipite de pe podea. Respirați puternic, mentineti-o și trageți-vă în sus. Du bărbia peste bară. Apoi coborâți până jos, până când brațele sunt drepte. Expirati in partea de jos si lasati totul sa se intinda(stretch). Oferiti-va o secundă pentru a vă aduna, apoi inspirați și trageți-vă din nou în sus. Repetați până când setul dvs. s-a încheiat.
+- **Respirați în partea de jos**.Stati agățați de bara cu brațele drepte si picioarele dezlipite de pe podea. Respirați puternic, mentineti-o și trageți-vă în sus. Du bărbia peste bară. Apoi coborâți până jos, până când brațele sunt drepte. Expirati in partea de jos si lasati totul sa se intinda(stretch). Oferiti-va o secundă pentru a vă aduna, apoi inspirați și trageți-vă din nou în sus. Repetați până când setul dvs. s-a încheiat.
 
 ## Probleme comune
 
@@ -216,10 +218,10 @@ Folosiți o bandă de rezistență pentru a vă ajuta pe urcare.
 
 Benzile de rezistență de care aveți nevoie pentru tractiuni(Pullups) sunt de 1m / 41 ″ lungime și 4.5mm grosime. Lățimea lor variază, dar cu cât sunt mai largi, cu atât vei primi mai multă sustinere. Oamenii de dimensiuni medii ca mine (am 75 kg) au nevoie de mai puțin ajutor. De obicei, suntem bine cu o bandă de rezistență medie. Băieții mai mari au nevoie de mai mult ajutor. Dacă cântăriți + 100kg / 220lb, aveți nevoie de o bandă de rezistență mare (sau una medie + mică). Iată câteva benzi de rezistență pe care le recomand ...
 
-**- Benzi serioase de oțel - albastru # 3 dacă aveți o dimensiune medie, adăugați roșu # 2 dacă sunteți mari**
-**- Benzi lemnoase de fier**
-**- Draper’s Strength**
-**- WODFitters**
+- **Benzi serioase de oțel - albastru # 3 dacă aveți o dimensiune medie, adăugați roșu # 2 dacă sunteți mari**
+- **Benzi lemnoase de fier**
+- **Draper’s Strength**
+- **WODFitters**
 
 Cel mai rapid mod de a deveni mai puternic cu tractiuni(Pullups) este de a face tractiuni(Pullups) zilnic. Cumparati-va doorway pullup bar pentru acasă. Am unul lângă biroul unde lucrez. Fă o singură tractiune de fiecare dată când treci pe langa bara. Folosiți o formă adecvată și stați departe de eșec. După câteva săptămâni, veți putea face mai multe tractiuni(Pullups) la rând. Pavel Tsatsouline numește acest „Greasing The Groove”. Practica frecventă și specifică este cea mai rapidă modalitate de a deveni mai buni la tractiuni(Pullups).
 
@@ -255,9 +257,9 @@ Utilizați o curea speciala pentru a adăuga greutate pe Chinups și Pullups.
 
 Curele pentru tractiuni de calitate pot sustine cu ușurință 80kg / 150lb și mai mult. Nu recomand să puneți un lanț pe centura pe care o utilizați pentru genuflexiuni(Squats) and Deadlifts, aceasta o va deteriora. Obțineți în schimb o curea speciala pentru tractiuni. Sugestii:
 
-**- Curea Dip Polypro**
-**- Curea Brute**
-**- Curea Rogue Dip**
+- **Curea Dip Polypro**
+- **Curea Brute**
+- **Curea Rogue Dip**
 
 De asemenea, nu recomand să ții o ganteră între picioare. Acest lucru funcționează numai cu greutăți ușoare. Greutatea grea iti va cadea dintre picioare. Chiar dacă o puteți ține, funcționează doar dacă bara de tracțiune este ridicată, astfel încât picioarele dvs. nu ating podeaua. Nu puteți ține gantera între picioare cu genunchii îndoiti. Și nu puteți îndrepta picioarele dacă faceți tractiuni(Pullups) într-un Power Rack redus ca al meu. Acesta este motivul pentru care folosesc o curea speciala pentru tractiuni.
 

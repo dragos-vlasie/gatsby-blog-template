@@ -9,9 +9,10 @@ published: true
 
 ## Cum sa faceti Impinsul cu haltera de la piept(Bench Press) cu o forma adecvata: Ghidul definitiv
 
-## Cum sa faceti Impinsul cu haltera de la piept(Bench Press) cu o forma adecvata: Coborati bara pana la mijlocul pieptului. Apasati-o inapoi pana cand coatele sunt blocate.
+## Cum sa faceti Impinsul cu haltera de la piept(Bench Press) cu o forma adecvata:
 
 ![Bench press](./assets/bench-press.jpg)
+**Coborati bara pana la mijlocul pieptului. Apasati-o inapoi pana cand coatele sunt blocate.**
 
 ## Iata cum sa faci Impinsul cu haltera de la piept(Bench Press) cu o forma corecta:
 
@@ -33,8 +34,8 @@ Acesta este ghidul definitiv pentru o forma corespunzatoare pe Impinsul cu halte
 
 <details style="border:1px solid black;"><summary>Cuprins</summary>
 
-<div class="test" style="width: 100%; display: table;">
-   <ul style="column-count: 2; column-gap: 18%; columns: 2; list-style: none;">
+<div class="contents" style="width: 100%; display: table;">
+   <ul class="contents-ul">
       <li style="list-style:none;">
          <a style="font-size:16px;" href="#prezentare-generala"> 1 Introducere</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
@@ -170,71 +171,67 @@ Acesta este ghidul definitiv pentru o forma corespunzatoare pe Impinsul cu halte
 ## Cum sa faci Bench Press<a name="cum-sa-faci-bench-press"></a>
 
 ![How to bench press](./assets/how-to-bench-press.jpg)
-
-Cum sa banci Apasati cu o forma adecvata: pregatiti-va pe banca, apucati bara, deblocati-o, coborati-o pana la mijlocul pieptului si ridicati-o inapoi.
+Cum sa faci bench press cu o forma adecvata: pregatiti-va pe banca, apucati bara, deblocati-o, coborati-o pana la mijlocul pieptului si ridicati-o inapoi.
 
 Faceti Bench Press in Power Rack pentru o siguranta maxima. Setati carligele de siguranta la inaltimea corespunzatoare, astfel incat sa prinda greutatea daca nu reusiti sa o ridicati. Nu aveti nevoie de spotter daca lucrati Bench Press in Power Rack, asa cum fac eu. Daca nu aveti un Power Rack, cereti cuiva din sala sa se uite cand faceti Bench Press. Apoi urmati acesti cinci pasi simpli pentru a face Bench Press cu o forma corespunzatoare.
 
-**- Pregatirea(Setup)**. Intinde-te pe banca plata cu ochii sub bara. Ridicati pieptul si contractati-va omoplatele. Labele piciorului plate pe podea.
-**- Prinde bara**. Pune-ti degetul mic pe semnele inelare ale barei tale(ring marks). Tineti bara in baza palmei cu o strangere completa si incheieturile drepte.
-**- Deblocati(Unrack)**. Respirati puternic si deblocati bara indreptandu-va bratele. Mutati bara peste umeri cu coatele blocate/fixate.
-**- Coborati bara**. Coborati-o pana la mijlocul pieptului, in timp ce va mutati coatele cu 75°. Pastreaza-ti antebratele verticale. Tine-ti respiratia in partea de jos.
-**- Presa(Press)**. Impingeti bara de la mijlocul pieptului pana deasupra umerilor. Tine-ti fundul pe banca. Fixati coatele in partea de sus. Respirati.
+- **Pregatirea(Setup)**. Intinde-te pe banca plata cu ochii sub bara. Ridicati pieptul si contractati-va omoplatele. Labele piciorului plate pe podea.
+- **Prinde bara**. Pune-ti degetul mic pe semnele inelare ale barei tale(ring marks). Tineti bara in baza palmei cu o strangere completa si incheieturile drepte.
+- **Deblocati(Unrack)**. Respirati puternic si deblocati bara indreptandu-va bratele. Mutati bara peste umeri cu coatele blocate/fixate.
+- **Coborati bara**. Coborati-o pana la mijlocul pieptului, in timp ce va mutati coatele cu 75°. Pastreaza-ti antebratele verticale. Tine-ti respiratia in partea de jos.
+- **Presa(Press)**. Impingeti bara de la mijlocul pieptului pana deasupra umerilor. Tine-ti fundul pe banca. Fixati coatele in partea de sus. Respirati.
 
 Fixati(Rack) greutatea odata ce ati facut Bench Press, cinci repetari pe StrongLIfts 5 × 5. Incheiati ultima reprezentare mai intai, impingeti greutatea departe de piept pana cand veti indreta si fixa coatele. Apoi mutati bara orizontal de deasupra umerilor pe Power Rack. Nu incercati sa o asezati direct pe montanti (uprights), deoarece puteti sa nu nimeriti. Tintiti partile verticale ale Power Rack-ului. Dupa ce le-ati lovit, indoiti coatele pentru a cobori bara in pozitia verticala.
 
 ## Pregatirea pentru Bench Press<a name="pregatirea-bench-press"></a>
 
 ![Bench Press Setup](./assets/bench-press-setup.jpg)
-
 Pregatirea pentru Bench Press: asezati-va pe banca, culcati-va, contactati-va omoplatele, apucati bara, fixati-va picioarele si apoi deblocati bara.
 
 Pregatiti-va echipamentul mai intai. Puneti carligele de siguranta(safety pins) ale Power Rack-ului dvs. la inaltimea corespunzatoare, astfel incat sa poata prinde greutatea daca nu reusiti repetarea. Centreaza-ti banca. Apoi, fixeaza-te inainte de a desprinde greutatea. Incheieturile se vor indoi daca prindeti bara gresit. Umerii tai se vor misca daca omoplatele nu sunt contractate. Si nu o puteti corecta atunci cand greutatea grea creaza presiune. Pregatiti-va in mod corespunzator pentru a va imbunatati forma si pentru a creste presiunea de pe banca.
 
-**- Intindeti-va**. Stai mai intai la capatul bancii. Apoi intindeti-va pe banca. Pune ochii sub bara.
-**- Contactati-va omoplatele**. Ridicati pieptul si incordeaza-ti partea superioara a spatelui. Omoplatele trebuie sa fie inapoi si in jos. Incordati-le.
-**- Prinde bara**. Degetul mic in interiorul semnelor inelare(ring marks). Tineti bara jos, aproape de incheietura mainii. Strangeti bara folosind prinderea/priza completa, astfel incat sa nu se poata deplasa.
-**- Fixati-va picioarele**. Picioarele fixate pe podea, la o distanta egala cu latimea umerilor. Setati-va mai intai un picior sub genunchi, apoi fixati-l pe celalalt.
-**- Deblocati(Unrack) bara**. Indreptati-va bratele pentru a ridica bara de pe montanti(uprights). Muta-o pe orizontala pana cand este echilibrat peste umeri. Terminat.
+- **Intindeti-va**. Stai mai intai la capatul bancii. Apoi intindeti-va pe banca. Pune ochii sub bara.
+- **Contactati-va omoplatele**. Ridicati pieptul si incordeaza-ti partea superioara a spatelui. Omoplatele trebuie sa fie inapoi si in jos. Incordati-le.
+- **Prinde bara**. Degetul mic in interiorul semnelor inelare(ring marks). Tineti bara jos, aproape de incheietura mainii. Strangeti bara folosind prinderea/priza completa, astfel incat sa nu se poata deplasa.
+- **Fixati-va picioarele**. Picioarele fixate pe podea, la o distanta egala cu latimea umerilor. Setati-va mai intai un picior sub genunchi, apoi fixati-l pe celalalt.
+- **Deblocati(Unrack) bara**. Indreptati-va bratele pentru a ridica bara de pe montanti(uprights). Muta-o pe orizontala pana cand este echilibrat peste umeri. Terminat.
 
 Pregatiti-va la fel, la fiecare set Bench Press. Cu cat este mai viguroasa pregatirea dvs. pentru a incepe sa faceti Bench Press, cu atat tehnica va fi mai corecta odata ce incepeti sa faceti Bench Press cu greutati. O tehnica mai buna creste eficacitatea. Creste cat de mult poti face cu Bench Press. Nu va pregatiti cu respect zero pentru greutate, deoarece este usor. Pregatiti-va in acelasi mod, indiferent daca faceti Bench Press cu greutatea de incalzire sau greutatea grea.
 
 ## Bench Press- Postura 101<a name="bench-press"></a>
 
 ![Bench Press 101](./assets/bench-press-101.jpg)
-
-Postura Bench Press-ului corecta pe spate: antebratele verticale in partea de jos, bara atinge pieptul.
+Postura Bench Press-ului corecta pe spate: anteratele verticale in partea de jos, bara atinge pieptul.
 
 Conformatia dvs. determina modul in care postura dvs. va arata pentru o eficienta maxima. Cu cat umerii sunt mai largi, cu atat ar trebui sa fie mai larga prinderea. Cu cat bratele superioare sunt mai lungi, cu cat coatele vor fi mai aproape de trunchi, in partea de jos. Nu copiati postura/forma cuiva decat daca aveti aceeasi conformatie. Urmati aceste instructiuni generale pentru Bench Press si modificati-va postura/forma pe masura ce obtineti experienta.
 
-**- Prinderea/Priza**. Tineti bara in partea de jos a palmei, aproape de incheietura mainii. Strangeti bara.
-**- Latime prinderii/prizai**. Mainile trebuie sa fie in interiorul semnelor inelare(ring marks) ale barei. Antebrate trebuie sa fie verticale in partea de jos.
-**- Degetele mari**. Pozitionati-va degetele mari in jurul barei. Nu faceti Bench Press cu o priza care nu implica degetele mari (degetele mari nu sunt peste bara).
-**- Incheieturi**. Trebuie sa se formeze o linie dreapta de la incheietura mainii pana la cot. Nu faceti Bench Press cu incheieturile indoite, deoarece va vor durea.
-**- Coatele**. La aproximativ 75°, in partea de jos. Acestea nu ar trebui sa atinga trunchiul, deoarece vor ajunge la un unghi de 90°.
-**- Antebrate**. Perpendiculare pe podea din fiecare unghi: atat din lateral cat si din fata.
-**- Umerii**. Tine-le inapoi, pe banca. Nu va ridicati umerii.
-**- Partea de sus a spatelui**. Contractati-va omoplatele pentru a creste stabilitatea atunci cand faceti Bench Press.
-**- Pieptul**. Ridicati-l spre tavan. Atingeti bara in timp ce o coborati. Dar tine-ti fundul pe banca.
-**- Cap**. Pozitionati-va cu ochii sub bara. Tine-ti capul neutru. Nu-l impingeti in banca.
-**- Partea inferioara a spatelui**. Trebuie sa existe un arc natural. Trebuie ca eu sa pot sa-mi trec mana, plata, intre banca si spatele tau.
-**- Fundul**. Tine-ti fundul pe banca cand faci Bench Press. Nu trisati ridicand fundul de pe banca.
-**- Picioare**. Plate pe podea, nu in aer. Picioarele la acelasi nivel cu genunchii. Utilizati o pozitie egala cu latimea umerilor ca la genuflexiuni (Squats).
-**- Deblocarea (Unracking)**. Deblocati greutatea indreptandu-va bratele. Deplasati bara deasupra articulatiei umarului.
-**- Mult mai jos**. Coborati bara pana la mijlocul pieptului. Trage-ti coatele in 75° in timp ce coboara greutatea.
-**- Partea de jos a Bench Press-ului**. Incheieturile drepte, antebratele verticale. Coturile in interior, dar nu impotriva trunchiului tau. Bara la mijlocul pieptului.
-**- Ridicarea/Revenirea**. Nu va opriti in partea de jos. Impingeti bara inapoi pana deasupra umerilor. Blocati-va coatele.
-**- Lockout**. Blocati bara peste articulatia umarului. Fixati-va coatele in partea de sus. Nu-le indoiti inapoi.
-**- Fixati(racking) bara**. Blocare cu coatele drepte. Mutati bara inapoi pe suport. Coborati-o pe montanti(uprights).
-**- Directia/traiectoria barei**. Linie diagonala de la mijlocul pieptului pana la umeri. Nu vertical pe umeri, gat sau piept.
-**- Respiratia**. Respirati adanc in partea de sus, mentineti-va respiratia in coborare, si in partea de jos, expirati in partea de sus.
+- **Prinderea/Priza**. Tineti bara in partea de jos a palmei, aproape de incheietura mainii. Strangeti bara.
+- **Latime prinderii/prizai**. Mainile trebuie sa fie in interiorul semnelor inelare(ring marks) ale barei. Antebrate trebuie sa fie verticale in partea de jos.
+- **Degetele mari**. Pozitionati-va degetele mari in jurul barei. Nu faceti Bench Press cu o priza care nu implica degetele mari (degetele mari nu sunt peste bara).
+- **Incheieturi**. Trebuie sa se formeze o linie dreapta de la incheietura mainii pana la cot. Nu faceti Bench Press cu incheieturile indoite, deoarece va vor durea.
+- **Coatele**. La aproximativ 75°, in partea de jos. Acestea nu ar trebui sa atinga trunchiul, deoarece vor ajunge la un unghi de 90°.
+- **Antebrate**. Perpendiculare pe podea din fiecare unghi: atat din lateral cat si din fata.
+- **Umerii**. Tine-le inapoi, pe banca. Nu va ridicati umerii.
+- **Partea de sus a spatelui**. Contractati-va omoplatele pentru a creste stabilitatea atunci cand faceti Bench Press.
+- **Pieptul**. Ridicati-l spre tavan. Atingeti bara in timp ce o coborati. Dar tine-ti fundul pe banca.
+- **Cap**. Pozitionati-va cu ochii sub bara. Tine-ti capul neutru. Nu-l impingeti in banca.
+- **Partea inferioara a spatelui**. Trebuie sa existe un arc natural. Trebuie ca eu sa pot sa-mi trec mana, plata, intre banca si spatele tau.
+- **Fundul**. Tine-ti fundul pe banca cand faci Bench Press. Nu trisati ridicand fundul de pe banca.
+- **Picioare**. Plate pe podea, nu in aer. Picioarele la acelasi nivel cu genunchii. Utilizati o pozitie egala cu latimea umerilor ca la genuflexiuni (Squats).
+- **Deblocarea (Unracking)**. Deblocati greutatea indreptandu-va bratele. Deplasati bara deasupra articulatiei umarului.
+- **Mult mai jos**. Coborati bara pana la mijlocul pieptului. Trage-ti coatele in 75° in timp ce coboara greutatea.
+- **Partea de jos a Bench Press-ului**. Incheieturile drepte, antebratele verticale. Coturile in interior, dar nu impotriva trunchiului tau. Bara la mijlocul pieptului.
+- **Ridicarea/Revenirea**. Nu va opriti in partea de jos. Impingeti bara inapoi pana deasupra umerilor. Blocati-va coatele.
+- **Lockout**. Blocati bara peste articulatia umarului. Fixati-va coatele in partea de sus. Nu-le indoiti inapoi.
+- **Fixati(racking) bara**. Blocare cu coatele drepte. Mutati bara inapoi pe suport. Coborati-o pe montanti(uprights).
+- **Directia/traiectoria barei**. Linie diagonala de la mijlocul pieptului pana la umeri. Nu vertical pe umeri, gat sau piept.
+- **Respiratia**. Respirati adanc in partea de sus, mentineti-va respiratia in coborare, si in partea de jos, expirati in partea de sus.
 
 ## Siguranta<a name="siguranta"></a>
 
 ## Repetari nereusite<a name="repetari-nereusite"></a>
 
 ![Bench Press Fail](./assets/bench-press-fail.jpg)
-
 Cum sa esuezi cand faci Bench Press in siguranta: coborati bara inapoi spre piept. Aplatizeaza-ti trunchiul astfel incat bara sa atinga barele. Apoi alunecati sub ea.
 
 Nu va veti bloca niciodata sub greutate daca faceti Bench Press in Power Rack. Power Rack-ul are carlige de siguranta orizontale(horizontal safety pins) pentru a prinde bara, daca nu reusiti. Setati aceste carlige putin mai jos decat pozitia de jos cand faceti Bench Press. Bara nu poate atinge carligele (safety pins), la repetari bune. Daca nu reusiti sa ridicati greutatea, coborati bara pana la mijlocul pieptului. Apoi aplanati-va trunchiul pentru a cobori bara pe acele/carligele de siguranta. Acesta este cel mai sigur mod de a face Bench Press.
@@ -248,7 +245,6 @@ Teama de vatamare pe Bench Press este normala.Oamenii mor in fiecare an de accid
 ## Fara Spotter<a name="fara-spotter"></a>
 
 ![Bench Press Spotter](./assets/bench-press-spotter.jpg)
-
 Faceti Bench Press in interiorul Power Rack-ul, chiar daca aveti un spotter. Lasati-l sa va ajute sa (de)blocati greutatea. El nu ar trebui sa atinga bara in timp ce faceti Bench Press.
 
 Nu aveti nevoie de spotter daca faceti Bench Press in Power Rack. Fac asta de mai bine de 10 ani in sala mea de gimnastica, de obicei fara spotter si nu m-am ranit niciodata. Campionul mondial, Mike Tuchscherer, lucreaza cu peste 500 de kilograme si, de asemenea, ridica in sala de gimnastica a casei sale, fara spotter. Ar putea fi ucis daca se blocheaza cu atata greutate. Cu toate acestea, el a fost intotdeauna in siguranta, Benching in Power Rack cu carligele de siguranta gata sa prinda bare in cazul unei repetari nereusite/esuate.
@@ -279,7 +275,6 @@ Nu faceti Bench Press cu ajutorul aparatului Smith. Forteaza o cale verticala a 
 ## Prinderea/Priza<a name="prinderea/priza"></a>
 
 ![Bench Press Grip](./assets/bench-press-low-grip.jpg)
-
 Stanga: tinand bara la mijlocul palmei, incheieturile se vor indoi si se vor rani. Mijloc: bara in partea de jos a mainii(la baza acesteia), incheietura nu se indoaie. Corect: tineti bara in partea de jos a mainii.
 
 Prinderea completa. Pozitionati degetele mari in jurul barei. Acesta este cel mai sigur si cel mai eficient mod de face Bench Press intens. Strangeti bara, astfel incat sa nu se poata misca in maini. Bratele, umerii si muschii pieptului se vor contracta mai greu, ceea ce va creste presiunea la Bench Press (hiper radiatie). Nu va relaxati si nu deschideti mainile in timp ce va antrenati, deoarece bara se va deplasa. Tine-ti mainile inchise si strange bara cat puteti de tare.
@@ -289,7 +284,6 @@ In niciun caz o prindere ce nu implica degetul mare!(thumbless grip= degetul mar
 ## Prinderea tip Bulldog<a name="priza-tip-buldog"></a>
 
 ![Bench Press bulldog Grip](./assets/bench-bulldog-grip.jpg)
-
 Stanga: apucand bara la mijlocul palmei, incheietura se va indoi. Stanga: folositi prinderea de tip Bulldog rotind mainile in interior, inainte sa inchideti palmele. Incheietura nu se va indoi.
 
 Prinderea in partea de jos a palmei. Tineti bara in baza palmei, aproape de incheieturi. Nu o tineti aproape de degete ca pe [Indreptari(Deadlift)](/exercitii/spate/indreptari), deoarece incheieturile se vor indoi. Incheietura indoite vor durea. Incheieturile indoite ingreuneaza greutatea, deoarece bara este mai departe de incheietura mainii. Acesta este un efect de parghie si un transfer de putere proaste. Strangeti bara in partea de jos a palmei, astfel incat sa se sprijine peste incheieturi si coate. Vei lucra cu o greutate mai mare fara dureri la incheietura mainii.
@@ -317,196 +311,188 @@ Prinderea in partea de jos a palmei. Nu pozitionati bara in mijlocul palmei si n
 ## Coate<a name="coate"></a>
 
 ![Bench Press Elbows](./assets/bench-press-elbows.jpg)
-
 Stanga: coatele in exterior, duce la aparitia leziunilor la nivelul umarului. Centru: coatele prea apropiate, ineficiente. Dreapta: coatele sunt fixate corespunzator la aproximativ 75°.
 
 Coatele prea apropiate. Coborati bara in timp ce miscati coatele. Constructia dvs. va determina cat de mult ar trebui sa va apropiati coatele. Bratele superioare nu pot fi perpendiculare cu trunchiul, in partea de jos a Bench Press-ului. Dar coatele nu va pot atinge nici trunchiul. Cel mai sigur si eficient mod de a face Bench Press este cu antebratele verticale in partea de jos. Se va forma o linie dreapta de la incheietura mainii la cot. De obicei, un unghi al bratului superior de aproximativ 75 ° functioneaza.
 
 Nu va atingeti trunchiul. Atingerea trunchiului cu coatele , le plaseaza in interiorul incheieturilor. Greutatea devine din ce in ce mai greu de ridicat/bench si mai grea pentru articulatiile tale. Acest lucru este practicat de catre Geared Powerlifters care folosesc camasi cu compresie. Dar noi,care nu folosim camasa pentru Bench Press pentru a ne ajuta sa ridicam bara de pe piept. Coatele si incheieturile trebuie sa fie intinse, deoarece acesta este cel mai eficient mod de a face Bench Press. Nu va apropiati prea mult coatele in partea de jos a Bench Press-ului.
 
-**- Nu va miscati coatele**. Nu coborati bara cu coatele la 90 °. Nu faceti presa cum fac culturistii, cu coatele perpendiculare pe trunchi, in partea de jos. Va veti bloca umerii incercand sa obtineti un piept mai mare. Partea superioara a bratelor superioare iti va zdrobi coafele rotative impotriva articulatiei tale AC la fiecare repetare. Umerii tai se vor inflama si se vor rani. Miscati-va coatele la 75° in partea de jos.
+- **Nu va miscati coatele**. Nu coborati bara cu coatele la 90 °. Nu faceti presa cum fac culturistii, cu coatele perpendiculare pe trunchi, in partea de jos. Va veti bloca umerii incercand sa obtineti un piept mai mare. Partea superioara a bratelor superioare iti va zdrobi coafele rotative impotriva articulatiei tale AC la fiecare repetare. Umerii tai se vor inflama si se vor rani. Miscati-va coatele la 75° in partea de jos.
 
-**- Miscati doar in urcare**. Urcarea/ridicarea trebuie sa fie o oglinda a coborarii. Trebuie sa va miscati coatele pentru a ridica bara deasupra umerilor. Daca nu, coatele vor incheia in fata barei. Sau se va forma o linie verticala peste mijlocul pieptului. Ambele sunt ineficiente pentru Bench Press cu greutati mari. Bench/Ridicati bara de la mijlocul pieptului peste articulatiile umarului miscandu-va coatele pe drumul de urcare.
+- **Miscati doar in urcare**. Urcarea/ridicarea trebuie sa fie o oglinda a coborarii. Trebuie sa va miscati coatele pentru a ridica bara deasupra umerilor. Daca nu, coatele vor incheia in fata barei. Sau se va forma o linie verticala peste mijlocul pieptului. Ambele sunt ineficiente pentru Bench Press cu greutati mari. Bench/Ridicati bara de la mijlocul pieptului peste articulatiile umarului miscandu-va coatele pe drumul de urcare.
 
-**- Antebrate verticale**. Cea mai eficienta metoda de a face Bench Press este cu antebratele verticale cand bara atinge pieptul. Formarea unei linii drepte de la incheietura la cot favorizeaza o parghie mai buna, mai mult transfer de putere si nici o durere la incheietura mainii. Daca coatele sunt prea in spate sau inainte, apucati bara in partea de jos a palmei( la baza acesteia) si reglati latimea de prindere. Daca coatele sunt pozitionate gresit in continuare, va atingeti pieptul prea sus / jos. Inregistrati-va antrenamentul de Bench Press pentru a va ridica antebratele verticale.
+- **Antebrate verticale**. Cea mai eficienta metoda de a face Bench Press este cu antebratele verticale cand bara atinge pieptul. Formarea unei linii drepte de la incheietura la cot favorizeaza o parghie mai buna, mai mult transfer de putere si nici o durere la incheietura mainii. Daca coatele sunt prea in spate sau inainte, apucati bara in partea de jos a palmei( la baza acesteia) si reglati latimea de prindere. Daca coatele sunt pozitionate gresit in continuare, va atingeti pieptul prea sus / jos. Inregistrati-va antrenamentul de Bench Press pentru a va ridica antebratele verticale.
 
-**- Blocati in partea de sus**. Deblocati(unrack) greutatea cu coatele fixate. Blocati-le din nou in partea de sus a fiecarei repetari si atunci cand ridicati greutatea. Nu incepe sa faci Bench Press, fara sa blocati coatele in partea de sus. In primul rand, repetarea nu conteaza, nu este valabila. In al doilea rand, ai putea scapa bara si te vei rani. In al treilea rand, blocarea este sigura daca nu depasiti intervalul normal de miscare a articulatiei cotului. Blocati coatele in partea de sus a fiecarei repetari, dar nu extindeti prea mult.
+- **Blocati in partea de sus**. Deblocati(unrack) greutatea cu coatele fixate. Blocati-le din nou in partea de sus a fiecarei repetari si atunci cand ridicati greutatea. Nu incepe sa faci Bench Press, fara sa blocati coatele in partea de sus. In primul rand, repetarea nu conteaza, nu este valabila. In al doilea rand, ai putea scapa bara si te vei rani. In al treilea rand, blocarea este sigura daca nu depasiti intervalul normal de miscare a articulatiei cotului. Blocati coatele in partea de sus a fiecarei repetari, dar nu extindeti prea mult.
 
 ## Antebrate<a name="antebrate"></a>
 
 ![Bench Press Forearms](./assets/bench-press-forearms.jpg)
-
 Stanga: antebratele verticale cu bara peste umeri, cauzeaza rani. Cele 2 din mijloc: antebratele nu sunt verticale, atingand pieptul prea sus / jos.
 Dreapta: antebrate verticale, cel mai eficient mod de a face Bench Press.
 
-**- Verticale din lateral**. Antebratele trebuie sa fie perpendiculare pe podea atunci cand bara iti atinge pieptul. Dintr-o vedere laterala, trebuie sa se formeze o linie dreapta de la incheietura mainii la cot. Acesta este cel mai sigur si mai eficient mod de a face Bench Press. Daca incheieturile se indoaie, apucati bara folosind prinderea Bulldog. Daca coatele sunt prea inapoi sau inainte, trageti mai mult / mai putin sau atingeti pieptul prea sus / jos. Inregistrati-va si reglati-va postura.
-**- Verticale din fata**. Antebratele trebuie sa fie, de asemenea, perpendiculare cu podeaua atunci cand privesti din fata sau din spate. Antebratele inclinate sunt ineficiente. Benching-ul cu o strangere ingusta si coatele in afara incheieturilor este ca si cum ai face o extensie de triceps. Benching-ul cu o strangere larga si coatele in interiorul incheieturilor este prea greu pentru umeri. Inregistrati-va si corectati-va priza/prinderea la Bench Press cu antebrate verticale.
+- **Verticale din lateral**. Antebratele trebuie sa fie perpendiculare pe podea atunci cand bara iti atinge pieptul. Dintr-o vedere laterala, trebuie sa se formeze o linie dreapta de la incheietura mainii la cot. Acesta este cel mai sigur si mai eficient mod de a face Bench Press. Daca incheieturile se indoaie, apucati bara folosind prinderea Bulldog. Daca coatele sunt prea inapoi sau inainte, trageti mai mult / mai putin sau atingeti pieptul prea sus / jos. Inregistrati-va si reglati-va postura.
+- **Verticale din fata**. Antebratele trebuie sa fie, de asemenea, perpendiculare cu podeaua atunci cand privesti din fata sau din spate. Antebratele inclinate sunt ineficiente. Benching-ul cu o strangere ingusta si coatele in afara incheieturilor este ca si cum ai face o extensie de triceps. Benching-ul cu o strangere larga si coatele in interiorul incheieturilor este prea greu pentru umeri. Inregistrati-va si corectati-va priza/prinderea la Bench Press cu antebrate verticale.
 
 ## Cap<a name="cap"></a>
 
 ![Bench Press Head](./assets/bench-press-head.jpg)
 Stanga: pozitionat prea departe pe bara, acest lucru mareste distanta pe care o parcurge bara atunci cand o deblocati(unrack). Dreapta: mai sus pe banca, ochii sub bara, distanta mai scurta pentru a debloca greutatea.
 
-**- Ochii sub bara**. Intinde-te pe banca cu ochii sub bara. Acest lucru reduce distanta dintre Power Rack si umeri. Face greutatea mai usor de deblocat(unrack). Nu va lasati mai jos pe banca sau bara va trebui sa se deplaseze mai mult atunci cand o deblocati. Acest lucru iti ia din putere si este nesigur. Bara trebuie sa va fie peste ochi atunci cand va intindeti pe banca si va uitati in sus. Daca lovesti montantii(uprights) pe drumul de sus, esti prea aproape.
-**- Nu va impingeti capul**. Gatul va va durea daca iti impingi capul pe/in banca cand te antrenezi. Contractati-va muschii gatului, fara a impinge capul pe/in banca. Cea mai simpla modalitate de a face acest lucru este sa nu iti tii capul pe banca. Atingeti banca plata doar cu parul. Muschii gatului tau vor fi contractati daca capul este deasupra bancii. Gatul tau nu te va durea, pentru ca nu poti sa iti impingi capul pe/in banca.
-**- Pastreaza capului neutru**. Nu va intoarceti capul pentru a privi in montantii (uprights) sau va veti roti gatul. Nu ridicati capul pentru a verifica daca bara a atins pieptul. Uita-te la tavan si pastreaza-ti capul neutru. Puneti bara inapoi pe aparat fara a intoarce capul. Blocati bara peste umeri si mutati-o inapoi pe montantii (uprights) Power Rack-ului. Cand il atingeti, indoaie-ti bratele pentru a cobori bara in pozitia orizontala, pe montanti(uprights). Nu e nevoie sa te uiti.
+- **Ochii sub bara**. Intinde-te pe banca cu ochii sub bara. Acest lucru reduce distanta dintre Power Rack si umeri. Face greutatea mai usor de deblocat(unrack). Nu va lasati mai jos pe banca sau bara va trebui sa se deplaseze mai mult atunci cand o deblocati. Acest lucru iti ia din putere si este nesigur. Bara trebuie sa va fie peste ochi atunci cand va intindeti pe banca si va uitati in sus. Daca lovesti montantii(uprights) pe drumul de sus, esti prea aproape.
+- **Nu va impingeti capul**. Gatul va va durea daca iti impingi capul pe/in banca cand te antrenezi. Contractati-va muschii gatului, fara a impinge capul pe/in banca. Cea mai simpla modalitate de a face acest lucru este sa nu iti tii capul pe banca. Atingeti banca plata doar cu parul. Muschii gatului tau vor fi contractati daca capul este deasupra bancii. Gatul tau nu te va durea, pentru ca nu poti sa iti impingi capul pe/in banca.
+- **Pastreaza capului neutru**. Nu va intoarceti capul pentru a privi in montantii (uprights) sau va veti roti gatul. Nu ridicati capul pentru a verifica daca bara a atins pieptul. Uita-te la tavan si pastreaza-ti capul neutru. Puneti bara inapoi pe aparat fara a intoarce capul. Blocati bara peste umeri si mutati-o inapoi pe montantii (uprights) Power Rack-ului. Cand il atingeti, indoaie-ti bratele pentru a cobori bara in pozitia orizontala, pe montanti(uprights). Nu e nevoie sa te uiti.
 
 ## Umeri<a name="umeri"></a>
 
 ![Bench Press shoulders](./assets/bench-press-shoulders.jpg)
 Stanga: nu ridica din umeri, bara este mai mare si trebuie sa se deplaseze la o distanta mai mare. Dreapta: umerii stau din nou pe banca, bara este mai mica si parcurge distante mai scurte.
 
-**- Umeri inapoi**. Tine-ti umerii pe banca. Nu-i ridica atunci cand ridicati greutatea. Daca umerii sunt inainte, mainile dvs. vor fi mai sus. Cu cat mainile sunt mai ridicate, cu atat traiectoria barei este mai lunga si cu atat mai greu de echilibrat greutatea. Tineti umerii in spre spate pe banca. Desfaceti bara cu bratele drepte. Lasati greutatea sa va impinga umerii in banca, inainte de a cobori bara.
+- **Umeri inapoi**. Tine-ti umerii pe banca. Nu-i ridica atunci cand ridicati greutatea. Daca umerii sunt inainte, mainile dvs. vor fi mai sus. Cu cat mainile sunt mai ridicate, cu atat traiectoria barei este mai lunga si cu atat mai greu de echilibrat greutatea. Tineti umerii in spre spate pe banca. Desfaceti bara cu bratele drepte. Lasati greutatea sa va impinga umerii in banca, inainte de a cobori bara.
 
-**- Nu apasati, impingeti**. Cel mai bun mod de a va tine umeri pe banca este sa va ganditi la impingere, nu la apasare. Indepartati-va de bara in loc sa indepartati bara de piept. Imaginati-va ca faceti un Pushup si va indepartati de podea in loc sa impingeti podeaua. Faceti Bench Press prin a va indeparta de bara in banca. Umerii tai vor ramane inapoi.
+- **Nu apasati, impingeti**. Cel mai bun mod de a va tine umeri pe banca este sa va ganditi la impingere, nu la apasare. Indepartati-va de bara in loc sa indepartati bara de piept. Imaginati-va ca faceti un Pushup si va indepartati de podea in loc sa impingeti podeaua. Faceti Bench Press prin a va indeparta de bara in banca. Umerii tai vor ramane inapoi.
 
-**- Coboara o mana**. Umerii tai se pot indrepta atunci cand deblocati bara. Unele Power Racks nu au suficient gauri, ceea ce plaseaza montantii(uprights) prea sus sau jos. Prea jos provoaca pierderi de forta, deoarece trebuie sa indrepti bratele mai mult pentru a debloca. Prea sus face ca umerii sa se desprinda de pe banca, atunci cand deblocati bara. Cereti unui spotter sa va ajute sa deblocati bara, astfel incat umerii sa ramana inapoi. Veti avea mai multa forta.
+- **Coboara o mana**. Umerii tai se pot indrepta atunci cand deblocati bara. Unele Power Racks nu au suficient gauri, ceea ce plaseaza montantii(uprights) prea sus sau jos. Prea jos provoaca pierderi de forta, deoarece trebuie sa indrepti bratele mai mult pentru a debloca. Prea sus face ca umerii sa se desprinda de pe banca, atunci cand deblocati bara. Cereti unui spotter sa va ajute sa deblocati bara, astfel incat umerii sa ramana inapoi. Veti avea mai multa forta.
 
 ## Partea superioara a spatelui<a name="partea-superioara-a-spatelui"></a>
 
 ![Bench Press Upper back](./assets/bench-press-upper-back.jpg)
 Contractati-va omoplatele ca si cum ati incerca sa tineti un stilou intre ele. Acest lucru va ofera o platforma mai buna la Bench Press.
 
-**- Contractati-va omoplatele**. Intinde-te pe banca cu partea superioara a spatelui. Imaginati-va ca tineti un stilou intre omoplati, contractandu-i. Acest lucru iti aplatizeaza partea superioara a spatelui si creste stabilitatea atunci cand stai pe banca. Puteti impinge partea superioara a spatelui mai tare pe banca, ceea ce va mareste Bench Press-ul. Nu stati doar pe banca. Contractati-va omoplatele inainte de a debloca greutatea.
+- **Contractati-va omoplatele**. Intinde-te pe banca cu partea superioara a spatelui. Imaginati-va ca tineti un stilou intre omoplati, contractandu-i. Acest lucru iti aplatizeaza partea superioara a spatelui si creste stabilitatea atunci cand stai pe banca. Puteti impinge partea superioara a spatelui mai tare pe banca, ceea ce va mareste Bench Press-ul. Nu stati doar pe banca. Contractati-va omoplatele inainte de a debloca greutatea.
 
-**- Ramai incordat**. Nu va ridicati umeri inainte. Vei pierde etansitatea superioara a spatelui, pieptul se va prabusi si mainile tale vor fi mai sus. Acest lucru face ca traseul barei sa fie mai lung si greutatea mai greu de depasit si ridicat. Tine-ti spatele incordat, pieptul in sus si umerii in spate. Contractati-va omoplatele inainte de a debloca greutatea. Cereti o mana de ajutor pentru a nu pierde etanseitatea. Tineti-va partea superioara a spatelui incordata, impingandu-va in banca la fiecare repetare.
+- **Ramai incordat**. Nu va ridicati umeri inainte. Vei pierde etansitatea superioara a spatelui, pieptul se va prabusi si mainile tale vor fi mai sus. Acest lucru face ca traseul barei sa fie mai lung si greutatea mai greu de depasit si ridicat. Tine-ti spatele incordat, pieptul in sus si umerii in spate. Contractati-va omoplatele inainte de a debloca greutatea. Cereti o mana de ajutor pentru a nu pierde etanseitatea. Tineti-va partea superioara a spatelui incordata, impingandu-va in banca la fiecare repetare.
 
 ## Pieptul<a name="pieptul"></a>
 
 ![Bench Press Chest up](./assets/bench-press-chest-up.jpg)
-
 Ridicati pieptul spre tavan atunci cand faceti Bench Press. Observati ca tricoul meu este mai strans in partea dreapta. Pieptul meu este mai plin. Acesta este cel mai eficient mod de a face Bench Press.
 
-**- Ridica-ti pieptul**. Lucrati cu omoplatele contractate impreuna. Ridica-ti pieptul spre tavan. Faceti acest lucru arcuindu-va ipartea inferioara a spatelui si rotindu-ti cutia toracica in sus. Tine-ti fundul pe banca. Contractati-va muschiul dorsului mare pentru a fixa pieptul in pozitie. Greutatea va fi mai usoara, deoarece va veti atinge pieptul, pozitionat mai sus. Aceasta scurteaza traiectoria barei si scade miscarea orizontala a barei pentru a o ridica inapoi peste umeri.
+- **Ridica-ti pieptul**. Lucrati cu omoplatele contractate impreuna. Ridica-ti pieptul spre tavan. Faceti acest lucru arcuindu-va ipartea inferioara a spatelui si rotindu-ti cutia toracica in sus. Tine-ti fundul pe banca. Contractati-va muschiul dorsului mare pentru a fixa pieptul in pozitie. Greutatea va fi mai usoara, deoarece va veti atinge pieptul, pozitionat mai sus. Aceasta scurteaza traiectoria barei si scade miscarea orizontala a barei pentru a o ridica inapoi peste umeri.
 
-**- Fara piept plat! Benching-ul cu un piept plat te obliga sa-ti atingi trunchiul mai jos**. Cu cat bara se afla mai departe de umeri, cu atat este mai greu sa faceti Bench Press cu aceasta, si cu atat este mai greu pentru umeri. Umerii tai se pot misca in fata si pot fi raniti daca lucrezi cu pieptul plat. Nu schimbati raza de miscare prin ridicarea pieptului cand faceti Bench Press. Vei face exercitiul mai sigur si mai eficient.
+- **Fara piept plat! Benching-ul cu un piept plat te obliga sa-ti atingi trunchiul mai jos**. Cu cat bara se afla mai departe de umeri, cu atat este mai greu sa faceti Bench Press cu aceasta, si cu atat este mai greu pentru umeri. Umerii tai se pot misca in fata si pot fi raniti daca lucrezi cu pieptul plat. Nu schimbati raza de miscare prin ridicarea pieptului cand faceti Bench Press. Vei face exercitiul mai sigur si mai eficient.
 
 ## Partea inferioara a spatelui<a name="partea-inferioara-a-spatelui"></a>
 
 ![Bench Press Arch](./assets/bench-press-back.jpg)
 Nu faceti Bench Press cu spatele plat. Dar nici nu-l arcuiti prea mult. Obtineti un arc natural in partea inferioara a spatelui, astfel incat sa-mi pot strecura mana plata intre spatele tau inferior si banca.
 
-**- Arcuiti-va spatele**. Faceti Bench Press cu partea inferioara a spatelui arcuita. Intinde-te pe banca cu un arc natural in partea inferioara a spatelui. Acelasi arc pe care il ai cand stai. Ar trebui sa pot sa-mi misc mana plata intre banca si spatele tau. Arcuirea spatelui inferior ajuta la mentinerea pieptului sus. Creste eficacitatea atunci cand faceti Bench Press. Tine-ti fundul pe banca in timp ce iti arcuiesti partea inferioara a spatelui.
+- **Arcuiti-va spatele**. Faceti Bench Press cu partea inferioara a spatelui arcuita. Intinde-te pe banca cu un arc natural in partea inferioara a spatelui. Acelasi arc pe care il ai cand stai. Ar trebui sa pot sa-mi misc mana plata intre banca si spatele tau. Arcuirea spatelui inferior ajuta la mentinerea pieptului sus. Creste eficacitatea atunci cand faceti Bench Press. Tine-ti fundul pe banca in timp ce iti arcuiesti partea inferioara a spatelui.
 
-**- Nu arcui prea mult**. Nu trebuie sa va arcuiti pe spate, ca o potcoava. Unii powerlifters fac acest lucru cand fac Bench Press cu greutati mai grele. Dar va afecteaza spatele. Supra arcuirea va preseaza discurile coloanei vertebrale. Poate provoca dureri de spate. Unii considera, de asemenea, supra arcuirea o metoda prin care poti trisa, deoarece scade prea mult intervalul de miscare. Arcuiti-va spatele inferior pentru a va mentine pieptul sus cu un arc natural ca atunci cand stati. Fara exagerare.
+- **Nu arcui prea mult**. Nu trebuie sa va arcuiti pe spate, ca o potcoava. Unii powerlifters fac acest lucru cand fac Bench Press cu greutati mai grele. Dar va afecteaza spatele. Supra arcuirea va preseaza discurile coloanei vertebrale. Poate provoca dureri de spate. Unii considera, de asemenea, supra arcuirea o metoda prin care poti trisa, deoarece scade prea mult intervalul de miscare. Arcuiti-va spatele inferior pentru a va mentine pieptul sus cu un arc natural ca atunci cand stati. Fara exagerare.
 
-**- Fara spate plat**. Scopul nu este de a reduce intervalul de miscare. Scopul este sa faci Bench Press cu pieptul in sus. Acest lucru este mai sigur pentru umerii dvs., si mai eficiente pentru ridicarea greutatilor mari. Pieptul tau nu va ramane orientat in sus, iar omoplatele nu vor ramane incordate daca faci Bench Press cu spatele plat. Arcuieste-ti spatele inferior pentru a ramane incordat. Daca te doare spatele, inceteaza sa arcuiesti prea mult. Faceti Bench Press cu un arc natural ca atunci cand stai, fara a va supra solicita.
+- **Fara spate plat**. Scopul nu este de a reduce intervalul de miscare. Scopul este sa faci Bench Press cu pieptul in sus. Acest lucru este mai sigur pentru umerii dvs., si mai eficiente pentru ridicarea greutatilor mari. Pieptul tau nu va ramane orientat in sus, iar omoplatele nu vor ramane incordate daca faci Bench Press cu spatele plat. Arcuieste-ti spatele inferior pentru a ramane incordat. Daca te doare spatele, inceteaza sa arcuiesti prea mult. Faceti Bench Press cu un arc natural ca atunci cand stai, fara a va supra solicita.
 
 ## Fundul<a name="fundul"></a>
 
 ![Bench Press Butt](./assets/bench-press-butt.jpg)
-
 Nu va ridicati fundul de pe banca. Asa trisati. Arcuieste-ti spatele inferior, dar tine-ti fundul in jos cand faceti Bench Press.
 
-**- Tine-ti fundul in jos**. Faceti Bench Press cu fundul pe banca. Partea inferioara a spatelui poate fi deasupra bancii pentru a va mentine pieptul. Dar fundul tau nu poate, altfel repetarea este una incorecta. In acest caz, verificati daca banca dvs. este inalta de 45 cm. Daca are o inaltime mai mica, obtineti o banca mai buna sau ridicati-o pe a ta punand farfurii plate sub ea. Apoi, faceti Bench Press impingand picioarele in podea, si partea superioara a spatelui si fesele in banca. Nu te impinge doar din picioare.
+- **Tine-ti fundul in jos**. Faceti Bench Press cu fundul pe banca. Partea inferioara a spatelui poate fi deasupra bancii pentru a va mentine pieptul. Dar fundul tau nu poate, altfel repetarea este una incorecta. In acest caz, verificati daca banca dvs. este inalta de 45 cm. Daca are o inaltime mai mica, obtineti o banca mai buna sau ridicati-o pe a ta punand farfurii plate sub ea. Apoi, faceti Bench Press impingand picioarele in podea, si partea superioara a spatelui si fesele in banca. Nu te impinge doar din picioare.
 
-**- Nu ridica fundul de pe banca! Benching cu fundul ridicat de pe banca nu este corect**. Este ca si cum ai transforma o genuflexiune(Squats) intr-o jumatate de genuflexiune(Squats). Acesta face ca greutatea sa fie mai usor de echilibrat prin scaderea traiectoriei de miscare. Ridicarea fundului de pe banca va ofera trei cartonase rosii in competitiile de powerlifting. Acesta va poate rani spatele inferior daca va extindeti prea mult coloana vertebrala. Daca fundul tau se ridica de pe banca pe StrongLifts 5 × 5, este echivalentul unei repetari nereusite. Repetati greutatea data viitoare.
+- **Nu ridica fundul de pe banca! Benching cu fundul ridicat de pe banca nu este corect**. Este ca si cum ai transforma o genuflexiune(Squats) intr-o jumatate de genuflexiune(Squats). Acesta face ca greutatea sa fie mai usor de echilibrat prin scaderea traiectoriei de miscare. Ridicarea fundului de pe banca va ofera trei cartonase rosii in competitiile de powerlifting. Acesta va poate rani spatele inferior daca va extindeti prea mult coloana vertebrala. Daca fundul tau se ridica de pe banca pe StrongLifts 5 × 5, este echivalentul unei repetari nereusite. Repetati greutatea data viitoare.
 
 ## Picioare<a name="picioare"></a>
 
 ![Bench Press Feet](./assets/bench-press-feet.jpg)
 
-**- Puneti-va picioarele direct sub genunchi**. Picioarele pe banca sau in aer sunt incorrect pozitionate. Picioarele in fata ta inseamna ca nu iti poti folosi picioarele. Picioarele sub fund iti ridica calcaiele.
+- **Puneti-va picioarele direct sub genunchi**. Picioarele pe banca sau in aer sunt incorrect pozitionate. Picioarele in fata ta inseamna ca nu iti poti folosi picioarele. Picioarele sub fund iti ridica calcaiele.
 
-**- Picioare pe podea**. Faceti Bench Press cu picioarele pe podea. Nu va puneti picioarele pe banca, si nici nu le tineti in aer pentru a va simti mai bine muschii. Este instabila si ineficienta pentru Benching cu greutati mari, deoarece nu va puteti folosi picioarele. Picioarele aflate pe podea cresc stabilitatea, echilibrul si rezistenta. Iti imbunatateste forma ajutandu-te sa-ti mentii pieptul in sus si arcuirea inferioara a spatelui. Faceti Bench Press cu picioarele plate pe podea.
+- **Picioare pe podea**. Faceti Bench Press cu picioarele pe podea. Nu va puneti picioarele pe banca, si nici nu le tineti in aer pentru a va simti mai bine muschii. Este instabila si ineficienta pentru Benching cu greutati mari, deoarece nu va puteti folosi picioarele. Picioarele aflate pe podea cresc stabilitatea, echilibrul si rezistenta. Iti imbunatateste forma ajutandu-te sa-ti mentii pieptul in sus si arcuirea inferioara a spatelui. Faceti Bench Press cu picioarele plate pe podea.
 
-**- Calcaiele pe podea**. Faceti Bench Press cu tot piciorul plat pe podea. Nu va ridicati calcaiele. Calcaiele ridicate sunt mai putin stabile din acelasi motiv, stand pe degetele de la picioare este mai putin stabil decat pe piciorul tau intreg. Ai o suprafata de contact mai mare daca iti tii tot piciorul pe podea. Unii powerlifters fac Bench Press cu calcaiele ridicate. Federatia Internationala de Powerlifting (IPF) nu o permite. Tine-ti calcaiele pe podea cand faceti Bench Press.
+- **Calcaiele pe podea**. Faceti Bench Press cu tot piciorul plat pe podea. Nu va ridicati calcaiele. Calcaiele ridicate sunt mai putin stabile din acelasi motiv, stand pe degetele de la picioare este mai putin stabil decat pe piciorul tau intreg. Ai o suprafata de contact mai mare daca iti tii tot piciorul pe podea. Unii powerlifters fac Bench Press cu calcaiele ridicate. Federatia Internationala de Powerlifting (IPF) nu o permite. Tine-ti calcaiele pe podea cand faceti Bench Press.
 
-**- Pozitia tip genuflexiune(Squat)**. Faceti Bench Press cu calcaiele cu aceeasi latime ca latimea umerilor. Folositi aceeasi pozitie pe care o utilizati cand faceti genuflexiuni(Squats). Nu faceti Bench Press cu o pozitie restransa, este mai putin stabila. Aveti un echilibru mai bun pe banca cu o pozitie mai larga. Daca soldurile te dor cand faci Bench Press, pozitia ta este prea larga (sau prea stransa). Restrange-ti pozitia pana la latimea umarului de la un calcai pana la celalalt. Intoarce-ti picioarele la 30°, astfel incat sa se alinieze cu coapsele.
+- **Pozitia tip genuflexiune(Squat)**. Faceti Bench Press cu calcaiele cu aceeasi latime ca latimea umerilor. Folositi aceeasi pozitie pe care o utilizati cand faceti genuflexiuni(Squats). Nu faceti Bench Press cu o pozitie restransa, este mai putin stabila. Aveti un echilibru mai bun pe banca cu o pozitie mai larga. Daca soldurile te dor cand faci Bench Press, pozitia ta este prea larga (sau prea stransa). Restrange-ti pozitia pana la latimea umarului de la un calcai pana la celalalt. Intoarce-ti picioarele la 30°, astfel incat sa se alinieze cu coapsele.
 
-**- Genunchii pe directia gleznelor**. Faceti Bench Press cu genunchii deasupra gleznelor. Acest lucru inseamna u unghi de 90 ° la nivelul genunchiului si articulatiilor gleznei. Nu faceti cu picioarele in fata gleznelor. Face imposibila impingerea din picioare si scade puterea. Picioarele iti pot fi usor in spatele genunchilor, atata timp cat nu iti ridici calcaiele de pe podea, fundul de pe banca sau nu te arcuiesti prea mult. Acest lucru va poate ajuta sa impingeti din picioare mai bine.
+- **Genunchii pe directia gleznelor**. Faceti Bench Press cu genunchii deasupra gleznelor. Acest lucru inseamna u unghi de 90 ° la nivelul genunchiului si articulatiilor gleznei. Nu faceti cu picioarele in fata gleznelor. Face imposibila impingerea din picioare si scade puterea. Picioarele iti pot fi usor in spatele genunchilor, atata timp cat nu iti ridici calcaiele de pe podea, fundul de pe banca sau nu te arcuiesti prea mult. Acest lucru va poate ajuta sa impingeti din picioare mai bine.
 
 ## Deblocarea barei<a name="deblocarea-barei"></a>
 
 ![Bench Press Unracking](./assets/bench-press-unrack.jpg)
 Apasati bara in sus pentru a o scoate din montanti(uprights). Apoi mutati-o inainte pe umeri. Nu coborati bara direct de pe montanti(uprights).
 
-**- Ochii sub bara**. Intinde-te pe banca cu ochii sub bara. Acest lucru reduce distanta dintre Power Rack si umeri. Face greutatea mai usoara si mai sigura de deblocat. Daca va aflati mai jos, va trebui sa mutati bara mai departe pentru a ajunge la umeri. Aceasta risipeste puterea si este mai putin sigura. Este ca si cum ai face o tractiune(lat pullover) inaintea de Bench Press. Ai putea sa pierzi bara si sa-ti faci rau. Muta-te mai sus, astfel incat ochii sa fie sub bara.
+- **Ochii sub bara**. Intinde-te pe banca cu ochii sub bara. Acest lucru reduce distanta dintre Power Rack si umeri. Face greutatea mai usoara si mai sigura de deblocat. Daca va aflati mai jos, va trebui sa mutati bara mai departe pentru a ajunge la umeri. Aceasta risipeste puterea si este mai putin sigura. Este ca si cum ai face o tractiune(lat pullover) inaintea de Bench Press. Ai putea sa pierzi bara si sa-ti faci rau. Muta-te mai sus, astfel incat ochii sa fie sub bara.
 
-**- Umerii inapoi**. Tine-ti umerii inapoi pe banca atunci cand descarci greutatea. Incepe cu omoplatele contractate si pieptul in sus. Stai incordat. Nu lasa umerii sa inainteze. Daca o fac, coborati montantii (uprights). Coatele trebuie sa fie indoite cand apucati bara. Deblocati-o, indreptandu-va bratele, nu ridicand din umeri. Acest lucru ii tine inapoi pe banca.
+- **Umerii inapoi**. Tine-ti umerii inapoi pe banca atunci cand descarci greutatea. Incepe cu omoplatele contractate si pieptul in sus. Stai incordat. Nu lasa umerii sa inainteze. Daca o fac, coborati montantii (uprights). Coatele trebuie sa fie indoite cand apucati bara. Deblocati-o, indreptandu-va bratele, nu ridicand din umeri. Acest lucru ii tine inapoi pe banca.
 
-**- Blocheaza-ti coatele**. Ridicati bara de pe montanti(uprights) blocand coatele. Tineti-le fixate in timp ce deplasati bara la umeri. Nu deblocati cu coatele indoite. Ai putea sa pierzi bara si sa-ti afectezi fata. Lasa-ti scheletul mai puternic sa poarte greutatea, nu muschii. Blocarea coatelor nu este rea atata timp cat nu le hiper-extindeti. Daca coatele sunt blocate inainte de a desface bara, coborati montantii(uprights).
+- **Blocheaza-ti coatele**. Ridicati bara de pe montanti(uprights) blocand coatele. Tineti-le fixate in timp ce deplasati bara la umeri. Nu deblocati cu coatele indoite. Ai putea sa pierzi bara si sa-ti afectezi fata. Lasa-ti scheletul mai puternic sa poarte greutatea, nu muschii. Blocarea coatelor nu este rea atata timp cat nu le hiper-extindeti. Daca coatele sunt blocate inainte de a desface bara, coborati montantii(uprights).
 
-**- Bara pana la umerii, intai**. Muta bara de la Power Rack la umeri inainte sa o cobori. Echilibreaza-o mai intai peste umeri. Nu coborati bara de la montanti(uprights) la piept intr-o linie inclinata. Te situezi intr-o pozitie slaba daca cobori bara de deasupra fetei. Este ca si cum ai face Lat Pullups(tractiuni). Bara iti poate cadea pe fata si poti muri. Deblocati bara, mutati-o la umerii si apoi coborati-o.
+- **Bara pana la umerii, intai**. Muta bara de la Power Rack la umeri inainte sa o cobori. Echilibreaza-o mai intai peste umeri. Nu coborati bara de la montanti(uprights) la piept intr-o linie inclinata. Te situezi intr-o pozitie slaba daca cobori bara de deasupra fetei. Este ca si cum ai face Lat Pullups(tractiuni). Bara iti poate cadea pe fata si poti muri. Deblocati bara, mutati-o la umerii si apoi coborati-o.
 
 ## Coborarea<a name="coborarea"></a>
 
 ![Bench Press Way Down](./assets/bench-press-down.jpg)
-
 Coborati bara pana la mijlocul pieptului, in timp ce iti tragi coatele in aproximativ 75°. Tineti-va incheieturile drepte si antebratele verticale pe podea.
 
-**- Trage-ti coatele**. Coborati bara spre pieptul mijlociu in timp ce va mutati coatele. Nu ar trebui sa va atingeti trunchiul, deoarece acest lucru este ineficient. Dar acestea nu ar trebui sa fie la 90° in exterior, perpendiculare pe trunchiul tau, deoarece asta provoaca leziuni la umar. Unghiul tau exact al cotului, atunci cand faci Bench Press, depinde de conformatia ta. Regula este sa-ti tragi coatele cu aproximativ 75°, astfel incat antebratele tale sunt verticale in partea de jos.
+- **Trage-ti coatele**. Coborati bara spre pieptul mijlociu in timp ce va mutati coatele. Nu ar trebui sa va atingeti trunchiul, deoarece acest lucru este ineficient. Dar acestea nu ar trebui sa fie la 90° in exterior, perpendiculare pe trunchiul tau, deoarece asta provoaca leziuni la umar. Unghiul tau exact al cotului, atunci cand faci Bench Press, depinde de conformatia ta. Regula este sa-ti tragi coatele cu aproximativ 75°, astfel incat antebratele tale sunt verticale in partea de jos.
 
-**- Antebrate verticale**. Antebratele trebuie sa fie perpendiculare pe podea cand coborati bara. Trebuie sa se formeze o linie dreapta de la bara la incheietura mainii la cot, din fiecare unghi. Daca antebratele nu sunt perpendiculare atunci cand coborati bara, va impingeti coatele prea mult/putin.Sau iti atingi pieptul prea sus/jos. Sau prinderea/priza ta este prea larga/ingusta. Inregistrati-va singur. Priveste-ti antebratele si imbunatateste-ti postura pentru a le mentine verticale/perpendiculare.
+- **Antebrate verticale**. Antebratele trebuie sa fie perpendiculare pe podea cand coborati bara. Trebuie sa se formeze o linie dreapta de la bara la incheietura mainii la cot, din fiecare unghi. Daca antebratele nu sunt perpendiculare atunci cand coborati bara, va impingeti coatele prea mult/putin.Sau iti atingi pieptul prea sus/jos. Sau prinderea/priza ta este prea larga/ingusta. Inregistrati-va singur. Priveste-ti antebratele si imbunatateste-ti postura pentru a le mentine verticale/perpendiculare.
 
-**- Controlat, nu lent**. Coborati bara controlat, nu lent. Daca coborati bara prea lent, veti pierde puterea pentru exercitiu. Daca coborati prea repede bara, va fi mai dificil sa faceti exercitiul cu o postura corecta. Nu coborati greutatea incet pentru a va simti mai mult muschii. Iti vei simti muschii mai tare atunci cand faceti Bench Press cu greutati mari. Coborati bara controlat cu o forma buna, dar nu lent.
+- **Controlat, nu lent**. Coborati bara controlat, nu lent. Daca coborati bara prea lent, veti pierde puterea pentru exercitiu. Daca coborati prea repede bara, va fi mai dificil sa faceti exercitiul cu o postura corecta. Nu coborati greutatea incet pentru a va simti mai mult muschii. Iti vei simti muschii mai tare atunci cand faceti Bench Press cu greutati mari. Coborati bara controlat cu o forma buna, dar nu lent.
 
 ## Pozitia de jos<a name="pozitia-de-jos"></a>
 
 ![Bench Press Proper Bottom Position](./assets/bench-press-bottom.jpg)
 Locul in care bara trebuie sa atinga pieptul depinde de conformatia dvs., latimea de prindere, arcul etc. Dar antebratele ar trebui sa fie perpendicular, din fiecare unghi in partea de jos a Bench Press-ului.
 
-**- Atinge-ti pieptul mijlociu**. Coborati bara pana la pieptul mijlociu - mijlocul pieptului (sternului). Pozitia exacta depinde de conformatie, prinderea si arcul dvs. Bratele lungi pun coatele mai departe de umeri. Bara iti va atinge pieptul mai jos. Arcuirea spatelui va ridica pieptul. Bara il va atinge mai sus. Daca antebratele sunt verticale, din fiecare unghi, in partea de jos, bara va atinge pieptul unde trebuie.
+- **Atinge-ti pieptul mijlociu**. Coborati bara pana la pieptul mijlociu - mijlocul pieptului (sternului). Pozitia exacta depinde de conformatie, prinderea si arcul dvs. Bratele lungi pun coatele mai departe de umeri. Bara iti va atinge pieptul mai jos. Arcuirea spatelui va ridica pieptul. Bara il va atinge mai sus. Daca antebratele sunt verticale, din fiecare unghi, in partea de jos, bara va atinge pieptul unde trebuie.
 
-**- Fara repetari pe jumatate! Folositi o gama completa de miscare**. Coborati bara pana va atinge pieptul. Daca nu, repetarea nu conteaza, nu este corecta. Jumatate de repetare lucreaza mai putin la nivelul muschilor, dezvolta o forta zero in partea de jos si ofera jumatate din castiguri. Astfel trisezi ca atunci cand faci jumatate de genuflexiune(Squats). Mergeti pana la capat. Daca nu puteti, greutatea este prea grea. Daca umerii va dor, corectati-va postura. Ridicati pieptul, contracati-va omoplatele si pozitionati coatele la 75 °.
+- **Fara repetari pe jumatate! Folositi o gama completa de miscare**. Coborati bara pana va atinge pieptul. Daca nu, repetarea nu conteaza, nu este corecta. Jumatate de repetare lucreaza mai putin la nivelul muschilor, dezvolta o forta zero in partea de jos si ofera jumatate din castiguri. Astfel trisezi ca atunci cand faci jumatate de genuflexiune(Squats). Mergeti pana la capat. Daca nu puteti, greutatea este prea grea. Daca umerii va dor, corectati-va postura. Ridicati pieptul, contracati-va omoplatele si pozitionati coatele la 75 °.
 
-**- Atingeti si reveniti!**. Coborati bara, atingeti pieptul si ridicati-o inapoi. Nu faceti pauza in partea de jos, deoarece greutatea va fi mai greu de ridicat. Folositi reflexul de intindere inversand rapid miscarea. Muschii dvs. se vor contracta mai greu dupa intinderea(stretch) pe drumul in jos. Powerlifters isi intrerup exercitiul Bench Press, deoarece aceasta este regula competitiei. Veti face pe Bench Press mai intens daca nu faceti pauza, dar atingeti si continuati cu StrongLifts 5 × 5.
+- **Atingeti si reveniti!**. Coborati bara, atingeti pieptul si ridicati-o inapoi. Nu faceti pauza in partea de jos, deoarece greutatea va fi mai greu de ridicat. Folositi reflexul de intindere inversand rapid miscarea. Muschii dvs. se vor contracta mai greu dupa intinderea(stretch) pe drumul in jos. Powerlifters isi intrerup exercitiul Bench Press, deoarece aceasta este regula competitiei. Veti face pe Bench Press mai intens daca nu faceti pauza, dar atingeti si continuati cu StrongLifts 5 × 5.
 
-**- Fara expulzari ! “Atingeti si reveniti” nu inseamna a expulza bara**. Nu lasati bara rapid pe piept. Poate ajunge la picioare sau la fata, in loc de sus. Traiectoriile gresite ale barei ingreuneaza impingerea (press) si provoaca repetari esuate. Daca bara incetineste dupa ce va atinge pieptul, ridicati prea rapid. Coborati bara mai lent. Grabeste impingerea acesteia inapoi, iar viteza se va reduce. Periati pieptul atingandu-va tricoul cu bara.
+- **Fara expulzari ! “Atingeti si reveniti” nu inseamna a expulza bara**. Nu lasati bara rapid pe piept. Poate ajunge la picioare sau la fata, in loc de sus. Traiectoriile gresite ale barei ingreuneaza impingerea (press) si provoaca repetari esuate. Daca bara incetineste dupa ce va atinge pieptul, ridicati prea rapid. Coborati bara mai lent. Grabeste impingerea acesteia inapoi, iar viteza se va reduce. Periati pieptul atingandu-va tricoul cu bara.
 
 ## Urcarea/revenirea<a name="urcarea-revenirea"></a>
 
 ![Bench Press Way up](./assets/bench-press-up.jpg)
 Impingeti bara departe de piept pana va trece de umeri. Tineti-va incheieturile drepte si coatele sub bara. Antebratele trebuie sa ramana verticale in timp ce bara se misca.
 
-**- Impingeti(Bench ) in diagonala**. Impingeti bara in diagonala de la mijlocul pieptului pana deasupra umerilor. Nu impingeti pe o linie verticala peste mijlocul pieptului. Acest drum este mai scurt, dar ineficient. Cel mai simplu mod de a tine bara in varf este pe directia umerilor, deoarece acesta este punctul dvs. de echilibru. A o tine pe directia pieptului mijlociu este mai greu, deoarece este departe de punctul tau de echilibru. Este ca si cum ai face front raises. Impingeti bara inapoi spre umeri.
+- **Impingeti(Bench ) in diagonala**. Impingeti bara in diagonala de la mijlocul pieptului pana deasupra umerilor. Nu impingeti pe o linie verticala peste mijlocul pieptului. Acest drum este mai scurt, dar ineficient. Cel mai simplu mod de a tine bara in varf este pe directia umerilor, deoarece acesta este punctul dvs. de echilibru. A o tine pe directia pieptului mijlociu este mai greu, deoarece este departe de punctul tau de echilibru. Este ca si cum ai face front raises. Impingeti bara inapoi spre umeri.
 
-**- Miscati-va coatele**. Impingeti bara departe de pieptul dvs,. in timp ce va miscati coatele. Trebuie sa stea sub bara. V-ati “tucked” coatele, in coborare, pentru a evita afectarea umarului. Daca nu faceti acelasi lucru pe drumul inapoi, coatele se vor ajunge in fata barei. Acest lucru face ca greutatea sa fie mai greu de ridicat, ca atunci cand faceti extensii de triceps. “Flare” coatele in timp ce ridicati pe o linie diagonala cu antebratele verticale.
+- **Miscati-va coatele**. Impingeti bara departe de pieptul dvs,. in timp ce va miscati coatele. Trebuie sa stea sub bara. V-ati “tucked” coatele, in coborare, pentru a evita afectarea umarului. Daca nu faceti acelasi lucru pe drumul inapoi, coatele se vor ajunge in fata barei. Acest lucru face ca greutatea sa fie mai greu de ridicat, ca atunci cand faceti extensii de triceps. “Flare” coatele in timp ce ridicati pe o linie diagonala cu antebratele verticale.
 
-**- Impinge-te**. Impingeti bara departe de pieptul mijlociu, impingandu-va in banca. Imaginati-va ca faceti flotari(Pushups). Te indepartezi de podea pentru ca nu se poate misca. Faceti Bench Press la fel: indepartati-va de bara, in loc sa indepartati bara de tine. Acest lucru impiedica umerii sa se miste inainte. Vei fi incordat pe banca, cu pieptul in sus si cu omoplatele contractate.
+- **Impinge-te**. Impingeti bara departe de pieptul mijlociu, impingandu-va in banca. Imaginati-va ca faceti flotari(Pushups). Te indepartezi de podea pentru ca nu se poate misca. Faceti Bench Press la fel: indepartati-va de bara, in loc sa indepartati bara de tine. Acest lucru impiedica umerii sa se miste inainte. Vei fi incordat pe banca, cu pieptul in sus si cu omoplatele contractate.
 
-**- Fundul pe banca**. Tineti fundul pe banca in timp ce ridicati bara. Daca fundul se ridica de pe banca, repetarea nu este completa. Fixeaza fundul pe banca impingand partea superioara a spatelui si fesele in banca, in timp ce faceti Bench Press cu greutatea. Nu te impinge doar din picioare. Daca fundul tau se ridica de pe banca, verifica inaltimea. Banca dvs. trebuie sa aiba inaltimea de 45cm / 18 ″. Daca este inaltimea este mai mica, ridicati-o punand placi sub ea. Sau obtineti o banca mai bun.
+- **Fundul pe banca**. Tineti fundul pe banca in timp ce ridicati bara. Daca fundul se ridica de pe banca, repetarea nu este completa. Fixeaza fundul pe banca impingand partea superioara a spatelui si fesele in banca, in timp ce faceti Bench Press cu greutatea. Nu te impinge doar din picioare. Daca fundul tau se ridica de pe banca, verifica inaltimea. Banca dvs. trebuie sa aiba inaltimea de 45cm / 18 ″. Daca este inaltimea este mai mica, ridicati-o punand placi sub ea. Sau obtineti o banca mai bun.
 
 ## Lockout<a name="blocarea"></a>
 
 ![Bench Press Lockout](./assets/bench-press-lockout.jpg)
-
 Tineti bara cu bratele drepte peste umeri. Nu o tine in spate sau in fata umerilor. Nu o tineti nici cu coatele deblocate, dar este nesigur.
 
-**- Bara peste umeri**. Bara este echilibrata atunci cand o tineti deasupra umerilor. Bara tinuta deasupra pieptului se simte mai grea. Este ca si cum ai face un front raise. Bara peste fata este, de asemenea, mai grea. Este ca un pullovers. Testeaza: blocheaza o bara goala peste umeri. Mut-o pe pieptul tau. Apoi peste fata ta. Apoi inapoi peste umeri. Observati cum bara peste umeri este mai usoara. Acest lucru se datoreaza faptului ca este in punctul dvs. de echilibru. Intrerupeti fiecare repetare aici.
+- **Bara peste umeri**. Bara este echilibrata atunci cand o tineti deasupra umerilor. Bara tinuta deasupra pieptului se simte mai grea. Este ca si cum ai face un front raise. Bara peste fata este, de asemenea, mai grea. Este ca un pullovers. Testeaza: blocheaza o bara goala peste umeri. Mut-o pe pieptul tau. Apoi peste fata ta. Apoi inapoi peste umeri. Observati cum bara peste umeri este mai usoara. Acest lucru se datoreaza faptului ca este in punctul dvs. de echilibru. Intrerupeti fiecare repetare aici.
 
-**- Blocheaza-ti coatele**. Finalizati fiecare repetare blocand coatele. Nu le tine indoite pentru a mentine tensiunea sau pentru a va simti mai mult muschii. Ai putea sa scapi bara pe fata si sa mori. Blocheaza-ti coatele astfel incat scheletul tau, mai puternic, sa tina greutatea in varf, nu si muschii. Coatele vor fi in siguranta, atata timp cat nu-ti hiper-extindeti coatele. Blocati-le in partea de sus, dar nu treceti peste intervalul lor normal de miscare.
+- **Blocheaza-ti coatele**. Finalizati fiecare repetare blocand coatele. Nu le tine indoite pentru a mentine tensiunea sau pentru a va simti mai mult muschii. Ai putea sa scapi bara pe fata si sa mori. Blocheaza-ti coatele astfel incat scheletul tau, mai puternic, sa tina greutatea in varf, nu si muschii. Coatele vor fi in siguranta, atata timp cat nu-ti hiper-extindeti coatele. Blocati-le in partea de sus, dar nu treceti peste intervalul lor normal de miscare.
 
 ## Fixarea barei pe suport(Racking)<a name="fixarea-barei-pe-suport"></a>
 
 ![Bench Press Racking](./assets/bench-press-racking.jpg)
-
 Ridicati mai intai bara peste umeri. Apoi mutati-o inapoi pe Power Rack. Odata ce o atinge, indoaie-ti bratele pentru a fixa bara in montantii suportului(uprights).
 
-**- Bara peste umeri, in primul rand**. Nu faceti Bench Press direct pe montanti. Ii puteti rata apasand bara de sub ei. Daca nu nimeriti montantii(uprights), coatele vor fi indoite intr-o pozitie asemanatoare cu cea cand faceti Pullovers. Va va fi greu sa tineti bara, o puteti scapa pe fata si puteti muri. Intotdeauna fixati bara peste umeri, mai intai. Nu va grabiti. Apoi mutati bara inapoi pe Power Rack. Indoiti-va bratele pentru a o cobori pe montanti(uprights).
+- **Bara peste umeri, in primul rand**. Nu faceti Bench Press direct pe montanti. Ii puteti rata apasand bara de sub ei. Daca nu nimeriti montantii(uprights), coatele vor fi indoite intr-o pozitie asemanatoare cu cea cand faceti Pullovers. Va va fi greu sa tineti bara, o puteti scapa pe fata si puteti muri. Intotdeauna fixati bara peste umeri, mai intai. Nu va grabiti. Apoi mutati bara inapoi pe Power Rack. Indoiti-va bratele pentru a o cobori pe montanti(uprights).
 
-**- Blocheaza-ti coatele**. Coatele trebuie blocate inainte de a muta bara inapoi pentru a o ridica. Greutatea grea este mai greu de tinut cu coatele indoite. Greutatea cea mai grea de tinut este greutatea pe care o puteti scapa mai usor. Daca bara va cadea pe fata, te va rani sau te va ucide. Impingeti bara peste umeri si blocati coatele. Nu-i extindeti, blocati-i usor. Apoi mutati bara inapoi pe Power Rack cu bratele drepte.
-**- Tintiti Power Rack-ul**. Fixati(Rack) bara, mutand-o inapoi pe montantii(uprights) Power Rack-ului. Apoi coborati-o pe montanti(uprights) indoind bratele. Nu tintiti direct montantii(uprights), puteti sa nu nimeriti. Nu va intoarceti capul pentru a privi montantii(uprights), va poate rasuci gatul. Daca sunteti asezat corespunzator pe banca,ati setat in mod corect montantii)uprights, iar bara atinge Power Rack-ul, bara va fi peste montanti(uprights). Pur si simplu indoaie-ti bratele pentru a o fixa.
+- **Blocheaza-ti coatele**. Coatele trebuie blocate inainte de a muta bara inapoi pentru a o ridica. Greutatea grea este mai greu de tinut cu coatele indoite. Greutatea cea mai grea de tinut este greutatea pe care o puteti scapa mai usor. Daca bara va cadea pe fata, te va rani sau te va ucide. Impingeti bara peste umeri si blocati coatele. Nu-i extindeti, blocati-i usor. Apoi mutati bara inapoi pe Power Rack cu bratele drepte.
+- **Tintiti Power Rack-ul**. Fixati(Rack) bara, mutand-o inapoi pe montantii(uprights) Power Rack-ului. Apoi coborati-o pe montanti(uprights) indoind bratele. Nu tintiti direct montantii(uprights), puteti sa nu nimeriti. Nu va intoarceti capul pentru a privi montantii(uprights), va poate rasuci gatul. Daca sunteti asezat corespunzator pe banca,ati setat in mod corect montantii)uprights, iar bara atinge Power Rack-ul, bara va fi peste montanti(uprights). Pur si simplu indoaie-ti bratele pentru a o fixa.
 
 ## Traiectoria barei<a name="directia-barei"></a>
 
 ![Bench Press Bar Path](./assets/bench-press-bar-path.jpg)
-
 Dreapta: ridicarea/benching intr-o linie verticala peste umeri te va rani. Mijloc: linia verticala peste mijlocul pieptului este ineficienta. Corect: traiectoria diagonal, adecvata a barei
 
-**- Linie diagonala**. Forma corecta de a cobora bara este in diagonala de la umeri la piept si inapoi in sus. Aceasta distanta este mai lunga decat cu o bara verticala. Dar previne afectarea umarului. Coatele trebuie sa se afle la 75 ° in partea inferioara, astfel incat bratele superioare sa nu-si afecteze coafa rotatorilor impotriva articulatiei AC. Iar bara trebuie sa se blocheze peste umeri (punctul dvs. de echilibru). Pentru asta este nevoie de o traiectorie in diagonala.
+- **Linie diagonala**. Forma corecta de a cobora bara este in diagonala de la umeri la piept si inapoi in sus. Aceasta distanta este mai lunga decat cu o bara verticala. Dar previne afectarea umarului. Coatele trebuie sa se afle la 75 ° in partea inferioara, astfel incat bratele superioare sa nu-si afecteze coafa rotatorilor impotriva articulatiei AC. Iar bara trebuie sa se blocheze peste umeri (punctul dvs. de echilibru). Pentru asta este nevoie de o traiectorie in diagonala.
 
-**- Nu vertical**. Spre deosebire de genuflexiuni(Squats) sau [Indreptari(Deadlift)](/exercitii/spate/indreptari)s, o traiectorie verticala nu functioneaza pe Bench Press. Deplasarea barei intr-o linie verticala peste umerii iti misca coatele la 90 °. Acest lucru afecteaza umerii. Linia verticala peste piept pune bara in fata umerilor in partea de sus. Acest lucru este mai greu, ca si cum ai face front raises. Cea mai sigura si eficienta traiectorie este de la umeri pana la mijlocul pieptului. Nu puteti face acest lucru daca bara se misca vertical.
+- **Nu vertical**. Spre deosebire de genuflexiuni(Squats) sau [Indreptari(Deadlift)](/exercitii/spate/indreptari)s, o traiectorie verticala nu functioneaza pe Bench Press. Deplasarea barei intr-o linie verticala peste umerii iti misca coatele la 90 °. Acest lucru afecteaza umerii. Linia verticala peste piept pune bara in fata umerilor in partea de sus. Acest lucru este mai greu, ca si cum ai face front raises. Cea mai sigura si eficienta traiectorie este de la umeri pana la mijlocul pieptului. Nu puteti face acest lucru daca bara se misca vertical.
 
-**- Ridica-ti pieptul**. Traiectoria barei nu poate fi verticala cand faceti Bench Press. Daca este, va miscati coatele sau impingeti pe directia pieptului. Primul este rau pentru umerii tai, cel de-al doilea ineficient. Coborati bara intr-o linie diagonala. Apoi obtineti o traiectorie mai verticala ridicand pieptul. Coborati bara si intalniti-o cu pieptul. Tine-ti fundul pe banca. Bara iti va atinge pieptul mai sus si mai aproape de umeri. Acest lucru este mai eficient.
+- **Ridica-ti pieptul**. Traiectoria barei nu poate fi verticala cand faceti Bench Press. Daca este, va miscati coatele sau impingeti pe directia pieptului. Primul este rau pentru umerii tai, cel de-al doilea ineficient. Coborati bara intr-o linie diagonala. Apoi obtineti o traiectorie mai verticala ridicand pieptul. Coborati bara si intalniti-o cu pieptul. Tine-ti fundul pe banca. Bara iti va atinge pieptul mai sus si mai aproape de umeri. Acest lucru este mai eficient.
 
 ## Respiratia<a name="respiratia"></a>
 
-**- Inspira in partea de sus**. Antrenati-va cu o forma corespunzatoare. Deblocati greutatea si tineti-o deasupra umerilor. Respirati, tineti-va respiratia si coborati bara. Inspirarea in varf te ajuta sa ramai incordat prin cresterea presiunii in trunchi. Va ajuta sa va mentineti pieptul in sus, omoplatele contractate si arcuite inapoi. Nu respirati in timp ce coborati bara. Nu vei fi incordat. Respirati in varf, tineti-va respiratia apoi coborati bara.
+- **Inspira in partea de sus**. Antrenati-va cu o forma corespunzatoare. Deblocati greutatea si tineti-o deasupra umerilor. Respirati, tineti-va respiratia si coborati bara. Inspirarea in varf te ajuta sa ramai incordat prin cresterea presiunii in trunchi. Va ajuta sa va mentineti pieptul in sus, omoplatele contractate si arcuite inapoi. Nu respirati in timp ce coborati bara. Nu vei fi incordat. Respirati in varf, tineti-va respiratia apoi coborati bara.
 
-**- Tineti-va respiratia in partea de jos**. Nu expirati in partea de jos. Pieptul tau se va dezumfla ca un balon, vei pierde etanseitatea si greutatea va fi mai greu de ridicat/impins. Tine-ti respiratia pe drumul in jos(in coborare) si in partea de jos. Tensiunea arteriala va creste. Dar va reveni la normal cand setul dvs. se va termina. Si muschii mai puternici, dobanditi din antrenamentele intense cu greutati, iti va scadea tensiunea arteriala, deoarece vor solicita mai putin inima.
+- **Tineti-va respiratia in partea de jos**. Nu expirati in partea de jos. Pieptul tau se va dezumfla ca un balon, vei pierde etanseitatea si greutatea va fi mai greu de ridicat/impins. Tine-ti respiratia pe drumul in jos(in coborare) si in partea de jos. Tensiunea arteriala va creste. Dar va reveni la normal cand setul dvs. se va termina. Si muschii mai puternici, dobanditi din antrenamentele intense cu greutati, iti va scadea tensiunea arteriala, deoarece vor solicita mai putin inima.
 
-**- Expirati in partea de sus**. Expirati odata ce ati blocat greutatea peste umeri. Dar nu va goliti plamanii intre repetari sau veti pierde etanseitatea. Bench Pressers calificati fac deseori mai multe repetari cu o singura respiratie pentru a ramane incordati. Respirati puternic inainte de a cobori pentru prima repetare. Apoi inspirati scurt si rapid intre repetari, in varf/in partea de sus. Puteti expira incet contrar glotei inchise, cand impingeti, daca presiunea este prea mare pe ultimele repetari.
+- **Expirati in partea de sus**. Expirati odata ce ati blocat greutatea peste umeri. Dar nu va goliti plamanii intre repetari sau veti pierde etanseitatea. Bench Pressers calificati fac deseori mai multe repetari cu o singura respiratie pentru a ramane incordati. Respirati puternic inainte de a cobori pentru prima repetare. Apoi inspirati scurt si rapid intre repetari, in varf/in partea de sus. Puteti expira incet contrar glotei inchise, cand impingeti, daca presiunea este prea mare pe ultimele repetari.
 
 ## Instalarea echipamentului<a name="instalarea"></a>
 
@@ -526,7 +512,6 @@ Unele Power Racks nu au suficient gauri. Montantii(uprights) nu se potrivesc cu 
 ## Carlige de siguranta(safety pins)<a name="carlige-de-siguranta"></a>
 
 ![Bench Press Safety Pins](./assets/bench-press-safety-pins.jpg)
-
 Nu trebuie sa va atingeti pinii/carligele de siguranta(safety pins) la repetari bune ale Bench Press-ului. Setati-le usor mai jos decat pieptul. Apoi, atunci cand esuezi, aplatizeaza-ti trunchiul pentru a sprijini bara pe carligele de siguranta.
 
 Setati carligele de siguranta(safety pins) ale Power Rack-ului mai jos decat partea de jos a Bench Press-ului. Bara trebuie sa atinga pieptul fara sa loveasca carligele. Daca coborati carligele de siguranta (safety pins) la nivelul pieptului, ii veti lovi in timpul antrenamentului. Acest lucru dezechilibreaza bara si va adopta o traiectorie proasta. Este o modalitate stupida de a esua repetarile pe StrongLifts 5 × 5. Puneti carligele de siguranta(safety pins) mai jos decat pieptul, astfel incat sa nu le loviti niciodata la repetari bune.
@@ -535,12 +520,12 @@ Cand nu reusesti o repetare si esti blocat de greutate, coboara mai intai bara l
 
 Nu aveti nevoie de spotter daca faceti Bench Press in Power Rack. Chiar daca aveti un spotter, faceti Bench Press in Power Rack pentru o siguranta maxima. Pinii/Carligele de siguranta(safety pins) vor prinde bara daca spotterul dvs. reactioneaza prea lent, sau deloc. Siguranta invinge frica. Iti creste increderea. Va veti antrena la maxim, cu toata puterea dvs, fara a fi retinut de frica. Prin urmare, exercitiul de Bench Press se va imbunatati mai repede. Iata cateva Power Racks-uri pe care le recomand:
 
-**- Atlas Power Rack**. Transport ieftin, dar fara transport gratuit. Recenzii de 4,8 stele pe Amazon.
-**- PowerLine PPR200X**. Sustine 600lb, montanti(uprights) exteriori, carlige de siguranta, bara de tractiuni. Dar prea scurt pentru Overhead Press. 4,6 stele. Transport gratuit.
-**- Body-solid Pro**. Sustine 1000lb, bara de tractiuni, dar costa mai mult decat PowerLine PPR200X. Acesta este similar cu al meu.
-**- Titan Power Rack**. Sustine 700lb, 28 gauri, bara cu Chin-ups, sub 300 USD.
-**- Rogue R3**. De inalta calitate cu bara de tractiuni. Dar scump si trebuie sa-l ansamblezi.
-**- Short Power Rack**. Potrivit pentru plafoane joase, sub 6 ″.
+- **Atlas Power Rack**. Transport ieftin, dar fara transport gratuit. Recenzii de 4,8 stele pe Amazon.
+- **PowerLine PPR200X**. Sustine 600lb, montanti(uprights) exteriori, carlige de siguranta, bara de tractiuni. Dar prea scurt pentru Overhead Press. 4,6 stele. Transport gratuit.
+- **Body-solid Pro**. Sustine 1000lb, bara de tractiuni, dar costa mai mult decat PowerLine PPR200X. Acesta este similar cu al meu.
+- **Titan Power Rack**. Sustine 700lb, 28 gauri, bara cu Chin-ups, sub 300 USD.
+- **Rogue R3**. De inalta calitate cu bara de tractiuni. Dar scump si trebuie sa-l ansamblezi.
+- **Short Power Rack**. Potrivit pentru plafoane joase, sub 6 ″.
 
 ## Banca<a name="banca"></a>
 
@@ -560,10 +545,10 @@ Centreaza-ti haltera in montanti(uprights), astfel incat sa o deblocati(unrack) 
 
 Faceti Bench Press cu haltera, folosind mansoane rotative(revolving sleeves). Mansoanele trebuie sa se roteasca independent de bara. Daca exteriorul barei dvs. nu se invarte, bara se va roti in maini. Acest lucru va suprasolicita incheieturile si coatele si scade rezistenta la prindere. Folositi o haltera olimpica(Olympic Barbell) cu mansoane rotative. Puneti-va degetul mic in interiorul marcajelor verticale ale barei, astfel incat bratele sa fie verticale. Iata cateva haltere pe care le recomand:
 
-**- Rogue Power Bar**. calitate inalta, cel mai bun din cele mai bune.
-**- Troy Texas Power Bar**. Sustine 1500 de kilograme, knurling central.
-**- Body-solid Olympic Bar**. Daca doriti ceva ieftin, nu as cumpara-o.
-**- Cap Barbell**. Testat la 1500lb, negru. Insa ii lipseste knurling-ul central pentru genuflexiuni(Squats).
+- **Rogue Power Bar**. calitate inalta, cel mai bun din cele mai bune.
+- **Troy Texas Power Bar**. Sustine 1500 de kilograme, knurling central.
+- **Body-solid Olympic Bar**. Daca doriti ceva ieftin, nu as cumpara-o.
+- **Cap Barbell**. Testat la 1500lb, negru. Insa ii lipseste knurling-ul central pentru genuflexiuni(Squats).
 
 ## Benching singur in siguranta, fara spotter<a name="antrenament-singur"></a>
 
@@ -584,13 +569,13 @@ Am petrecut mai mult de zece ani Bench Pressing, mai ales singur, in sala de spo
 
 Daca sala de sport nu are un Power Rack, treceti la o sala de sport reala care are una. Sau cumpara-ti propriul Power Rack si construieste-ti o sala de sport asa cum am facut eu. Retineti ca, daca faceti StrongLifts 5 × 5, aveti nevoie si de un Power Rack pentru genuflexiuni(Squats). Aveti nevoie de unul pentru a prinde bara de pe partea superioara a spatelui daca nu reusiti sa faceti genuflexiuni(Squats) cu greutatea. Iata cateva Power Racks pe care le recomand pentru a face genuflexiuni(Squats) si Bench Press in siguranta, fara spotter.
 
-**- Atlas Power Rack**. Transport ieftin, dar fara transport gratuit. Recenzii de 4,8 stele pe Amazon.
-**- PowerLine PPR200X**. Sustine 600lb, montanti(uprights) exteriori, carlige de siguranta, bara de tractiuni. Dar prea scurt pentru Overhead Press. 4,6 stele. Transport gratuit.
-**- Body-solid Pro**. Sustine 1000lb, bara de tractiuni, dar costa mai mult decat PowerLine PPR200X. Acesta este similar cu al meu.
-**- Titan Power Rack**. Sustine 700lb, 28 gauri, bara cu Chin-ups, sub 300 USD.
-**- Rogue R3**. De inalta calitate cu bara de tractiuni. Dar scump si trebuie sa-l ansamblezi.
-**- Short Power Rack**. Potrivit pentru plafoane joase, sub 6 ″.
-Rack-urile pentru genuflexiuni(Squats) cu carlige de siguranta(safety pins) functioneaza, de asemenea, la Bench Press in siguranta, fara spotter. Arata ca o jumatate de Power Rack, cu exceptia faptului ca carligele de siguranta sunt adesea fixate. Daca nu se potrivesc cu lungimea bratelor dvs. si nu le puteti ajusta, le veti lovi la repetari bune. Acest lucru dezechilibreaza bara si provoaca repetari esuate. Ridicati-va banca punand farfurii plate sub ea. Aceasta va pozitiona trunchiul mai sus, astfel incat sa nu atingeti carligele de siguranta la repetarile bune.
+- **Atlas Power Rack**. Transport ieftin, dar fara transport gratuit. Recenzii de 4,8 stele pe Amazon.
+- **PowerLine PPR200X**. Sustine 600lb, montanti(uprights) exteriori, carlige de siguranta, bara de tractiuni. Dar prea scurt pentru Overhead Press. 4,6 stele. Transport gratuit.
+- **Body-solid Pro**. Sustine 1000lb, bara de tractiuni, dar costa mai mult decat PowerLine PPR200X. Acesta este similar cu al meu.
+- **Titan Power Rack**. Sustine 700lb, 28 gauri, bara cu Chin-ups, sub 300 USD.
+- **Rogue R3**. De inalta calitate cu bara de tractiuni. Dar scump si trebuie sa-l ansamblezi.
+- **Short Power Rack**. Potrivit pentru plafoane joase, sub 6 ″.
+  Rack-urile pentru genuflexiuni(Squats) cu carlige de siguranta(safety pins) functioneaza, de asemenea, la Bench Press in siguranta, fara spotter. Arata ca o jumatate de Power Rack, cu exceptia faptului ca carligele de siguranta sunt adesea fixate. Daca nu se potrivesc cu lungimea bratelor dvs. si nu le puteti ajusta, le veti lovi la repetari bune. Acest lucru dezechilibreaza bara si provoaca repetari esuate. Ridicati-va banca punand farfurii plate sub ea. Aceasta va pozitiona trunchiul mai sus, astfel incat sa nu atingeti carligele de siguranta la repetarile bune.
 
 ## Dezavantajele Power Rack-ului<a name="dezavantajele-power-rack-ului"></a>
 
@@ -603,7 +588,6 @@ Unii oameni considera ca Bench Pressing in Power Rack este o eticheta proasta pe
 ## Cum sa esuezi in siguranta<a name="cum-sa-esuezi-in-siguranta"></a>
 
 ![Bench Press Fail](./assets/bench-press-fail.jpg)
-
 Cum sa esuezi in siguranta: coborati bara inapoi in piept. Aplatizeaza-ti trunchiul astfel incat bara sa atinga bara. Apoi alunecati sub ele.
 
 Setati-va carligele de siguranta sub partea de jos a Bench Press-ului. Bara nu ar trebui sa le loveasca la repetari bune. Daca se va intampla, va dezechilibra bara, avand o traiectorie proasta si va provoca repetari esuate. Bara trebuie sa atinga pieptul mijlociu fara sa loveasca carligele. Daca acest lucru pare prea scazut: forma corespunzatoare Bench Press-ului este piept ridicat, omoplat incordat si arcuit inapoi. Bara va atinge carligele daca va aplatizati trnchiul atunci cand esuati.
@@ -617,7 +601,6 @@ Faceti cateva Bench Press-uri nereusite de cateva ori pentru a depasi teama de e
 ## Setati intotdeauna carligele de siguranta(safety pins)!<a name="setati-carligele"></a>
 
 ![Bench Press Safety Pins](./assets/bench-press-safety-pins.jpg)
-
 Nu trebuie sa atingeti pinii/carligele de siguranta(safety pins) la repetari bune ale Bench Press-ului. Setati-le usor mai jos decat pieptul. Apoi, atunci cand esuezi, aplatizeaza-ti trunchiul pentru a sprijini bara pe carligele de siguranta.
 
 Setati carligele de siguranta inainte de a va aseza pe banca. Asigurati-va ca sunt pozitionate la aceeasi inaltime de ambele parti. Daca faceti Bench Press acasa, ca mine, si familia sau prietenii tai utilizati Power Rack-ul dvs., verificati carligele de siguranta inainte de fiecare set si antrenament. Este posibil sa fi coborat carligele de siguranta pentru a se potrivi cu conformatia lor sau pentru un alt motiv. Verificati intotdeauna carligele de siguranta ale Power Rack-ului dvs. Setati-le chiar daca credeti ca puteti face Bench Press cu acea greutatea.
@@ -721,7 +704,6 @@ Blocarea coatelor este sigura pentru articulatii. Ceea ce este rau este sa-i for
 ## Fixati(Rack) bara corespunzator<a name="fixati-corespunzator"></a>
 
 ![Bench Press Racking](./assets/bench-press-racking.jpg)
-
 Tineti bara cu bratele drepte peste umeri. Nu o tine in spatele sau in fata umerilor. Nu o tineti nici cu coatele deblocate, nu este sigur.
 
 Deblocati bara cu coatele blocate. Muta o deasupra umeri inainte sa cobori. Nu lasati bara de la montanti (uprights) la mijlocul pieptului. Bara trebuie sa porneasca de deasupra umerilor pentru a avea o rezistenta corespunzatoare si echilibru. Coborarea barei din spatele umerilor este nesigura. Face greutatea mai dificila de tinut, ca si cum ai face tractiuni(pullovers). Luati-va timp pentru a debloca(unrack) bara. Mutati bara peste umeri inainte de a o cobori. Acest lucru este mai sigur.
@@ -775,7 +757,6 @@ Faceti Bench Press coborand bara pana la mijlocul pieptului. Trage-ti coatele la
 ## Folosind aparate<a name="folosind-aparatele"></a>
 
 ![Bench Press Bar Path](./assets/bench-press-bar-path.jpg)
-
 Pare mai sigur sa faceti Bench Press cu ajutorul aparatelor. Bara este atasata de aparatul Smith. Nu va puteti dezechilibra, deoarece aparatul echilibreaza bara pentru dvs. Nici nu va puteti bloca sub greutate. Bara are carlige pentru a fi prinsa daca esuati. Si totusi, Bench Pressing in aparatul Smith este mai putin sigur decat cred oamenii. Iti va distruge umerii. Si este mai putin eficient pentru formarea fortei si a muschilor.
 
 Stanga: benching intr-o linie verticala peste umeri ii va rani. Mijloc: linia verticala peste mijlocul pieptului este ineficienta. Corect: traiectoria barei, in diagonala.
@@ -1037,15 +1018,15 @@ Forma corecta a Bench Press-ului previne, de asemenea, accidentarile. Antrenarea
 
 Indiferent de nivelul la care va aflati, exista intotdeauna loc pentru a imbunatati forma dvs. Asigurati-va ca cititi ghidul meu definitiv cu privire la modul in care sa faci Bench Press cu o forma corespunzatoare. Iata varianta scurta cu cele mai importante puncte tehnice pentru a-ti creste Bench Press-ul.
 
-**- Prinderea/Priza**. Tineti bara la baza palmei, aproape de incheieturi. Prindeti bara cu o proiza completa.
-**- Incheieturi**. Faceti Bench Press cu incheieturile drepte. Prindeti bara, astfel incat incheieturile sa nu se indoaie si sa nu te doara.
-**- Coate**. Pozitionati-le la 75 ° in partea de jos, tineti-le direct sub bara, din toate unghiurile.
-**- Antebratelor**. Perpendiculare pe podea, formandu-se o linie dreapta de la bara pana la incheietura mainii la cot din toate unghiurile.
-**- Piept**. Indreptat in sus, incordati-va omoplatii, arcuieste-ti spatele pentru a ramane incordat
-**- Umerii**. Tineti-i inapoi, pe banca, impingeti-i in banca atunci cand impingeti bara
-**- Picioare**. Plate pe podea, picioare sub genunchi, la o distanta, unul de celalalt, egala cu latimea umerilor ca atunci cand faci genuflexiuni( Squats)
-**- Traiectoria barei**. In diagonala de la mijlocul pieptului pana la umeri, nu verticala peste piept sau umeri.
-**- Fixarea (racking)**. Blocati coatele, mutati bara mai intai pe umeri, obtineti un lift daca puteti.
+- **Prinderea/Priza**. Tineti bara la baza palmei, aproape de incheieturi. Prindeti bara cu o proiza completa.
+- **Incheieturi**. Faceti Bench Press cu incheieturile drepte. Prindeti bara, astfel incat incheieturile sa nu se indoaie si sa nu te doara.
+- **Coate**. Pozitionati-le la 75 ° in partea de jos, tineti-le direct sub bara, din toate unghiurile.
+- **Antebratelor**. Perpendiculare pe podea, formandu-se o linie dreapta de la bara pana la incheietura mainii la cot din toate unghiurile.
+- **Piept**. Indreptat in sus, incordati-va omoplatii, arcuieste-ti spatele pentru a ramane incordat
+- **Umerii**. Tineti-i inapoi, pe banca, impingeti-i in banca atunci cand impingeti bara
+- **Picioare**. Plate pe podea, picioare sub genunchi, la o distanta, unul de celalalt, egala cu latimea umerilor ca atunci cand faci genuflexiuni( Squats)
+- **Traiectoria barei**. In diagonala de la mijlocul pieptului pana la umeri, nu verticala peste piept sau umeri.
+- **Fixarea (racking)**. Blocati coatele, mutati bara mai intai pe umeri, obtineti un lift daca puteti.
 
 ## Adaugati greutate pe bara<a name="adaugati-greutatea-pe-bara"></a>
 

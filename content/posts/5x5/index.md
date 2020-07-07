@@ -97,9 +97,9 @@ Obiectivul tau este sa adaugi greutate la fiecare antrenament. Nu veti putea fac
 
 <details style="border:1px solid black;"><summary>Cuprins</summary>
 
-<div class="test" style="width: 100%; display: table;">
+<div class="contents" style="width: 100%; display: table;">
 
-<ul style="column-count: 2; column-gap: 18%; columns: 2; list-style: none;">
+<ul class="contents-ul">
   <li style="list-style:none;">
     <a style="font-size:16px;" href="#prezentare-generala"> 1 Prezentarea generala</a>
     <ul style="list-style:none; margin-top:0; margin-bottom:0;">
