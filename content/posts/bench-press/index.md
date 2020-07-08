@@ -181,7 +181,7 @@ Faceti Bench Press in Power Rack pentru o siguranta maxima. Setati carligele de 
 - **Coborati bara**. Coborati-o pana la mijlocul pieptului, in timp ce va mutati coatele cu 75°. Pastreaza-ti antebratele verticale. Tine-ti respiratia in partea de jos.
 - **Presa(Press)**. Impingeti bara de la mijlocul pieptului pana deasupra umerilor. Tine-ti fundul pe banca. Fixati coatele in partea de sus. Respirati.
 
-Fixati(Rack) greutatea odata ce ati facut Bench Press, cinci repetari pe StrongLIfts 5 × 5. Incheiati ultima reprezentare mai intai, impingeti greutatea departe de piept pana cand veti indreta si fixa coatele. Apoi mutati bara orizontal de deasupra umerilor pe Power Rack. Nu incercati sa o asezati direct pe montanti (uprights), deoarece puteti sa nu nimeriti. Tintiti partile verticale ale Power Rack-ului. Dupa ce le-ati lovit, indoiti coatele pentru a cobori bara in pozitia verticala.
+Fixati(Rack) greutatea odata ce ati facut Bench Press, cinci repetari pe StrongLIfts 5 × 5. Incheiati ultima repetare mai intai, impingeti greutatea departe de piept pana cand veti indreta si fixa coatele. Apoi mutati bara orizontal de deasupra umerilor pe Power Rack. Nu incercati sa o asezati direct pe montanti (uprights), deoarece puteti sa nu nimeriti. Tintiti partile verticale ale Power Rack-ului. Dupa ce le-ati lovit, indoiti coatele pentru a cobori bara in pozitia verticala.
 
 ## Pregatirea pentru Bench Press<a name="pregatirea-bench-press"></a>
 

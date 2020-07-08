@@ -241,7 +241,7 @@ Poti face orice doresti. Intrebarea pe care trebuie sa o puneti este daca asta v
 
 In primul rand, exista o suprapunere mare in muschii folositi pentru cele 5 exercitii principale. Deadlift-urile sunt ca jumatate Genoflexiuni cu haltera. Rows iti intaresc spatele. Presses intaresc bratele. Intregul corp devine puternic. Deci Deadlift-ul tau creste bine cu doar un set greu de cinci. Nu ai nevoie de mai mult. Acest lucru a fost dovedit.
 
-In al doilea rand, puteti ridica greutati mai grele pe [Indreptari(Deadlifts)](/exercitii/spate/indreptari) decat orice alt exercitiu. Si fiecare reprezentant porneste de la un punt mort. De aceea, Indreptari(Deadlifts) sunt mai solicitante. 5×5 Deadlift-urile sunt mai greu de recuperat decat 5×5 Genoflexiuni cu haltera. Daca nu va recuperati in totalitate, nu puteti deveni mai puternic. Nu reusiti si va plafonati.
+In al doilea rand, puteti ridica greutati mai grele pe [Indreptari(Deadlifts)](/exercitii/spate/indreptari) decat orice alt exercitiu. Si fiecare repetare porneste de la un punt mort. De aceea, Indreptari(Deadlifts) sunt mai solicitante. 5×5 Deadlift-urile sunt mai greu de recuperat decat 5×5 Genoflexiuni cu haltera. Daca nu va recuperati in totalitate, nu puteti deveni mai puternic. Nu reusiti si va plafonati.
 
 In al treilea rand, iti lipseste experienta. Oamenii care fac deadlifturi 5×5 ajung mereu sa inteleaga, mai tarziu. Cand trebuie sa lupti pentru a obtine 5×5 Squat(Genoflexiuni cu haltera) si sa lupti pentru a obtine 5×5 Presses, nu vrei sa inchei antrenamentul cu un 5×5 Deadlift. Esti fericit sa termini cu un set greu de cinci.
 

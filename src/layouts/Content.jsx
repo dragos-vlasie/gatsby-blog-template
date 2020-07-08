@@ -5,7 +5,7 @@ import prism from '../styles/prism';
 
 const Wrapper = styled.div`
   background: white;
-  padding: 30px;
+  padding: 25px;
   max-width: 50rem;
   margin: auto;
   margin-top: -5rem;

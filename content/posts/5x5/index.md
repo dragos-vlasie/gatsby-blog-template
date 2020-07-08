@@ -521,7 +521,7 @@ Inceperea cu prea multa greutate poate provoca dureri, iar mai apoi accidentari.
 
 Unii vor incepe prea mult pe Genoflexiuni cu haltera, pentru ca sunt obisnuiti cu bicicleta sau cu alergatul. Dar acest lucru este irelevant. Intervalul de miscare este mai mic in ciclism/alergare fata de Genoflexiuni cu haltera. Vei avea febra musculara la picioare daca incepi cu o greutate prea mare pe [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) si asta iti va ingreuna sau chiar opri progresul.
 
-Inceperea cu o greutate prea mare provoaca, de asemenea, plafonari. Daca incepeti astazi cu cele cinci reprezentante maxime, nu puteti ridica inca doua zile mai tarziu... si inca doua zile mai tarziu. Iti va fi dor de repetitii, sa te duci si sa te inchei blocat. Greutatea dvs. initiala trebuie sa fie usoara, astfel incat sa aveti loc pentru a adauga cu usurinta greutate pentru urmatoarele antrenamente.
+Inceperea cu o greutate prea mare provoaca, de asemenea, plafonari. Daca incepeti astazi cu cele cinci repetari maxime, nu puteti ridica inca doua zile mai tarziu... si inca doua zile mai tarziu. Iti va fi dor de repetitii, sa te duci si sa te inchei blocat. Greutatea dvs. initiala trebuie sa fie usoara, astfel incat sa aveti loc pentru a adauga cu usurinta greutate pentru urmatoarele antrenamente.
 
 Conceptia care sustine ca greutatile mici nu intaresc puterea si muschii este gresita. Desigur, ridicarea unei greutati mai mare este mai bine. Si veti lucra pentru asta cu StrongLifts 5×5. Dar greutatile mai usoare iti ajuta corpul sa castige forta si muschi. Nu este necesar sa va ridicati maximul absolut de fiecare data.
 
