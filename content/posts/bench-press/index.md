@@ -166,7 +166,7 @@ Acesta este ghidul definitiv pentru o forma corespunzatoare pe Impinsul cu halte
 </div>
 </details>
 
-## Introducere
+## Introducere<a name="introducere"></a
 
 ## Cum sa faci Bench Press<a name="cum-sa-faci-bench-press"></a>
 
@@ -411,13 +411,13 @@ Nu va ridicati fundul de pe banca. Asa trisati. Arcuieste-ti spatele inferior, d
 ![Bench Press Unracking](./assets/bench-press-unrack.jpg)
 Apasati bara in sus pentru a o scoate din montanti(uprights). Apoi mutati-o inainte pe umeri. Nu coborati bara direct de pe montanti(uprights).
 
-- **Ochii sub bara**. Intinde-te pe banca cu ochii sub bara. Acest lucru reduce distanta dintre Power Rack si umeri. Face greutatea mai usoara si mai sigura de deblocat. Daca va aflati mai jos, va trebui sa mutati bara mai departe pentru a ajunge la umeri. Aceasta risipeste puterea si este mai putin sigura. Este ca si cum ai face o tractiune(lat pullover) inaintea de Bench Press. Ai putea sa pierzi bara si sa-ti faci rau. Muta-te mai sus, astfel incat ochii sa fie sub bara.
+- **Ochii sub bara**. Intinde-te pe banca cu ochii sub bara. Acest lucru reduce distanta dintre Power Rack si umeri. Face greutatea mai usoara si mai sigura de deblocat. Daca va aflati mai jos, va trebui sa mutati bara mai departe pentru a ajunge la umeri. Aceasta risipeste puterea si este mai putin sigura. Este ca si cum ai face o [tractiune](/exercitii/pull-ups)(lat pullover) inaintea de Bench Press. Ai putea sa pierzi bara si sa-ti faci rau. Muta-te mai sus, astfel incat ochii sa fie sub bara.
 
 - **Umerii inapoi**. Tine-ti umerii inapoi pe banca atunci cand descarci greutatea. Incepe cu omoplatele contractate si pieptul in sus. Stai incordat. Nu lasa umerii sa inainteze. Daca o fac, coborati montantii (uprights). Coatele trebuie sa fie indoite cand apucati bara. Deblocati-o, indreptandu-va bratele, nu ridicand din umeri. Acest lucru ii tine inapoi pe banca.
 
 - **Blocheaza-ti coatele**. Ridicati bara de pe montanti(uprights) blocand coatele. Tineti-le fixate in timp ce deplasati bara la umeri. Nu deblocati cu coatele indoite. Ai putea sa pierzi bara si sa-ti afectezi fata. Lasa-ti scheletul mai puternic sa poarte greutatea, nu muschii. Blocarea coatelor nu este rea atata timp cat nu le hiper-extindeti. Daca coatele sunt blocate inainte de a desface bara, coborati montantii(uprights).
 
-- **Bara pana la umerii, intai**. Muta bara de la Power Rack la umeri inainte sa o cobori. Echilibreaza-o mai intai peste umeri. Nu coborati bara de la montanti(uprights) la piept intr-o linie inclinata. Te situezi intr-o pozitie slaba daca cobori bara de deasupra fetei. Este ca si cum ai face Lat Pullups(tractiuni). Bara iti poate cadea pe fata si poti muri. Deblocati bara, mutati-o la umerii si apoi coborati-o.
+- **Bara pana la umerii, intai**. Muta bara de la Power Rack la umeri inainte sa o cobori. Echilibreaza-o mai intai peste umeri. Nu coborati bara de la montanti(uprights) la piept intr-o linie inclinata. Te situezi intr-o pozitie slaba daca cobori bara de deasupra fetei. Este ca si cum ai face Lat Pullups([tractiuni](/exercitii/pull-ups)). Bara iti poate cadea pe fata si poti muri. Deblocati bara, mutati-o la umerii si apoi coborati-o.
 
 ## Coborarea<a name="coborarea"></a>
 
@@ -461,7 +461,7 @@ Impingeti bara departe de piept pana va trece de umeri. Tineti-va incheieturile 
 ![Bench Press Lockout](./assets/bench-press-lockout.jpg)
 Tineti bara cu bratele drepte peste umeri. Nu o tine in spate sau in fata umerilor. Nu o tineti nici cu coatele deblocate, dar este nesigur.
 
-- **Bara peste umeri**. Bara este echilibrata atunci cand o tineti deasupra umerilor. Bara tinuta deasupra pieptului se simte mai grea. Este ca si cum ai face un front raise. Bara peste fata este, de asemenea, mai grea. Este ca un pullovers. Testeaza: blocheaza o bara goala peste umeri. Mut-o pe pieptul tau. Apoi peste fata ta. Apoi inapoi peste umeri. Observati cum bara peste umeri este mai usoara. Acest lucru se datoreaza faptului ca este in punctul dvs. de echilibru. Intrerupeti fiecare repetare aici.
+- **Bara peste umeri**. Bara este echilibrata atunci cand o tineti deasupra umerilor. Bara tinuta deasupra pieptului se simte mai grea. Este ca si cum ai face un front raise. Bara peste fata este, de asemenea, mai grea. Este ca o [tractiune](/exercitii/pull-ups). Testeaza: blocheaza o bara goala peste umeri. Mut-o pe pieptul tau. Apoi peste fata ta. Apoi inapoi peste umeri. Observati cum bara peste umeri este mai usoara. Acest lucru se datoreaza faptului ca este in punctul dvs. de echilibru. Intrerupeti fiecare repetare aici.
 
 - **Blocheaza-ti coatele**. Finalizati fiecare repetare blocand coatele. Nu le tine indoite pentru a mentine tensiunea sau pentru a va simti mai mult muschii. Ai putea sa scapi bara pe fata si sa mori. Blocheaza-ti coatele astfel incat scheletul tau, mai puternic, sa tina greutatea in varf, nu si muschii. Coatele vor fi in siguranta, atata timp cat nu-ti hiper-extindeti coatele. Blocati-le in partea de sus, dar nu treceti peste intervalul lor normal de miscare.
 
@@ -470,7 +470,7 @@ Tineti bara cu bratele drepte peste umeri. Nu o tine in spate sau in fata umeril
 ![Bench Press Racking](./assets/bench-press-racking.jpg)
 Ridicati mai intai bara peste umeri. Apoi mutati-o inapoi pe Power Rack. Odata ce o atinge, indoaie-ti bratele pentru a fixa bara in montantii suportului(uprights).
 
-- **Bara peste umeri, in primul rand**. Nu faceti Bench Press direct pe montanti. Ii puteti rata apasand bara de sub ei. Daca nu nimeriti montantii(uprights), coatele vor fi indoite intr-o pozitie asemanatoare cu cea cand faceti Pullovers. Va va fi greu sa tineti bara, o puteti scapa pe fata si puteti muri. Intotdeauna fixati bara peste umeri, mai intai. Nu va grabiti. Apoi mutati bara inapoi pe Power Rack. Indoiti-va bratele pentru a o cobori pe montanti(uprights).
+- **Bara peste umeri, in primul rand**. Nu faceti Bench Press direct pe montanti. Ii puteti rata apasand bara de sub ei. Daca nu nimeriti montantii(uprights), coatele vor fi indoite intr-o pozitie asemanatoare cu cea cand faceti [tractiuni](/exercitii/pull-ups). Va va fi greu sa tineti bara, o puteti scapa pe fata si puteti muri. Intotdeauna fixati bara peste umeri, mai intai. Nu va grabiti. Apoi mutati bara inapoi pe Power Rack. Indoiti-va bratele pentru a o cobori pe montanti(uprights).
 
 - **Blocheaza-ti coatele**. Coatele trebuie blocate inainte de a muta bara inapoi pentru a o ridica. Greutatea grea este mai greu de tinut cu coatele indoite. Greutatea cea mai grea de tinut este greutatea pe care o puteti scapa mai usor. Daca bara va cadea pe fata, te va rani sau te va ucide. Impingeti bara peste umeri si blocati coatele. Nu-i extindeti, blocati-i usor. Apoi mutati bara inapoi pe Power Rack cu bratele drepte.
 - **Tintiti Power Rack-ul**. Fixati(Rack) bara, mutand-o inapoi pe montantii(uprights) Power Rack-ului. Apoi coborati-o pe montanti(uprights) indoind bratele. Nu tintiti direct montantii(uprights), puteti sa nu nimeriti. Nu va intoarceti capul pentru a privi montantii(uprights), va poate rasuci gatul. Daca sunteti asezat corespunzator pe banca,ati setat in mod corect montantii)uprights, iar bara atinge Power Rack-ul, bara va fi peste montanti(uprights). Pur si simplu indoaie-ti bratele pentru a o fixa.
@@ -706,7 +706,7 @@ Blocarea coatelor este sigura pentru articulatii. Ceea ce este rau este sa-i for
 ![Bench Press Racking](./assets/bench-press-racking.jpg)
 Tineti bara cu bratele drepte peste umeri. Nu o tine in spatele sau in fata umerilor. Nu o tineti nici cu coatele deblocate, nu este sigur.
 
-Deblocati bara cu coatele blocate. Muta o deasupra umeri inainte sa cobori. Nu lasati bara de la montanti (uprights) la mijlocul pieptului. Bara trebuie sa porneasca de deasupra umerilor pentru a avea o rezistenta corespunzatoare si echilibru. Coborarea barei din spatele umerilor este nesigura. Face greutatea mai dificila de tinut, ca si cum ai face tractiuni(pullovers). Luati-va timp pentru a debloca(unrack) bara. Mutati bara peste umeri inainte de a o cobori. Acest lucru este mai sigur.
+Deblocati bara cu coatele blocate. Muta o deasupra umeri inainte sa cobori. Nu lasati bara de la montanti (uprights) la mijlocul pieptului. Bara trebuie sa porneasca de deasupra umerilor pentru a avea o rezistenta corespunzatoare si echilibru. Coborarea barei din spatele umerilor este nesigura. Face greutatea mai dificila de tinut, ca si cum ai face [tractiuni](/exercitii/pull-ups). Luati-va timp pentru a debloca(unrack) bara. Mutati bara peste umeri inainte de a o cobori. Acest lucru este mai sigur.
 
 Duceti mai intai bara peste umeri. Apoi mutati-o inapoi pe Power Rack. Odata ce il atingeti, indoaie-ti bratele pentru a fixa bara pe montanti(uprights).
 
@@ -803,7 +803,7 @@ Nu faceti Bench Press cu greutati mari fara Power Rack sau spotter. Nu va antren
 ![Bench Press Unracking](./assets/bench-press-unrack.jpg)
 Impingeti bara in sus pentru a o scoate din montanti(uprights). Apoi mutati-o inainte pe umeri. Nu coborati bara direct de pe montanti(uprights).
 
-Nu deblocati(unrack) bara de pe montanti(uprights) direct la piept. Aceasta lucru misca bara peste cap in loc de umeri. Face bara mai greu de tinut. Nu ai echilibru cu bara in spatele umerilor. Este ca si cum ai face tractiuni (pullover). Ai putea pierde bara si scapa-o pe fata. Deblocati (unrack) bara mutand-o mai intai peste umeri. Echilibrati-o. Apoi coborati bara pana la piept. Luati-va timp pentru a debloca(unrack) inainte de a face Bench Press.
+Nu deblocati(unrack) bara de pe montanti(uprights) direct la piept. Aceasta lucru misca bara peste cap in loc de umeri. Face bara mai greu de tinut. Nu ai echilibru cu bara in spatele umerilor. Este ca si cum ai face [tractiuni](/exercitii/pull-ups)). Ai putea pierde bara si scapa-o pe fata. Deblocati (unrack) bara mutand-o mai intai peste umeri. Echilibrati-o. Apoi coborati bara pana la piept. Luati-va timp pentru a debloca(unrack) inainte de a face Bench Press.
 
 ![Bench Press Racking](./assets/bench-press-racking.jpg)
 Duceti mai intai bara peste umeri. Apoi mutati-o inapoi pe Power Rack. Odata ce-l atinge, indoaie-ti bratele pentru a fixa(rack) bara pe montanti (uprights).

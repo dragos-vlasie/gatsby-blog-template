@@ -42,7 +42,20 @@ const Layout = ({ children }) => (
             flex-direction: column;
             min-height: 100vh;
           }
-
+          .videoWrapper {
+            position: relative;
+            padding-bottom: 56.25%;
+            padding-top: 25px;
+            height: 0;
+            margin-bottom: 20px;
+          }
+          .videoWrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          }
           .contents .contents-ul {
             column-count: 2;
             column-gap: 18%;
