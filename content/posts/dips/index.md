@@ -35,13 +35,13 @@ Acesta este ghidul definitiv pentru o forma corespunzatoare pe Dips. Acopera, de
       <li style="list-style:none;">
          <a style="font-size:16px;" href="#introducere"> 1 Introducere</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-se-faci-dips">1.1. Cum se faci dips</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-sa-faci-dips">1.1. Cum se faci dips</a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#dips(flotari-la-paralele)-forma"> 1.2. Dips(flotari la paralele) forma 101</a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#muschii-lucrati"> 1.3. Muschii lucrati/antrenati</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#technica-dip"> 2 2. Tehnica Dip</a>
+         <a style="font-size:16px;" href="#tehnica-dip"> 2 2. Tehnica Dip</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#priza">2.1. Priza</a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#latimea-prizei"> 2.2. Latimea prizei</a></li>
@@ -60,7 +60,7 @@ Acesta este ghidul definitiv pentru o forma corespunzatoare pe Dips. Acopera, de
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#problume-comune"> 3 Probleme comune</a>
+         <a style="font-size:16px;" href="#probleme-comune"> 3 Probleme comune</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#inselaciune">3.1. A trisa</a></li>
            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nu-pot-face-niciun-dips"> 3.2. Nu pot face niciun Dips</a></li>
@@ -217,7 +217,7 @@ Treceti de paralela(break parallel) in partea de jos. Coborati-va pana cand umer
 
 Flotarile la paralele sunt mai grele atunci cand utilizati o gama completa de miscare. Dar acesta este motivul pentru care sunt mai eficienti pentru a dobandi forta si muschii in partea superioara a corpului. Nu va acel om care face Dips(flotari la paralele) cu 20 de kilograme atasate la centura, dar face doar jumatate de dip. Esti ca omul care se lauda cu Bench 300lb, dar fundul se ridica la fiecare repetare si el nu atinge niciodata pieptul. Nu este eficient si nu conteaza. Faceti-va Dips-urile in mod corespunzator.
 
-## Nu pot face niciun dip<a name="nu-pot-face-niciun-dip"></a>
+## Nu pot face niciun dip<a name="nu-pot-face-niciun-dips"></a>
 
 Dips te obliga sa-ti ridici greutatea. Acest lucru este adesea prea greu atunci cand sunteti la inceput. Este motivul pentru care prefer barele: sunt mai usor de adaptat/reglat. Sa presupunem ca cantaresti 75 kg ca mine, nu pornesti StrongLifts 5 × 5 cu 75 kg la genuflexiuni( Squats). Incepi cu bara goala de 20 kg. Dar nu puteti incepe mai usor cu Dips. Puteti slabi, dar acest lucru necesita timp si nu veti ajunge la 20 kg. Flotarile la paralele(Dips) sunt mai grele, deoarece trebuie sa incepi intens.
 

@@ -87,7 +87,7 @@ const Layout = ({ children }) => (
           }
           @media (max-width: ${theme.breakpoints.m}) {
             h2 {
-              font-size: 1rem;
+              font-size: 1.1rem;
             }
           }
           ${headroom}
