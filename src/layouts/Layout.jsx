@@ -82,10 +82,16 @@ const Layout = ({ children }) => (
           }
           h1 {
             font-size: 5rem;
-            font-size: bold;
+            font-weight: bold;
             font-family: ${theme.fontFamily.heading};
           }
           @media (max-width: ${theme.breakpoints.m}) {
+            h1 {
+              font-size: 1.8rem;
+            }
+          }
+
+          @media (max-width: ${theme.breakpoints.s}) {
             h2 {
               font-size: 1.1rem;
             }
