@@ -37,7 +37,7 @@ const Index = ({ data }) => {
               <PostList
                 key={id}
                 cover={cover.childImageSharp.fluid}
-                path={path}
+                path={`/${node.frontmatter.tags}/${node.frontmatter.subCategory}${node.frontmatter.path}`}
                 title={title}
                 date={date}
                 excerpt={excerpt}
@@ -46,7 +46,7 @@ const Index = ({ data }) => {
           })}
         </PostWrapper>
       </FadeIn>
-      <CountryList data={data.allMarkdownRemark}/>
+      <CountryList data={data.allMarkdownRemark} />
     </Layout>
   );
 };
@@ -88,6 +88,7 @@ export const query = graphql`
             title
             path
             tags
+            subCategory
             date(formatString: "MM.DD.YYYY")
             cover {
               childImageSharp {
