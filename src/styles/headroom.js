@@ -24,6 +24,15 @@ const headroom = css`
       margin-bottom: 0;
     }
   }
+  @media (max-width: ${theme.breakpoints.s}) {
+    .headroom {
+      padding: 0.8rem 0.6rem;
+    }
+  }
+  .headroom img {
+    max-height: 30px;
+    min-width: 50px;
+  }
   .headroom--unfixed {
     position: relative;
     transform: translateY(0);

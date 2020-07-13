@@ -27,6 +27,7 @@ Squats-ul iti lucreaza intregul corp. Picioarele se indoaie si se indreapta pent
 Squat este regele tuturor exercitiilor. Lucreaza mai multi muschi, cu o greutate mai mare, decat exercitii mai populare precum [Bench Press](/exercitii/bench-press) . Prin urmare, este mai eficient sa obtii rapid forta generala si muschii . De aceea, faceti genuflexiuni(Squats) 3x / saptamana pe antrenamentul StrongLifts 5 × 5 .
 
 Forma corecta de Squat este esentiala pentru a evita durerile de genunchi si spate. Nu faceti genuflexiuni partiale(partial Squats), parcurgand doar jumatate din drum. Coborati in genuflexiune pana cand nivelul soldurilor este sub nivelul genunchilor. Faceti genuflexiunea astfel incat genunchii sa fie aliniati cu picioarele voastre. Tine-ti spatele inferior neutru, nu-l lasati sa se curbeze/cocoseze.
+
 Acesta este ghidul definitiv pentru o forma adecvata a exercitiului Squat. Acopera beneficiile Squat, tehnica Squat, muschii lucrati, problemele des intalnite si durerea ce poate aparea, precum si variatiile de Squat precum Squat Front si Squat Olympic.
 
 <details style="border:1px solid black;"><summary style="text-align:center;">Cuprins</summary>
@@ -210,7 +211,7 @@ Constructia dvs. determina aspectul corespunzator pentru forma dvs.. Cu cat lati
 - **Soldurilor**. Flexati-va soldurile si genunchii in acelasi timp. Miscati-va soldurile spre exterior si in jos in timp ce impingeti genunchii in exterior.
 - **Partea inferioara a spatelui**. Fa genuflexiuni cu spatele drept, ca atunci cand stai in picioare.Fara sa indoiti spatele. Mentineti spatele neutru.
 - **Prindere**. Prindeti bara bine. Dar nu incercati sa sustineti greutati mari cu mainile. Lasa partea superioara a spatelui sa sustina bara.
-- **Latime de prindere Folositi o prindere medie, mai ingusta decat atunci cand executati [Bench Press](/exercitii/bench-press)**. Mainile tale ar trebui sa fie in afara umerilor.
+- **Latime de prindere** Folositi o prindere medie, mai ingusta decat atunci cand executati [Bench Press](/exercitii/bench-press). Mainile tale ar trebui sa fie in afara umerilor.
 - **Pozitia barei**. Puneti bara intre muschii trapezului si adevaratii umeri(in cazul unei bari usoare) sau pe muschii trapezului(pentru o bara grea). Centrati bara.
 - **Incheieturi**. Incheieturile se vor indoi si te vor durea daca incercati sa sprijiniti bara cu mainile. Sustineti-o cu partea superioara a spatelui.
 - **Coate**. In spatele trunchiului in prima parte a genuflexiunii, nu vertical sau orizontal. Si pe aceeasi linie cu triunchiul,atunci cand sunteti jos .
@@ -259,6 +260,8 @@ Puteti sa ma vedeti facand genuflexiuni( Squats) cu o forma corecta si raspunzan
 Iata un al doilea videoclip in care ma puteti vedea facand genuflexiuni(Squat) cu 170kg / 374lb pentru cinci repetari. Daca se pare ca ma aplec prea mult in fata, amintiti-va ca fac genuflexiuni cu bara joasa si am un trunchi scurt cu coapsele lungi. Acest lucru ma obliga sa ma aplec mai mult pentru a tine bara peste mijlocul piciorului. Daca as incerca sa fac genuflexiuni mai putin adanci, cu conformatia mea, si pozitia barei astfel,mi-as pierde echilibrul. Aceasta postura functioneaza pentru mine, iar spatele inferior este in siguranta, deoarece ramane neutru.
 
 ## Protectia/Siguranta exercitiu<a name="protectia"></a>
+
+<br>
 
 ## Protectia genunchiului<a name="protectia-genunchiului"></a>
 
@@ -342,7 +345,7 @@ _Impingeti-va genunchii in timp ce flexati._
 
 ## Gambe<a name="gambe"></a>
 
-![Squat Knee Position](./assets/squat-knees-1.jpg)\_
+![Squat Knee Position](./assets/squat-knees-1.jpg)
 _Genunchii trebuie sa fie la acelasi nivel cu degetele de la picioare._
 
 - **Tibia trebuie sa fie inclinata**. Tibia ta trebuie sa fie inclinata in partea de jos a flexiei. Va fi mai inclinata daca aveti coapse lungi ca mine decat daca aveti coapse scurte. Dar ele nu ar trebui sa fie perpendiculare pe podea sau va veti pierde echilibrul. Cel mai bine este sa nu va faceti griji pentru tibia dvs. atunci cand faceti genuflexiuni(Squats). Concentreaza-te pe genuflexiune, pe flexie, impingand genunchii si soldurile in acelasi timp. Tibia ta, in cele din urma va fi inclinata cand ajungi jos.
@@ -420,7 +423,7 @@ _Unghiu este mai putin vertical din cauza trunchiului scurt / a coapselor lungi.
 - **Depinde de pozitia barei**. Va veti apleca mai mult atunci cand face genuflexiuni(Squats) cu bara joasa(low bar) decat bara inalta(high bar). Cu cat bara este mai joasa pe spate, cu atat mai mult trebuie sa va aplecati pentru a mentine bara echilibrata, peste oasele metatarsiene. Cu cat este mai sus bara pe spate, cu atat trunchiul tau poate fi mai aproape de pozitia verticala. Genuflexiunile cu bara joasa(low bar) cu un trunghi in pozitie vertical, nu functioneaza, vei cadea in spate. Executarea exercitiului cu o bara pozitionata sus (high bar), dar cu un trunchi prea aplecat( unchiul este prea mic), de asemenea, nu va functiona deoarece greutatea te va va trage in fata.
 - **Bara la acelasi nivel cu oasele metatarsiene**. Unghiul din spate este corect daca bara este la acelasi nivel cu oasele metatarsiene. Mijlocul labei piciorului(oasele metatarsiene) este punctul tau de echilibru. Bara este echilibrata atunci cand incepe, se misca si se termina pe dreapta ce contine si mijlocul labei piciorului( oasele metatarsiene). Nu conteaza cat de inalt sau de scund esti, puneti bara pe spate pe aceeasi linie cu acestea. De asemenea nu conteaza cat de lungi sau scurte sunt coapsele si trunchiul. Concentrati-va sa coborati bara de-a lungul unei drepte verticale ce contine si oasele metatarsiene, iar unghiul spatelui va fi, automat, potrivit.
 
-## Scoaterea barei de pe suport/aparat(Unracking)<a name="scoaterea-barei"></a>
+## Scoaterea barei de pe suport/aparat (Unracking)<a name="scoaterea-barei"></a>
 
 ![Squat unracking](./assets/squat-unracking.jpg)
 _Bara in fata ta. Pune picioarele sub ea. Scoateti bara de pe suport facand un pas inapoi. Stai drept pentru o secunda inainte de a incepe sa flexezi._
@@ -449,7 +452,7 @@ _Flexeaza pana cand soldurile sunt sub nivelul genunchilor. Break parallel._
 - **Revenirea**. Flexati, break parallel, apoi reveniti rapid. Greutatea va fi mai usor de flexat deoarece veti folosi Reflexul de intindere(Stretch Reflex). Muschii picioarelor se vor contracta mai greu, datorita intinderii(stretch) realizate pe coborare. Cu cat muschii se contracta mai greu, cu atat esti mai puternic. Cheia este sa mentineti o forma adecvata in partea de jos prin mentinerea genunchilor in afara, soldurilor in spate si spatele inferior neutru.
 - **Nu intrerupeti/Nu puneti pauza**. Pierdeti Reflexul de intindere(Stretch Reflex) daca va opriti in partea de jos a genuflexiunii. Acest lucru face ca greutatea sa fie mai greu de ridicat. Vei face genuflexiuni cu o greutate mai mare. Flexeaza, break parallel, apoi revino. Nu va opriti in partea de jos, reveniti rapid, in schimb. Lucrati cu o forma corecta controland bara. Tineti-va genunchii in afara, soldurile inapoi si partea inferioara a spatelui neutru, in partea de jos a genuflexiuni(Squat).
 
-## Ridicarea/Revenirea<a name="revenirea"></a>
+## Ridicarea / Revenirea<a name="revenirea"></a>
 
 ![Squat Way Up](./assets/squat-way-up.jpg)
 _Ridicati-va miscand soldurile in sus. Mentineti genunchii in afara si unghiul spatelui constant._
@@ -467,7 +470,7 @@ _Blocheaza-ti soldurile si genunchii in partea de sus a genuflexiunii._
 - **Blocheaza-ti soldurile**. Fiecare repetare trebuie sa se termine cu soldurile si genunchii inchisi. Nu stati cu soldurile in spate cand esti sus, in pozitia initiala. Acest lucru afecteaza spatele inferior, deoarece sunteti aplecat inainte. Stati drept si blocheaza soldurile, astfel incat sa ai o linie dreapta de la umeri pana la glezne. Va puteti contracta muschii fesieri daca va ajuta sa va reamintiti sa va blocati soldurile. Dar nu-ti lasa spatele jos. Mentineti-l neutru in partea de sus.
 - **Incordeaza-te**. Cand esti gata sa faci urmatoarea repetare, incordeaza-te. Ridica-ti pieptul, arcuieste-ti partea superioara a spatelui si contractati-va omoplatul. Strangeti bara, astfel incat sa nu se poata misca in timp ce te antrenezi. Apoi inspirati, tineti-o si incepeti sa flexati. Luati-va timp pentru a va incorda inainte de a incepe sa flexati. Veti avea o forma mai buna si mai multa forta. Dar nu asteptati ore cand sunteti in picioare, sus. Nu trebuie sa va ia mai mult de cateva secunde pentru a va incorda.
 
-## Punerea barei inapoi pe suport/aparat(Rack)<a name="punerea-barei-pe-suport"></a>
+## Punerea barei inapoi pe suport/aparat (Rack)<a name="punerea-barei-pe-suport"></a>
 
 ![Squat Racking](./assets/squat-racking.jpg)
 _Finalizeaza-ti repetarea si stai drept. Apoi mergeti inainte pana cand bara loveste suportul. Flexeaza ca sa o fixezi pe suport._
@@ -550,11 +553,14 @@ Nu ezitati sa esuati in mod intentionat de cateva ori pentru a depasi frica de n
 
 ## Dureri commune<a name="dureri-commune"></a>
 
+<br>
+
 ## Dureri in zona gatului<a name="dureri-in-zona-gatului"></a>
 
 Genuflexiunile(Squats) va va afecta gatul daca tineti bara gresita. Muschii tai trebuie sa sustina greutatea, nu coloana vertebrala. Nu face genuflexiuni cu o parte superioara a spatelui liber sau bara iti va afecta coloana vertebrala. Incordati-va partea superioara a spatelui inainte de a desface bara. Strangeti bara pentru a putea strange mai tare. Fii incordat tot timpul, astfel incat bara sa nu se poata deplasa pe spate si sa vina sprea in fata, la gat. Daca tineti dreapta bara, nu va veti afecta gatul niciodata cand faceti genuflexiuni.
 
-Nu folositi un suport de spuma, nu infasurati un prosop in jurul barei si nu cumparati o “manta ray”. Acestea pozitioneaza bara mai sus si mai departe de soldurile tale. O sa-ti fie mai greu sa iti tii pieptul in fata. Te vei apleca mai usor, ceea ce iti poate rani spatele. Tineti bara dreapta, nu folositi solutii de asistenta pentru banda. Sincer, am folosit un suport de spuma la inceput. Dar nu am mai folosit unul in 15 ani, in ciuda faptului ca mi-am triplat Squat si am purtat doar un tricou. Forma corecta este cheia.  
+Nu folositi un suport de spuma, nu infasurati un prosop in jurul barei si nu cumparati o “manta ray”. Acestea pozitioneaza bara mai sus si mai departe de soldurile tale. O sa-ti fie mai greu sa iti tii pieptul in fata. Te vei apleca mai usor, ceea ce iti poate rani spatele. Tineti bara dreapta, nu folositi solutii de asistenta pentru banda. Sincer, am folosit un suport de spuma la inceput. Dar nu am mai folosit unul in 15 ani, in ciuda faptului ca mi-am triplat Squat si am purtat doar un tricou. Forma corecta este cheia.
+
 Tine-ti capul neutru cand faceti genuflexiuni(Squats). Nu te uita in sus sau vei tasa discurile coloanei vertebrale. A face acest lucru in timpul antrenamentului este periculos pentru gatul tau. Stai cu capul aliniat cu trunchiul. Nu-l intoarceti pentru a privi suportul/aparatul cand puneti bara sau pentru a va verifica forma/postura in oglinda laterala. Priveste in fata la un punct fix de pe podea. Uita-te la partea de jos a peretelui daca ai unul in fata ta cand faci genuflexiuni.
 
 ## Durere la incheietura mainii<a name="durere-la-incheietura-mainii"></a>
@@ -652,7 +658,8 @@ _Strechingul numit "dislocarile umerilor"imbunatatesc flexibilitatea umarului pe
 
 Dislocarile umerilor sunt cele mai bune intinderi ale corpului superior pentru genuflexiuni(Squat). O faceti ridicand o coada de matura, de la coapse peste cap si in spatele spatelui. Aceasta va intinde pieptul, umerii si partea superioara a spatelui. Acesta face ca bara sa fie mai usor de tinut pe spate pentru genuflexiuni(Squat). Si de fapt nu va va disloca umerii, ci doar ii intinde(stretch). Gimnastele au folosit dislocarile umerilor de zeci de ani ca exercitiu de intindere.
 
-Puteti face dislocari ale umerilor cu o coada de matura, banda de rezistenta, teava de pvc sau franghie. Doar asigurati-va ca este suficient de lunga. Cu cat umerii sunt mai stransi, cu atat este mai larga este aderenta de care aveti nevoie. Nu faceti dislocari ale umerilor prea inguste sau va veti rani coatele si umerii. Iti recomand sa folosesti o matura lunga cu o prindere larga. Apropiati-va mainile pe masura ce flexibilitatea dvs. se imbunatateste, dar niciodata nu va ingustati decat 1,5x latimea umarului
+Puteti face dislocari ale umerilor cu o coada de matura, banda de rezistenta, teava de pvc sau franghie. Doar asigurati-va ca este suficient de lunga. Cu cat umerii sunt mai stransi, cu atat este mai larga este aderenta de care aveti nevoie. Nu faceti dislocari ale umerilor prea inguste sau va veti rani coatele si umerii. Iti recomand sa folosesti o matura lunga cu o prindere larga. Apropiati-va mainile pe masura ce flexibilitatea dvs. se imbunatateste, dar niciodata nu va ingustati decat 1,5x latimea umarului.
+
 Daca coatele se indoaie cand faceti Dislocari ale umerilor, mainile dvs. sunt prea apropiate. Strangeti bara, astfel incat bratele sa ramana drepte. Scopul este sa va miscati umeri, coatele. Daca coatele se indoaie, umerii si pieptul se intind mai putin. Tine- ti coatele fixate. Pastreaza-ti si partea inferioara a spatelui fixa. Nu compensati umerii ingusti prin supra-arcuire(overarching). Mentineti o curba naturala in partea inferioara a spatelui.
 
 Incalziti-va facand dislocari ale umerilor 3 × 10, mai intai. Acest lucru va slabi umerii si va face bara mai usor de tinut pe spate. Flexibilitatea umerilor dvs. se va imbunatati si mai repede daca faceti Dislocari ale umerilor(Shoulders Dislocations) in zilele in care nu va antrenati. Intre timp, mariti distanta dintre maini pe bara cand faceti genuflexiuni(Squats), astfel incat sa se simta mai putin inconfortabil. Ingusteaza-ti priza pe masura ce flexibilitatea ta se imbunatateste. Retineti ca flexarea(Squatting) in sine va va intinde umerii.
@@ -669,6 +676,7 @@ Montanti(uprights) ar trebui sa fie de aproximativ la mijlocul pieptului. Majori
 Pozitia pinii/carligelor de siguranta orizontale(horizontal safety pins) trebuie sa fie mai jos decat pozitia de jos a genuflexiuni(Squat) dumneavoastra. Nu le setati prea sus sau le veti lovi la fiecare repetare buna. Acest lucru va dezechilibra bara si este un mod stupid de a rata repetitii. Nu puneti acei pini de siguranta prea jos sau va trebui sa va aplecati inainte sau sa cadeti inapoi pentru a pune bara pe suport. Acesta este un mod garantat de a va rani spatele sau coada posterioara. Setati pinii putin mai jos decat locul in care va terminate genuflexiunea de obicei( unde break parallel).
 
 Cand nu reusesti sa ridici greutatea pana sus, coborati bara catre pinii de siguranta, flexand drept in jos. Nu o aruncati inainte sau inapoi pentru ca veti pierde echilibrul. Tineti bara pe directia oaselor metatarsiene si flexati. Mergeti sub paralel(break parallel) pana cand bara este asezata pe pinii de siguranta. Asteptati-va la o intindere dura a muschilor soldului. Exersati esecul cu o greutate usoara de cateva ori. In felul acesta, stii la ce sa te astepti atunci cand esuezi cu adevarat.
+
 Nu aveti nevoie de un spotter daca faceti genuflexiuni in Power Rack. Chiar daca aveti un spotter, este mai sigur sa faceti genuflexiuni(Squat) in Power Rack. Daca spotterul reactioneaza prea tarziu, pinii prind intotdeauna bara. Sa stii ca esti in siguranta creste increderea, depasind frica. Puteti face toate seturile in loc sa astepti sa nu iti mai fie frica. Ca urmare,genuflexiunile( Squat) se imbunatatesc mai repede si castigi mai rapid forta si muschii. Iata cateva Power Racks pe care le recomand...
 
 - **Atlas Power Rack**. Transport ieftin, dar fara transport gratuit. Recenzii de 4,8 stele pe Amazon.
@@ -678,9 +686,11 @@ Nu aveti nevoie de un spotter daca faceti genuflexiuni in Power Rack. Chiar daca
 - **Titan Power Rack**. Sustine 700lb, 28 gauri, bara pentru chin-up/ bara pentru tractiuni, mai putin de 300\$.
 - **Rogue R3**. Calitate inalta cu bara pentru pullup. Dar scump si trebuie sa-l ansamblezi.
 - **Rogue R4**. Versiune de lux a modelului R3. Cel mai scump, dar nu este nevoie sa il ansamblezi.
-- **Rack scurt de alimentare**. Se potriveste pentru tavane/plafoane mai joase de 6? .
-  Fac genuflexiuni singur, aproape mereu, in sala mea de gimnastica de la 11 ani. Am esuat de multe ori cu greutati mari. Dar am fost intotdeauna in siguranta pentru ca am facut genuflexiun in Power Rack. Flexarea fara Power Rack nu este sigura decat daca ai un spotter care stie ce face. Flexarea fara Power Rack sau spotter nu este sigura . Mai rau, va va limita progresul pe Stronglifts 5 × 5, deoarece nu puteti face genuflexiuni(Squats) grele pentru a castiga forta si muschi.  
-  Din pacate, nu toate salile de sport au Power Racks. Poate trebuie sa gasesti o sala de gimnastica mai buna care sa aiba una. Sau poate trebuie sa va cumparati propriul Power Rack, sa il puneti in garaj, in subsol sau sopron si sa construiti o sala de gimnastica asa cum am facut eu. Acest lucru necesita timp, efort si bani. Insa iti ia mai putin decat sa incercati sa castigati forta si muschi fara a face genuflexiuni(Squats). Deoarece nu exista niciun inlocuitor pentru genuflexiuni( Squat). Obtineti acces la un Power Rack, astfel incat sa puteti face genuflexiuni(Squat).
+- **Rack scurt de alimentare**. Se potriveste pentru tavane/plafoane mai joase de 6?.
+
+Fac genuflexiuni singur, aproape mereu, in sala mea de gimnastica de la 11 ani. Am esuat de multe ori cu greutati mari. Dar am fost intotdeauna in siguranta pentru ca am facut genuflexiun in Power Rack. Flexarea fara Power Rack nu este sigura decat daca ai un spotter care stie ce face. Flexarea fara Power Rack sau spotter nu este sigura . Mai rau, va va limita progresul pe Stronglifts 5 × 5, deoarece nu puteti face genuflexiuni(Squats) grele pentru a castiga forta si muschi.
+
+Din pacate, nu toate salile de sport au Power Racks. Poate trebuie sa gasesti o sala de gimnastica mai buna care sa aiba una. Sau poate trebuie sa va cumparati propriul Power Rack, sa il puneti in garaj, in subsol sau sopron si sa construiti o sala de gimnastica asa cum am facut eu. Acest lucru necesita timp, efort si bani. Insa iti ia mai putin decat sa incercati sa castigati forta si muschi fara a face genuflexiuni(Squats). Deoarece nu exista niciun inlocuitor pentru genuflexiuni( Squat). Obtineti acces la un Power Rack, astfel incat sa puteti face genuflexiuni(Squat).
 
 ## Alternative pentru Power Rack<a name="alternative-pentru-Power-Rack"></a>
 
@@ -706,8 +716,8 @@ Barele de calitate sunt scumpe. Dar dureaza o viata. Prima bara pe care am cumpa
 - **Troy Texas Power Bar**. Sustine 1500lb, knurling central.
 - **Cap Barbell OB-86PB**. Testat la 1500lb, negru, dar fara knurling.
 - **Bara olimpica solida pentru corp**. Daca vrei una ieftina, nu as cumpara-o.
-  •
-  Prinde-le de bara, astfel incat placile tale sa nu se poata misca in timpul antrenamentului. Unele bare au mansoane alunecoase pe care placile se misca mai usor. Nu doriti ca o placa/disc sa alunece de pe bara de la mijloc, sa se rastoarne si apoi sa aveti de-a face cu o leziune inferioara a spatelui. Puneti clema cu arc(spring clips) sau gulere( lock-jaw collars) pe bara dvs. cand faceti genuflexiuni(Squat). Le-am pus la fiecare set, inclusiv seturile mele de incalzire, pentru ca urasc distragerea auditiva provocata de miscarile placilor.
+
+Prinde-le de bara, astfel incat placile tale sa nu se poata misca in timpul antrenamentului. Unele bare au mansoane alunecoase pe care placile se misca mai usor. Nu doriti ca o placa/disc sa alunece de pe bara de la mijloc, sa se rastoarne si apoi sa aveti de-a face cu o leziune inferioara a spatelui. Puneti clema cu arc(spring clips) sau gulere( lock-jaw collars) pe bara dvs. cand faceti genuflexiuni(Squat). Le-am pus la fiecare set, inclusiv seturile mele de incalzire, pentru ca urasc distragerea auditiva provocata de miscarile placilor.
 
 Nu aveti nevoie de un suport de spuma sau de o manta ray . Daca gatul te doare cand faci genuflexiuni (Squats), tii bara gresit. Muschii trebuie sa sprijine bara, astfel incat sa nu poata afecta/solicita coloana vertebrala. Contractati-va omoplatele inainte de a desface bara. Daca o faci corect, vei putea lucra cu 180 kg / 400lb si mai mult, poarta doar un tricou asa cum am facut si eu. Nu mascati durerile de gat cu solutii de scurta durata si ramanand cu o forma proasta.
 
@@ -725,7 +735,9 @@ Daca obiectivul tau principal este sa castigi muschi, orice fel de genuflexiune 
 
 Unii oameni prefera sa lucreze cu bara inalta(high bar), deoarece isi mentine trunchiul mai vertical. Le este frica de aplecarea in fata in timpul genuflexiunii. Insa trunchiul tau se va apleca si in fata in timpul exercitiului cu bara inalta(high bar). Bara este mai sus pe spate, ceea ce face mai greu sa va mentineti pieptul sus/in fata. Flexarea cu bara joasa(low bar) determina o adancime mai mare in fata. Dar este mai usor sa iti mentii pieptul sus, spatele superior incordat si unghiul spatelui constant decat cu bara inalta (high bar).
 
-Am facut genufkexiuni cu bara inalta(high bar) cand am inceput sa ridic. Era modul natural de a tine bara pe spate. Cand am devenit interesat sa ma antrenez pentru forta, cinci ani mai tarziu, am trecut la bara joasa(low bar). Nu sunt un powerlifter, dar imi place sa fac genuflexiuni cu greutati mari. Pot face genuflexiuni cu bara joasa(low bar) mai intense decat cu bara inalta(high bar). Acesta este motivul pentru care am petrecut ultimii zece ani flexand(squatting) cu bara joasa(low bar). Eu rareori ma antrenez cu bara inalta(high bar) acum. Fac genuflexiuni doar cu bara joasa(low bar).
+Am facut genufkexiuni cu bara inalta(high bar) cand am inceput sa ridic. Era modul natural de a tine bara pe spate. Cand am devenit interesat sa ma antrenez pentru forta, cinci ani mai tarziu, am trecut la bara joasa(low bar). Nu sunt un powerlifter, dar imi place sa fac genuflexiuni cu greutati mari.
+
+Pot face genuflexiuni cu bara joasa(low bar) mai intense decat cu bara inalta(high bar). Acesta este motivul pentru care am petrecut ultimii zece ani flexand(squatting) cu bara joasa(low bar). Eu rareori ma antrenez cu bara inalta(high bar) acum. Fac genuflexiuni doar cu bara joasa(low bar).
 
 Nu alternate bara joasa(low bar) cu bara inalta(high bar). Vei fi Indus in eroare deoarece tehnica este diferita. Genuflexiunile cu bare joase(low bars) sunt mai inclinate inainte, soldurile sunt mai inapoi, genunchi mai putin inainte. In High Squats, trunchiul este mai vertical, cu genunchii mai in fata, cu soldurile mai putin in spate. Cel mai rapid mod de a stapani postura corecta este sa alegeti un stil si sa-l practicati la fiecare antrenament. Aceasta este specificul. Dupa ce puteti flexa cu 140kg / 300lb, puteti adauga varietate daca doriti.
 
@@ -749,9 +761,14 @@ Iata Dmitry Klokov facand genuflexiuni(Squats) cu bara in fata cu 265 kg / 583lb
 
 <div class="videoWrapper" style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="1100" height="619" src="https://www.youtube.com/embed/4ZiYs8DRnEY?start=90&amp;feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
-Genuflexiunile cu bara in fata sunt mai grele pentru genunchi, coate si incheieturi decat genuflexiunile (Squats) cu bara in spate. Genunchii se misca mai inainte in partea de jos pentru a mentine bara echilibrata peste oasele metatarsiene. Coatele sunt complet indoite si incheieturile intinse inapoi. Genuflexiunile cu bara in fata sunt o idee proasta daca in trecut ai avut dureri de genunchi sau operatie la genunchi. Incheieturile si coatele te vor durea daca sunt stranse (cu exceptia cazului in care incepeti sa intindeti(stretching) enorm de mult zilnic).
+Genuflexiunile cu bara in fata sunt mai grele pentru genunchi, coate si incheieturi decat genuflexiunile (Squats) cu bara in spate. Genunchii se misca mai inainte in partea de jos pentru a mentine bara echilibrata peste oasele metatarsiene.
 
-Puteti depasi problema incheieturile stranse prin flexarea(squatting) cu bara in fata cu o prindere cu bratul incrucisat. Acesta prindere este folosit de obicei de catre culturisti. Dar este mai dificil sa va mentineti coatele sus.Daca scad, pieptul tau se prabuseste si spatele se indoaie.Apoi bara se va rostogoli de pe umeri si te va trage in fata. Te apleci si pierzi bara. Olympic Lifters foloseste prinderea curata, deoarece este mai usor sa flexezi intens cu aceasta. Trebuie doar sa va intindeti(stretch) incheieturile.
+Coatele sunt complet indoite si incheieturile intinse inapoi. Genuflexiunile cu bara in fata sunt o idee proasta daca in trecut ai avut dureri de genunchi sau operatie la genunchi. Incheieturile si coatele te vor durea daca sunt stranse (cu exceptia cazului in care incepeti sa intindeti(stretching) enorm de mult zilnic).
+
+Puteti depasi problema incheieturile stranse prin flexarea(squatting) cu bara in fata cu o prindere cu bratul incrucisat. Acesta prindere este folosit de obicei de catre culturisti. Dar este mai dificil sa va mentineti coatele sus.
+
+Daca scad, pieptul tau se prabuseste si spatele se indoaie.Apoi bara se va rostogoli de pe umeri si te va trage in fata. Te apleci si pierzi bara. Olympic Lifters foloseste prinderea curata, deoarece este mai usor sa flexezi intens cu aceasta. Trebuie doar sa va intindeti(stretch) incheieturile.
+
 Genuflexiunile cu bara in fata se simt mai grele decat cele cu bara in spare, deoarece bara este mai greu de tinut. Pieptul si coatele trebuie sa stea drepte pentru a mentine bara pe umeri. Dar vei dori sa te apleci in fata in timpul seturilor grele pentru a-ti solicita soldurile. Daca te apleci prea mult, vei pierde bara. Va puteti apleca mai usor fara a pierde bara daca faceti genuflexiuni cu bara in spate(in special bara joasa). De aceea, puteti face cu usurinta genuflexiuni cu bara in spate (Back Squats) cu 30% mai mult decat puteti face genuflexiuni cu bara in fata(Front Squat).
 
 Front Squats iti lucreaza mai mult cvadripcesul decat Back Squats. Genunchii sunt mai inainte si aplecati in partea de jos. Dar acesta este si motivul pentru care genuflexiunile cu bara in fata sunt mai grele pentru genunchi decat cele cu bara in spate. In plus, nu este ca si cum genuflexiunile cu bara in spate nu iti lucreaza cvadripcesul. O fac. Picioarele se indoite si se indrepta la fiecare repetare atunci cand faceti Back Squat. Acest lucru antreneaza muschii tai, cvadripcesul fara a va afecta genunchii ca Front Squats.

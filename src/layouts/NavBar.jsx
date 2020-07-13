@@ -25,6 +25,15 @@ const Nav = styled.nav`
       color: ${props => props.theme.colors.white.grey};
     }
   }
+  @media (max-width: ${props => props.theme.breakpoints.s}) {
+    font-size: 0.9rem;
+    a {
+      margin-left: 0.8rem;
+      &:hover {
+        color: ${props => props.theme.colors.white.grey};
+      }
+    }
+  }
 `;
 
 const NavBar = () => (
@@ -34,7 +43,7 @@ const NavBar = () => (
     </StyledLink>
     <Nav>
       <Link to="/exercitii">Exercitii</Link>
-      <Link to="/program-de-antrenament">Program de antrenament</Link>
+      <Link to="/program-de-antrenament">Program</Link>
       <Link to="/blog">Alimentatie</Link>
     </Nav>
   </Headroom>
