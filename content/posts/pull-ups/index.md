@@ -1,9 +1,10 @@
 ---
-path: '/exercitii/pull-ups'
+path: '/tractiuni'
 cover: './blocks.jpg'
 date: '2020-07-07'
 title: 'Pull ups'
-tags: ['Europa']
+tags: ['exercitii']
+subCategory: ['spate']
 published: true
 ---
 

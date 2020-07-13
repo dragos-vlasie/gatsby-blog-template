@@ -28,8 +28,8 @@ const Information = styled.div`
 
 const Tag = ({ pageContext }) => {
   const { posts, tagName } = pageContext;
-  console.log('posts:', posts)
-  console.log('tagName:', tagName)
+  console.log('posts:', posts);
+  console.log('tagName:', tagName);
   const upperTag = tagName.charAt(0).toUpperCase() + tagName.slice(1);
   return (
     <Layout>
@@ -40,7 +40,10 @@ const Tag = ({ pageContext }) => {
       <Container>
         <Information>
           {posts.map((post, index) => (
-            <Link key={index} to={post.frontmatter.path}>
+            <Link
+              key={index}
+              to={`/${post.frontmatter.tags}/${post.frontmatter.subCategory}${post.frontmatter.path}`}
+            >
               <h3>{post.frontmatter.title}</h3>
             </Link>
           ))}

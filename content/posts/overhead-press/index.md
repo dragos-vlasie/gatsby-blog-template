@@ -1,9 +1,10 @@
 ---
-path: '/exercitii/over-head-press'
+path: '/presa-deasupra-capului-cu-haltera'
 cover: './blocks.jpg'
 date: '2020-02-15'
 title: 'Over Head Press - Presa deasupra capului'
-tags: ['Europa']
+tags: ['exercitii']
+subCategory: ['umeri']
 published: true
 ---
 

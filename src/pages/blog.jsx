@@ -28,7 +28,7 @@ const Blog = ({ data }) => {
               <BlogList
                 key={node.id}
                 cover={node.frontmatter.cover.childImageSharp.fluid}
-                path={node.frontmatter.path}
+                path={`/${node.frontmatter.tags}/${node.frontmatter.subCategory}${node.frontmatter.path}`}
                 title={node.frontmatter.title}
                 date={node.frontmatter.date}
                 tags={node.frontmatter.tags}
@@ -76,6 +76,7 @@ export const query = graphql`
             title
             path
             tags
+            subCategory
             date(formatString: "MM.DD.YYYY")
             cover {
               childImageSharp {

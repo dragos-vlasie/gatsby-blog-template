@@ -21,6 +21,7 @@ exports.createPages = ({ graphql, actions }) => {
                     path
                     title
                     tags
+                    subCategory
                   }
                 }
               }
@@ -50,20 +51,20 @@ exports.createPages = ({ graphql, actions }) => {
 
         const tags = Object.keys(postsByTag);
 
-        createPage({
-          path: '/tags',
-          component: tagPage,
-          context: {
-            tags: tags.sort(),
-          },
-        });
+        // createPage({
+        //   path: '/tags',
+        //   component: tagPage,
+        //   context: {
+        //     tags: tags.sort(),
+        //   },
+        // });
 
         //create tags
         tags.forEach(tagName => {
           const posts = postsByTag[tagName];
-
+          const kebabcase = tagName.split(' ').join('-');
           createPage({
-            path: `/tags/${tagName}`,
+            path: `/${kebabcase}`,
             component: tagPosts,
             context: {
               posts,
@@ -78,8 +79,9 @@ exports.createPages = ({ graphql, actions }) => {
           const prev = index === 0 ? null : posts[index - 1].node;
           const next =
             index === posts.length - 1 ? null : posts[index + 1].node;
+
           createPage({
-            path,
+            path: `/${node.frontmatter.tags}/${node.frontmatter.subCategory}${path}`,
             component: postTemplate,
             context: {
               pathSlug: path,

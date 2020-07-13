@@ -3,7 +3,7 @@ path: '/program/5x5-intrebari-populare'
 cover: './blocks.jpg'
 date: '2020-02-15'
 title: '5x5 - Intrebari populare'
-tags: ['Europa']
+tags: []
 published: true
 ---
 

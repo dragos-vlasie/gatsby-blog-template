@@ -1,13 +1,14 @@
 ---
-path: '/exercitii/dips'
+path: '/flotari-la-paralele'
 cover: './blocks.jpg'
 date: '2020-02-15'
-title: 'Dips'
-tags: ['Europa']
+title: 'Flotari la paralele(dips)'
+tags: ['exercitii']
+subCategory: ['piept']
 published: true
 ---
 
-Cum sa faci flotari la paralele(dips) cu o forma corecta: Ghidul definitiv
+## Cum sa faci flotari la paralele(dips) cu o forma corecta: Ghidul definitiv
 
 ![Dips Proper Form](./assets/stronglifts-dips.jpg)
 _Dip indoind bratele pana cand umerii sunt sub coatele tale. Apoi reveniti_

@@ -1,9 +1,10 @@
 ---
-path: '/program/5x5'
+path: '/5x5'
 cover: './blocks.jpg'
 date: '2020-02-15'
 title: '5x5'
-tags: ['Europa']
+tags: ['program de antrenament']
+subCategory: ['Full Body']
 published: true
 ---
 
@@ -203,33 +204,33 @@ aceste rezultate sunt atipice pentru cei mai inaintati in varsta sau femeile car
 
 Rezultatul tipic la care va puteti astepta daca faceti StrongLifts 5×5 asa cum este prevazut este o crestere a fortei si a masei musculare. Marimea castigurilor si timpul necesar variaza. Dar nu am intalnit pe cineva care nu s-a imbunatatit cu acest program. Fa-l dupa regulile de mai sus si iata la ce te poti astepta...
 
-**- Mai multa forta**. Vei fi mai puternic dupa fiecare antrenament StrongLifts 5×5. Vei creste in forta mai rapid decat alti oameni. Forta ta se va transfera la activitati fizice din afara salii de sport. Ridicarea obiectelor grele, transportul alimentelor sau urcarea scarilor va fi mai usoara.
+- **Mai multa forta**. Vei fi mai puternic dupa fiecare antrenament StrongLifts 5×5. Vei creste in forta mai rapid decat alti oameni. Forta ta se va transfera la activitati fizice din afara salii de sport. Ridicarea obiectelor grele, transportul alimentelor sau urcarea scarilor va fi mai usoara.
 
-**- Mai multi muschi**. Muschii tai vor deveni mai puternici si mai mari pentru a ridica greutatile. Daca nu ati facut niciodata un program de antrenament adecvat ca acesta inainte, puteti obtine pana la 12kg de masa muscluara intr-un an . De asemenea, veti recapata muschi pierduti si veti opri pierderea musculara din imbatranire/dieta.
+- **Mai multi muschi**. Muschii tai vor deveni mai puternici si mai mari pentru a ridica greutatile. Daca nu ati facut niciodata un program de antrenament adecvat ca acesta inainte, puteti obtine pana la 12kg de masa muscluara intr-un an . De asemenea, veti recapata muschi pierduti si veti opri pierderea musculara din imbatranire/dieta.
 
-**- Mai putina grasimea in corp**. Cu cat greutatile sunt mai mari, cu atat vei arde mai multe calorii. De asemenea, vei arde mai multa energie inainte de antrenament pentru recuperarea muschilor. Metabolismul tau va fi mai eficient. Daca mancati correspunzator veti putea adauga masa muscluara si pierde grasime in acelasi timp. Talia ta si grasimea corpului va scadea - fara a face cardio.
+- **Mai putina grasimea in corp**. Cu cat greutatile sunt mai mari, cu atat vei arde mai multe calorii. De asemenea, vei arde mai multa energie inainte de antrenament pentru recuperarea muschilor. Metabolismul tau va fi mai eficient. Daca mancati correspunzator veti putea adauga masa muscluara si pierde grasime in acelasi timp. Talia ta si grasimea corpului va scadea - fara a face cardio.
 
-**- Mai mult sex**. Un corp muscular este mai atractiv decat unul gras. Hainele tale se vor potrivi mai bine. Postura ta se va imbunatati. Nivelul de testosteron va creste. Veti arata si va veti simti mai bine, iar acest lucru va va creste succesul cu sexul opus.
+- **Mai mult sex**. Un corp muscular este mai atractiv decat unul gras. Hainele tale se vor potrivi mai bine. Postura ta se va imbunatati. Nivelul de testosteron va creste. Veti arata si va veti simti mai bine, iar acest lucru va va creste succesul cu sexul opus.
 
-**- Mai multa rezistenta**. Muschii tai vor rezista mai mult inainte de a obosi, deoarece sunt mai puternici. Le va lua mai putin efort sa faca lucruri precum mersul sau alergarea. Multi oameni au fost surprinsi sa afle ca pot alerga brusc trei kilometri dupa ce au urmat acest program, in ciuda faptului ca nu au alergat niciodata pe o asemenea distanta.
+- **Mai multa rezistenta**. Muschii tai vor rezista mai mult inainte de a obosi, deoarece sunt mai puternici. Le va lua mai putin efort sa faca lucruri precum mersul sau alergarea. Multi oameni au fost surprinsi sa afle ca pot alerga brusc trei kilometri dupa ce au urmat acest program, in ciuda faptului ca nu au alergat niciodata pe o asemenea distanta.
 
-**- Mai multa putere**. Muschii mai puternici pot face mai multa munca in aceeasi perioada de timp. Cresterea fortei va va face astfel mai puternic si mai exploziv pentru sport. Vei fi mai rapid pe teren, mai greu de doborat si vei lovi mai tare. Vei fi mai greu de invins.
+- **Mai multa putere**. Muschii mai puternici pot face mai multa munca in aceeasi perioada de timp. Cresterea fortei va va face astfel mai puternic si mai exploziv pentru sport. Vei fi mai rapid pe teren, mai greu de doborat si vei lovi mai tare. Vei fi mai greu de invins.
 
-**- Mai multa energie**. Muschiul inimii tale va deveni mai puternic la fel ca orice alt muschi. Activitatile zilnice vor lua mai putin efort, deoarece vor cerere mai putin de la inima ta care a devenit mai puternica. Tensiunea arteriala si ritmul cardiac vor scadea. Fitnessul vostru cardiovascular va creste.
+- **Mai multa energie**. Muschiul inimii tale va deveni mai puternic la fel ca orice alt muschi. Activitatile zilnice vor lua mai putin efort, deoarece vor cerere mai putin de la inima ta care a devenit mai puternica. Tensiunea arteriala si ritmul cardiac vor scadea. Fitnessul vostru cardiovascular va creste.
 
-**- Mai multa flexibilitate**. Mobilitatea soldului tau va creste, deoarece genoflexiunile de trei ori pe saptamana iti misca picioarele printr-o gama completa de miscare. Flexibilitatea umarului dvs. va creste de la mentinerea barei pe partea superioara a spatelui - acest lucru va deschide pieptul si va imbunatateste postura.
+- **Mai multa flexibilitate**. Mobilitatea soldului tau va creste, deoarece genoflexiunile de trei ori pe saptamana iti misca picioarele printr-o gama completa de miscare. Flexibilitatea umarului dvs. va creste de la mentinerea barei pe partea superioara a spatelui - acest lucru va deschide pieptul si va imbunatateste postura.
 
-**- Mai multa sanatate**. Testosteronul tau va creste. Colesterolul, tensiunea arteriala si stresul vor scadea. Toate acestea te vor face sa te simti mai sanatos si mai tanar. Veti avea mai multa energie decat inainte.
+- **Mai multa sanatate**. Testosteronul tau va creste. Colesterolul, tensiunea arteriala si stresul vor scadea. Toate acestea te vor face sa te simti mai sanatos si mai tanar. Veti avea mai multa energie decat inainte.
 
-**- Mai putine accidentari**. Densitatea osoasa va creste si echilibrul se va imbunatati. Articulatiile, coloana vertebrala si muschii din jurul lor vor deveni mai puternice. Le vor oferi mai mult sprijin si protectie. Acest lucru va face mai putin probabil sa va raniti.
+- **Mai putine accidentari**. Densitatea osoasa va creste si echilibrul se va imbunatati. Articulatiile, coloana vertebrala si muschii din jurul lor vor deveni mai puternice. Le vor oferi mai mult sprijin si protectie. Acest lucru va face mai putin probabil sa va raniti.
 
-**- Mai multa incredere**. Oamenii vor observa noul tau corp si forta ta. Unii va vor complimenta. Cativa pot solicita sfaturi. Acest feedback pozitiv, respectul pe care il veti obtine si imbunatatirile pe care le vei observa asupra copului tau, te vor face sa crezi mai mult in tine. Vei deveni mai increzator.
+- **Mai multa incredere**. Oamenii vor observa noul tau corp si forta ta. Unii va vor complimenta. Cativa pot solicita sfaturi. Acest feedback pozitiv, respectul pe care il veti obtine si imbunatatirile pe care le vei observa asupra copului tau, te vor face sa crezi mai mult in tine. Vei deveni mai increzator.
 
-**- Mai multa rezistenta(tenacitate)**. Adaugarea in greutate la fiecare antrenament este o munca grea. Dar acest lucru va intareste mintea, precum si corpul. Iti creste toleranta la durere, tulburarile de durere si duritatea mentala. Acest lucru va face mai usor sa lucrati din greu.
+- **Mai multa rezistenta(tenacitate)**. Adaugarea in greutate la fiecare antrenament este o munca grea. Dar acest lucru va intareste mintea, precum si corpul. Iti creste toleranta la durere, tulburarile de durere si duritatea mentala. Acest lucru va face mai usor sa lucrati din greu.
 
-**- Mai mult timp**. Doar trei antrenamente pe saptamana. Fiecare dureaza 45 min in primele 12 saptamani, maxim 80 minute dupa aceea. Deci, veti petrece maxim patru ore in sala in fiecare saptamana. Celelalte 164 de ore pe care le poti petrece fara vinovatie in familie, prieteni, hobby-uri etc. Vei putea avea o viata in afara salii de sport.
+- **Mai mult timp**. Doar trei antrenamente pe saptamana. Fiecare dureaza 45 min in primele 12 saptamani, maxim 80 minute dupa aceea. Deci, veti petrece maxim patru ore in sala in fiecare saptamana. Celelalte 164 de ore pe care le poti petrece fara vinovatie in familie, prieteni, hobby-uri etc. Vei putea avea o viata in afara salii de sport.
 
-**- Mai multi bani**. Nu veti avea nevoie de suplimente costisitoare pentru a obtine rezultate (majoritatea nu functioneaza oricum). De asemenea, nu veti avea nevoie de o multime de echipamente. Puteti construi cu usurinta o sala de gimnastica si sa va antrenati din garaj. Acest lucru economiseste banii la abonamentul de la sala.
+- **Mai multi bani**. Nu veti avea nevoie de suplimente costisitoare pentru a obtine rezultate (majoritatea nu functioneaza oricum). De asemenea, nu veti avea nevoie de o multime de echipamente. Puteti construi cu usurinta o sala de gimnastica si sa va antrenati din garaj. Acest lucru economiseste banii la abonamentul de la sala.
 
 Pentru cele mai bune rezultate, baietii trebuie sa creasca exercittile principale la 140kg/300lb Squat(Genuflexiuni cu haltera), 100kg/220lb Bench(Piept) si 180kg/400lb Indreptari. Orice lucru mai jos de atat, nu este suficient pentru a vedea imbunatatiri dramatice. Prin urmare, atentia voastra. ar trebui sa fie focusata pe cresterea greutatii pana cand atingeti aceste obiective minime.
 
@@ -245,15 +246,15 @@ Acesta este motivul pentru care cu cat ai mai multa forta cu atat ai un corp mai
 
 Intensitatea este mai mare la exercitiile compuse, deoarece puteti utiliza greutati mai mari. StrongLifts 5×5 foloseste cele mai bune cinci exercitii compuse - “the big five”. Iata toti muschii pe care ii veti lucra facand Squat(Genuflexiuni cu haltera), Bench Press(Impinsul cu haltera de la piept), OverheadPress(Presa deasuprea capului), Indreptari si Barbell Row(ramat cu haltera) in fiecare saptamana...
 
-**- Piept**. Tot pieptul tau lucreaza pentru a indeparta bara de tine cand faci ridicari la piept - [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press). Pieptul superior actioneaza pentru a ridica greutatea atunci cand impingeti deasupra capului.
-**- Umerii**. Intregul umar (fata, lateral, spate) functioneaza pentru a ridica bratele atunci cand impingeti bara deasupra capului - [OverheadPress(Presa deasuprea capului)](/exercitii/umeri/presa-deasupra-capului). Umerii vostri din fata lucreaza, de asemenea, pentru a ridica bratele atunci cand impingeti la piept - Bench Press(Impinsul cu haltera de la piept).
-**- Brate(Biceps/Triceps)**. Bicepsul tau iti trage greutatea atunci cand faci [Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara) Triceps-ul tau impinge greutatea atunci cand apasa Bench/Presa deasupra capului cu bara. Bratele se contracta la fiecare exercitiu pentru a tine bara.
-**- Antebrat**. Antebratele tin bara in maini la toate exercitiile. Lucreaza foarte mult la [Indreptari(Deadlifts)](/exercitii/spate/indreptari) pentru a va tine mainile inchise impotriva gravitatiei, astfel incat sa nu pierdeti bara.
-**- Abdomen(Abs)**. Abdomen tau lucreaza la fiecare exercitiu pentru a-ti sustine coloana vertebrala. Iti impiedica partea inferioara a spatelui de la rotunjire la Indreptari Genoflexiuni cu haltera si Rows. Il impiedica sa se arcuiasca la Overheadpress(Presa deasuprea capului).
-**- Gambe**. Gambele actioneaza pentru a indrepta gleznele atunci cand ridicati la Genoflexiuni cu haltera(Squat) si Deadlift. De asemenea, te stabilizeaza atunci cand impingi deasupra - Presa deasupra capului cu bara(OverheadPress) si Bench Press(Impinsul cu haltera de la piept).
-**- Trapezul**. Trapezul vostru lucreaza pentru a mentine umerii in loc atunci cand faceti Indreptari si Barbell Row(ramat cu haltera) Ele transfera puterea in bara. De asemenea, se contracta in partea de sus a OverheadPress(Presa deasuprea capului cu bara).
-**- Coapse**. Coapsele, fesele si hamstring indreptati picioarele si soldurile atunci cand faceti Genoflexiuni cu haltera(Squat) si Deadlift. De asemenea, va mentin stabilizat atunci cand faceti Presa deasupra capului cu bara si Impinsul cu haltera de la piept.
-**- Spate**. Partea inferioara a spatelui impiedica coloana vertebrala sa se rotunjeasca pe Indreptari, Genoflexiuni cu haltera(Squat) si Row. Partea superioara a spatelui trage greutatea inapoi pe Row. De asemenea, mentine bara aproape cand faceti Indreptari
+- **Piept**. Tot pieptul tau lucreaza pentru a indeparta bara de tine cand faci ridicari la piept - [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press). Pieptul superior actioneaza pentru a ridica greutatea atunci cand impingeti deasupra capului.
+- **Umerii**. Intregul umar (fata, lateral, spate) functioneaza pentru a ridica bratele atunci cand impingeti bara deasupra capului - [OverheadPress(Presa deasuprea capului)](/exercitii/umeri/presa-deasupra-capului). Umerii vostri din fata lucreaza, de asemenea, pentru a ridica bratele atunci cand impingeti la piept - Bench Press(Impinsul cu haltera de la piept).
+- **Brate(Biceps/Triceps)**. Bicepsul tau iti trage greutatea atunci cand faci [Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara) Triceps-ul tau impinge greutatea atunci cand apasa Bench/Presa deasupra capului cu bara. Bratele se contracta la fiecare exercitiu pentru a tine bara.
+- **Antebrat**. Antebratele tin bara in maini la toate exercitiile. Lucreaza foarte mult la [Indreptari(Deadlifts)](/exercitii/spate/indreptari) pentru a va tine mainile inchise impotriva gravitatiei, astfel incat sa nu pierdeti bara.
+- **Abdomen(Abs)**. Abdomen tau lucreaza la fiecare exercitiu pentru a-ti sustine coloana vertebrala. Iti impiedica partea inferioara a spatelui de la rotunjire la Indreptari Genoflexiuni cu haltera si Rows. Il impiedica sa se arcuiasca la Overheadpress(Presa deasuprea capului).
+- **Gambe**. Gambele actioneaza pentru a indrepta gleznele atunci cand ridicati la Genoflexiuni cu haltera(Squat) si Deadlift. De asemenea, te stabilizeaza atunci cand impingi deasupra - Presa deasupra capului cu bara(OverheadPress) si Bench Press(Impinsul cu haltera de la piept).
+- **Trapezul**. Trapezul vostru lucreaza pentru a mentine umerii in loc atunci cand faceti Indreptari si Barbell Row(ramat cu haltera) Ele transfera puterea in bara. De asemenea, se contracta in partea de sus a OverheadPress(Presa deasuprea capului cu bara).
+- **Coapse**. Coapsele, fesele si hamstring indreptati picioarele si soldurile atunci cand faceti Genoflexiuni cu haltera(Squat) si Deadlift. De asemenea, va mentin stabilizat atunci cand faceti Presa deasupra capului cu bara si Impinsul cu haltera de la piept.
+- **Spate**. Partea inferioara a spatelui impiedica coloana vertebrala sa se rotunjeasca pe Indreptari, Genoflexiuni cu haltera(Squat) si Row. Partea superioara a spatelui trage greutatea inapoi pe Row. De asemenea, mentine bara aproape cand faceti Indreptari
 
 Nu puteti face greseala de a favoriza partile corpului pe StrongLifts 5×5. Exercitiile compuse iti lucreaza intregul corp. Deci nu te vei transforma intr-un cocalar cu doar partea superioara a corpului lucrata, cu doar piept si brate, dar fara spate si picioare. In schimb, veti construi un fizic echilibrat, bine proportionat.
 
@@ -273,22 +274,22 @@ Este doar o legenda, dar sunt multe lectii aici. A pornit usor. A adaugat greuta
 
 StrongLifts 5×5 nu foloseste vitelul. Dar functioneaza la fel. Si de aceea este atat de eficient.
 
-**- Greutati libere**. Masinile echilibreaza greutatea pentru tine. Greutatile libere(bara olimpica) te obliga sa o echilibrezi. Deci, solicita mai multi muschi, imbunatatesc echilibrul si construiesc forta care se transfera in afara salii de sport. De asemenea, miscarile sunt mai naturale si mai sigure, deoarece controlati cum se misca bara.
-**- Haltere**. Puteti ridica greutati mai grele cu halterele decat gantere. Si nu ai nevoie decat de o bara pentru a face toate exercitiile StrongLifts 5×5. Acest lucru face ca construirea unei sali de gimnastica sa fie ieftina si usoara.
-**- Muschi stabilizatori si secundari **. Puteti ridica mai mult facand exercitiile compuse(compound) precum [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) decat alte exercitii de izolarea. Squat(Genoflexiuni cu bara) folosesc mai multi muschi - puteti ridica mult mai multa greutate si astfel puteti face mai mult muschi si mai multa forta. Si din moment ce exercitiile compuse(compound) functioneaza mai multi muschi, nu aveti nevoie de o multime de exercitii. Trei este suficient - economiseste timp.
-**- Genoflexiuni cu haltera(Squat)**. Squat(Genoflexiuni cu bara) este coloana vertebrala a programului. Iti functioneaza intregul corp, cu greutati mari si pe o gama lunga de miscare. Genoflexiunile cu bara sunt cel mai bun exercitiu pentru a castiga forta si muschi. Il vei uri pentru ca sunt exercitii foarte grele, dar il iubesti pentru rezultatele pe care le ofera!
-**- Pentru incepatori**. StrongLifts 5×5 incepe cu greutati usoare. Acest lucru previne durerea si accidentarea. II ofera corpului tau timp sa se adapteze la ridicare mai des. Impiedica esecul(platoul) prea devreme. Te obliga sa te concentrezi pe ridicare cu o forma adecvata. Si te pregateste pentru saptamanile grele mai tarziu.
-**- Intensitate**. Antrenamentele sunt scurte, dar intense. Fiecare exercitiu lucreaza mai multi muschi in acelasi timp, iar greutatea este mai mare si ai nevoie de mai multa forta. Dar faci doar trei exercitii, astfel incat sa nu pierzi focusul. Scurt si la obiect!
-**- Supraincarcarea progresive(progresive overload)**. Cresterea greutatii iti determina progresiv corpul sa devina mai puternic. Corpul tau se inarmeaza pentru a gestiona mai bine sarcina data viitoare. Deci, muschii devin mai mari/puternici, oasele sunt mai dense si tendoanele mai puternice. Daca nu ridici mult poti sa pierzi muschi si forta.
-**- Frecventa**. Sa faci Squat de trei ori pe saptamana este mai bine decat o data, deoarece iti declansezi picioarele de 3 ori mai mult pentru a creste muschiul. De asemenea, trebuie sa practicati forma corecta de trei ori mai mult. Acest lucru va imbunatateste forma, care va ajuta sa ridicati greutati mai mari si declanseaza si mai multa crestere musculara.
-**- Cinci a cate cinci**. Puteti ridica mai multa greutate faceti cinci repetari in loc de opt, zece sau doisprezece. Forma voastra este mai buna, deoarece setul s-a incheiat inainte de oboseala. Cantitatea totala de seturi este aceeasi, indiferent daca faceti 5×5 sau 3×8 (25 vs 24). Greutatile pe care le ridicati sunt mai grele ceea ce stimuleaza cresterea musculara.
-**- Fara esec**. Antremanentul pana la esec te face pompat si provoaca febra muscluara. Febra muscluara te impiedica sa antrenezi din nou muschii in aceeasi saptamana. Cu toate acestea, antrenamentul frecvent declanseaza crestere a fortei si cresteri musculare. Prin urmare, nu incercati sa atingeti esecul pe StrongLifts 5×5. Incercati sa adaugati greutati.
-**- Odihna**. Fiecare antrenament stimuleaza forta si castigurile musculare. Te face mai puternic. Dar iti oboseste si corpul. Ai nevoie de odihna intre antrenamente, astfel incat muschii sa se poata recupera, sa creasca mai puternici si sa ridici mai multe greutati data viitoare. StrongLifts 5×5 va ofera patru zile de odihna pe saptamana.
-**- Plan**. Nerespectarea planificarii te va face sa esuezi. Majoritatea oamenilor nu au niciun plan in sala de sport. Ei fac ceea ce simt sau vad ca altcineva face. StrongLifts 5×5 va ofera un plan de antrenament in fiecare zi. Iti ofera un mod simplu de a progresa. Veti sti ce sa faceti si la ce sa va asteptati. Vei fi increzator si dorinic de a merge la sala pt continua progresul.
-**- Aderenta**. Cel mai bun program de sala este cel pe care il respecti. Este mai usor sa respecti programul StrongLifts 5×5, deoarece dureaza doar trei antrenamente pe saptamana. Si fiecare antrenament dureaza mai putin de o ora in primele 12 saptamani. Vei omite mai putin antrenamentele si vei fi mai consecvent.
-**- Obiectiv**. StrongLifts 5×5 este lipsit de rezultate de fatada - subiective, cum ar fi „a-ti simti muschii” sau a felului in care te uiti in oglinda. Stii daca programul functioneaza uitandu-te la greutatea de pe bara. Daca creste in timp - si o va face - castigi forta si muschi, punct!
-**- Distractie**. Multi oameni devin dependenti de a pune mai multe greutati pe bara de fiecare data cand se duc la sala. Vei fi surprins de cat de puternic poti ajunge pe StrongLifts 5×5. Pentru prima data veti astepta cu nerabdare sa mergeti la sala si sa ridicati mai mult decat data trecuta. Motivatia ta va atinge noi culmi.
-**- Simplu**. Nu aveti nevoie de doctorat pentru a intelege StrongLifts 5×5. Programul este format din doua antrenamente cu trei exercitii fiecare. Faceti seturi de cinci si adaugati greutate pe bara de fiecare data. Si ati terminat. Este si mai simplu cand utilizati foile de calcul, deoarece va vor da oportunitatea sa fa concentrati doar la exercitii pe care trebuie sa le faceti.
+- **Greutati libere**. Masinile echilibreaza greutatea pentru tine. Greutatile libere(bara olimpica) te obliga sa o echilibrezi. Deci, solicita mai multi muschi, imbunatatesc echilibrul si construiesc forta care se transfera in afara salii de sport. De asemenea, miscarile sunt mai naturale si mai sigure, deoarece controlati cum se misca bara.
+- **Haltere**. Puteti ridica greutati mai grele cu halterele decat gantere. Si nu ai nevoie decat de o bara pentru a face toate exercitiile StrongLifts 5×5. Acest lucru face ca construirea unei sali de gimnastica sa fie ieftina si usoara.
+- **Muschi stabilizatori si secundari **. Puteti ridica mai mult facand exercitiile compuse(compound) precum [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) decat alte exercitii de izolarea. Squat(Genoflexiuni cu bara) folosesc mai multi muschi - puteti ridica mult mai multa greutate si astfel puteti face mai mult muschi si mai multa forta. Si din moment ce exercitiile compuse(compound) functioneaza mai multi muschi, nu aveti nevoie de o multime de exercitii. Trei este suficient - economiseste timp.
+- **Genoflexiuni cu haltera(Squat)**. Squat(Genoflexiuni cu bara) este coloana vertebrala a programului. Iti functioneaza intregul corp, cu greutati mari si pe o gama lunga de miscare. Genoflexiunile cu bara sunt cel mai bun exercitiu pentru a castiga forta si muschi. Il vei uri pentru ca sunt exercitii foarte grele, dar il iubesti pentru rezultatele pe care le ofera!
+- **Pentru incepatori**. StrongLifts 5×5 incepe cu greutati usoare. Acest lucru previne durerea si accidentarea. II ofera corpului tau timp sa se adapteze la ridicare mai des. Impiedica esecul(platoul) prea devreme. Te obliga sa te concentrezi pe ridicare cu o forma adecvata. Si te pregateste pentru saptamanile grele mai tarziu.
+- **Intensitate**. Antrenamentele sunt scurte, dar intense. Fiecare exercitiu lucreaza mai multi muschi in acelasi timp, iar greutatea este mai mare si ai nevoie de mai multa forta. Dar faci doar trei exercitii, astfel incat sa nu pierzi focusul. Scurt si la obiect!
+- **Supraincarcarea progresive(progresive overload)**. Cresterea greutatii iti determina progresiv corpul sa devina mai puternic. Corpul tau se inarmeaza pentru a gestiona mai bine sarcina data viitoare. Deci, muschii devin mai mari/puternici, oasele sunt mai dense si tendoanele mai puternice. Daca nu ridici mult poti sa pierzi muschi si forta.
+- **Frecventa**. Sa faci Squat de trei ori pe saptamana este mai bine decat o data, deoarece iti declansezi picioarele de 3 ori mai mult pentru a creste muschiul. De asemenea, trebuie sa practicati forma corecta de trei ori mai mult. Acest lucru va imbunatateste forma, care va ajuta sa ridicati greutati mai mari si declanseaza si mai multa crestere musculara.
+- **Cinci a cate cinci**. Puteti ridica mai multa greutate faceti cinci repetari in loc de opt, zece sau doisprezece. Forma voastra este mai buna, deoarece setul s-a incheiat inainte de oboseala. Cantitatea totala de seturi este aceeasi, indiferent daca faceti 5×5 sau 3×8 (25 vs 24). Greutatile pe care le ridicati sunt mai grele ceea ce stimuleaza cresterea musculara.
+- **Fara esec**. Antremanentul pana la esec te face pompat si provoaca febra muscluara. Febra muscluara te impiedica sa antrenezi din nou muschii in aceeasi saptamana. Cu toate acestea, antrenamentul frecvent declanseaza crestere a fortei si cresteri musculare. Prin urmare, nu incercati sa atingeti esecul pe StrongLifts 5×5. Incercati sa adaugati greutati.
+- **Odihna**. Fiecare antrenament stimuleaza forta si castigurile musculare. Te face mai puternic. Dar iti oboseste si corpul. Ai nevoie de odihna intre antrenamente, astfel incat muschii sa se poata recupera, sa creasca mai puternici si sa ridici mai multe greutati data viitoare. StrongLifts 5×5 va ofera patru zile de odihna pe saptamana.
+- **Plan**. Nerespectarea planificarii te va face sa esuezi. Majoritatea oamenilor nu au niciun plan in sala de sport. Ei fac ceea ce simt sau vad ca altcineva face. StrongLifts 5×5 va ofera un plan de antrenament in fiecare zi. Iti ofera un mod simplu de a progresa. Veti sti ce sa faceti si la ce sa va asteptati. Vei fi increzator si dorinic de a merge la sala pt continua progresul.
+- **Aderenta**. Cel mai bun program de sala este cel pe care il respecti. Este mai usor sa respecti programul StrongLifts 5×5, deoarece dureaza doar trei antrenamente pe saptamana. Si fiecare antrenament dureaza mai putin de o ora in primele 12 saptamani. Vei omite mai putin antrenamentele si vei fi mai consecvent.
+- **Obiectiv**. StrongLifts 5×5 este lipsit de rezultate de fatada - subiective, cum ar fi „a-ti simti muschii” sau a felului in care te uiti in oglinda. Stii daca programul functioneaza uitandu-te la greutatea de pe bara. Daca creste in timp - si o va face - castigi forta si muschi, punct!
+- **Distractie**. Multi oameni devin dependenti de a pune mai multe greutati pe bara de fiecare data cand se duc la sala. Vei fi surprins de cat de puternic poti ajunge pe StrongLifts 5×5. Pentru prima data veti astepta cu nerabdare sa mergeti la sala si sa ridicati mai mult decat data trecuta. Motivatia ta va atinge noi culmi.
+- **Simplu**. Nu aveti nevoie de doctorat pentru a intelege StrongLifts 5×5. Programul este format din doua antrenamente cu trei exercitii fiecare. Faceti seturi de cinci si adaugati greutate pe bara de fiecare data. Si ati terminat. Este si mai simplu cand utilizati foile de calcul, deoarece va vor da oportunitatea sa fa concentrati doar la exercitii pe care trebuie sa le faceti.
 
 StrongLifts 5×5 se bazeaza pe bunul simt. Daca esti un ganditor logic ca mine, acest program va avea sens pentru tine. Va fi evident ca acest program este mult mai eficient decat cele care se focuseaza pe un singur muschi pe zi, rutine de izolare a muschilor, sunt o pierdere de vreme atunci cand acest program ofera tot de ce ai nevoie in doar 3 exercitii.
 
@@ -338,11 +339,11 @@ Retineti ca aceste trei antrenamente pe saptamana sunt un program complet de for
 
 Pentru StrongLifts 5×5 faci cinci exercitii - [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera). [Bench Press](/exercitii/bench-press), [Indreptari](/exercitii/spate/indreptari), [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului) si [Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara) Fiecare antrenament incepe cu Genoflexiuni cu haltera. Celelalte exercitii alterneaza depinzand de antrenament.
 
-**- [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) Coloana vertebrala a programului**. Genoflexiuni cu haltera va intaresc picioarele si orice altceva datorita greutati mari pe care le ridicatii la acest exercitiu. Bara se deplaseaza printr-un interval mai lung de miscare decat orice alt exercitiu.
-**- [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press)**. Echivalentul Genoflexiuni cu haltera pentru partea superioara a corpului. Bench press(Impinsul cu haltera de la piept) iti intareste si mareste pieptul, umerii si bratele. Aici poti ridica maii mult deacat la orice alt exercitiu pentru partea superioara a corpului.
-**- [Indreptari](/exercitii/spate/indreptari)**. Antreneaza ridicarea greutatilor de pe podea cu o coloana vertebrala neutra. Iti mareste puterea antebratului, picioarele si intreg spatele. Poti incarca bara pentru acest exercitiu cu mai multe greutati decat la orice alt exercitiu al acestui program.
-**- [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului)**. Antreneaza ridicarea greutatilor deasupra capului. Iti intareste umerii si totul sub bara. Cea mai grea ridicare din toate cele cinci, vei ridica cea mai mica greutate aici.
-**- [Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara)**. Antreneaza tragerea greutatilor spre tine, ca la vaslit pe o barca. Iti intareste intreg spatele si bratele. Rows sunt o munca de asistenta pentru celelalte patru exercitii.
+- **[Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) Coloana vertebrala a programului**. Genoflexiuni cu haltera va intaresc picioarele si orice altceva datorita greutati mari pe care le ridicatii la acest exercitiu. Bara se deplaseaza printr-un interval mai lung de miscare decat orice alt exercitiu.
+- **[Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press)**. Echivalentul Genoflexiuni cu haltera pentru partea superioara a corpului. Bench press(Impinsul cu haltera de la piept) iti intareste si mareste pieptul, umerii si bratele. Aici poti ridica maii mult deacat la orice alt exercitiu pentru partea superioara a corpului.
+- **[Indreptari](/exercitii/spate/indreptari)**. Antreneaza ridicarea greutatilor de pe podea cu o coloana vertebrala neutra. Iti mareste puterea antebratului, picioarele si intreg spatele. Poti incarca bara pentru acest exercitiu cu mai multe greutati decat la orice alt exercitiu al acestui program.
+- **[OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului)**. Antreneaza ridicarea greutatilor deasupra capului. Iti intareste umerii si totul sub bara. Cea mai grea ridicare din toate cele cinci, vei ridica cea mai mica greutate aici.
+- **[Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara)**. Antreneaza tragerea greutatilor spre tine, ca la vaslit pe o barca. Iti intareste intreg spatele si bratele. Rows sunt o munca de asistenta pentru celelalte patru exercitii.
 
 Faci aceste cinci exercitii pentru ca iti permit sa ridici cea mai grea greutate. Puteti face Squat(Genoflexiuni cu haltera) mai greu decat greutarea ta. Prin urmare,Genoflexiuni cu haltera( Squads) declanseaza mai multa forta si castiguri musculare, de aceea acest exercitiu este in program. Fiecare exercitiu va permite sa ridicati cat mai multe greutati pentru a va lucra grupurile musculare majore.
 
@@ -356,9 +357,9 @@ Ganterele nu functioneaza pentru acest program. Nu poti [Genoflexiuni cu haltera
 
 Problemele de siguranta ii determina, de obicei, pe oameni sa prefere aparatul de presa sau ganterele. Dar nu esti primul care se gandeste la siguranta sa. Multi culturisti puternici ridica greutati mai mari decat vom ridica vreodata. Daca ar face o greseala bara incarcata i ar putea ucide. Cu toate acestea, rata de accidentare este scazuta, deoarece au rezolvat deja aceasta problema...
 
-**- Ridicati in cadrul de forta**. Alpinistii folosesc o sfoara pentru a-i prinde daca cad. StrongLifters folosesc un cadru de forta(Power rack) pentru a prinde bara daca nu reusesc sa duca repetarea la sfarrsit. Am ridicat in mare parte singur in sala de sport. Am esuat din plin, dar niciodata nu am avut probleme, deoarece am ridicat in Power Rack.
-**- Incepeti cu o greutate mica**. Nu puneti patru discurii pe bara pentru ca ati citit ca se poate sa faceti [Genoflexiuni cu haltera atat](/exercitii/picioare/genuflexiuni-cu-haltera). Inveti sa mergi inainte sa incerci sa alergi. Incepeti cu haltera goala si adaugati putina greutate la fiecare antrenament. Pe masura ce greutatea creste, la fel va creste si experienta, confortul si increderea.
-**- Folositi o forma adecvata**. Previne leziunile,accidentarile imbunatateste eficienta si creste forta si castigurile musculare. Pastrati-va coloana vertebrala neutra pentru a evita accidentarile sau durerile pentru partea inferioara a spatelui. Mentineti coapsele si picioarele aliniate pentru a evita o accidentare la genunchi. Nu va lasati umerii. Cititi ghidurile mele de exercitii LINK.
+- **Ridicati in cadrul de forta**. Alpinistii folosesc o sfoara pentru a-i prinde daca cad. StrongLifters folosesc un cadru de forta(Power rack) pentru a prinde bara daca nu reusesc sa duca repetarea la sfarrsit. Am ridicat in mare parte singur in sala de sport. Am esuat din plin, dar niciodata nu am avut probleme, deoarece am ridicat in Power Rack.
+- **Incepeti cu o greutate mica**. Nu puneti patru discurii pe bara pentru ca ati citit ca se poate sa faceti [Genoflexiuni cu haltera atat](/exercitii/picioare/genuflexiuni-cu-haltera). Inveti sa mergi inainte sa incerci sa alergi. Incepeti cu haltera goala si adaugati putina greutate la fiecare antrenament. Pe masura ce greutatea creste, la fel va creste si experienta, confortul si increderea.
+- **Folositi o forma adecvata**. Previne leziunile,accidentarile imbunatateste eficienta si creste forta si castigurile musculare. Pastrati-va coloana vertebrala neutra pentru a evita accidentarile sau durerile pentru partea inferioara a spatelui. Mentineti coapsele si picioarele aliniate pentru a evita o accidentare la genunchi. Nu va lasati umerii. Cititi ghidurile mele de exercitii LINK.
 
 Este posibil ca sala voastra de sport sa nu aiba un (Cadrul de forta) Power Rack sau chiar o bara olimpica. Nu am o bagheta magica pentru a face sa apara. Fie mergeti la o sala de sport adevarata, fie construiti o sala casa. Altfel esti blocat sa faci un program inferior cu ceea ce ai. Dar sa nu pacalesti acest program. Faceti asa cum este prevazut sau nu-l incercati.
 
@@ -386,8 +387,8 @@ Nu faceti Genoflexiuni cu haltera un set, Bench un set, Row un set si apoi du-te
 
 Este posibil ca Power Rack-ul(cadrul de forta) sa nu fie liber atunci cand ajungeti la sala. Sau Benchul ar putea fi luat atunci cand ai terminat Squads. Intalnesc aceste situatii tot timpul, dar nu schimba niciodata ordinea de in care se fac exercitiile. Intreaba-te doar cat a mai ramas. Vei primi una dintre aceste raspunsuri...
 
-**- De obicei, iti va spune ca mai ramane doar unul sau doua seturi**. Grozav - abia astepti. Adunati discurile. Te poti incalzii pentru [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) in timp ce astepti. El va fi terminat in cinci minute, atunci este randul tau. Ce e important este ca nu ai schimbat ordinea de exercitiu.
-**- Uneori, tocmai a inceput sau mai are multe seturi de facut**. Asteptarea ar dura prea mult. Intrebati daca va puteti alatura si poti folosi echipamentul impreuna si puteti face seturile voastre. Nu fi timid, fa-o.
+- **De obicei, iti va spune ca mai ramane doar unul sau doua seturi**. Grozav - abia astepti. Adunati discurile. Te poti incalzii pentru [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) in timp ce astepti. El va fi terminat in cinci minute, atunci este randul tau. Ce e important este ca nu ai schimbat ordinea de exercitiu.
+- **Uneori, tocmai a inceput sau mai are multe seturi de facut**. Asteptarea ar dura prea mult. Intrebati daca va puteti alatura si poti folosi echipamentul impreuna si puteti face seturile voastre. Nu fi timid, fa-o.
 
 Nu conteaza daca ridici mai putin decat celalalt tip. Atata timp cat va ajutati sa incarcati bara pentru seturile voastre, nu va plangeti si nu pierdeti timpul. Acesta este cel mai bun mod de a va face prieteni in sala. Din nou - fa-o.
 
@@ -401,9 +402,9 @@ Efectuati cinci seturi de cinci repetari (5x5) pe Squat(Genoflexiuni cu haltera)
 
 StrongLifts 5×5 foloseste seturi de cinci repetari - nu opt sau zece repetari ca pe 3×8 sau 3×10. Asta nu inseamna ca a face opt sau zece repetari nu are valoare. Dar nu este eficient pentru persoanele care nu au construit o forta de baza, masa musculara si tehnica. Iata de ce cinci repetari functioneaza mai bine:
 
-**- Greutate mai mare Cinci repetari iti scurteaza seturile**. S-au terminat inainte de a fi extenuat. Deci, puteti ridica maximum cu cinci decat opt sau zece repetari. Greutatile mari iti declanseaza corpul mai mult pentru a castiga forta si muschi. Trebuie sa devina mai puternic si sa construiasca muschi pentru a ridica greutatile mai mari.
-**- Progres rapid**. Puteti adauga 2,5kg la fiecare antrenament mai usor cand faceti cinci repetari, deoarece puteti ridica mai din ce in ce mai greu. Acest lucru inseamna ca puteti aplica o suprasarcina progresiva mai mult timp fara a stagna. Vei ridica mai mult, vei fi mai puternic si vei construi astfel mai multa masa musculara facand 5 repetari.
-**- O forma mai buna**. Setul mai scurt face mai usor sa ramaneti concentrat pe ridicare cu o forma adecvata. Si din moment ce s-a terminat inainte de a fi obosit, puteti pastra acea forma corespunzatoare mai mult timp. Acest lucru creste eficienta si siguranta ridicarii. Puteti ridica greutati mai grele fara sa va raniti.
+- **Greutate mai mare Cinci repetari iti scurteaza seturile**. S-au terminat inainte de a fi extenuat. Deci, puteti ridica maximum cu cinci decat opt sau zece repetari. Greutatile mari iti declanseaza corpul mai mult pentru a castiga forta si muschi. Trebuie sa devina mai puternic si sa construiasca muschi pentru a ridica greutatile mai mari.
+- **Progres rapid**. Puteti adauga 2,5kg la fiecare antrenament mai usor cand faceti cinci repetari, deoarece puteti ridica mai din ce in ce mai greu. Acest lucru inseamna ca puteti aplica o suprasarcina progresiva mai mult timp fara a stagna. Vei ridica mai mult, vei fi mai puternic si vei construi astfel mai multa masa musculara facand 5 repetari.
+- **O forma mai buna**. Setul mai scurt face mai usor sa ramaneti concentrat pe ridicare cu o forma adecvata. Si din moment ce s-a terminat inainte de a fi obosit, puteti pastra acea forma corespunzatoare mai mult timp. Acest lucru creste eficienta si siguranta ridicarii. Puteti ridica greutati mai grele fara sa va raniti.
 
 Repetarile totale sunt aceleasi la 5×5 si 3×8 - 25 fata de 24 de repetari. Dar greutatea este mai mare pe 5×5. Sa zicem ca faceti [Genoflexiuni cu haltera(Squat)](/exercitii/picioare/genuflexiuni-cu-haltera) 100kg pentru 3×8. Puteti [Genoflexiuni cu haltera(Squat)](/exercitii/picioare/genuflexiuni-cu-haltera) cel putin 105kg daca faceti 5×5. De aceea, 5×5 are mai mult sens - iti lucrezi muschii cu o greutate mai mare. Acest lucru declanseaza o crestere mai mare.
 
@@ -455,9 +456,9 @@ Ideea sa inspirati mult aer si sa tineti aerul, trebuie sa creati presiune in ab
 
 Iata modul potrivit de a respira la fiecare exercitiu:
 
-**- [Indreptari](/exercitii/spate/indreptari)/[Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara) **. Coborati greutatea pe podea si asteptati ca bara sa fie nemiscata inainte de a incepe urmatoarea repetare. Folositi aceasta odihna pentru a va reseta - coloana vertebrala sa fie neutra si pieptul sus. Apoi trageti o gura mare de aer si umflati abdoomenul imaginati va ca-l umpleti cu aer si-l intariti cat puteti de mult si apoii ridicati.
-**- Squat(Genoflexiuni cu haltera/[Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press) **. [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) greutatea si blocheaza soldurile si genunchii. Bench greutatea si blocati coatele. Apoi, odihniti-va o secunda pentru a va intari abdomenul pentru urmatoarea repetare. Strangeti bara, ridicati pieptul si inspirati. Apoi fa-ti urmatoarea repetare.
-**- [Presa deasupra capului cu bara](/exercitii/umeri/presa-deasupra-capului) [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului) **. Coborati bara pana la piept. Odihneste-te o secunda pentru a-ti indrepta antebratele verticale de podea si ridica pieptul. Apoi inspirati puternic si impingeti greutatea deasupra capului.
+- **[Indreptari](/exercitii/spate/indreptari)/[Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara) **. Coborati greutatea pe podea si asteptati ca bara sa fie nemiscata inainte de a incepe urmatoarea repetare. Folositi aceasta odihna pentru a va reseta - coloana vertebrala sa fie neutra si pieptul sus. Apoi trageti o gura mare de aer si umflati abdoomenul imaginati va ca-l umpleti cu aer si-l intariti cat puteti de mult si apoii ridicati.
+- **Squat(Genoflexiuni cu haltera/[Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press) **. [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) greutatea si blocheaza soldurile si genunchii. Bench greutatea si blocati coatele. Apoi, odihniti-va o secunda pentru a va intari abdomenul pentru urmatoarea repetare. Strangeti bara, ridicati pieptul si inspirati. Apoi fa-ti urmatoarea repetare.
+- **[Presa deasupra capului cu bara](/exercitii/umeri/presa-deasupra-capului) [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului) **. Coborati bara pana la piept. Odihneste-te o secunda pentru a-ti indrepta antebratele verticale de podea si ridica pieptul. Apoi inspirati puternic si impingeti greutatea deasupra capului.
 
 O tehnica avansata care functioneaza bine la Bench and [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului) este sa apesi mai multe repetari cu o singura gura de aer. A nu expira inseamna ca nu pierdeti etanseitatea. Dar trebuie sa fii capabil sa iti tii respiratia timp de 2-3 repetari pentru ca acest lucru sa functioneze. Incercati asta mai tarziu cand aveti mai multa experienta.
 
@@ -483,9 +484,9 @@ Mariti greutatea la fiecare exercitiu in care ati facut cinci repetari in 5 setu
 
 Iata cum trebuie sa progresati:
 
-**- Squat: 2,5kg - adaugati un disc de 1,25kg pe ambele parti ale barei**.
-**- [Bench press(Impinsul cu haltera de la piept)](/exercitii/bench-press)/OverheadPress/Row: 2,5kg La fel ca la [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera)**. Dar cresteri mai mici de 1kg functioneaza si mai bine. Mai ales daca esti mai slab sau de gen feminin. Vei progresa mai mult, fara sa-ti ratezi repetari si sa ramai blocat la o greutate.
-**- Deadlift: 5kg/10lb - adica 2,5kg pe ambele parti ale barei**. [Indreptari(Deadlifts)](/exercitii/spate/indreptari) folosesc muschi mari, astfel incat poti incarca mai mult bara. Dupa ce ati ajuns la [Indreptari](/exercitii/spate/indreptari) 100kg, treceti la 2,5kg pe antrenament.
+- **Squat: 2,5kg - adaugati un disc de 1,25kg pe ambele parti ale barei**.
+- **[Bench press(Impinsul cu haltera de la piept)](/exercitii/bench-press)/OverheadPress/Row: 2,5kg La fel ca la [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera)**. Dar cresteri mai mici de 1kg functioneaza si mai bine. Mai ales daca esti mai slab sau de gen feminin. Vei progresa mai mult, fara sa-ti ratezi repetari si sa ramai blocat la o greutate.
+- **Deadlift: 5kg/10lb - adica 2,5kg pe ambele parti ale barei**. [Indreptari(Deadlifts)](/exercitii/spate/indreptari) folosesc muschi mari, astfel incat poti incarca mai mult bara. Dupa ce ati ajuns la [Indreptari](/exercitii/spate/indreptari) 100kg, treceti la 2,5kg pe antrenament.
 
 Gratuit: descarcati fisa de calcul StrongLifts 5×5 pentru a va calcula primele 12 saptamani de antrenament. Vei cunoaste exercitiile, greutatile, seturile si repetitiile de facut. Iar graficele de progres te vor tine motivat. Inscrieti-va la sfaturile mele de e-mail zilnic pentru a obtine foaia de calcul. Doar faceti clic aici
 
@@ -495,12 +496,12 @@ Ceea ce nu functioneaza este sa adaugati 2,5kg/5lb doar pe o parte a barei. Aces
 
 De asemenea, ceea ce nu functioneaza este sa adaugati 5kg pe antrenament (2,5kg pe parte). Functioneaza o perioada pe SQ/DL, dar nu mult. Si functioneaza doar cateva antrenamente pe Bench/Overhead Press. Saltul in greutate este prea mare, asa ca veti rata repede repetariile si va veti frustra. Comparatie:
 
-**- Adaugarea a 2**.5kg intr-un ghemus de 500 de lire este o crestere de 1%
-**- Adaugarea a 2**.5kg intr-un ghemurat de 200lb este o crestere de 2,5% - 2,5x mai mult
-**- Adaugarea de 2**.5kg la o presa de 100lb este o crestere de 5% - 5x mai mult
+- **Adaugarea a 2**.5kg intr-un ghemus de 500 de lire este o crestere de 1%
+- **Adaugarea a 2**.5kg intr-un ghemurat de 200lb este o crestere de 2,5% - 2,5x mai mult
+- **Adaugarea de 2**.5kg la o presa de 100lb este o crestere de 5% - 5x mai mult
 
 - Adaugarea de 5kg la o presa de 100lb este o crestere de 10% - inca 10x
-  **- Adaugarea de 1**.25kg la o presa de 100lb este o crestere de 2,5%
+  - **Adaugarea de 1**.25kg la o presa de 100lb este o crestere de 2,5%
 - Adaugarea de 1kg la aa 100lb Presa generala este o crestere de 1%
 
 Cu cat ridicati mai putina greutate, cu atat este mai greu sa adaugati 5kg/10lb in fiecare antrenament. Puteti face acest lucru pe SQ/DL pentru un timp, deoarece folosesc muschi mari (picioare, spate). Ca urmare, greutatea este mai grea. Dar Bench/OHP folosesc muschi mici (piept, umeri, brate). Bara va fi mai usoara, ceea ce face sariturile mai mari.
@@ -533,8 +534,8 @@ Amintiti-va fabula iepurelui care a pierdut cursa impotriva broastei testoasa. N
 
 Greutatile de pornire depind de puterea si experienta ta. Descarcati foile de calcul si aplicatiile , acestea vor calcula ponderile de pornire pentru dvs. Iata ideea de baza...
 
-**- Daca ati facut aceste exercitii inainte, cu o forma adecvata, atunci incepeti cu 50% din numarul maxim**. Deci, daca puteti [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 5x100kg/220lb, incepeti cu 50kg/110lb. Acest lucru va fi usor, dar in doua luni veti castiga 110kg/245lb pentru 5×5 - mai mult decat ati inceput.
-**- Daca nu ati facut niciodata acest exercitiu sau nu le-ati practicat de multi ani, atunci incepeti cu haltera goala**. Puteti parea ridicol o perioada, dar greutatea va creste la fiecare antrenament. In trei luni, veti face Squat(Genoflexiuni cu haltera) 100kg/220lb pentru 5×5 - mai mult decat majoritatea oamenilor.
+- **Daca ati facut aceste exercitii inainte, cu o forma adecvata, atunci incepeti cu 50% din numarul maxim**. Deci, daca puteti [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 5x100kg/220lb, incepeti cu 50kg/110lb. Acest lucru va fi usor, dar in doua luni veti castiga 110kg/245lb pentru 5×5 - mai mult decat ati inceput.
+- **Daca nu ati facut niciodata acest exercitiu sau nu le-ati practicat de multi ani, atunci incepeti cu haltera goala**. Puteti parea ridicol o perioada, dar greutatea va creste la fiecare antrenament. In trei luni, veti face Squat(Genoflexiuni cu haltera) 100kg/220lb pentru 5×5 - mai mult decat majoritatea oamenilor.
 
 Pentru indreptari(Deadlift) si [Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara) nu incepeti cu haltera goala. Nu poti face aceste exercitii cu haltera in aer. Fiecare reprezentant trebuie sa inceapa de la podea. Incepeti cu 40kg/95lb pe DL si 30kg/65lb pe Row (greutate barei inclusa). Folositi discuri cu diametrul complet pentru ca bara sa inceapa de la mijlocul tau pe fiecare parte.
 
@@ -597,12 +598,12 @@ Retineti ca aplicatia StrongLifts va va spune cu ce greutate sa incepeti dupa pa
 
 Obiectivele iti dau directie. Acestea va reamintesc ce trebuie sa faceti pentru a ajunge acolo unde doriti. Ele elimina distragerile, tinandu-va concentrat pe ceea ce conteaza. Stabiliti obiectivele de rezistenta SMART...
 
-**- Specific: nu exista exercitii vagi „sa te intaresti”, dar specifice - [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera)**. Bench, etc
+- **Specific: nu exista exercitii vagi „sa te intaresti”, dar specifice - [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera)**. Bench, etc
 
 - Masurabila: nu vagi „ imi sporesc Genoflexiuni cu haltera”, ci suma exacta - 150kg Squat
-  **- Realizabil: nu puteti castiga 15kg muschi in trei luni, limita naturala este de 1**.4/luna
+  - **Realizabil: nu puteti castiga 15kg muschi in trei luni, limita naturala este de 1**.4/luna
 - Realist: nu te astepta sa arati ca Arnold si sa rupi recordurile mondiale dupa numai sase luni
-  **- Termen limitat: setati un termen pentru obiectivele dvs**. (ziua de nastere, sfarsitul anului, competitia, etc.)
+  - **Termen limitat: setati un termen pentru obiectivele dvs**. (ziua de nastere, sfarsitul anului, competitia, etc.)
 
 Iata cateva obiective solide si INTELIGENTE pe care ar trebui sa le stabilesti...
 
@@ -637,10 +638,10 @@ Retineti ca este putin probabil sa aveti un progres constant. La inceput o vei f
 
 Impartiti-va obiectivele in mini-obiective. Inainte de a putea [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 400lb, mai intai trebuie sa faci cu 350lb, 300lb, 265lb si 220lb. Concentreaza-te pe urmatorul tau pas in loc sa te uiti la varful muntelui. Obiectivul principal va parea mai usor de atins si va puteti verifica progresul pe drum. Cateva idei...
 
-**- Forta relativa**. Stabiliti mai multe din greutatea corpului dvs. ca obiective. Sa zicem ca ai o masa corporala de 80kg/175lb. 1xbw = 80k5/175lb Squat(Genoflexiuni cu haltera). 1.5x = 120kg/260lb. Puteti viza 1x, 1.5x, 2x, 2.5x, 3x etc.
-**- Discuri**. Stabiliti „discuri mari pentru baieti” ca obiective. O prima placa mare de 20kg/45lb pe fiecare parte a barei pe Squat(Genoflexiuni cu haltera). Apoi doua discuri mari, apoi trei si apoi patru.
-**- Total**. Squat(Genoflexiuni cu haltera) 350lb, Bench 220lb si Indreptari 430lb pentru a va alatura clubului de 1000lb. Squat(Genoflexiuni cu haltera) 140kg, Bench 100kg si [Indreptari](/exercitii/spate/indreptari) 160kg pentru a va alatura clubului de 400kg. Creati propriile cluburi.
-**- Coerenta**. Trei antrenamente pe saptamana timp de 12 saptamani. Verificati calendarul in aplicatie . Obtineti trei cercuri rosii in fiecare saptamana in aceleasi zile, cat mai mult timp posibil.
+- **Forta relativa**. Stabiliti mai multe din greutatea corpului dvs. ca obiective. Sa zicem ca ai o masa corporala de 80kg/175lb. 1xbw = 80k5/175lb Squat(Genoflexiuni cu haltera). 1.5x = 120kg/260lb. Puteti viza 1x, 1.5x, 2x, 2.5x, 3x etc.
+- **Discuri**. Stabiliti „discuri mari pentru baieti” ca obiective. O prima placa mare de 20kg/45lb pe fiecare parte a barei pe Squat(Genoflexiuni cu haltera). Apoi doua discuri mari, apoi trei si apoi patru.
+- **Total**. Squat(Genoflexiuni cu haltera) 350lb, Bench 220lb si Indreptari 430lb pentru a va alatura clubului de 1000lb. Squat(Genoflexiuni cu haltera) 140kg, Bench 100kg si [Indreptari](/exercitii/spate/indreptari) 160kg pentru a va alatura clubului de 400kg. Creati propriile cluburi.
+- **Coerenta**. Trei antrenamente pe saptamana timp de 12 saptamani. Verificati calendarul in aplicatie . Obtineti trei cercuri rosii in fiecare saptamana in aceleasi zile, cat mai mult timp posibil.
 
 Va recomand sa setati obiectivul Intermediar I pana in ziua de anul viitor. Stabiliti obiectivele pentru incepator in urmatoarele sase luni. Stabiliti si obiectivele de coerenta. Acum imprimati acest lucru si agatati-l undeva unde va veti vedea obiectivele zilnic - pe frigider, baie, sala de gimnastica, orice. Apoi faceti treaba.
 
@@ -653,15 +654,15 @@ Uneori “esuati” anumite exercitii pentru ca aveti o zi proasta. Nu ati dormi
 
 Uneori nu iti reuseste antrenamentul, deoarece gresesti de ceva vreme. Nu aveai aceasta problema cand greutatile erau usoare. Dar acum ca sunt mai grele, te fac sa esuezi. Greselile obisnuite se strecoara printre antrenamentele tale, incercand sa accelerezi progresul si sa nu te recuperezi corect...
 
-**- Timpuri scurte de odihna**. Nerespectarea completa din ultimul set == mai multe esecuri.
-**- Cresteri mari**. Adaugarea de prea multa greutate la fiecare antrenament == mai multe esecuri.
-**- Incalzirile rele**. A face prea putine seturi de incalzire, prea multe sau deloc == mai multe esecuri.
-**- Forma proasta**. Bara deteriorata si care nu implica masa musculara maxima == mai multe esecuri.
-**- Salturi de antrenamente**. Nu se poate declansa cresterea daca nu cresti constant == mai multe esecuri.
-**- Facand prea mult**. Excesul de cardio/asistenta impiedica recuperarea == mai multe esecuri.
-**- Lipsa de somn**. Orele insuficiente de somn impiedica recuperarea == mai multe esecuri.
-**- Lipsa de hrana**. Alimentarea precara impiedica recuperarea == inca un esec.
-Unii oameni incep sa caute un nou program atunci cand nu reusesc repetarile. Ei cred ca acesta trebuie eliminat. Cei care sunt cei mai puternici nu renunta la un program atat de usor. De asemenea, isi perfectioneaza tehnica, nutritia si dorm mai mult. Ei o considera parte a pregatirii lor - pentru ca asa este.
+- **Timpuri scurte de odihna**. Nerespectarea completa din ultimul set == mai multe esecuri.
+- **Cresteri mari**. Adaugarea de prea multa greutate la fiecare antrenament == mai multe esecuri.
+- **Incalzirile rele**. A face prea putine seturi de incalzire, prea multe sau deloc == mai multe esecuri.
+- **Forma proasta**. Bara deteriorata si care nu implica masa musculara maxima == mai multe esecuri.
+- **Salturi de antrenamente**. Nu se poate declansa cresterea daca nu cresti constant == mai multe esecuri.
+- **Facand prea mult**. Excesul de cardio/asistenta impiedica recuperarea == mai multe esecuri.
+- **Lipsa de somn**. Orele insuficiente de somn impiedica recuperarea == mai multe esecuri.
+- **Lipsa de hrana**. Alimentarea precara impiedica recuperarea == inca un esec.
+  Unii oameni incep sa caute un nou program atunci cand nu reusesc repetarile. Ei cred ca acesta trebuie eliminat. Cei care sunt cei mai puternici nu renunta la un program atat de usor. De asemenea, isi perfectioneaza tehnica, nutritia si dorm mai mult. Ei o considera parte a pregatirii lor - pentru ca asa este.
 
 Aceasta este multa munca. Dar, daca nu cumva sunteti un fenomen genetic sau sub influenta drogurilor, va trebui sa munciti din greu. De fapt, cu cat vrei sa fii mai puternic si mai musculos, cu atat mai mult timp si efort trebuie sa depui. Daca nu, nu vei reusi programul... si atunci ridicarile, forta si masa musculara nu pot creste.
 
@@ -717,8 +718,8 @@ De asemenea, micsorarea greutatii previne plafonarile mentale. In loc sa te love
 
 Ceea ce descarcarea(deload) nu rezolva reprezinta antrenamentele esuate cauzate de antrenarea sau recuperarea necorespunzatoare. Repetarile esuate inseamna ca nu sunteti inca suficient de puternic pentru acea greutate. Exista doua motive pentru care acest lucru s-ar putea intampla...
 
-**- Subantrenament**. Nu iti stresezi corpul suficient pentru a-l declansa pentru a deveni mai puternic. Exemplu: sariti antrenamente sau exercitii. Exercitiile tale nu se pot imbunatatii daca abia le faci. Stimulul trebuie sa fie acolo pentru ca al tau corp sa acumuleze forta si muschi.
-**- Supraantrenament**. Ti-ai stresat corpul mai mult decat se poate descurca (pornind prea greu sau cu prea multa greutate). Sau nu te recuperezi bine intre antrenamente - daca abia mananci sau dormi, corpul tau nu se poate recupera. Deci nu poate fi mai puternic sau sa ridice mai mult.
+- **Subantrenament**. Nu iti stresezi corpul suficient pentru a-l declansa pentru a deveni mai puternic. Exemplu: sariti antrenamente sau exercitii. Exercitiile tale nu se pot imbunatatii daca abia le faci. Stimulul trebuie sa fie acolo pentru ca al tau corp sa acumuleze forta si muschi.
+- **Supraantrenament**. Ti-ai stresat corpul mai mult decat se poate descurca (pornind prea greu sau cu prea multa greutate). Sau nu te recuperezi bine intre antrenamente - daca abia mananci sau dormi, corpul tau nu se poate recupera. Deci nu poate fi mai puternic sau sa ridice mai mult.
 
 Faceti antrenamentele si exercitiile in mod constant pentru a va declansa corpul pentru a deveni mai puternic. Ia mici salturi de greutate, astfel incat corpul tau sa poata face fata efortului. Si obtineti suficienta mancare si somn, astfel incat corpul dvs. sa se poata recupera din stresul respectiv. Daca nu, eliminarea nu va fi eficienta - vei continua sa esuezi.
 
@@ -872,16 +873,16 @@ Pastrarea unui jurnal de somn ajuta. Folosesc aplicatia pentru sanatate pentru i
 
 Alte cateva sfaturi care sa va ajute sa va imbunatatiti somnul, astfel incat sa va recuperati mai bine din antrenamentele dvs....
 
-**- Dormitor intunecat**. Creierul tau are un ceas incorporat care iti regleaza somnul. Este influentat de lumina. Obtineti perdele negre sau o masca buna pentru ochi pentru a spune creierului dvs. ca este timpul sa dormiti.
-**- Opriti lumina albastra**. Televizorul, calculatoarele si telefoanele emit o lumina albastra care te tine treaz. Nu le folositi in dormitorul dvs. Activati costum de noapte pe iPhone si f.lux pe computer.
-**- Dormitor linistit**. Zgomotul din miezul noptii iti perturba somnul si te trezeste. Astupati urechile purtand dopuri de urechi . Puteti utiliza, de asemenea, un ventilator sau un generator de zgomot alb .
-**- Temperatura rece**. Temperatura corpului tau scade cand dormi. Adu-ti camera la 18C/60F pentru a ajuta acest lucru. Opriti incalzitorul si folositi paturi, daca este necesar.
-**- Saltea buna**. Investeste in calitate - o folosesti in fiecare zi ore intregi. Saltelele se uzeaza de obicei si se infunda dupa zece ani. Reinnoieste-le astfel incat sa nu te trezesti cu dureri de spate.
-**- Perna buna**. Aceeasi idee - investeste in lucruri de calitate, deoarece o folosesti in fiecare zi. Obtineti una buna care va sustine gatul, astfel incat sa nu aveti dureri de gat atunci cand va treziti.
-**- Evitati cafeaua si alcoolul**. Cofeina este un stimulent care te tine treaz. Evitati cafeaua, ceaiul si ciocolata inainte de culcare. Evitati alcoolul, deoarece ajuta la adormire, dar afecteaza calitatea somnului.
-**- Nu bea tarziu**. Daca bei prea multa apa inainte de a te culca, va trebui sa te trezesti sa faci pipi. Nu mai bea doua ore inainte de a te culca.
-**- Somn consecvent**. Evitati sa stati tarziu in sfarsit de saptamana si apoi sa va treziti devreme in zilele de saptamana. Este ca si cum ai fi supusa unei diferente de fus orar in fiecare luni. Treziti-va la aceeasi ora in fiecare zi.
-**- Fara mese mari**. Dureaza aproximativ trei ore pana la digerarea alimentelor. Nu mancati mese mari inainte de culcare sau va veti chinui sa dormiti. Mutati ora cina mai devreme si mancati usor inainte de culcare.
+- **Dormitor intunecat**. Creierul tau are un ceas incorporat care iti regleaza somnul. Este influentat de lumina. Obtineti perdele negre sau o masca buna pentru ochi pentru a spune creierului dvs. ca este timpul sa dormiti.
+- **Opriti lumina albastra**. Televizorul, calculatoarele si telefoanele emit o lumina albastra care te tine treaz. Nu le folositi in dormitorul dvs. Activati costum de noapte pe iPhone si f.lux pe computer.
+- **Dormitor linistit**. Zgomotul din miezul noptii iti perturba somnul si te trezeste. Astupati urechile purtand dopuri de urechi . Puteti utiliza, de asemenea, un ventilator sau un generator de zgomot alb .
+- **Temperatura rece**. Temperatura corpului tau scade cand dormi. Adu-ti camera la 18C/60F pentru a ajuta acest lucru. Opriti incalzitorul si folositi paturi, daca este necesar.
+- **Saltea buna**. Investeste in calitate - o folosesti in fiecare zi ore intregi. Saltelele se uzeaza de obicei si se infunda dupa zece ani. Reinnoieste-le astfel incat sa nu te trezesti cu dureri de spate.
+- **Perna buna**. Aceeasi idee - investeste in lucruri de calitate, deoarece o folosesti in fiecare zi. Obtineti una buna care va sustine gatul, astfel incat sa nu aveti dureri de gat atunci cand va treziti.
+- **Evitati cafeaua si alcoolul**. Cofeina este un stimulent care te tine treaz. Evitati cafeaua, ceaiul si ciocolata inainte de culcare. Evitati alcoolul, deoarece ajuta la adormire, dar afecteaza calitatea somnului.
+- **Nu bea tarziu**. Daca bei prea multa apa inainte de a te culca, va trebui sa te trezesti sa faci pipi. Nu mai bea doua ore inainte de a te culca.
+- **Somn consecvent**. Evitati sa stati tarziu in sfarsit de saptamana si apoi sa va treziti devreme in zilele de saptamana. Este ca si cum ai fi supusa unei diferente de fus orar in fiecare luni. Treziti-va la aceeasi ora in fiecare zi.
+- **Fara mese mari**. Dureaza aproximativ trei ore pana la digerarea alimentelor. Nu mancati mese mari inainte de culcare sau va veti chinui sa dormiti. Mutati ora cina mai devreme si mancati usor inainte de culcare.
 
 Daca puteti avea parte de un pui de somn inainte de a va face antrenamentele, faceti-o. Mai ales daca ai dormit putin cu o seara inainte, te vei simti mai energizat dupa somn. Dar nu dormi dupa 17:00 sau mai mult de 30 de minute. Altfel iti va fi greu sa adormi noaptea si o sa obosesti din nou pentru ziua urmatoare.
 
@@ -905,10 +906,10 @@ Daca insistati sa adaugati acest tip de exercitii, atunci cel putin asteptati pa
 
 Unde lucreaza bratul pe StrongLifts 5×5? Este peste tot daca va puteti gandi la absenta bicepsului si extensiilor de triceps, cunoscute și sub numele de concasoare de craniu(skullcrushers). Gandeste-te la asta…
 
-**- Biceps**. Trageti greutatea catre Ramat cu haltera . Bratele tale se apleaca ca atunci cand ridici greutatea de jos pana sus(curls). Dar bicepsul tau ridica greutati mai mari, deoarece primesc ajutor din partea muschilor spatelui.
-**- Triceps**. Impingeti bara departe pe Bench/Overhead Press. Tineti bratele intinse ca atunci cand lucrati concasoarele de craniu/extensiile de triceps. Dar tricepsul tau ridica greutati mai mari, obtinand ajutor din umeri si muschii toracali.
-**- Antebratelor**. Mainile tale tin bara la fiecare exercitiu. Antebratele va sustin bara, astfel incat sa nu o scapati atunci cand faceti Indreptari(Deadlifts). Acest lucru iti lucreaza muschii antebratului cu cele mai grele greutati.
-Muschii bratului se contracta si izometric in timpul [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) si [Indreptari(Deadlifts)](/exercitii/spate/indreptari) Acest lucru este similar cu modul in care muschii de la nivelul spatelui inferior se contracta in timpul acestor ridicari pentru a va mentine coloana vertebrala neutra. Bratele si spatele nu se misca, ci se contracta pentru a mentine pozitia. Acest lucru le face mai puternice si mai musculoase.
+- **Biceps**. Trageti greutatea catre Ramat cu haltera . Bratele tale se apleaca ca atunci cand ridici greutatea de jos pana sus(curls). Dar bicepsul tau ridica greutati mai mari, deoarece primesc ajutor din partea muschilor spatelui.
+- **Triceps**. Impingeti bara departe pe Bench/Overhead Press. Tineti bratele intinse ca atunci cand lucrati concasoarele de craniu/extensiile de triceps. Dar tricepsul tau ridica greutati mai mari, obtinand ajutor din umeri si muschii toracali.
+- **Antebratelor**. Mainile tale tin bara la fiecare exercitiu. Antebratele va sustin bara, astfel incat sa nu o scapati atunci cand faceti Indreptari(Deadlifts). Acest lucru iti lucreaza muschii antebratului cu cele mai grele greutati.
+  Muschii bratului se contracta si izometric in timpul [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) si [Indreptari(Deadlifts)](/exercitii/spate/indreptari) Acest lucru este similar cu modul in care muschii de la nivelul spatelui inferior se contracta in timpul acestor ridicari pentru a va mentine coloana vertebrala neutra. Bratele si spatele nu se misca, ci se contracta pentru a mentine pozitia. Acest lucru le face mai puternice si mai musculoase.
 
 De aceea, tipul care poate sa depaseasca 100kg/220lb de cinci ori are bratele mai mari decat cel care nu poate decat sa depaseasca 40kg/95lb. Muschii lui trebuiau sa devina mai puternici si mai mari pentru a ridica greutatile mai grele. Si din moment ce bratele ii tin si apasa bara, trebuiau sa devina si mai puternici si mai mari.
 
@@ -1020,9 +1021,9 @@ De fapt, nu aveti nevoie de cardio pentru a pierde grasime. Puteti crea un defic
 
 Unii oameni insista oricum sa faca cardio, asa ca iata optiunile voastre...
 
-**- HIIT**. Antrenament de inalta intensitate. Alterneaza exercitii intense cu perioade scurte de odihna. Frecventa cardiaca depaseste 85% in timpul atacurilor intense. Metabolismul creste pana la 48 de ore dupa HIIT. Dar este greu sa o faci mai mult de 20 de minute. Exemplu de HIIT: sprinturi cu intervale.
-**- LISS**. Intensitate scazuta cardio de stat. Frecventa cardiaca ramane constanta, intre 60-85% max. Puteti face LISS mai mult timp din cauza intensitatii mai mici. Dar metabolismul tau nu creste mult dupa aceea. Exemplu de LISS este mersul pe bicicleta stationara pentru 45 de minute.
-**- Intensitate scazuta**. Orice loc in care ritmul cardiac iti ramane sub 65% din valoarea maxima - cum ar fi mersul pe jos. Poate fi relaxant, dar arde mai putine calorii din cauza intensitatii mai mici. Puteti compensa asta plimbandu-va mai mult, dar majoritatea oamenilor nu au timp pentru asta. Si nu exista nicio consecinta.
+- **HIIT**. Antrenament de inalta intensitate. Alterneaza exercitii intense cu perioade scurte de odihna. Frecventa cardiaca depaseste 85% in timpul atacurilor intense. Metabolismul creste pana la 48 de ore dupa HIIT. Dar este greu sa o faci mai mult de 20 de minute. Exemplu de HIIT: sprinturi cu intervale.
+- **LISS**. Intensitate scazuta cardio de stat. Frecventa cardiaca ramane constanta, intre 60-85% max. Puteti face LISS mai mult timp din cauza intensitatii mai mici. Dar metabolismul tau nu creste mult dupa aceea. Exemplu de LISS este mersul pe bicicleta stationara pentru 45 de minute.
+- **Intensitate scazuta**. Orice loc in care ritmul cardiac iti ramane sub 65% din valoarea maxima - cum ar fi mersul pe jos. Poate fi relaxant, dar arde mai putine calorii din cauza intensitatii mai mici. Puteti compensa asta plimbandu-va mai mult, dar majoritatea oamenilor nu au timp pentru asta. Si nu exista nicio consecinta.
 
 LISS arde mai multe calorii. Intensitatea este mai mare decat la mers. Dar este mai mic decat pe HIIT, astfel incat sa puteti face mai mult timp. Problema este ca 45min de LISS dupa un antrenament intens - este obositor. Si nu o poti face in zilele libere, pentru ca asta este pentru recuperare. Deci probabil nu veti face mai mult de 30 de minute.
 
@@ -1120,9 +1121,9 @@ Puiul nu este creta. Acesta este talc si scade frecarea. Powerlifters pun puiul 
 
 Creta de bord nu este la fel cu creta de sala. Creta de bord este fabricata din sulfat de calciu. Creta gimnastica este fabricata din carbonat de magneziu. Este acelasi care folosesc alpinistii de piatra alba si gimnaste. Puteti gasi creta in majoritatea magazinelor de alpinism. Sau il puteti comanda online, link-uri...
 
-**- GSC Gym Chalk **. Opt blocuri pentru un total de 1lb. Aceasta ar trebui sa dureze cateva luni. Spargeti unul in bucati intr-o galeata. Apoi puneti-va pe palme, astfel incat sa va umple pliurile pielii. Este normal sa fie necesar sa reaplicati creta pe setul urmator.
-**- Galeata Primo Chalk , 1lb creta intr-o galeata convenabila**. Dublati pretul, dar o calitate mai mare. Am avut in trecut eczeme din creta. Acesta pare sa fie mai usor pe maini.
-**- Creta lichida fiara **. Creta lichida nu lasa urme. Creta se dizolva in alcool. Pune-l pe palmele tale, precum dezinfectantul de mana. Dupa 10 sec, alcoolul se evapora si mainile tale sunt cretice. Folositi acest lucru daca sala de sport nu permite creta - nu lasa praf si functioneaza mai bine decat manusile.
+- **GSC Gym Chalk **. Opt blocuri pentru un total de 1lb. Aceasta ar trebui sa dureze cateva luni. Spargeti unul in bucati intr-o galeata. Apoi puneti-va pe palme, astfel incat sa va umple pliurile pielii. Este normal sa fie necesar sa reaplicati creta pe setul urmator.
+- **Galeata Primo Chalk , 1lb creta intr-o galeata convenabila**. Dublati pretul, dar o calitate mai mare. Am avut in trecut eczeme din creta. Acesta pare sa fie mai usor pe maini.
+- **Creta lichida fiara **. Creta lichida nu lasa urme. Creta se dizolva in alcool. Pune-l pe palmele tale, precum dezinfectantul de mana. Dupa 10 sec, alcoolul se evapora si mainile tale sunt cretice. Folositi acest lucru daca sala de sport nu permite creta - nu lasa praf si functioneaza mai bine decat manusile.
 
 Nu veti avea nevoie de creta in primele saptamani de StrongLifts 5×5. Dar, odata ce greutatile se vor ingreuna, va fi nevoie de creta pentru ca Indreptari(Deadlifts) sa-l tina pe bara. Daca este cald in sala de gimnastica sau ai usor mainile transpirate, vei avea nevoie si de creta pe celelalte exercitii, astfel incat bara sa nu se poata deplasa si sa formeze o forma proasta.
 
@@ -1138,9 +1139,9 @@ Ridicarea descultului este mai buna, dar nu ideala, piciorul tau poate aluneca a
 
 Cel mai bine este sa purtati pantofi cu talpa din plastic dur sau cauciuc dens. Talpa subtire te pune mai aproape de podea. Acestea scurteaza distanta pe care o parcurge bara cand faceti Indreptari, ajutandu-va sa trageti mai greu. Talpile plate va ajuta sa implicati lantul posterior mai mult pe Squat(Genoflexiuni cu haltera) and Indreptari(Deadlifts) Verificati aceste...
 
-**- Chuck Taylor **. Am ridicat in acestea timp de 10 ani. Talpa plata, tractiune buna, ieftin. Dar talpa este din cauciuc, astfel incat comprima putin. De asemenea, sunt inguste, care pot fi incomode daca aveti picioare late ca mine (motivul pentru care am incetat sa le folosesc pana la urma).
-**- Reebok Lite TR **. Asemanator lui Chuck, dar mai larg si cu un suport mai bun pentru glezna. Sunt mai vrac, mai scumpe si se pot incalzi. Am ridicat in acestea trei ani.
-**- Reebok Nano **. Pantoful meu actual pentru ridicarea greutatilor - versiunea 6. Talpa dura, destul de plata, panza Kevlar puternica. Luminati si ocupati putin spatiu pentru calatorie. Arata foarte bine.
+- **Chuck Taylor **. Am ridicat in acestea timp de 10 ani. Talpa plata, tractiune buna, ieftin. Dar talpa este din cauciuc, astfel incat comprima putin. De asemenea, sunt inguste, care pot fi incomode daca aveti picioare late ca mine (motivul pentru care am incetat sa le folosesc pana la urma).
+- **Reebok Lite TR **. Asemanator lui Chuck, dar mai larg si cu un suport mai bun pentru glezna. Sunt mai vrac, mai scumpe si se pot incalzi. Am ridicat in acestea trei ani.
+- **Reebok Nano **. Pantoful meu actual pentru ridicarea greutatilor - versiunea 6. Talpa dura, destul de plata, panza Kevlar puternica. Luminati si ocupati putin spatiu pentru calatorie. Arata foarte bine.
 
 Elevii olimpici folosesc pantofi de haltere. Au talpi din lemn sau plastic dur care nu se comprima. Tocurile ii ajuta sa ajunga paralel mai usor, punandu-si mai mult inclinatiile. Si curelele metatarsiene care strabat pantoful impiedica piciorul sa se miste.
 
@@ -1178,15 +1179,15 @@ Intotdeauna incalzire fara centura. Puneti-l pentru ultimele seturi de incalzire
 
 Mai intai lucrurile de care nu ai nevoie si ar trebui sa nu mai folosesti...
 
-**- Oglinzi**. Ele va arata doar vederea din fata. Acestea iti pot regla gatul daca intorci capul pentru a verifica oglinda deoparte. Si provoaca o forma proasta. Atletii nu isi verifica forma intr-o oglinda in fotbal, fotbal sau tenis. Invata sa asculte cum se misca corpul lor. Daca doriti sa va verificati formularul, primiti in schimb un pod gorila si inregistrati-va telefonul.
-**- Manusi**. Ele fac bara mai groasa si mai greu de retinut. Acestea sunt ca niste sosete vechi, dupa cateva antrenamente. Se uzeaza rapid si adauga o cheltuiala inutila. Folositi creta in schimb pentru a va imbunatati stransoarea si a reduce calusurile. Si rade-ti calusele cu o piatra ponce .
-**- Schele**. Utilizarea de curele la fiecare exercitiu si set va va slabi stransoarea. Lasati-va stransoarea in loc sa o acoperiti cu curele. Folositi creta, strangeti cu greu bara si amestecati prinderea pe praguri.
+- **Oglinzi**. Ele va arata doar vederea din fata. Acestea iti pot regla gatul daca intorci capul pentru a verifica oglinda deoparte. Si provoaca o forma proasta. Atletii nu isi verifica forma intr-o oglinda in fotbal, fotbal sau tenis. Invata sa asculte cum se misca corpul lor. Daca doriti sa va verificati formularul, primiti in schimb un pod gorila si inregistrati-va telefonul.
+- **Manusi**. Ele fac bara mai groasa si mai greu de retinut. Acestea sunt ca niste sosete vechi, dupa cateva antrenamente. Se uzeaza rapid si adauga o cheltuiala inutila. Folositi creta in schimb pentru a va imbunatati stransoarea si a reduce calusurile. Si rade-ti calusele cu o piatra ponce .
+- **Schele**. Utilizarea de curele la fiecare exercitiu si set va va slabi stransoarea. Lasati-va stransoarea in loc sa o acoperiti cu curele. Folositi creta, strangeti cu greu bara si amestecati prinderea pe praguri.
 
 Puteti lua in considerare...
 
-**- Curea Dip**. Aceasta este o centura cu un lant pentru a atasa greutate pentru chinups si scufundari. Ar trebui sa faceti aceste exercitii ca orice alt exercitiu compus - greu. Obtineti o curea de baie pentru a adauga greutate odata ce le puteti face fara greutate. Nu faceti repetari interminabile sau pur si simplu antrenati rezistenta.
-**- Maneci genunchi **. Iti ung articulatiile prin captarea caldurii in jurul genunchilor. Acest lucru le face mai putin probabil sa se raneasca. Manecele genunchilor va pot oferi, de asemenea, increderea in Squat(Genoflexiuni cu haltera) daca aveti genunchii rai.Daca sunteti un pic mai in varsta, cel mai bine este sa purtati manecile genunchiului. Dar folositi o forma buna.
-**- Invelisurile incheieturilor**. Acestea le pot oferi incheieturilor mici un sprijin suplimentar (nu le-am folosit niciodata). Dar asigurati-va ca strangeti corect bara pe Squat(Genoflexiuni cu haltera) si apasati mai intai - incheieturile drepte, fara indoire.
+- **Curea Dip**. Aceasta este o centura cu un lant pentru a atasa greutate pentru chinups si scufundari. Ar trebui sa faceti aceste exercitii ca orice alt exercitiu compus - greu. Obtineti o curea de baie pentru a adauga greutate odata ce le puteti face fara greutate. Nu faceti repetari interminabile sau pur si simplu antrenati rezistenta.
+- **Maneci genunchi **. Iti ung articulatiile prin captarea caldurii in jurul genunchilor. Acest lucru le face mai putin probabil sa se raneasca. Manecele genunchilor va pot oferi, de asemenea, increderea in Squat(Genoflexiuni cu haltera) daca aveti genunchii rai.Daca sunteti un pic mai in varsta, cel mai bine este sa purtati manecile genunchiului. Dar folositi o forma buna.
+- **Invelisurile incheieturilor**. Acestea le pot oferi incheieturilor mici un sprijin suplimentar (nu le-am folosit niciodata). Dar asigurati-va ca strangeti corect bara pe Squat(Genoflexiuni cu haltera) si apasati mai intai - incheieturile drepte, fara indoire.
 
 ## Greseli commune<a name="greseli"></a>
 
