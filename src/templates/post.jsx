@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import { Layout, Container, Content } from 'layouts';
 import { TagsBlock, Header, SEO } from 'components';
 import '../styles/prism';
-import FadeIn from '../elements/FadeIn';
+// import FadeIn from '../elements/FadeIn';
 import Suggestions from '../elements/Suggestions';
 
 const Post = ({ data, pageContext }) => {
@@ -24,9 +24,7 @@ const Post = ({ data, pageContext }) => {
         article
       />
       <Header title={title} date={date} cover={image} />
-      <FadeIn>
-        <Content input={html} />
-      </FadeIn>
+      <Content input={html} />
       <TagsBlock list={tags || []} />
       <Container>
         <Suggestions left={prev} right={next} cardstyle="secondary" />

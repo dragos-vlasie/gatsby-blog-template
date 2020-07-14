@@ -9,8 +9,7 @@ const Wrapper = styled.div`
   width: 100%;
   z-index: 0;
   ${props => props.orientation === 'top' && 'top: 0'};
-  ${props =>
-    props.orientation === 'top' && 'transform: matrix(1, 0, 0, -1, 0, 0)'};
+  ${props => props.orientation === 'top' && 'transform: matrix(1, 0, 0, -1, 0, 0)'};
   ${props => props.orientation === 'bottom' && 'bottom: 0'};
 `;
 
@@ -47,7 +46,7 @@ const WaveSVG = styled.svg`
   path {
     fill: ${theme.colors.white.light};
     width: 100%;
-    animation: ${smoooooth} 25s linear infinite alternate;
+    animation: ${smoooooth} 10s linear infinite alternate;
   }
 `;
 

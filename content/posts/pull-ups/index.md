@@ -2,7 +2,7 @@
 path: '/tractiuni'
 cover: './blocks.jpg'
 date: '2020-07-07'
-title: 'Pull ups'
+title: 'Tractiuni(Pull ups)'
 tags: ['exercitii']
 subCategory: ['spate']
 published: true
@@ -204,7 +204,7 @@ _Bratele trebuie sa fie drepte in partea de jos a fiecarei tractiuni(pull-ups)._
 
 Coatele in jos. Trageti-va in sus, ducandu-va coatele in jos. Tine-ti coatele la 45 ° in interior, nu in exterior. Tine-ti trunchiul aproape de bara. Cu cat este mai scurta distanta dintre maini si umeri, cu atat este mai usor sa ridici. Conduceti cu pieptul, ridicarea. Incercati sa atingeti bara cu pieptul superior. Este in regula, daca nu poti, atata timp cat barbia iti trece de bara, repetarea este corecta.
 
-## Varful(Top)<a id="varful(Top)"></a>
+## Varful(Top)<a id="varful(top)"></a>
 
 ![Pullup chin over bar](./assets/pullup-top.jpg)
 _Trageti barbia peste bara, in partea de sus a tractiunii(pull-ups). Jumatate de repetare nu conteaza._

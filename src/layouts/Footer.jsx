@@ -35,7 +35,7 @@ const Footer = () => (
     <Wave orientation={'top'} />
     <Text>
       <span>Gatsby Template </span>
-      <Copyright>Copyright © 2019. Dragos Vlasie.</Copyright>
+      <Copyright>Copyright © 2019. Dragos Vlasie. All rights reserved.</Copyright>
     </Text>
   </Wrapper>
 );
