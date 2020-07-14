@@ -1,9 +1,9 @@
 ---
-path: '/program/5x5-intrebari-populare'
+path: '/5x5-intrebari-populare'
 cover: './blocks.jpg'
 date: '2020-02-15'
 title: '5x5 - Intrebari populare'
-tags: []
+tags: ['program']
 published: true
 ---
 

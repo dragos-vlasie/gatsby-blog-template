@@ -8,7 +8,7 @@ subCategory: ['spate']
 published: true
 ---
 
-## Cum sa faci indreptari cu Forma corecta: Ghid Definitiv<a name="cum sa faci indreptari cu forma corecta: Ghid Definitiv"></a>
+## Cum sa faci indreptari cu Forma corecta: Ghid Definitiv<a id="cum sa faci indreptari cu forma corecta: Ghid Definitiv"></a>
 
 ![How to Indreptari](./assets/deadlift.jpg)
 _Deadlifts: trageti greutatea de la podea la coapse cu un spate neutru._
@@ -152,9 +152,9 @@ Acesta este ghidul definitiv pentru o forma corespunzatoare pentru Deadlift(indr
 </div>
 </details>
 
-## Notiuni de baza pentru Deadlift<a name="notiuni-de-baza-pentru-deadlift"></a>
+## Notiuni de baza pentru Deadlift<a id="notiuni-de-baza-pentru-deadlift"></a>
 
-### Cum sa faci Indreptari<a name="cum-sa-deadlift"></a>
+### Cum sa faci Indreptari<a id="cum-sa-deadlift"></a>
 
 ![How to Indreptari with proper form in 5 simple steps](./assets/how-to-deadlift.jpg)
 _Cum sa faci Indreptari in 5 pasi: mergeti la bar, apucati-l, indoiti genunchii, ridicati pieptul, trageti._
@@ -171,7 +171,7 @@ Intoarceti greutatea pe podea, deblocand mai intai soldurile si genunchii. Apoi 
 
 Odihneste-te o secunda intre repetari. Ramaneti in pozitia de pregatire cu mainile pe bara. Respirati puternic, incordati-va si trageti din nou. Fiecare repetare trebuie sa porneasca cu bara jos pe podea. Nu loviti greutatea de pe podea sau veti trage cu o forma proasta. Faceti deadlift de cinci repetari la fiecare antrenament B pe StrongLifts 5 × 5.
 
-## Principalele actiuni la deadlift(indreptari)<a name="principalele-actiuni-la-deadlift(indreptari)"></a>
+## Principalele actiuni la deadlift(indreptari)<a id="principalele-actiuni-la-deadlift(indreptari)"></a>
 
 ![How to Indreptari with proper form](./assets/deadlift-101.jpg)
 _Forma corespunzatoare Deadlift: pozitie cu latimea soldului, prindere ingusta, brate verticale, bara impotriva luciului, solduri/genunchi incuiate in partea de sus._
@@ -205,7 +205,7 @@ Utilizati aceste indicii in schimb si veti face Indreptari(Deadlift) cu o forma 
 - **Tibia**: atingeti bara cu tibia in timpul pozitiei de inceput
 - **Lockout: blocati soldurile si genunchii**. Nu lasati greutatea in jos cand ajungeti in varf daca nu ati blocat genunchii si soldurile.
 
-## Muschii lucrati<a name="muschii-lucrati"></a>
+## Muschii lucrati<a id="muschii-lucrati"></a>
 
 Deadlifts(Indreptarile) iti lucreaza intregul corp. Picioarele tale sunt principalele parti miscatoare. Muschii spatelui iti mentin coloana vertebrala neutra. Iar bratele tale tin haltera in maini. Dar, deoarece greutatea este mai grea decat la orice alt exercitiu, toti ceilalti muschi trebuie sa functioneze si ei. In caz contrar, nu poti Indrepti(Deadlift) greutatea.
 
@@ -219,7 +219,7 @@ Indreptarea este mai mult pentru spate decat picioarele in comparatie cu [Genofl
 
 Indreptarile sunt cel mai bun exercitiu pentru spatele tau. Adaugati Barbell [Ramat cu haltera(Barbell Row)](/exerciti/spate/ramat-cu-bara) si poate Tractiuni si nu aveti nevoie de mai mult pentru a construi un spate in forma de V . Ridicati multa greutate si puteti avea un fizic excelent facand doar doua-trei exercitii pe antrenament. Acesta este motivul pentru care StrongLifts 5 × 5 este atat de eficient.
 
-## Probleme de siguranta<a name="probleme-de-siguranta"></a>
+## Probleme de siguranta<a id="probleme-de-siguranta"></a>
 
 ![Round vs. Hyper-extended vs. Neutral Back on the Indreptari](./assets/deadlift-lower-back.jpg)
 _Rotunjirea spatelui inferior (stanga) si arcuirea in exces (mijlocul) sunt rele. Pastrati-va spatele inferior neutru (dreapta)._
@@ -238,16 +238,16 @@ Indreptarile poat transforma un spate slab, consolidandu-ti muschii trunchiului.
 
 Deadlift-urile au un risc de ranire ca orice alta activitate fizica. Cel mai bun mod de a creste siguranta este prin a folosi o forma adecvata. Incepeti cu greutati usoare, folositi o forma adecvata si adaugati cate putin greutate. Muschii trunchiului vor fi mai puternici pe masura ce greutatea creste. Acest lucru va construi un spate mai puternic, care este mai greu de ranit.
 
-## Videoclipuri<a name="videoclipuri"></a>
+## Videoclipuri<a id="videoclipuri"></a>
 
 Iata un videoclip cu mine Deadlifting 210kg/451lb. In pozitia de inceput, bara este peste mijlocul piciorului, cu omoplatii peste bara. Trag bara peste picioare pana in varf. Spatele meu inferior ramane destul de neutru. Nu folosesc manerul si centura mixta pe seturile mai usoare. Le pastrez pentru seturile mai grele.
 
 Iata un al doilea videoclip in care fac Deadlifts ca parte a antrenamentului StrongLifts 5 × 5 B. Raspund si la intrebari comune despre Deadlift. Urmariti de la 20:59 inainte ...  
 Si iata un videoclip al lui Mike Tuchscherer Deadlifting de aproximativ 300 kg la seminarul StrongLifts London 2014. Mike este un campion la powerlifting si face Indreptare(Deadlifts) exact asa cum este scris in acest ghid: bara peste mijlocul piciorului, omoplati peste bara, spatele neutru. Priveste si invata…
 
-## Tehnica Deadlift<a name="tehnica-deadlift"></a>
+## Tehnica Deadlift<a id="tehnica-deadlift"></a>
 
-## Pozitie<a name="pozitie"></a>
+## Pozitie<a id="pozitie"></a>
 
 ![Proper Indreptari stance](./assets/deadlift-stance.jpg)
 _Stanga: pozitia larga impinge picioarele impotriva bratelor. Dreapta: pozitia ingusta creeaza spatiu pentru picioare si brate._
@@ -258,7 +258,7 @@ Nu faceti Deadlift la fel ca pozitia de [Genoflexiuni cu haltera](/exercitii/pic
 
 Puteti rezolva acest lucru tinand bara mai larga. Dar acest lucru mareste distanta pe care trebuie sa o parcurga bara pentru a ajunge in varf. Ingreuneaza greutatea pana la finalul repetaitiei. Bratele tale trebuie sa fie verticale atunci cand estu cy fata la bara. Ai nevoie de o pozitie ingusta pentru asta. Fa Indreptari cu talpile in line cu soldurile tale.
 
-## Picioare<a name="picioare"></a>
+## Picioare<a id="picioare"></a>
 
 ![Proper Indreptari Foot Stance](./assets/deadlift-feet.jpg)
 _Stanga: bara peste picior, prea departe. Mijloc: bara impotriva tibierilor, prea aproape. Dreapta: bara peste mijlocul piciorului, corect._
@@ -280,7 +280,7 @@ Incepeti cu varful degetelor cu inclinate spre 15 °. Acest lucru face mai usor 
 
 Tine-ti picioarele pe podea. Daca vreo parte a piciorului dvs. este ridicata atunci cand faceti Deadlift, veti pierde echilibrul. Vrei sa ai cea mai mare suprafata in contact cu podeaua. Tine-ti tocurile, talpa de la mijloc si degetele de jos. Va poate ajuta sa incercati sa apucati podeaua cu picioarele, cum ar fi sa apucati o minge de basket cu picioarele.
 
-## Prindere<a name="prindere"></a>
+## Prindere<a id="prindere"></a>
 
 ![Normal vs mixed grip](./assets/deadlift-mixed-grip.jpg)
 _Aderenta normala vs mixta. Folositi mai intai o prindere normala. ambele palme orientate spre tine (stanga)._
@@ -307,7 +307,7 @@ Aceasta prindere a mainii nu este mai slaba. Aveti aceeasi cantitate de degetele
 
 Mainile tale s-ar putea rani atunci cand incepi Deadlifts(Indreptarile). Acest lucru se datoreaza faptului ca nu aveti inca calusuri/bataturi. Nu folositi manusi, ci continuati. Pielea ta va forma calusuri pentru a va proteja impotriva presiunii barei. Durerea va disparea odata ce aveti calusuri. Este nevoie doar de cateva antrenamente.
 
-## Brate<a name="brate"></a>
+## Brate<a id="brate"></a>
 
 ![Proper arm position on Indreptaris](./assets/deadlift-elbows.jpg)
 _Stanga: coatele indoite, risc ridicat de ranire a cotului. Dreapta: coatele blocate cu bratele verticale. Sigur si eficient._
@@ -320,7 +320,7 @@ Indreapta coatele. Indreptati-va bratele inainte de a trage greutatea de pe pode
 
 Amintiti-va ca greutatea pe care o folositi la Deadlift(Indreptari) este usor de cinci ori mai grea decat ceea pe care o ridicati la un exercitiu de izolare a bratului. Nu incercati sa trageti cu bratele. Nu sunt suficient de puternice. Lasa-ti picioarele si muschii spatelui ce sunt mai puternici sa ridice greutatea.
 
-## Bara(Haltera)<a name="bara(haltera)"></a>
+## Bara(Haltera)<a id="bara(haltera)"></a>
 
 bara trebuie sa paraseasca podeaua de la mijlocul piciorului pe fiecare repetare, deoarece acesta este punctul tau de echilibru. Apoi, trebuie sa se deplaseze in sus pe o linie verticala, deoarece aceasta este cea mai scurta distanta pentru a ajunge la blocare. Nu ar trebui sa existe nicio miscare orizontala a halterei, deoarece aceasta face ca traiectorie halterei sa fie mai lunga.
 
@@ -332,7 +332,7 @@ Daca bara se indeparteaza de la mijlocul piciorului in timpul pozitiei de start 
 
 De asemenea, bara trebuie sa se deplaseze pe o linie verticala. Si ar trebui sa aterizeze chiar peste mijlocul piciorului dvs., gata pentru urmatoarea repetare. Daca bara se misca in sus si in jos pe o linie verticala, peste mijlocul piciorului, asta inseamna ca folositi o forma adecvata.
 
-## Soldul<a name="soldul"></a>
+## Soldul<a id="soldul"></a>
 
 ![deadlift-hips](./assets/deadlift-hips.jpg)
 _De la stanga la dreapta: soldurile prea scazute fata de prea mare in raport cu pozitia corecta a soldului._
@@ -353,7 +353,7 @@ Nu copiati pozitia altcuiva decat daca aveti aceeasi constructie fizica. Coapsel
 
 Aveti grija cu persoanele care va revizuiesc Deadlift-ul ca [Genoflexiuni cu haltera](/exercitii/picioare/genuflexiuni-cu-haltera). Nu exista nicio pozitie paralela pentru a ajunge sau porni de aici. Soldurile nu trebuie sa fie sub nivelul genunchilor. Pur si simplu incepeti cu bara si omoplatii peste mijlocul piciorului si cu tibia impotriva barei. Pozitia soldului nu conteaza.
 
-## Omoplati<a name="omoplati"></a>
+## Omoplati<a id="omoplati"></a>
 
 ![Indreptari shoulder-blades position](./assets/andy-benedikt-deadlift.jpg)
 _fiecare Deadlifter puternic are omoplatii peste bara cand bara iese pe podea._
@@ -365,7 +365,7 @@ Acest lucru inseamna ca omoplatii, mijlocul piciorului si bara trebuie sa fie al
 
 Nu va strangeti omoplatii pe Indreptari(Deadlifts), precum pe [Genoflexiuni cu haltera](/exercitii/picioare/genuflexiuni-cu-haltera) sau [[Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press). Aceasta creste distanta pe care o parcurge barul. Pastrati-le inapoi (retras) ridicand pieptul atunci cand incepeti. Blocati pozitia contractand muschiul lat dorsal al spatelui(lats) . Dar nu incercati sa va atingeti omoplatii.
 
-## Umerii<a name="umerii"></a>
+## Umerii<a id="umerii"></a>
 
 ![Indreptari shoulder-blades and shoulder position](./assets/deadlift-shoulders.jpg)
 _stanga: umerii deasupra barei iti pun soldurile prea jos. Dreapta: incepeti cu omoplatii peste bara._
@@ -376,7 +376,7 @@ Umerii deasupra barei nu functioneaza. Iti pune soldurile prea jos. Genunchii si
 
 Mentineti umerii relaxati. Nu trebuie sa ridici din umeri sau sa-i dai in spate in partea de sus a Indreptarilor. Trapezul deja munceste din greu pentru a-ti mentine umerii in loc. Ridicarea sau miscarea in spate a umerilor este inutila si rea pentru articulatiile umarului. Lasa-ti umerii sa atarne in timp ce picioarele ridica greutatea de pe podea.
 
-## Unghiul spatelui<a name="unghiul-spatelui"></a>
+## Unghiul spatelui<a id="unghiul-spatelui"></a>
 
 Unghiul spatelui corespunzator pentru Deadlifts depinde de construirea dvs. Daca aveti coapse lungi cu un trunchi scurt, unghiul din spate va fi mai orizontal cu podeaua. La fel daca ai bratele scurte. Dar unghiul din spate va fi mai vertical daca aveti coapse scurte sau brate lungi.
 
@@ -384,7 +384,7 @@ Prin urmare, nu ar trebui sa va concentrati asupra unghiului din spate (la fel c
 
 Pastrati unghiul spatelui constant in timpul Indreptarilor. Nu lasati soldurile sa se ridice mai repede decat pieptul. Acest lucru iti scoate coapsele(muschiul cvadriceps) din miscare, indreptandu-ti picioarele prea curand. Ridicati-va soldurile si pieptul in acelasi timp, impingand picioarele prin podea.
 
-## Tibia<a name="tibia"></a>
+## Tibia<a id="tibia"></a>
 
 Unghiul tibiei depinde si de constructia ta. Dar ar trebui sa fie inclinata atunci cand privesti din lateral. Tibiile verticale nu functioneaza pentru ca te pune prea departe in spatele barei. Vei pierde echilibrul si vei lovi tibia cu bara. Pur si simplu incepeti si uitati de unghiul tibiee.
 
@@ -394,7 +394,7 @@ Bara trebuie sa ramana in contact cu picioarele atunci cand faceti Deadlift pent
 
 Tibia ta nu ar trebui sa sangereze cand faceti Indreptari(Deadlift). De asemenea, nu ar trebui sa se invarta. Bara ar trebui sa inceapa impotriva tibiei dvs. in timpul pozitiei de inceput, apoi trageti peste ele in partea de sus. Dar, daca tibiile tale sunt lovite, pozitia ta este probabil gresita. Asigurati - va ca nu sunteti prea aproape de haltera si solduri prea joase.
 
-## Genunchii<a name="genunchii"></a>
+## Genunchii<a id="genunchii"></a>
 
 Impinge-ti genunchii in momentul in care ai Deadlift. Incepeti cu varfurile degetelor in inclinate spre afara cu 15 °. Apoi impingeti genunchii in aceeasi directie ca degetele de la picioare in timpul pozitiei de incepit si in timp ce trageti de greutate. Acest lucru va va angaja muschii inghinali. Cu cat mai multi muschi lucreaza cu atat greutatea va fi mai mare la Deadlift(Indreptari).
 
@@ -402,7 +402,7 @@ Inclinandu-ti genunchii in afara, de asemenea, ii tine inapoi si in afara traiec
 
 Blocati(Indreptati) genunchii in partea de sus a fiecarei repetari, astfel incat sa aveti o pozitie puternica pentru a mentine greutatea. Indreptati-va picioarele prin intreaga gama de miscare pana cand articulatiile genunchiului sunt blocate. Repetarea nu conteaza daca nu reusiti sa va terminati Indreptarea/Deadlifts cu genunchii inchisi.
 
-## Partea inferioara a spatelui<a name="partea-inferioara-a-spatelui"></a>
+## Partea inferioara a spatelui<a id="partea-inferioara-a-spatelui"></a>
 
 ![Proper back position on Indreptaris](./assets/deadlift-lower-back.jpg)
 _Stanga: rotunjirea spatelui inferior, rau. Mijloc: arc in exces, rau. Corect: coloana vertebrala neutra, buna._
@@ -421,13 +421,13 @@ Dupa ce spatele inferior este neutru, blocati-l in pozitie inainte de a trage. R
 
 Nu incercati sa trageti de greutate cu spatele inferior. Spatele nu Indreapta greutatea - nu se misca. Pur si simplu iti mentine coloana vertebrala neutra in timp ce transfera forta generata de picioarele tale. Picioarele si soldurile ridica greutatea incepand sa se aplece si sa se indrepte. Lasa-i sa faca treaba.
 
-## Partea superioara a spatelui<a name="partea-superioara-a-spatelui"></a>
+## Partea superioara a spatelui<a id="partea-superioara-a-spatelui"></a>
 
 Partea superioara a spatelui ar trebui sa ramana neutra si la Deadlift. Este mai usor sa va mentineti spatele inferior neutru daca partea superioara a spatelui este de asemenea neutra. Faceti acest lucru ridicand pieptul inainte de a trage de greutate. Pastrati piept in sus inspirand o gura mare de aer si contractati muschiul lat dorsal(lats) .
 
 Coloana vertebrala superioara are o curba exterioara normala . Va arata usor rotunjit atunci cand ridicati pieptul. Acest lucru este bine, atata timp cat umerii nu sunt in fata. Nu incercati sa obtineti un arc in partea superioara a spatelui ca in partea inferioara a spatelui - aceasta nu este pozitia naturala a coloanei vertebrale superioare.
 
-## Cap<a name="cap"></a>
+## Cap<a id="cap"></a>
 
 ![Proper head position on Indreptaris](./assets/deadlift-head.jpg)
 _Nu te uita in sus sau la picioarele tale. Priveste usor inainte pentru a-ti mentine capul neutru._
@@ -442,7 +442,7 @@ Cealalta greseala este sa te uiti la picioarele tale sau la bara. Acest lucru va
 
 Uita-te la un punct de pe podea in fata ta. Daca faceti acest lucru corect, veti avea o linie dreapta din partea de sus a capului pana la solduri atunci cand incepeti Indreptarile. Gatul tau va fi neutru. Acest lucru se poate simti ciudat daca esti obisnuit sa privesti in jur. Tineti-va de acest obicei si va veti obisnui cu el.
 
-## Pozitia de inceput<a name="pozitia-de-inceput"></a>
+## Pozitia de inceput<a id="pozitia-de-inceput"></a>
 
 ![Proper Indreptari setup](./assets/deadlift-setup.jpg)
 _Pozitia de inceput corespunzatoare Deadlift: bara de la mijlocul piciorului, omoplati peste bara, tibia impotriva barei si coloana vertebrala neutra._
@@ -462,7 +462,7 @@ Fiecare repetare trebuie sa porneasca de la aceasta pozitie. Cheia este sa cobor
 
 Degetele de la picioare ar trebui sa fie usor in afara, aproximativ 15 grade. Impingeti-va si genunchii in afara - va pastreaza tibiile inapoi si in afara directiei barei. Spatiul este limitat, dar incercati sa le impingeti in aceeasi directie cu degetele de la picioare. Acest lucru va va contarcta zona inghinala si va va ajuta sa faceti Indreptari(Deadlift) cu mai multa in greutate.
 
-## Miscarea de ridicare<a name="miscarea-de-ridicare"></a>
+## Miscarea de ridicare<a id="miscarea-de-ridicare"></a>
 
 ![deadlift-pull](./assets/deadlift-pull.jpg)
 _Trageti bara intr-o linie verticala in sus. Trageti-l peste picioare, pastrandu-va spatele neutru._
@@ -483,7 +483,7 @@ Nu trebuie sa existe nicio miscare orizontala a barelor atunci cand faceti Deadl
 
 In cazul in care bara nu doreste sa paraseasca podeaua, forta antebratelor tale ar putea fi prea slaba(priza). Puneti creta si incercati din nou cu o prindere mixta. Vei avea o prindere mai buna si ar trebui sa poti ridica greutatea acum. Nu renunta prea repede, continua sa tragi. Daca bara inca nu se misca, este doar prea grea.
 
-## Pana jos<a name="pana-jos"></a>
+## Pana jos<a id="pana-jos"></a>
 
 ![How to lower the bar on Indreptaris](./assets/deadlift-lower-bar.jpg)
 _Miscati-va soldurile inapoi, astfel incat sa nu va loviti de genunchi in jos._
@@ -500,7 +500,7 @@ Coborati bara sub control, dar nu lent. Ar trebui sa fie mai rapid decat drumul 
 
 Coborati corect bara daca se deplaseaza intr-o linie verticala si lasati-o peste mijlocul piciorului. Bara nu ar trebui sa-ti loveasca niciodata genunchii, iar spatele inferior nu ar trebui sa doara.
 
-## Indreptarea(Lockout)<a name="indreptarea(lockout)"></a>
+## Indreptarea(Lockout)<a id="indreptarea(lockout)"></a>
 
 ![Proper Indreptari Lockout technique](./assets/deadlift-lockout.jpg)
 _Nu va lasati pe spate sau ridicati din umeri in partea de sus. Doar blocheaza soldurile si genunchii si mentine-ti spatele inferior neutru._
@@ -515,7 +515,7 @@ Indreapta si genunchii. Acest lucru nu este rau pentru articulatiile tale, pentr
 
 Ridicarea sau rularea umerilor in varf nu este necesara. Trapezul tau deja munceste din greu pentru a-ti mentine umerii in pozitie atunci cand faci Deadlift(Indreptari). Nu este nevoie sa adaugati o contractie in partea de sus, si sa o faceti oricum este rau pentru umeri. Lasa-ti umerii sa fie relaxati in varf.
 
-## Respiratie<a name="respiratie"></a>
+## Respiratie<a id="respiratie"></a>
 
 Inhalati inainte de a trage bara de pe podea. Tine respiratia in timp ce tragi de greutate. Continuati sa va mentineti respiratia in varf. Coborati greutatea inapoi pe podea si apoi expirati. Acesta este modul adecvat de a respira pe Deadlifts, deoarece creste siguranta si rezistenta la nivelul spatelui.
 
@@ -529,7 +529,7 @@ Expiratia in pozitia de final este rea din acelasi motiv. Repetitiile sunt scurt
 
 Expirati odata ce bara este din nou pe podea. Apoi pregatiti-va pentru urmatoarea repetare prin strangerea barei, ridicand pieptul si regasindu-va spatele neutru. Respirati si trageti. Tineti-va respiratia in partea de sus, in timp ce tineti greutatea pentru o secunda. Apoi coborati inapoi pe podea. Expirati, incepeti, inspirati, repetati.
 
-## Intre Repetari<a name="intre-repetari"></a>
+## Intre Repetari<a id="intre-repetari"></a>
 
 Fiecare repetari trebuie sa porneasca de la un stop DEAD(punct mort), deoarece acesta este un DEADlift . Greutatea trebuie sa fie nemiscata inainte sa iti tragi urmatoarea repetare. Opriti bara pe podea pentru o secunda intre repetari. Folositi aceasta pauza pentru a respira si asezati-va inapoi intr-o pozitie puternica inainte de a trage din nou.
 
@@ -545,9 +545,9 @@ Evitati sa da ti drumu la bara din acelasi motiv. Daca trebuie sa reincercati, a
 
 Munciti din greu pentru a va incorda corpul intre repetari pentru a va bloca coloana vertebrala intr-o pozitie neutra. Strangeti bara tare si plantati-va picioarele in pamant. Incercati sa va intelegeti trunchiul intreg contractandu-va pieptul, abdomenul. Faceti acest lucru inainte sa inspirati o gura mara de aer dar si inainte de a trage greutatea de pe podea.
 
-## Cazuri speciale<a name="cazuri-speciale"></a>
+## Cazuri speciale<a id="cazuri-speciale"></a>
 
-## Barbati inalti<a name="barbati-inalti"></a>
+## Barbati inalti<a id="barbati-inalti"></a>
 
 ![The Mountain Indreptaris](./assets/the-mountain-deadlifts.jpg)
 _„The Mountain” este de 2,06m (6’9 ″) si Deadlifts 501 kg. El face indreptari, asa cum este prevazut in acest ghid._
@@ -560,7 +560,7 @@ Este importanta lungimea membrelor tale. Daca ai coapsele lungi, genunchii iti v
 
 Nu lasa inaltimea ta sa fie o scuza. Urmati aceste sfaturi pentru Indreptari si antrenati-va.
 
-## Baietii mari(„grasi”)<a name="baietii-mari"></a>
+## Baietii mari(„grasi”)<a id="baietii-mari"></a>
 
 ![Andy Bolton and Benedikt Magnusson Indreptariing](./assets/andy-benedikt-deadlift.jpg)
 _Andy Bolton si Benedikt Magnusson au facut Indreptari(Deadlifted) de 400kg cantarind + 350lb. Ei Deadlift ca in acest ghid._
@@ -571,7 +571,7 @@ Uita-te la imaginea de mai sus. Amandoi se instaleaza cu bara peste piciorul mij
 
 Provocarea obisnuita pentru baietii mai mari este ca burta lor sa intre in cale. Extindeti-va pozitia. Mergeti mai ingust decat pe [Genoflexiuni cu haltera](/exercitii/picioare/genuflexiuni-cu-haltera), dar mai lat pe distanta de sold. Puteti crea un spatiu suplimentar pentru burta, indreptandu-va degetele de la picioare si impingeti genunchii in lateral. Cel mai important, nu iti crea scuze.
 
-## Maini mici<a name="maini-mici"></a>
+## Maini mici<a id="maini-mici"></a>
 
 Palmele mici si/sau degetele scurte ingreuneaza mentinerea barei in timpul Indreptarilor. O suprafata mai mica a degetului mare se suprapune pe degete. Priza ta este mai putin sigura in comparatie cu cei cu maini mai mari, ca mine.
 
@@ -581,7 +581,7 @@ Cheia este sa strangeti bara, si sa folositi priza mixta. Finalizati fiecare set
 
 Palmele mici pot duce la calusuri mai mari. Te forteaza sa strangi bara din mijlocul palmei, deoarece ai prea putin loc cu care sa te apuci. Nu purta manusi - acestea fac bara si mai groasa, si este ultimul lucru pe care ti-l doresti. Doar aveti grija sa nu prindeti piele sub bara.
 
-## Femei<a name="femei"></a>
+## Femei<a id="femei"></a>
 
 Indreptarile cu haltera pentru femei este la fel ca si pentru barbati. Acest lucru se datoreaza faptului ca corpul unei femei este similar cu cel al unui barbat, daca uitati de sanii si organele genitale pentru un minut. De asemenea, au doua brate, doua picioare, doua maini, un trunchi si un cap. De obicei sunt doar mai mici.
 
@@ -593,7 +593,7 @@ Exista barele mai usoare pentru femei care cantaresc doar 15kg. De obicei sunt m
 
 Purtati sosete lungi daca nu doriti sa va zgariati tibia.
 
-## Forta pentru mentinerea prizei<a name="forta-pentru-mentinerea-prizei"></a>
+## Forta pentru mentinerea prizei<a id="forta-pentru-mentinerea-prizei"></a>
 
 O priza puternica este cruciala pentru Deadlifts, deoarece nu puteti ridica o greutate pe care nu o puteti tine. Consolidarea prizei va ajuta sa mentineti greutatea mai mult timp. Drept urmare, progresezi mai bine, iti cresti Indreptarile si creezi muschii mai mari ai antebratelor.
 
@@ -601,7 +601,7 @@ Cel mai bun mod de a-ti creste rezistenta la prindere pentru Indreptari este sa 
 
 Ceea ce nu functioneaza sunt curelele, manusile si aparat flexor pentru antebrat. Curelele acopera o prindere slaba in loc sa o intareasca. Manusile fac bara mai groasa si mai greu de tinut. Aparatul flexor creeaza rezistenta la prindere care nu este echivalenta pentruDeadlifts. Antrenativa cu priza alba, creta si priza mixta.
 
-## Priza alba<a name="priza-alba"></a>
+## Priza alba<a id="priza-alba"></a>
 
 Strangeti bara pana cand varfurile pumnului(knuckles) vor devini albe. Cu cat strangeti mai tare, cu atat mai putin se poate misca bara in maini. Gravitatea va trage bara in jos si din mainile voastre in timpul Indreptarilor(Deadlifts). Daca strangeti bara prea putin, aceasta va aluneca in jos, va deschide mainile si veti pierde bara. Asa ca contractata tare palma in jurul halterei.
 
@@ -611,7 +611,7 @@ Priza normala functioneaza cel mai bine pentru priza alba, deoarece puteti stran
 
 De asemenea, puteti mentine mainile inchise mai mult timp cu priza normala. Gravitatea va trage greutatea in jos. Bara va deschide mainile si se va rostogoli in jos. Fara ca degetele mari sa se suprapuna cu degetele, ai pierde rapid bara. Deci faceti Indreptari cu o priza completa si strangeti bara cat puteti de tare.
 
-## Priza mixta<a name="priza-mixta"></a>
+## Priza mixta<a id="priza-mixta"></a>
 
 ![Indreptari Mixed Grip](./assets/deadlift-mixed-grip.jpg)
 _faceti Indreptari/Deadlift cu priza mixta atunci cand nu puteti tine bara cu prinderea normala. O mana in sus, una in jos._
@@ -645,7 +645,7 @@ Bara va avea tendinta sa ruleze in fata, in cand bratele sunt orientate in fata.
 
 Daca aveti o rana la umar sau aveti dureri de umar din priza mixta, schimbati mana indreptata in sus. Daca se simte mai confortabil in acest fel, ramaneti cu ea acolo. Din nou, nu pare sa conteze ce mana faceti in sus pentru o priza mai puternica. Foloseste ceea ce poti folosi si fii consecvent.
 
-## Priza statica<a name="priza-statica"></a>
+## Priza statica<a id="priza-statica"></a>
 
 ![Indreptari static holds](./assets/deadlift.jpg)
 _Faceti Indreptarile cu greutatea normala, apoi la ultima repetare, tineti bara in partea de sus a miscarii. Acest lucru va creste rezistenta prizei pentru Deadlfits(Indreptari)._
@@ -658,7 +658,7 @@ Pentru a face o priza statica, tineti greutatea la sfarsitul setului. Stai doar 
 
 Efectueaza priza statica in ultimul set al Indreptarilor(Deadlift) al zilei . O fac pe fiecare set si nu ma oboseste pentru seturile mele principale. Dar fac asta de ceva vreme si am o priza destul de puternica. Daca acest lucru iti slabeste aderenta, faceti priza statica doar pe ultimul set superior pana cand rezistenta la prindere creste.
 
-## Aparatul flexor pentru antebrat<a name="aparatul-flexor-pentru-antebrat"></a>
+## Aparatul flexor pentru antebrat<a id="aparatul-flexor-pentru-antebrat"></a>
 
 Grippers nu sunt atat de eficenti pentru a creste rezistenta la prindere pentru Deadlifts. Construiesc un tip de prindere diferit,ce nu este transferabil la Indreptari(Deadlifts).
 
@@ -671,11 +671,11 @@ Daca doriti oricum sa utilizati aparatul flexor, atunci nu faceti inchideri si d
 
 Tineti minte ca deja antrenati priza destul de dess. Fiecare exercitiu din StrongLifts 5 × 5 , viata de zi cu zi, etc. Folosirea aparatului flexor poate provoca dureri la nivelul cotului care va pot impiedica din a face exercitii. Ia-o incet. Daca doare, opreste-te.
 
-## Echipament<a name="echipament"></a>
+## Echipament<a id="echipament"></a>
 
 <br>
 
-## Creta<a name="creta"></a>
+## Creta<a id="creta"></a>
 
 Creta creste rezistenta la prindere prin absobria transpiratiei. Impiedica bara sa se miste in maini atunci cand ai maini transpirate din cauza vremii calduroase sau a unei sedinte dure. Mi-am crescut Deadlift-ul cu 20 kg aproape peste noapte folosind creta. Daca nu folositi creta nu puteti la fel de multe kg pe bara.
 
@@ -685,7 +685,7 @@ Unele sali de gimnastica interzic creta. Puteti rezolva asta cu creta lichida, n
 
 Pielea ta poate suferii de la creta, mai ales iarna. Creta functioneaza prin uscarea mainilor. Am pielea sensibila si sunt predispusa la eczeme. Asa ca trebuie sa ma asigur ca scap de creta imediat dupa antrenament sa nu am probleme de piele. Spalati-va mainile cand ati terminat, hidratati-va daca este nevoie.
 
-## Pantofi<a name="pantofi"></a>
+## Pantofi<a id="pantofi"></a>
 
 Cei mai buni pantofi pentru Deadlifts au talpile subtiri, plate, dure. Talpile subtiri scurteaza distanta pe care o parcurge haltera pentru ca esti mai aproape de podea. Talpile plate va permit sa va asezati mai bine pentru a va angaja mai mult muschii. Talpile dure nu se comprima, ceea ce imbunatateste echilibrul si transferul de putere.
 
@@ -727,7 +727,7 @@ Am Inzer - 10mm si prong single (mai usor de pus decat 13mm/double prong). Are 4
 
 Nu purtati centura stransa sau va raniti coastele. Curelele nu sunt corsete. Purtati-o peste buric, mai sus decat pe [Genoflexiuni cu haltera](/exercitii/picioare/genuflexiuni-cu-haltera) , astfel incat sa nu iti apese in solduri cand incepeti Indreptarile. Daca sunteti scurt cu un trunchi mic, o centura lata de 3 "sau 2,5" s-ar putea potrivi mai bine pentru Deadlifts.
 
-## Chingi(curele pentru priza)<a name="chingi(curele-pentru-priza)"></a>
+## Chingi(curele pentru priza)<a id="chingi(curele-pentru-priza)"></a>
 
 Chingile fac bara sa fie mai usor de tinut infasurandu-le la incheieturi. Ele pot ajuta sa faceti Indreptari cu greutati mai mari in cazul in care priderea este factorul limitativ. Insa fac acest lucru prin a lua presiunea de pe maini si de pe muschii antebratului. Puteti slabi priza daca va bazati excesiv pe chingi.
 
@@ -747,7 +747,7 @@ Nu mai fac Deadlift cu curele si am tras 200kg fara. Priza meu este suficient de
 
 Daca doriti oricum sa Deadlift cu chingi, asigurati-va ca le folositi doar pe setul cel mai greu. Trageti cele mai multe seturi fara ca astfel antebratele sa fie antrenate. In acest fel nu o sa ramanteti cu o priza slaba.
 
-## Manusi<a name="manusi"></a>
+## Manusi<a id="manusi"></a>
 
 Manusile adauga un strat intre palmele si bara. Ideea este sa va protejati mainile impotriva presiunii greutatii. Insa manusile nu sunt eficiente in ciuda a ceea ce sustin vanzatorii.
 
@@ -763,9 +763,9 @@ Manusile au sens numai daca este frig in sala de sport, pana cand haltera s-a in
 
 Daca insisti sa faci Indreptari(Deadlifting ) cu manusi, fii avertizat ca vei fi judecat de catre cei ce merg la sala de mult timp. Succesul in sala necesita depasirea disconfortului. Manusile trimit un semnal ca nu puteti face fata presiunii barei de pe maini. Te vor considera un incepator pana cand incepie sa ridici cu mainile goale.
 
-## Indreptari Greseli<a name="indreptari-greseli"></a>
+## Indreptari Greseli<a id="indreptari-greseli"></a>
 
-## Indreptarile(Deadlifting ) de sus in jos<a name="indreptarile(deadlifting)-de-sus-in-jos"></a>
+## Indreptarile(Deadlifting ) de sus in jos<a id="indreptarile(deadlifting)-de-sus-in-jos"></a>
 
 ![Indreptariing top down vs. from the floor](./assets/deadlift-top-down.jpg)
 _Nu faceti Indreptari de sus in jos. Trageti greutatea de pe podea._
@@ -778,7 +778,7 @@ Exista o varianta Deadlift in care trageti de sus in jos – Indreptari romanest
 
 Trageti intotdeauna greutatea de la podea in sus.
 
-## Folosind reculul placilor de pe podea<a name="folosind-reculul-placilor-de-pe-podea"></a>
+## Folosind reculul placilor de pe podea<a id="folosind-reculul-placilor-de-pe-podea"></a>
 
 Apararea inseamna caderea rapida a barei si utilizarea reculului placilor pe podea pentru a trage greutatea inapoi. Este tentant sa faci Indreptari in acest fel, deoarece obtineti mai multe repetari. Dar este o forma proasta.
 
@@ -792,7 +792,7 @@ Mai rau, sariturile se intampla atat de repede incat puteti neglija sa va folosi
 
 Calea potrivita pentru Deadlift este de la un punct mort greutatea pe podea nemiscaa. Asteptati o secunda pe podea intre repetari. Folositi aceasta pauza pentru a va incorda si pentru a inspira puternic inainte de a trage urmatoarea ta repetitie. Veti avea o forma mai buna, aveti mai putine sanse sa va raniti si veti construi rezistenta reala de pe podea.
 
-## Sa nu atingi podeaua<a name="sa-nu-atingi-podeaua"></a>
+## Sa nu atingi podeaua<a id="sa-nu-atingi-podeaua"></a>
 
 Deadlifts nu sunt Yates Row . Nu retineti greutatea in aer intre repetitii. O pui pe podea.  
 Pastrarea greutatii in aer in timpul intregului set este rau pentru spatele inferior.Il obosesti. Cand va obosi, primul lucru pe care va dori sa il faca este sa se rotunjeasca. Rotunjirea spatelui inferior in timpul Indreptarilor cu greutati mariiti contractata discurile coloanei vertebrale. Asa poti face hernie de disc. Nu face aceasta prostie!
@@ -803,7 +803,7 @@ Unii oameni mentin greutatea in aer pentru a „mentine tensiunea asupra muschil
 
 Unii oameni fac asta pentru ca sala de sport ii obliga sa faca acest lucru. Tipareste acest ghid pentru managerul tau de sala. Spune-i sa obtina covorase de cauciuc sau sa construiasca o platforma pentru a proteja podeaua. Si aminteste-i ca este o sala de gimnastica, nu o biblioteca. Greutatile fac zgomot – de asta sunt greutati!.
 
-## Facand Genuflexiuni in loc de Indreptari<a name="facand-genuflexiuni-in-loc-de-indreptari"></a>
+## Facand Genuflexiuni in loc de Indreptari<a id="facand-genuflexiuni-in-loc-de-indreptari"></a>
 
 ![Indreptari aren't [Genoflexiuni cu haltera](/exercitii/picioare/genuflexiuni-cu-haltera)](./assets/deadlift-shoulders.jpg)
 _Pozitia corecta a setarii Deadlift arata ca o jumatate de genuflexiune, nu ca o Genuflexiune normala._
@@ -818,7 +818,7 @@ Unii oameni va vor spune sa va lasati mai mult soldurile. Poate ca nu le place s
 
 Nu incepeti ca pe [Genoflexiuni cu haltera](/exercitii/picioare/genuflexiuni-cu-haltera) si veti inceta sa va zgariati tibiile si genunchii.
 
-## Inclinarea pe spate in pozitia de sus<a name="inclinarea-pe-spate-in-pozitia-de-sus"></a>
+## Inclinarea pe spate in pozitia de sus<a id="inclinarea-pe-spate-in-pozitia-de-sus"></a>
 
 ![Indreptari Lean Back](./assets/deadlift-lockout.jpg)
 _Nu este nevoie sa te lasi inapoi sau sa ridici din umeri in partea de sus. Stai drept, si ai terminat._
@@ -831,13 +831,13 @@ Insa aplecarea iti contractata discurile coloanei vertebrale. Face acest lucru, 
 
 Nu te lasa inapoi. Doar stai cu greutatea. Ai terminat cand soldurile si genunchii sunt blocare(drepte). Umerii tai vor fi deasupra soldurilor, cu un arc natural in partea inferioara a spatelui.
 
-## Ridicarea umerilor in pozitia de sus<a name="ridicarea-umerilor-in-pozitia-de-sus"></a>
+## Ridicarea umerilor in pozitia de sus<a id="ridicarea-umerilor-in-pozitia-de-sus"></a>
 
 Ridicarea umerilor in varful Indreptarilor nu este necesara. Trapezul tau functioneaza deja pentru a mentine umerii in loc atunci cand faci Indreptarile. Ei raman stransi in timp ce gravitatia trage bara in jos. Aceasta contractie izometrica impotriva greutatilor mari este o munca suficienta pentru a stimula cresterea. Nu e nevoie sa ridici din umeri.
 Rularea umerilor nu este necesara din acelasi motiv. De asemenea, este periculos, deoarece va poate rani coafa rotativa. Nu o face. Lasa-ti umerii sa atarne in pozitia de sus a Indreptarilor.
 Mai multa forta inseamna mai multi muschi . Urmareste ca sa ajungi la patru discuri la Indreptari(Deadlift) de 180kg si vei primi trapezul pe care ti-l doresti fara sa ti dai umerii pe spate. Puteti face acest lucru cu StrongLifts 5 × 5 .
 
-## Forma necontrolata(smulgi bara de pe podea)<a name="forma-necontrolata(smulgi-bara-de-pe-podea)"></a>
+## Forma necontrolata(smulgi bara de pe podea)<a id="forma-necontrolata(smulgi-bara-de-pe-podea)"></a>
 
 <div class="videoWrapper"><iframe width="1100" height="825" src="https://www.youtube.com/embed/J9TVFxPUZ6E?feature=oembed" frameborder="0" allowfullscreen=""></iframe></div>
 </div>
@@ -854,7 +854,7 @@ Calea potrivita pentru Deadlift este cu bratele drepte. Prindeti bara cu coatele
 
 Acum trage INCET. Ridicati bara pana cand simtiti ca bara atinge partea superioara a gaurilor din discuri. Stai strans in timp ce respiri. Acum trage bara de pe podea impingand din picioare. Odata ce greutatea este trecuta de genunchi, puteti accelera. Dar partea de jos ar trebui sa fie lenta.
 
-## Lasarea greutatii din pozitia de sus<a name="lasarea-greutatii-din-pozitia-de-sus"></a>
+## Lasarea greutatii din pozitia de sus<a id="lasarea-greutatii-din-pozitia-de-sus"></a>
 
 Multi tipi, in special cei din crossfitt se pare ca ar vrea sa lase greutatea din varful Indreptarilor. Se pare ca exista trei motive pentru care fac acest lucru:
 
@@ -874,7 +874,7 @@ In al treilea rand, coborarea greutatii conteaza si pentru a castiga forta si mu
 
 Coborati greutate sub control. Nu le arunca.
 
-## Folosind oglinzi<a name="folosind-oglinzi"></a>
+## Folosind oglinzi<a id="folosind-oglinzi"></a>
 
 Oglinzile nu sunt o modalitate eficienta de a verifica pozitia ta. Puteti sa va vedeti pozitia si priza doar atunci cand sunteti foarte aproape de o oglinda. Nu puteti vedea daca spatele inferior este neutru, daca soldurile sunt in pozitie corecta, daca bara se misca intr-o linie verticala, etc.
 
@@ -882,9 +882,9 @@ Nu stai nici pe o parete si sa te uiti in oglinda. Singura modalitate de a vedea
 
 Cel mai bun mod de a va verifica pozitia ta este sa te filmezi. Obtineti un trepied, astfel incat sa puteti atasa telefonul oriunde. Filmati din lateral si din fata pentru a vedea fiecare unghi. Urmariti videoclipurile intre seturile voastre, imbunatatiti-le si corectati-le la urmatorul set. Continuati sa va antrenati si forma se va imbunatati.
 
-## Probleme cu Indreptarile<a name="probleme-cu-indreptarile"></a>
+## Probleme cu Indreptarile<a id="probleme-cu-indreptarile"></a>
 
-## Dureri ale spatelui inferior<a name="dureri-ale-spatelui-inferior"></a>
+## Dureri ale spatelui inferior<a id="dureri-ale-spatelui-inferior"></a>
 
 ![Indreptari with a neutral spine to avoid lower back pain](./assets/deadlift-lower-back.jpg)
 _Faceti Indreptari cu o coloana vertebrala neutra pentru a evita durerile inferioare de spate_
@@ -919,7 +919,7 @@ Evitati intinderea in care va aplecati si atingeti degetele de la picioare. Se p
 
 De asemenea, nu purtati o centura pentru a compensa forma slabaa Indreptarilor. Purtati-o pentru sprijin suplimentar in partea inferioara a spatelui. Va ajuta sa va blocati abdomenul pentru a se contracta. Dar nu purta unul si apoi faci Indreptari cu spatele indoit.
 
-## Rotunjirea spatelui inferior<a name="rotunjirea-spatelui-inferior"></a>
+## Rotunjirea spatelui inferior<a id="rotunjirea-spatelui-inferior"></a>
 
 ![Rotunjirea spatelui](./assets/deadlift-back-rounding.jpg)
 
@@ -937,7 +937,7 @@ Nu incepeti cu spatele indoit si incercati sa il obtineti neutru in timpul ridic
 
 Intinzandu-va hamstrings rareori rezolva rotunjirea spatelui inferior pe Indreptari(Deadlifts). Problema nu este ca hamstrings-ul tau este incordat. Problema este ca partea inferioara a spatelui nu este suficient de incordat. E slabit. Tine l strans inainte de tragere. Daca nu puteti obtine acel arc natural, ridicati soldurile la tavan in timpul pozitiei de start.
 
-## Va arcuiti prea mult<a name="va-arcuiti-prea-mult"></a>
+## Va arcuiti prea mult<a id="va-arcuiti-prea-mult"></a>
 
 Partea inferioara a spatelui ar trebui sa aiba un arc natural atunci cand faci Indreptarile. Aceeasi curba ca si cand stai. Nu ar trebui sa aiba un arc in exces sau o hiper-lordoza . Acest lucru este inutil si rau pentru spatele tau.
 
@@ -948,7 +948,7 @@ M-a durut mult spatele cand am inceput Indreptarile, deoarece oamenii continuau 
 - **Arcul natural**. Pozitia de inceput cu un arc natural in partea inferioara a spatelui. Ar trebui sa aiba aceeasi curba ca atunci cand stai. Nu va arcuiti spatele mai mult decat atat. Ar trebui sa se simta confortabil si sa nu-ti stranga discurile. De asemenea, nu finalizati Indreptarile aplecandu-va inapoi. Stai inalt.
 - **Incordati-va abdomenul**. Daca nu puteti sa tineti spatele inferior in pozitie naturala, incordati-va mai tare abdomenul-ul. Contracteaza-ti abdominalii ca si cum cineva ar fi pe cale sa te loveasca in stomac. Luati in considerare sa purtati o centura pentru a va bloca abdomenul-ul pentru a va contracta atunci cand faceti Indreptari.
 
-## Soldurile se ridica prea repede<a name="soldurile-se-ridica-prea-repede"></a>
+## Soldurile se ridica prea repede<a id="soldurile-se-ridica-prea-repede"></a>
 
 ![Spatele rotunjit](./assets/deadlift-back-rounding.jpg)
 
@@ -962,7 +962,7 @@ In imaginea de sus puteti vedea soldurile ei pornind in pozitia corecta. Dar se 
 
 Nu lasati soldurile sa se miste inainte ca bara sa paraseasca podeaua. Soldurile si pieptul trebuie sa se ridice in acelasi timp. Pastreaza-ti soldurile unde le-ai asezat in timpul repetarilor. Impingeti picioarele prin podea cat de tare puteti. Doar cand bara paraseste podeaua iti poate ridica soldurile cu pieptul.
 
-## Lovedu-ti genunchii<a name="lovedu-ti-genunchii"></a>
+## Lovedu-ti genunchii<a id="lovedu-ti-genunchii"></a>
 
 ![Stop hitting knees on Indreptaris](./assets/deadlift-lower-bar.jpg)
 _Coborati bara mutand soldurile inapoi. Nu doar indoaie genunchii._
@@ -977,7 +977,7 @@ Odata ce bara ajunge la genunchi, atunci puteti indoi picioarele mai mult pentru
 
 Nu dati drumul greutatilor de sus pentru a nu va lovi de genunchi. Invata doar sa o faci corect.
 
-## Tibiile invinetite<a name="tibiile-invinetite"></a>
+## Tibiile invinetite<a id="tibiile-invinetite"></a>
 
 ![How to stop scraping shins on Indreptaris](./assets/deadlift-shins.jpg)
 Deadlift-urile iti zgarie tibia si le fac sa sangereze cand tragi cu o forma proasta. Daca incepeti cu soldurile prea jos sau cu bara prea aproape de tibie, le veti lovi si le veti rani pe drum. Este si mai usor sa obtii tibii sangeroase daca ai Deadlift in pantaloni scurti sau folosind o bara proasta.
@@ -1005,7 +1005,7 @@ Aparatoarele sunt excesive. Ei sunt pentru Crossfitters care fac repetitii multe
 
 Folositi o forma adecvata pentru a va proteja tibiile.
 
-## Callusurile rupte<a name="callusurile-rupte"></a>
+## Callusurile rupte<a id="callusurile-rupte"></a>
 
 ![Proper Indreptari grip: gripping the bar mid-palm vs. close to fingers.](./assets/deadlift-grip.jpg)
 _Apucarea barei la mijlocul palmei (stanga) va provoca desprinderea de calusuri. Strangeti bara jos, aproape de degete._
@@ -1024,9 +1024,9 @@ Callusurile desprinse nu sunt ok. Pur si simplu iti iau timp din Indreptari. Est
 
 Protejati-va calusul cu banda atletica atunci cand reluati Indreptarile. Trageti mai usor pentru o perioada pentru a evita ruperea calusului. Atata timp cat pastrezi Deadlifting, nu ar trebui sa pierzi prea multa forta. Dar folositi acest lucru ca o lectie pentru a evita rupturi ale calusului in viitor: prinderea corespunzatoare, creta si ingrijirea calusului.
 
-## Variatii ale Indreptarilor(Deadlifts)<a name="variatii-ale-indreptarilor(deadlifts)"></a>
+## Variatii ale Indreptarilor(Deadlifts)<a id="variatii-ale-indreptarilor(deadlifts)"></a>
 
-## Sumo Deadlift(Indreptari sumo)<a name="sumo-deadlift(indreptari-sumo)"></a>
+## Sumo Deadlift(Indreptari sumo)<a id="sumo-deadlift(indreptari-sumo)"></a>
 
 Sumo Deadlift este un Deadlift folosind o pozitie larga aka sumo. Tehnica este similara unei Indreptari(Deadlift) conventional - bara peste mijlocul piciorului, omoplatii peste bara si spate neutru. Dar pozitia sumo iti pune trunchiul mai vertical si soldurile mai jos decat Deadlift-ul conventional .
 
@@ -1040,7 +1040,7 @@ Exista Deadlifters foarte puternici care trag sumo. Te pot influenta sa tragi si
 
 Exista o minoritate de oameni care nu pot face Indreptari cu o forma adecvata datorita construirii lor. Au coapsele lungi, cu bratele foarte scurte. Acest lucru face imposibila trecerea omoplatelor peste bara in stil conventional. Sumo-ul este singura cale pentru ei. Este putin probabil sa aveti aceasta problema.
 
-## Indreptari la Trap bar<a name="indreptari-la-trap-bar"></a>
+## Indreptari la Trap bar<a id="indreptari-la-trap-bar"></a>
 
 Trap bar sau bara hexagonala este o bara in forma hexagonala realizata pentru umeri. Va permite sa faceti ridicari din umeri cu o greutate mare. Dar nu exista nicio frictiune a barei impotriva picioarelor din cauza formei hexagonale a barei hexagonale. Unii oameni prefera Indreptarile cu un bare hexagonala decat cu o bara obisnuita.
 
@@ -1052,21 +1052,21 @@ Dar acesta este si motivul pentru care bara hexagonala este mai putin eficienta 
 
 Bara hexagonala este de obicei o solutie de ajutor pentru persoanele care nu au rabdare sa invete o forma corespunzatoare pentru Indreptari(Deadlift). Dar este mai putin eficienta decat Indreptarile cu o bara si, prin urmare, nu este un inlocuitor.
 
-## Indreptari cu picioare rigide<a name="indreptari-cu-picioare-rigide"></a>
+## Indreptari cu picioare rigide<a id="indreptari-cu-picioare-rigide"></a>
 
 Stilul cu picioarele rigide este un Deadlift realizat cu picioare drepte. Greutatea incepe, de asemenea, si revine la podea pe fiecare repetare. Dar coapsele tale nu pot impinge greutatea de pe podea, indreptandu-ti picioarele - sunt deja drepte. Asa ca hamstringsul si fexle tale trebuie sa faca toata munca.
 
 Deadlift-urile cu rigiditate sunt o asistenta excelenta pentru Deadlifters avansati . Dar nu le inlocuiesc. Puteti merge ridica mai mult cu Deadlifts, deoarece folosesc mai multi muschi – coapsele pot ajuta la ridicarea greutatii. Deadlift-urile sunt deci mai eficiente pentru a castiga forta si muschi.
 
-## Indreptari romanesti(romanian dedlifts)<a name="indreptari-romanesti(romanian-dedlifts)"></a>
+## Indreptari romanesti(romanian dedlifts)<a id="indreptari-romanesti(romanian-dedlifts)"></a>
 
 Indreptari romanesti este un tip de Indreptari realizat de sus in jos cu picioarele drepte. Iei bara din raft la inaltimea coapsei . Apoi cobori la genunchi cu picioarele drepte si repede repede in sus. Acest lucru iti functioneaza hamstrings-ul si fesele mai mult in timp ce iti scoti genunchii din miscare.
 
 Indreptari romanesti (Romanian Deadlifts) sunt, de asemenea, un excelent exercitiu de asistenta pentru Indreptari. Dar, de asemenea, nu le inlocuiesc, deoarece scoaterea coapselor limiteaza cat de multa greutate puteti adauga. Sunt o intindere minunata pentru hamstrings-ul tau, daca iti mentii picioarele drepte.
 
-## Intrebari populare legate de Indreptari<a name="intrebari-populare-legate-de-indreptari"></a>
+## Intrebari populare legate de Indreptari<a id="intrebari-populare-legate-de-indreptari"></a>
 
-## Mi-e teama de Indreptari. Ce ar trebuii sa fac?<a name="mi-e-teama-de-indreptari.-Ce-ar-trebuii-sa-fac?"></a>
+## Mi-e teama de Indreptari. Ce ar trebuii sa fac?<a id="mi-e-teama-de-indreptari.-Ce-ar-trebuii-sa-fac?"></a>
 
 Ar trebui sa faci Indreptari. Cu cat mai repede cu atat mai bine. Pentru ca este normal sa fii intimidat de Deadlifts sau teama de accidentare. Greutatea este intimidanta si exista un risc real de acidentare. Dar nu vei rezolva asta evitandu-le. Singura modalitate de a depasi teama de Indreptari este de fapt sa faci Indrepari.
 
@@ -1082,7 +1082,7 @@ Ceea ce nu functioneaza este sa inlocuim Deadlifts cu masini sau alte exercitii 
 
 Daca puteti gasi un antrenor care sa va arate cum sa faceti Indreptari, este minunat. Daca nu, filmati-va pentru a vedea ce faceti. Comparati cu sfaturile din acest ghid. Nu folositi oglinzi, nu ofera o vedere completa. Filmati-va din lateral, priviti-l intre seturi, imbunatatiti setul urmator. Aveti rabdare si continuati sa exersati.
 
-## Pot sa fac Indreptari in Aparat Smith ?<a name="pot-sa-fac-indreptari-in-aparat-Smith ?"></a>
+## Pot sa fac Indreptari in Aparat Smith ?<a id="pot-sa-fac-indreptari-in-aparat-Smith ?"></a>
 
 Nu. Utilizarea unei bare atasate la sine nu face acest exercitiu mai sigur. Aceasta nu este o [Genoflexiuni cu haltera](/exercitii/picioare/genuflexiuni-cu-haltera) sau [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press) in care va puteti bloca sub greutate. Daca nu reusiti sa Indreptati greutatea, trebuie doar sa o returnati pe podea. Daca se pare ca este prea greu de ridicat, atunci greutatea nu paraseste niciodata podeaua in primul rand. Este sigur.
 
@@ -1098,7 +1098,7 @@ Nu. Asa cum s-a explicat mai sus, daca nu reusiti la mijlocul repetarii, intoarc
 
 Este in regula Deadlift in Power Rack daca exista spatiu limitat in sala de sport. In caz contrar, lasati-o pentru cei ce fac genuflexiuni. Nu am facut niciodata Indreptari in Power Rack.
 
-## Cum pot preveni calusurile de la Deadlifts?<a name="cum-pot-preveni-calusurile-de-la-Deadlifts?"></a>
+## Cum pot preveni calusurile de la Deadlifts?<a id="cum-pot-preveni-calusurile-de-la-Deadlifts?"></a>
 
 Nu poti. Mainile tale construiesc caluse pentru a te proteja de presiunea halterei. Acesta este un produs secundar de ridicare, asa cum este muschiul construit . Daca pielea ta nu s-ar intari, mainile tale s-ar durea. Vrei sa se formeze calusuri, astfel incat sa poti face Indreptari cu greutati mari, fara a avea dureri de mana sau a avea nevoie de manusi.
 
@@ -1106,7 +1106,7 @@ Ce poti si trebuie sa faci este sa impiedici formarea de calusuri mari. Haltera 
 
 Pentru a preveni formarea de calusuri mari, apucati bara corect. Nici palma mijlocie, nici pielea ta nu se va plia sub bara. Tine-l jos in palma, aproape de degete. Apoi, folositi creta pe seturile grele pentru a umple mai mult pliurile pielii si pentru a crea o suprafata neteda pentru bara. Acest lucru limiteaza plierea pielii.
 
-## De ce ma dor bratele dupa Indreptari?<a name="de-ce-ma-dor-bratele-dupa-Indreptari?"></a>
+## De ce ma dor bratele dupa Indreptari?<a id="de-ce-ma-dor-bratele-dupa-Indreptari?"></a>
 
 Inca nu aveti calusuri. Nu folositi manusi, continuati asa pentru cateva antrenamente. Durerea va disparea odata ce calusurile se vor forma pe mainile tale. Asigurati-va ca strangeti corect bara pentru a evita plierea excesiva a pielii, ceea ce poate provoca dureri inutile la maini. Tine bara joasa, aproape de degete.
 
@@ -1117,7 +1117,7 @@ Retineti ca va pierdeti calusurile atunci cand incetati ridicarea. Le pierzi ca 
 Calusurile dureroase de pe degete sunt mai greu de remediat. Am unul pe mijlocul degetului drept. Bara pare sa prinda calusul, oricat de tare il prind si in ciuda folosirii cretei. Singurul lucru care functioneaza este sa infasor banda atletica in jurul mijlocului degetului pentru a acoperi calusul. Incearca si tu asta
 !
 
-## Cum pot elimina calusurile de pe mainile mele?<a name="cum-pot-elimina-calusurile-de-pe-mainile mele?"></a>
+## Cum pot elimina calusurile de pe mainile mele?<a id="cum-pot-elimina-calusurile-de-pe-mainile mele?"></a>
 
 Nu doriti sa va eliminati calusele. Ai nevoie de ele pentru a-ti proteja mainile atunci cand faci Indreptari(Deadlifts). Daca va indepartati calusurile, mainile va vor rani. Nu veti putea tine bara si Deadlift grele. Acest lucru va limiteaza forta si castigurile musculare . Nu incercati sa eliminati calusele!
 
@@ -1167,7 +1167,7 @@ Retineti ca stresul de degetele mari este mai mare atunci cand utilizati prinder
 
 COntinuati cu priza mixta. Mai ales daca aveti palmele mici sau degetele scurte. Daca va simtiti inconfortabil pe umeri, incercati sa-ti schimbati priza, cu fata spre cealalta mana.
 
-## Cum fac Deadlift cu placi hexagonale?<a name="cum-fac-deadlift-cu-placi-hexagonale?"></a>
+## Cum fac Deadlift cu placi hexagonale?<a id="cum-fac-deadlift-cu-placi-hexagonale?"></a>
 
 Rau. Bara va ateriza pe colturile placilor tale hex. Se va muta din aliniere. Acest lucru te obliga sa tragi bara dintr-o pozitie proasta - prea departe care provoaca dureri de spate sau prea aproape, care iti zguduie tibia. Singura solutie este resetarea intre repetitii. Dar acest lucru ingreuneaza setul.
 
@@ -1182,7 +1182,7 @@ Doua farfurii rotunde sunt adesea suficiente. Placile hexagonale sunt de obicei 
 
 Daca nu, atunci resetati intre repetari. Coborati bara pana la podea, eliberati-va priza si ridicati-va in picioare. Apoi mutati-va din nou pe picior de mijloc sub bara. Cu toate acestea, veti pierde reflexul de intindere. Setul tau de cinci repetari se va transforma in cinci single-uri mai dure din cauza odihnei mai lungi. Dar este asta sau trecerea la o sala de sport adevarata.
 
-## Ar trebui sa-mi fie durere spatele dupa Deadlifts?<a name="ar-trebui-sa-mi-fie-durere-spatele-dupa-Deadlifts?"></a>
+## Ar trebui sa-mi fie durere spatele dupa Deadlifts?<a id="ar-trebui-sa-mi-fie-durere-spatele-dupa-Deadlifts?"></a>
 
 Sanatatea nu conteaza. Nu inseamna ca cresti mai multa forta si muschi. Ceea ce conteaza este greutatea. Daca cresti cat ai Deadlift cu o coloana vertebrala neutra, atunci spatele tau a devenit mai puternic - indiferent daca te-ai napustit sau nu. Altfel nu ai putea ridica greutatea cu o coloana vertebrala neutra.
 
@@ -1194,7 +1194,7 @@ Dar, in afara de asta, partea inferioara a spatelui nu primeste atata durere de 
 
 Daca spatele te doare dupa scurgeri, probabil ca faci ceva gresit. Verificati pozitia ta. Asigurati-va ca spatele inferior nu se rotunjeste si asigurati-va ca ridicati greutatea cu picioarele nu cu spatele. Doar ridica-te cu greutatea pana cand soldurile si genunchii sunt blocate. Nu este nevoie sa trageti inapoi.
 
-## Ce se intampla daca imi doare spatele Deadlifting?<a name="ce-se-intampla-daca-imi-doare-spatele-Deadlifting?"></a>
+## Ce se intampla daca imi doare spatele Deadlifting?<a id="ce-se-intampla-daca-imi-doare-spatele-Deadlifting?"></a>
 
 Cel mai bun lucru este sa te misti. Reveniti la sala imediat ce puteti, dar ridicati greutati usoare. Cel putin de mers pe jos. Nu face altceva decat sa stai toata ziua, iti va dura spatele mai mult pentru a te recupera.
 
@@ -1212,7 +1212,7 @@ Durerea in partea superioara a spatelui este mai putin frecventa, dar se poate i
 
 Teama de rejudecare este frecventa. Cel mai bun mod de a depasi este sa pornesti usor, sa folosesti o forma adecvata si sa iti creezi incet drumul. Fiecare repetari complet complet fara durere iti va crea increderea.
 
-## Care este o intindere buna a spatelui jos?<a name="care-este-o-intindere-buna-a-spatelui-jos?"></a>
+## Care este o intindere buna a spatelui jos?<a id="care-este-o-intindere-buna-a-spatelui-jos?"></a>
 
 Decompresiile coloanei vertebrale. Agatati timp de bara de tractiune si lasati gravitatia sa va intinda coloana vertebrala. Aceasta este ca terapia de masa inversata, cu exceptia faptului ca o puteti face in Power Rack fara alte echipamente.
 
@@ -1222,7 +1222,7 @@ Tehnica este simpla. Strangeti bara de extragere cu ambele palme orientate spre 
 
 Atarnati pe bara de tractiune cat puteti. De obicei fac seturi de pana la un minut intre seturi, de mai multe ori in timpul antrenamentului meu. Nu folosesc bretele, deoarece prinderea mea este suficient de puternica pentru a tine bara. Insa nu ezitati sa folositi curele daca priza dvs. se da prea repede.
 
-## Ar trebui sa-mi ghemuiesc Deadlift-urile?<a name="ar-trebui-sa-mi-ghemuiesc-Deadlift-urile?"></a>
+## Ar trebui sa-mi ghemuiesc Deadlift-urile?<a id="ar-trebui-sa-mi-ghemuiesc-Deadlift-urile?"></a>
 
 Nu. Termenele nu sunt [Genoflexiuni cu haltera](/exercitii/picioare/genuflexiuni-cu-haltera). Sunt Deadlifts. Daca incerci sa golesti greutatea, vei incepe cu soldurile prea mici. Se vor termina mai departe de bara, ceea ce face ca greutatea sa fie mai greu de tras. Tibiile tale vor deveni si mai multe, astfel incat le vei lovi pe drum. Nu merge.
 
@@ -1252,7 +1252,7 @@ Exista multe lucruri care fac sportivii de elita cu care elevii obisnuiti nu pot
 
 Mentineti-l simplu si Deadlift fara sa va lasati mai intai soldurile.
 
-## Daca inapoi rotunjite Deadlift-urile sunt rele, de ce o fac unii powerlifters?<a name="daca inapoi rotunjite deadlift-urile sunt rele, de ce o fac unii powerlifters?"></a>
+## Daca inapoi rotunjite Deadlift-urile sunt rele, de ce o fac unii powerlifters?<a id="daca inapoi rotunjite deadlift-urile sunt rele, de ce o fac unii powerlifters?"></a>
 
 Powerlifters competitivi Deadlift pentru a castiga. Ei folosesc tehnica care ii ajuta la Deadlift la cea mai mare greutate posibila. Este posibil ca aceasta tehnica sa nu fie sanatoasa pentru partea inferioara a spatelui. Dar sportivii prioritizeaza adesea castigarea asupra sanatatii pe termen lung. Abuzul de droguri ilustreaza acest lucru cel mai bine.
 
@@ -1281,7 +1281,7 @@ Este un lucru sa rotunjiti usor atunci cand incercati un PR o data pe an. Este u
 
 Dar este coloana vertebrala, astfel incat sa puteti Deadlift oricat doriti. Mi-am facut targul de Deadlifts cu spatele rotunjit incercand sa imi atinga obiectivele cu orice pret. Durerea de spate m-a invatat sa ma opresc si sa trag neutru.
 
-## Cum imi pot creste Deadlift-ul?<a name="cum-imi-pot-creste-deadlift-ul?"></a>
+## Cum imi pot creste Deadlift-ul?<a id="cum-imi-pot-creste-deadlift-ul?"></a>
 
 Deadlift mai mult. Acesta este cel mai bun mod de a ajunge la patru farfurii (180 kg/400lb). Acest lucru functioneaza pentru ca cu cat Deadlift este mai mare, cu atat puteti exersa o forma adecvata. Acest lucru rafineaza si iti perfectioneaza tehnica in timp. Eficienta de ridicare se imbunatateste, ceea ce creste cat de mult poti Deadlift.
 
@@ -1299,7 +1299,7 @@ Cresterea Deadlift de la 0 la 100-120 kg/220-265lb este usor. Trebuie doar sa De
 
 Cel mai important, ciocneste-te pe tehnica ta. Fiecare campion mortal se ridica cu o tehnica solida, deoarece creste eficienta. Este nevoie de munca, dar este crucial sa va mariti Deadlift-ul.
 
-## Cum imi pot imbunatati forma?<a name="cum-imi-pot-imbunatati-forma?"></a>
+## Cum imi pot imbunatati forma?<a id="cum-imi-pot-imbunatati-forma?"></a>
 
 Cel mai bun mod este sa obtineti feedback de la un antrenor care stie cum sa Deadlift cu o forma adecvata. Cineva care poate Deadlift de cel putin 400lb. Cineva care nu s-a nascut puternic, dar a trebuit sa munceasca din greu pentru a-si creste Deadlifts. Cineva, prin urmare, intelege ce trebuie. Cineva care nu consuma droguri.  
 Poate nu gasesti un antrenor unde locuiesti. Nu puteam in Belgia. Asa ca am rezolvat asta prin inregistrarea video a lifturilor pentru a primi feedback. Tapeaza-te din lateral pentru a putea vedea ce faci. Examinati videoclipurile dintre seturi si post-antrenament. Apoi incearca sa imbunatatesti data viitoare cand ai Deadlift.
@@ -1313,7 +1313,7 @@ Iata care sunt principalele lucruri de cautat. Ia - astea dreapta , si tu esti d
   Dar vei continua sa parcurgi aceste patru etape, oricat de avansate ai fi. Intotdeauna vor exista aspecte ale formei pe care le puteti imbunatati. Toti marii Deadlifters continua sa-si perfectioneze tehnica in ciuda anilor lor de experienta. Fac si eu. Este unul dintre lucrurile de care ma bucur cel mai mult despre ridicare.  
   Tehnica dvs. va fi mai consecventa daca ceea ce faceti inainte de dvs. Deadlift greutatea este consecventa. Asa ca incepeti-va in acelasi mod de fiecare data . Mergeti la bar in acelasi fel, puneti acelasi picior sub el in primul rand, apucati-l mai intai cu aceeasi mana etc.
 
-## Cat ar trebui sa pot sa Deadlift?<a name="cat-ar-trebui-sa-pot-sa-Deadlift?"></a>
+## Cat ar trebui sa pot sa Deadlift?<a id="cat-ar-trebui-sa-pot-sa-Deadlift?"></a>
 
 Tipul obisnuit care cantareste 75 kg/165lb ar trebui sa poata Deadlift 60 kg/135lb fara antrenament. Cu o pregatire adecvata, ar trebui sa poti sa Deadlift acest ...
 • 140 kg/300lb dupa 3-9 luni (incepator)
@@ -1321,14 +1321,14 @@ Tipul obisnuit care cantareste 75 kg/165lb ar trebui sa poata Deadlift 60 kg/135
 • 225kg/500lb dupa +2 ani de pregatire (avansat)
 Daca nu puteti Deadlift asta, ceva nu este in regula cu programul dvs. de antrenament, tehnica Deadlift, nutritia sau consecventa.
 
-## Deadlift este bun pentru tine?<a name="deadlift-este-bun-pentru-tine?"></a>
+## Deadlift este bun pentru tine?<a id="deadlift-este-bun-pentru-tine?"></a>
 
 Termenele limita sunt bune pentru dvs. daca utilizati o forma corecta. Iti vor intari spatele, picioarele si bratele. Iti vor creste masa musculara si nivelul de testosteron. Cu toate acestea, daca ai Deadlift cu o forma proasta, te poti rani. Incepeti lumina, concentrati-va pe o forma adecvata, iar Deadlifts va fi bine pentru dvs.
 
-## De cate ori pe saptamana trebuie sa fac Deadlifts?<a name="de-cate-ori-pe-saptamana-trebuie-sa-fac-Deadlifts?"></a>
+## De cate ori pe saptamana trebuie sa fac Deadlifts?<a id="de-cate-ori-pe-saptamana-trebuie-sa-fac-Deadlifts?"></a>
 
 Cel putin o data pe saptamana pentru forta de baza si castigurile musculare. Daca sunteti nou la Deadlifts, puteti Deadlift de doua ori pe saptamana pentru o perioada. Pozitia ta dvs. se va imbunatati mai rapid, deoarece veti obtine mai multe practici Deadlift.
 
-## Cate repetari ale Deadlifts ar trebui sa fac?<a name="cate-repetari-ale-deadlifts-ar-trebui-sa-fac?"></a>
+## Cate repetari ale Deadlifts ar trebui sa fac?<a id="cate-repetari-ale-deadlifts-ar-trebui-sa-fac?"></a>
 
 Cinci repetari este cel mai bun pentru majoritatea oamenilor. Daca faceti repetari mai mari, veti avea mai greu timp pentru a mentine o forma buna pe masura ce oboseala devine. Daca faceti repetari mai mici, puteti merge mai greu, dar acest lucru creste riscul de ranire. Lipiti seturi de cinci repetari, astfel incat sa puteti utiliza o forma adecvata si sa nu va raniti.

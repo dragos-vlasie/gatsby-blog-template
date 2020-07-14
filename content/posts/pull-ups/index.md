@@ -8,7 +8,7 @@ subCategory: ['spate']
 published: true
 ---
 
-## Cum sa faceti tractiuni (pull-ups) cu o forma corecta: Ghidul definitiv<a name=" Cum sa faceti tractiuni (pull-ups) cu o forma corecta: Ghidul definitiv"></a>
+## Cum sa faceti tractiuni (pull-ups) cu o forma corecta: Ghidul definitiv<a id=" Cum sa faceti tractiuni (pull-ups) cu o forma corecta: Ghidul definitiv"></a>
 
 ![Pullups](./assets/stronglifts-pullups.jpg)
 _Cum se face tractiuni: stati atarnati pe bara cu bratele drepte.Trageti pana cand barbia va trece de bara._
@@ -80,9 +80,9 @@ Acesta este ghidul definitiv pentru o forma corecta a tractiunilor(pull-ups). De
 </div>
 </details>
 
-## Introducere<a name="introducere"></a>
+## Introducere<a id="introducere"></a>
 
-## Cum sa faci tractiuni (pull-ups)<a name="cum-sa-faci-tractiuni"></a>
+## Cum sa faci tractiuni (pull-ups)<a id="cum-sa-faci-tractiuni"></a>
 
 ![Proper Pullup Form](./assets/pullups-side.jpg)
 _Tineti-va de bara cu bratele drepte, trageti-va in sus pana cand barbia va va trece de bara._
@@ -97,7 +97,7 @@ Agatati-va de bara pentru tractiuni (pull-ups) a Power Rack-ului dvs. pentru a f
 
 Daca iti lipseste puterea pentru a face macar o tractiune, fa repetari negative. Vei ajunge cu barbia peste bara, stand pe banca sau pe carligele de siguranta(safety pins) ale Power Rack. Coborati incet si apoi sariti din nou pentru urmatoarea repetare. De asemenea, puteti pune o banda de rezistenta in jurul piciorului pentru a va ajuta. Sau puteti ruga pe cineva sa va ajute tinandu-va picioarele. Dar nu folositi aparate speciale(Pullup machines). Cel mai bun mod de a deveni mai bun la tractiuni este sa faci tractiuni (pull-ups).
 
-## Tractiuni(pull-ups) 101<a name="tractiuni-ghid"></a>
+## Tractiuni(pull-ups) 101<a id="tractiuni-ghid"></a>
 
 ![Proper Pullup Form](./assets/pullups-back.jpg)
 _Forma de tractiune corecta: bratele drepte in partea de jos(bottom), barbie peste bara in varf(top)._
@@ -118,7 +118,7 @@ Constructia dvs. determina distanta dintre maini(priza). Cu cat umerii sunt mai 
 - **Coborarea**. Coborati pana jos, pana cand bratele sunt drepte.
 - **Respiratia**. Respirati in partea de jos, tineti-va respiratia in partea de sus, expirati / inspirati in partea de jos.
 
-## Muschii antrenati<a name="muschii-lucrati"></a>
+## Muschii antrenati<a id="muschii-lucrati"></a>
 
 Tractiunile(pull-ups) sunt in mare parte un exercitiu pentru partea superioara a spatelui si brate, precum [Ramat cu haltera(Barbell Row)](/exercitii/spate/ramat-cu-bara). Dar va antreneaza altfel spatele. Tractiunile(pull-ups) sunt o miscare verticala ca [Presa deasuprea capului cu bara(Overhead Press)](/exercitii/umeri/presa-deasupra-capului). Barbell Rows este o miscare orizontala precum [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press). Tractiunile(pull-ups) antreneaza mai putin muschi decat Barbell Rows, deoarece picioarele si soldurile nu fac altceva decat sa atarne.
 Tractiunile (pull-ups) sunt, asadar, mai putin potrivite pentru tot corpul si mai mult focalizate pe partea superioara. Iata muschii pe care acestea ii lucreaza…
@@ -129,7 +129,7 @@ Tractiunile (pull-ups) sunt, asadar, mai putin potrivite pentru tot corpul si ma
 
 Puteti adauga tractiuni(pull-ups) ca exercitiu de izolare la StrongLifts 5 × 5. Pentru mai multe informatii, cititi aici.
 
-## Tractiunile(pull-ups) vs Chinups<a name="tractiunile-vs-chinups"></a>
+## Tractiunile(pull-ups) vs Chinups<a id="tractiunile-vs-chinups"></a>
 
 Tractiunile(pull-ups) vs Chinups: cu mainile in sus, lucreaza mai mult bicepsul.
 
@@ -142,9 +142,9 @@ Chinups este mai bun decat Biceps Curl pentru a construi brate mai mari. Chinup-
 
 Puteti adauga Chinups ca exercitiu de izolare la StrongLifts 5 × 5. Pentru mai multe informatii, cititi aici.
 
-## Tehnica tractiuni<a name="tehnica-tractiuni"></a>
+## Tehnica tractiuni<a id="tehnica-tractiuni"></a>
 
-## Prinderea/Priza<a name="prinderea"></a>
+## Prinderea/Priza<a id="prinderea"></a>
 
 ![Pullup Grip](./assets/pullup-full-grip.jpg)
 _Folositi o prindere completa pentru rezistenta maxima la tractiuni(pull-ups)._
@@ -155,7 +155,7 @@ Grip The Bar Low. Tineti bara sus in maini, strangeti-va degetele. Bara trebuie 
 
 Double Overhand. Tineti bara cu palmele orientate in sus pentru tractiuni (pull-ups). Aceasta este prinderea in jos care vizeaza partea superioara a spatelui si a dorsului mare. De asemenea, puteti strange bara cu palmele in jos si faceti Chinups. Aceasta priza cu palmele in sus iti lucreaza partea superioara a spatelui si ataca si muschii, dar iti foloseste mai mult bicepsul. Daca doriti sa va accentuati bratele sau nu puteti face o singura repetare, faceti Chinups. Sunt mai usoare. In caz contrar, continuati cu tractiunile(pull-ups).
 
-## Latimea pizei<a name="latimea-prizei"></a>
+## Latimea pizei<a id="latimea-prizei"></a>
 
 ![Pullup Grip Width](./assets/pullup-grip-width.jpg)
 _Prindeti bara astfel incat distanta dintre maini sa fie egala cu latime cu umerii cand faceti tractiuni(pull-ups)._
@@ -164,7 +164,7 @@ _Prindeti bara astfel incat distanta dintre maini sa fie egala cu latime cu umer
 
 - **Fara prize largi**. Prinderea larga scurteaza raza de miscare. Iti usureaza tractiunile (pull-ups) pentru ca te tragi pe o distanta mai scurta. Dar, de asemenea, va poate face sa va suprasolicitati coatele si sa va raniti umerii. In plus, vrei sa iti lucrezi muschii printr-o gama completa de miscare, nu pe jumatate. Acest lucru va consolideaza dorsul mare(lats) si creste dimensiunea spatelui. O priza larga este inutila si neproductiva. Lucrati cu o prindere/priza ingusta si grea.
 
-## Coate<a name="coate"></a>
+## Coate<a id="coate"></a>
 
 ![Pullup Elbows](./assets/pullups-straight-arms.jpg)
 _Incepeti fiecare repetare cu coatele blocate pentru o dezvoltare maxima a bratului_
@@ -173,55 +173,55 @@ _Incepeti fiecare repetare cu coatele blocate pentru o dezvoltare maxima a bratu
 
 - **Coatele la 45 °**. Trageti-va in sus, impingand coatele in jos. Tine coatele aproape de trunchi. Coatele nu ar trebui sa fie flare si sa nu ajunga perpendicular pe trunchiul dvs. in partea de sus. Acestea ar trebui sa-ti atinga cutia toracica / muschiul dorsal mare, la aproximativ 45 °. Trebuie sa strangi bara ingusta, chiar in afara umerilor, pentru ca acest lucru sa functioneze. Daca o faceti corect, pozitia superioara a tractiunii(pull-ups) va arata ca pozitia de jos a [Presa deasuprea capului cu bara(Overhead Press)](/exercitii/umeri/presa-deasupra-capului).
 
-## Pieptul<a name="piept"></a>
+## Pieptul<a id="piept"></a>
 
 - **Condu cu pieptul**. Ridica-te, conducand cu pieptul. Incercati sa atingeti bara cu pieptul superior (clavicula). Nu va faceti griji daca nu puteti atinge bara cu pieptul. Atata timp cat barbia ta a trecut de bara, repetarea este buna. Scopul este de a evita umerii sa se duca inainte. Vrei sa ii tii inapoi pentru a nu-i rani. Trucul este de a duce cu tine pieptul pe drumul de urcare a tractiunii(pull-ups).
 
-## Umerii<a name="umeri"></a>
+## Umerii<a id="umeri"></a>
 
 - **Tine-ti umerii in spate**. Nu lasati umerii sa se duca inainte in timpul tractiunii(pull-ups) sau Chinups. Rularea umerilor inainte poate duce la dureri de umar. Tine-ti umerii inapoi. Nu trebuie sa strangeti omoplatele pentru a face acest lucru. In schimb, trageti-va in sus, conducand cu pieptul. Acest lucru va va mentine umerii inapoi. Nu faceti tractiuni(pull-ups) cu o forma proasta doar pentru a obtine mai multe repetari. Fa bine, ca sa nu te doara.
 
-## Cap<a name="cap"></a>
+## Cap<a id="cap"></a>
 
 - **Uita-te in fata**. Nu te uita la tavan sau la bara. Nu priviti intr-o parte si nu va inclinati capul. Priveste in fata, in schimb. Mentineti-va capul pe linie cu trunchiul. In acest fel nu exista nicio perforare a discurilor spinale din gat. Este mai putin probabil sa faci dureri de gat din cauza tractiunilor (pull-ups). Uita-te la peretele din fata ta. Daca exista o oglinda, uita-te prin ea. Ar trebui sa ai o linie dreapta de la cap la sold atunci cand faci tractiuni (pull-ups) sau Chinups.
 
-## Partea inferioara a spatelui<a name="partea-inferioara-a-spatelui"></a>
+## Partea inferioara a spatelui<a id="partea-inferioara-a-spatelui"></a>
 
 - **Arc natural**. Mentineti-va spatele inferior neutru. Nu ar trebui sa fie plat, dar nici arcuit. In schimb, ar trebui sa faci tractiuni (pull-ups) cu un arc natural in spatele inferior ca atunci cand stai. Nu-l lasati sa se arcuiasca sau o sa va perforati coloanele vertebrale si s-ar putea sa ai dureri de spate. Tineti-l neutru, tinandu-va cutia toracica in jos. Incordati-va abdomenul si indreptati-va picioarele pe drumul de urcare. Pastrati o linie dreapta de la umeri pana la genunchi.
 
-## Picioare<a name="picioare"></a>
+## Picioare<a id="picioare"></a>
 
 Genunchii indoiti impotriva(vs) picioarelor drepte. Tractiunile(pull-ups)facute cu picioarele drepte sunt mai bune deoarece va puteti mentine spate neutru mai usor. Dar putine sali de sport au bare de ridicare inalte/ridicate. Cele mai multe Power Rack-uri sunt prea mici pentru a face Pullups cu picioarele drepte, fara ca picioarele sa atinga podeaua. Acesta este motivul pentru care fac tractiuni(pull-ups) cu genunchii indoiti. Cu toate acestea, las picioarele inferioare sa cada pe drum, pentru a-mi mentine spatele inferior neutru. Incearca.
 
-## Partea de jos a tractiunii(Bottom)<a name="partea-de-jos"></a>
+## Partea de jos a tractiunii(Bottom)<a id="partea-de-jos"></a>
 
 ![Pullup straight arms bottom](./assets/pullups-straight-arms.jpg)
 _Bratele trebuie sa fie drepte in partea de jos a fiecarei tractiuni(pull-ups)._
 
 - **Brate drepte**. Stati agatati cu bratele drepte si coatele blocare/fixe inainte de a va ridica pentru prima repriza. Lasa-ti spatele si muschiul dorsal sa se intinde(stretching). Ridicati din umeri catre tavan. Respirati puternic, mentineti-va respiratia si trageti-va in sus, conducand coatele in jos. Apoi coborati pana la capat pana cand bratele sunt din nou drepte si blocate. Lasa totul sa se intinda. Nu incepeti nici o repetare cu coatele indoite. Asa trisezi.
 
-## Ridicarea<a name="ridicarea"></a>
+## Ridicarea<a id="ridicarea"></a>
 
 Coatele in jos. Trageti-va in sus, ducandu-va coatele in jos. Tine-ti coatele la 45 ° in interior, nu in exterior. Tine-ti trunchiul aproape de bara. Cu cat este mai scurta distanta dintre maini si umeri, cu atat este mai usor sa ridici. Conduceti cu pieptul, ridicarea. Incercati sa atingeti bara cu pieptul superior. Este in regula, daca nu poti, atata timp cat barbia iti trece de bara, repetarea este corecta.
 
-## Varful(Top)<a name="varful(Top)"></a>
+## Varful(Top)<a id="varful(Top)"></a>
 
 ![Pullup chin over bar](./assets/pullup-top.jpg)
 _Trageti barbia peste bara, in partea de sus a tractiunii(pull-ups). Jumatate de repetare nu conteaza._
 
 - **Barbia peste bara**. Trageti-va pana la capat pana cand barbia va trece bara. Doar fruntea mai sus de bara nu conteaza. Nasul deasupra barei nu conteaza, de asemenea. Ambele scurteaza raza de miscare. Este ca si cum ai face o jumatate de genuflexiunie(Squat). Obtineti jumatate din rezultat, deoarece bratele nu au o contractie completa in partea de sus. Treci cu barbia peste bara, fara a-ti forta capul, sau fara sa-ti lungesti gatul. Daca nu o puteti face, utilizati o banda de rezistenta pentru a va ajuta.
 
-## Coborarea<a name="coborarea"></a>
+## Coborarea<a id="coborarea"></a>
 
 - **Blocheaza-ti coatele**. Coborati-va pana la capat, pana cand coatele sunt incuiate. Bratele tale trebuie sa fie drepte cand stai agatat intre repetari. Nu incepe niciodata urmatoarea repetare cu coatele indoite. Repetarea nu este corecta, validata, daca coatele nu au fost blocate, deoarece acest lucru scurteaza intervalul de miscare. Este ca si cum ai face o jumatate de genuflexiune(Squat). Mergeti pana la capat. Atata timp cat nu iti hiper-extindeti coatele, dar blocati usor, coatele vor fi in siguranta.
 
-## Respiratie<a name="respiratia"></a>
+## Respiratie<a id="respiratia"></a>
 
 - **Respirati in partea de jos**. Stati agatati de bara cu bratele drepte si picioarele dezlipite de pe podea. Respirati puternic, mentineti-o si trageti-va in sus. Du barbia peste bara. Apoi coborati pana jos, pana cand bratele sunt drepte. Expirati in partea de jos si lasati totul sa se intinda(stretch). Oferiti-va o secunda pentru a va aduna, apoi inspirati si trageti-va din nou in sus. Repetati pana cand setul dvs. s-a incheiat.
 
-## Probleme comune<a name="probleme-comune"></a>
+## Probleme comune<a id="probleme-comune"></a>
 
-## Cheating(A trisa)<a name="a-trisa"></a>
+## Cheating(A trisa)<a id="a-trisa"></a>
 
 A trisa cand faci tractiuni(pull-ups) inseamna sa scurtezi intervalul de miscare facand jumatate de repetare. Fiecare repetare trebuie sa inceapa cu bratele drept, in partea de jos(bottom). Si fiecare repetare trebuie sa se termine cu barbia peste bara, in varf(top). Acest lucru lucreaza muschii spatelui si bratelor printr-o gama completa de miscare. Construieste cea mai mare cantitate de forta si muschi. Jumatatile de tractiuni(pull-ups) sunt mai usoare, asa cum sunt si jumatatile de genuflexiuni(Squats). Dar si de aceea sunt mai putin eficiente.
 
@@ -231,9 +231,9 @@ Al doilea mod de a face jumatate de repetare este prin faptul ca nu reusesti sa-
 
 Cealalta modalitate de a trisa la tractiuni(pull-ups) este folosirea soldurilor. Puteti crea impuls impulsionand soldurile si picioarele pe drumul de urcare. Aceste Kipping Pullup-uri va permit sa faceti mai multe repetari. Dar nu te vor face mai puternic decat tractiunile(pull-ups). Mai rau, lovitura poate distruge umerii slabi. Nu va balansati soldurile si nu trisati pentru a obtine mai multe repetari. Folositi o forma adecvata. Daca nu aveti puterea de a face tractiuni(pull-ups) cu o forma adecvata, urmati sfaturile de mai jos.
 
-## Nu pot face nicio tractiune(pull-ups)<a name="nu-pot-face-nicio-tractiune(pull-ups)"></a>
+## Nu pot face nicio tractiune(pull-ups)<a id="nu-pot-face-nicio-tractiune(pull-ups)"></a>
 
-## Chinup negative<a name="chinup negative"></a>
+## Chinup negative<a id="chinup negative"></a>
 
 ![Chinup Negatives](./assets/chinups-negatives-1.jpg)
 _Faceti exercitii negative daca nu puteti face nicio tractiune._
@@ -260,7 +260,7 @@ Benzile de rezistenta de care aveti nevoie pentru tractiuni(pull-ups) sunt de 1m
 
 Cel mai rapid mod de a deveni mai puternic cu tractiuni(pull-ups) este de a face tractiuni(pull-ups) zilnic. Cumparati-va doorway pullup bar pentru acasa. Am unul langa biroul unde lucrez. Fa o singura tractiune de fiecare data cand treci pe langa bara. Folositi o forma adecvata si stati departe de esec. Dupa cateva saptamani, veti putea face mai multe tractiuni(pull-ups) la rand. Pavel Tsatsouline numeste acest „Greasing The Groove”. Practica frecventa si specifica este cea mai rapida modalitate de a deveni mai buni la tractiuni(pull-ups).
 
-## Prea greu(gras) pentru tractiuni(pull-ups)<a name="prea-greu(gras)-pentru-tractiuni"></a>
+## Prea greu(gras) pentru tractiuni(pull-ups)<a id="prea-greu(gras)-pentru-tractiuni"></a>
 
 Cu cat sunteti mai greu(aveti o greutate mai mare), cu atat va trebui sa ridicati mai multa greutate si cu atat mai greu va fi tractiunea(pull-ups). Acesta este motivul pentru care gimnastele sunt aproape intotdeauna mici. Mai mic inseamna de obicei o greutate mai mica a corpului. Acest lucru va ofera un avantaj in ceea ce priveste exercitiile de greutate corporala precum tractiunile, in care greutatea dvs. actioneaza ca rezistenta. Dar nu inseamna ca nu vei putea niciodata sa faci o tractiune(Pullup) daca esti mare. Va fi mai greu, sigur. Dar veti deveni mai puternici daca continuati antrenamentele.
 
@@ -268,9 +268,9 @@ Iata un videoclip al voinicului Jesse Marunde care face 21 de tractiuni(pull-ups
 
 Primul pas pentru a deveni mai puternic la tractiuni(pull-ups) este, prin urmare, sa incetati sa folositi greutatea dvs. o scuza. Urmatorul pas este sa nu mai evitati tractiunile(pull-ups). Nu asteptati pana cand ati pierdut in greutate. Nu faceti Lat Pulldowns si nu folositi Assisted Pullup Machine. Faceti tractiuni (pull-ups). Pentru ca cel mai rapid mod de a deveni mai puternic la tractiuni (pull-ups) este sa faci le faci. Daca nu puteti face niciuna, faceti negative sau utilizati o banda de rezistenta grea. Si obtineti o bara de tractiuni pentru usa (doorway pullup bar), astfel incat sa puteti face tractiuni(pull-ups) zilnic.
 
-## Variatii de tractiuni(pull-ups)<a name="variatii-de-tractiuni(pull-ups)"></a>
+## Variatii de tractiuni(pull-ups)<a id="variatii-de-tractiuni(pull-ups)"></a>
 
-## Chinups<a name="chinups"></a>
+## Chinups<a id="chinups"></a>
 
 ![Chinup Form](./assets/chinup-form.jpg)
 _Chinup-urile sunt trageri cu mainile orientate in sus, in loc de jos._
@@ -279,7 +279,7 @@ Chinup-urile sunt tractiunile(Pullups )care folosesc o prindere supinata(supinet
 
 Tehnica pe Chinups este aceeasi ca si pe tractiuni(pull-ups). Mainile tale trebuie sa fie la acelasi nivel cu umerii. O prindere mai larga scurteaza raza de miscare. De asemenea, va roteste bratele mai mult in afara. Acest lucru va streseaza incheieturile, coatele si umerii. Poate provoca dureri. Strangeti bara. Mainile tale ar trebui sa fie chiar in afara umerilor cand barbia iti trece de bara, in varf(top). Daca Chinups se simt inconfortabili pentru ca sunteti inflexibili, ramaneti cu tractiunile(pull-ups).
 
-## Tractiuni(pull-ups) / Chinups cu greutati(Weighted Pullups/Chinups)<a name="pullups-chinups-cu-greutati"></a>
+## Tractiuni(pull-ups) / Chinups cu greutati(Weighted Pullups/Chinups)<a id="pullups-chinups-cu-greutati"></a>
 
 ![Weighted Chinups](./assets/stronglifts-weighted-chinups.jpg)
 _Chinup-uri ponderate cu o placa de 20kg / 45lb._
@@ -303,7 +303,7 @@ De asemenea, nu recomand sa tii o gantera intre picioare. Acest lucru functionea
 
 Treceti la tractiuni(pull-ups) ponderate odata ce puteti face 10 repetari cu o forma buna. Incepeti usor si adaugati greutate la fiecare antrenament. Tractiunile(pull-ups) folosesc muschi mici, asa cum o fac [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press) si Overhead. Adaugand 1kg / 2lb la fiecare antrenament lucreaza, prin urmare, mai mult decat 2,5 kg / 5lb. Imi place sa fac doua seturi de cinci Chinups ponderati la sfarsitul antrenamentului meu. Apoi, imi place sa continui cu un set de Chinups fara greutati pentru cat mai multe repetari.
 
-## Assisted Pullup Machine<a name="assisted-pullup-machine"></a>
+## Assisted Pullup Machine<a id="assisted-pullup-machine"></a>
 
 Aparatul pentru tractiuni este un aparat care va ajuta sa faceti tractiuni(pull-ups). Va pregatiti prinzand manerele asa cum prindeti bara la tractiuni(pull-ups). Va sprijiniti pe genunchi. Va trageti apoi in timp ce aparatul va ridica suportul pe care stau genunchi. Aparatul va ajuta sa va ridicati utilizand o greutate de contrabalansare. Cu cat veti seta greutatea mai mare, cu atat va ajuta sa va trageti mai sus.
 
@@ -313,7 +313,7 @@ Nu va mirati daca progresia dvs. este o la tractiuni(pull-ups), in ciuda faptulu
 
 Stai departe de aparate(Assisted Pullup Machine). Daca puteti face cel putin o tractiune(Pullup), “grease the groove”, si continuati. Obtineti o bara de tractiune pentru usa(doorway pullup bar) pentru acasa si faceti o tractiune de fiecare data cand treceti pe langa aceasta. Daca nu puteti face nicio repetare, faceti negative sau utilizati o banda de rezistenta. Banda de rezistenta va va ajuta doar in partea de jos, nu in partea de sus. Si te va forta sa te echilibrezi. Acest lucru va va face mai buni la tractiuni(pull-ups) mai repede decat folosind utilaje(Assisted Pullup Machine).
 
-## Lat pulldown<a name="lat-pulldown"></a>
+## Lat pulldown<a id="lat-pulldown"></a>
 
 Lat Pulldown este un exercitiu de aparat ca o tractiune(Pullup). Apucati bara de cablu ca si cum tineti bara la tractiune(pull-ups). Stai pe banca cu coapsele blocate sub suport. Apoi trageti bara de cablu catre partea superioara a pieptului indoind bratele. Lat Pulldown-urile sunt mai usoare decat tractiunile (pull-ups),deoarece puteti pune mai putina greutate decat greutatea dumneavoastra. Tractiunile(pull-ups) va obliga sa va ridicati greutatea corpului, care este adesea prea grea la inceput.
 

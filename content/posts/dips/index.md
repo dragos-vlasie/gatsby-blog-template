@@ -82,9 +82,9 @@ Acesta este ghidul definitiv pentru o forma corespunzatoare pe Dips. Acopera, de
 </div>
 </details>
 
-## Introducere<a name="introducere"></a>
+## Introducere<a id="introducere"></a>
 
-## Cum sa faci Dips(Flotari la paralele)<a name="cum-sa-faci-dips"></a>
+## Cum sa faci Dips(Flotari la paralele)<a id="cum-sa-faci-dips"></a>
 
 Aveti nevoie de doua bare Dip pentru a face Dips. Aceste bare trebuie sa fie paralele, fixe si stabile. Majoritatea salilor de gimnastica au o statie Dip pe care o puteti folosi si pentru Pullups si ridicarea genunchiului agatat. Puteti face si Dips-uri in Power Rack, daca primiti doua manere de scufundare care se incadreaza in ace de siguranta. Nu faceti Dips(flotari la paralele) pe inele sau intre banci, ambele va pot rani umerii. Utilizati in schimb bare paralele. Iata cum se face Dips(flotari la paralele) cu o forma corecta in cinci pasi simpli...
 
@@ -96,7 +96,7 @@ Aveti nevoie de doua bare Dip pentru a face Dips. Aceste bare trebuie sa fie par
 
 Daca va lipseste puterea pentru a face o singura repetare, faceti exercitii negative. Treceti peste partea de urcare, pentru moment, si faceti doar coborarea pe care sunteti mai puternici. Apucati barele pentru flotarile la paralele(dips), sariti si indreptati bratele. Coborati incet pana cand umerii va sunt sub nivelul coatelor. Apoi puneti-va picioarele pe podea si sariti inapoi pe barele pentru dips cu bratele drepte. Cand puteti face 10 repetari negative cu o forma adecvata, puteti face un singur dip .
 
-## Dips(flotari la paralele) forma corecta<a name="dips(flotari-la-paralele)-forma"></a>
+## Dips(flotari la paralele) forma corecta<a id="dips(flotari-la-paralele)-forma"></a>
 
 Modul ideal de a face Dips(flotari la paralele) este cu mainile sub umeri. Acest lucru mentine bratele aproape de corp. Umerii mai largi au nevoie de o prindere mai larga. Dar aveti nevoie de bare in unghi pentru a le regla. Barele mele sunt paralele, asa ca latimea mea de prindere urmareste echipamentul meu. Acest lucru functioneaza bine daca aveti o greutate medie. Dar poate fi o problema pentru corpurile speciale. Tine minte si urmati aceste recomandari pentru a face Dips(flotari la paralele) cu o forma corecta...
 
@@ -119,7 +119,7 @@ Modul ideal de a face Dips(flotari la paralele) este cu mainile sub umeri. Acest
 
 Gratuit: descarcati lista mea de verificare pentru a obtine cele mai bune sfaturi pentru a face Dips(flotari la paralele) cu o forma corecta. Recititi aceste sfaturi intre seturi si veti face mai multe Dips(flotari la paralele) fara sa va raniti. . Inscrieti-va pentru a avea acces instantaneu la lista de verificare si va voi trimite sfaturi si trucuri zilnice pe e-mail. Doar faceti click aici.
 
-## Muschii lucrati<a name="muschii-lucrati"></a>
+## Muschii lucrati<a id="muschii-lucrati"></a>
 
 Flotarile la paralele(dips) lucreaza mai mult decat tricepsul. Bratele se indoaie si se indreapta pentru a va misca corpul. Dar primesc ajutor de la umeri, piept si muschii spatelui. Si mult mai multi muschi lucreaza pentru a va mentine echilibru in timp ce corpul dvs. se misca. Acesta este motivul pentru care Dips-urile sunt un exercitiu compus: lucreaza multi muschi in acelasi timp. Acesta este si motivul pentru care va puteti antrena mai intens : mai multi muschi solicitati, mai multa forta. Muschii lucrati la Dips...
 
@@ -131,19 +131,19 @@ Dips-urile lucreaza aceeasi muschi ca [Bench Press(Impinsul cu haltera de la pie
 
 Dips-urile sunt mai eficiente decat pushdowns sau skullcrushers la a construi brate mai mari. Greutatea pe Dips(flotari la paralele) este mai mare. Trebuie sa va ridicati greutatea. Un tip mediu de 75 kg ca mine poate face cu usurinta Dips-uri cu greutate corporala. Le pot face cu 20 kg in plus, in total 95 kg. Incercati pushdowns sau skullcrushers cu 95 kg... Dips(flotari la paralele) sunt mai eficiente pentru ca iti lucreaza tricepsul cu o greutate mai mare. Mai multa greutate este egala cu mai multa forta, care este egala cu mai multi muschi.
 
-## Tehnica Dip<a name="tehnica-dip"></a>
+## Tehnica Dip<a id="tehnica-dip"></a>
 
-## Prindere/Priza<a name="priza"></a>
+## Prindere/Priza<a id="priza"></a>
 
 Priza completa. Strangeti barele pentru flotarile la paralele cu degetele mari. Strangeti barele tare, astfel incat mainile sa nu poata aluneca in timp ce corpul dvs. se misca. Acest lucru impiedica incheieturile sa se indoaie si sa doara atunci cand faci Dips. De asemenea, creste rezistenta, deoarece bratele, umerii si muschii toracelui se pot contracta mai tare atunci cand strangeti barele. Nu faceti Dips(flotari la paralele) cu o prize ce nu implica si degetele cele mari. Folositi prize completa pentru a avea mai multa forta si o forma mai buna.
 
 Priza cu palma joasa(Grip Low Palm). Pune partea de jos a palmelor pe barele pentru dips. Incheieturile si antebratele trebuie sa fie aliniate cu barele pentru a putea impinge direct in ea. Aceasta creste rezistenta si previne durerea incheieturilor. Apucarea barelor in mijlocul palmei este gresita, deoarece nu iti pune antebratele peste barele pentru dips. Iar presiunea corpului tau iti va indoi incheieturile, le va intinde pe spate si va provoca dureri. Prindeti barele in partea de jos a palmei ca la [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press).
 
-## Latimea prizei<a name="latimea-prizei"></a>
+## Latimea prizei<a id="latimea-prizei"></a>
 
 Prinderea/priza ingusta. Prindeti barele pentru dips cu mainile la nivelul umerilor. Mainile tale ar trebui sa fie sub umeri si chiar in afara soldurilor. Acest lucru mentine bratele aproape de corp si de umeri stransi. Puteti prinde barele mai largi daca aveti umeri largi si acces la barele inclinate(angled dip bars). Daca folositi bare fixe, ca mine, echipamentul dvs. va determina latimea de prindere. Acest lucru functioneaza de obicei bine daca nu aveti umeri foarte mici / largi.
 
-## Antebrate<a name="antebrate"></a>
+## Antebrate<a id="antebrate"></a>
 
 ![Dips forearms](./assets/dips-forearms.jpg)
 _Inclinati-va inainte cand coborati. Antebratele tale ar trebui sa fie perpendiculare pe podea._
@@ -152,7 +152,7 @@ Verticala din lateral. Mentineti-va antebratele verticale in timp ce corpul dvs.
 
 Verticala din fata. Antebratele trebuie sa fie, de asemenea, verticale (perpendiculare) pe podea atunci cand privesti si din fata si din spate. Daca antebratele sunt inclinate, priza este prea ingusta sau lata. Prea ingusta este ca o priza ingusta pe [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press). Prea lata este rea pentru umeri. Reglati-va priza astfel incat mainile sa fie chiar sub umeri si in afara soldurilor. Pentru aceasta, veti avea nevoie de acces la barele inclinate pentru dips(angled dip bars). Dar iti va creste puterea pe Dips.
 
-## Coate<a name="coatele"></a>
+## Coate<a id="coatele"></a>
 
 ![Dips elbows](./assets/dips-elbows.jpg)
 _Blocati-va(lock) coatele in partea de sus a fiecarei repetari._
@@ -161,54 +161,54 @@ Blocati in partea de sus. Incepeti si terminati fiecare repetare cu brate drepte
 
 Cotul la 45 °. Tine-ti bratele aproape de corp. Nu ar trebui sa va atinga trunchiul in partea de jos. Dar nici nu ar trebui sa se miste (flare) si sa nu ajunga perpendiculare. Strangeti barele(dips bar), astfel incat mainile sa va fie sub umeri. Apoi trageti-va coatele la 45°, in coborare si mentineti-va antebratele verticale. La inceput, acest lucru poate fi mai dificil daca esti obisnuit sa iti misti(flare) coatele. Dar este mai bine pentru umeri si vei fi mai puternic.
 
-## Piept<a name="piept"></a>
+## Piept<a id="piept"></a>
 
 Ridica-ti pieptul. Ridicarea pieptului opreste partea superioara a spatelui de la rotunjire, ceea ce poate provoca dureri in piept. De asemenea, va ajuta sa va tineti umerii inapoi, astfel incat sa nu doara. Faceti un piept mare in partea de sus a fiecarei repetari. Respirati puternic, mentineti-va respiratia si coborati. Break parallel coborand pana cand umerii sunt sub coatele tale. Reveniti, indreptandu-va bratele. Blocati-va Dips-urile ridicand pieptul in partea de sus.
 
-## Umeri<a name="umeri"></a>
+## Umeri<a id="umeri"></a>
 
 Impingeti-va umerii in jos. Nu-ti lasa umerii sa se duca in fata sau te vei accidenta. Tineti-i inapoi ridicand pieptul, inainte sa cobori. Finalizati fiecare repetare ridicand pieptul din nou, astfel incat umerii sa ramana inapoi. Nu trebuie sa va contractati omoplatele. Dar umerii tai nu se pot misca inainta si nu ridica din umeri, impotriva urechilor. Daca o fac, impingeti umerii in jos in timp ce faceti Dips. Si amintiti-va sa va ridicati pieptul.
 
-## Cap<a name="cap"></a>
+## Cap<a id="cap"></a>
 
 Cap neutru. Nu priviti tavanul deoarece gatul va fi ranit si umerii vor veni in fata. Capul trebuie sa ramana in linie cu trunchiul. Dar trebuie sa va aplecati usor inainte, pe drumul in jos, pentru a va mentine antebratele verticale. Inseamna ca nu puteti privi drept inainte, altfel capul dvs. nu va ramane in linie cu trunchiul. In schimb, uita-te la podeaua din fata ta in timp ce faci Dips. Acest lucru mentine gatul neutru si in siguranta.
 
-## Trunchi<a name="trunchi"></a>
+## Trunchi<a id="trunchi"></a>
 
 Apleaca-l in fata. Antebratele dvs. nu pot ramane verticale daca va mentineti trunchiul in pozitie verticala. Vor fi inclinate in partea de jos, ceea ce este ineficient si va poate face sa pierdeti echilibrul. Trebuie sa va aplecati usor inainte pe drumul in jos. Nu exagerati sau veti pierde echilibrul. Ideea este sa va mentineti antebratele verticale in partea de jos. Daca o faci bine, iti vei solicita mai mult pieptul si vei avea mai multa putere.
 
-## Partea inferioara a spatelui<a name="partea-inferioara-a-spatelui"></a>
+## Partea inferioara a spatelui<a id="partea-inferioara-a-spatelui"></a>
 
 Arc natural. Partea inferioara a spatelui trebuie sa ramana neutra atunci cand faceti flotarile la paralele. Neutru inseamna sa pastrezi un arc natural ca atunci cand stai. Partea inferioara a spatelui nu ar trebui sa fie plata sau curbata prea mult. Daca hiper-extindeti, va veti perfora discurile coloanei vertebrale si puteti avea dureri de spate. Pastrati-va partea inferioara a spatelui neutru, contractand abdomenul si mentinandu-va cutia toracica in jos. Faceti dips cu o linie dreapta de la umeri pana la genunchi atunci cand priviti din lateral.
 
-## Picioare<a name="picioare"></a>
+## Picioare<a id="picioare"></a>
 
 Genunchi indoiti vs picioare drepte. Puteti mentine spatele neutru mai usor daca faceti Dips(flotari la paralele) cu picioarele drepte. Acest lucru se datoreaza faptului ca va puteti contracta mai tare fesele, ceea ce impiedica arcuirea excesiva a spatelui inferior. Insa picioarele tale vor lovi podeaua decat daca nu folosesti bare pozitionate la inaltime mare pentru a face Dips(flotari la paralele) cu picioarele drepte. Prefer sa-mi se indoaie picioarele. Daca faceti acest lucru, asigurati-va ca va mentineti partea inferioara a spatelui neutru, incordandu-va abdomenul si fesele.
 
-## Varful/partea de sus dip-ului<a name="partea-de-sus-dip-ului"></a>
+## Varful/partea de sus dip-ului<a id="partea-de-sus-dip-ului"></a>
 
 Brate drepte. Blocati-va coatele inainte sa coborati. Inceperea dip-ului cu coatele indoite nu conteaza, la fel cum jumatate de genuflexiunile(Squats) nu se pune ca o repetare. Coatele indoite usureaza Dips-urile prin scurtarea gamei de miscare. Trebuie sa iti lucrezi muschii corpului superior printr-o gama completa de miscare pentru a castiga forta maxima si pentru a construi masa musculara. Indreptati-va bratele inainte sa coborati. Blocheaza din nou coatele pentru a-ti incheia repetarea.
 
 Pieptul in sus. Ridicarea pieptului impiedica rotunjirea partii superioara a spatelui. Va ajuta sa va tineti umerii inapoi si in jos, astfel incat sa nu fie afectati. Faceti un piept mare inainte sa va coborati.Mentine-l umplandu-ti cutia toracica cu aer. Piept in sus, respiratie puternica, mentinerea respiratiei. Apoi,coboara pana cand treci de paralela(break parallel). Daca umerii nu raman inapoi, impingeti-i in jos. Nu-i lasa sa se miste inainte si sa ridice din umeri, pana la nivelul urechilor.
 
-## Coborarea<a name="coborarea"></a>
+## Coborarea<a id="coborarea"></a>
 
 Apleaca-te in fata. Coborati (dip down) indoindu-va bratele. Mentineti-va antebratele verticale aplecandu-va usor inainte. Unghiul exact al trunchiului depinde de corpul dvs. Dar scopul este sa va mentineti antebratele verticale atunci cand priviti din lateral. Acest lucru mareste controlul si rezistenta in urcare, deoarece antebratele dvs. pot impinge direct in barele pentru dips. Nu cobori direct. Inclinati usor inainte.
 
-## Partea de jos a dip-ului<a name="partea-de-jos"></a>
+## Partea de jos a dip-ului<a id="partea-de-jos"></a>
 
 ![Dips Bottom](./assets/dips-depth.jpg)
 _Coborati pana cand umerii va sunt sub coate._
 
 Break Parallel. Nu trebuie sa mergeti cat mai jos pentru a obtine o intindere(stretch) mai mare. Nu ar trebui sa faci asta pentru ca va poate afecta umerii. Dar trebuie ca bratele superioare sa fie paralele cu podeaua sau orice altceva nu este suficient de scazut. Trebuie sa treceti de paralela (break parallel) coborand pana cand umerii va sunt sub coate. Acesta este singurul mod in care Dips(flotari la paralele) iti va lucra muschii corpului superior printr-o gama completa de miscare. Este modul in care obtineti forta maxima si castigurile musculare.
 
-## Respiratia<a name="respiratia"></a>
+## Respiratia<a id="respiratia"></a>
 
 Respirati in partea de sus. Echilibrati-va pe barele de scufundare cu coatele incuiate si picioarele in aer. Ridica-ti pieptul pentru a-ti tine umerii jos. Apoi inspirati puternic, tineti-l si scufundati-va. Tine-ti respiratia pe drumul in jos si in partea de jos. Vino inapoi, ridica pieptul si blocheaza coatele. Expirati, adunati-va o secunda si repetati. Nu respirati in timpul Dips-urilor sau veti pierde etanseitatea si pieptul se va prabusi.
 
-## Probleme comune<a name="probleme-comune"></a>
+## Probleme comune<a id="probleme-comune"></a>
 
-## Cheating( a trisa)<a name="inselaciune"></a>
+## Cheating( a trisa)<a id="inselaciune"></a>
 
 Forma corecta pe Dips(flotari la paralele) incepe cu coatele blocate si se termina cu umerii mai jos decat coatele. Aceasta lucreaza, in acelasi timp, cea mai mare cantitate de muschi. Iti lucreaza bratele, umerii si pieptul printr-o gama completa de miscare.Dar,de asemenea, ingreuneaza Dips-urile, deoarece corpul tau se deplaseaza pe o distanta mai mare. Multi oameni triseaza, coborand doar jumatate din drum. Dar acest lucru duce la jumatate din forta si castigurile musculare.
 
@@ -218,7 +218,7 @@ Treceti de paralela(break parallel) in partea de jos. Coborati-va pana cand umer
 
 Flotarile la paralele sunt mai grele atunci cand utilizati o gama completa de miscare. Dar acesta este motivul pentru care sunt mai eficienti pentru a dobandi forta si muschii in partea superioara a corpului. Nu va acel om care face Dips(flotari la paralele) cu 20 de kilograme atasate la centura, dar face doar jumatate de dip. Esti ca omul care se lauda cu Bench 300lb, dar fundul se ridica la fiecare repetare si el nu atinge niciodata pieptul. Nu este eficient si nu conteaza. Faceti-va Dips-urile in mod corespunzator.
 
-## Nu pot face niciun dip<a name="nu-pot-face-niciun-dips"></a>
+## Nu pot face niciun dip<a id="nu-pot-face-niciun-dips"></a>
 
 Dips te obliga sa-ti ridici greutatea. Acest lucru este adesea prea greu atunci cand sunteti la inceput. Este motivul pentru care prefer barele: sunt mai usor de adaptat/reglat. Sa presupunem ca cantaresti 75 kg ca mine, nu pornesti StrongLifts 5 × 5 cu 75 kg la genuflexiuni( Squats). Incepi cu bara goala de 20 kg. Dar nu puteti incepe mai usor cu Dips. Puteti slabi, dar acest lucru necesita timp si nu veti ajunge la 20 kg. Flotarile la paralele(Dips) sunt mai grele, deoarece trebuie sa incepi intens.
 
@@ -228,19 +228,19 @@ Puteti ruga, de asemenea, pe cineva sa va ajute prinzandu-va laturile cu mainile
 
 Pentru a deveni mai puternic la Dips, cat mai rapid, faceti Dips(flotari la paralele) zilnic. Puteti face usor Dips-uri acasa, punand doua scaune pe spate. Faceti dips de mai multe ori pe zi. Coborati incet pana cand picioarele tale ating podeaua. Ridicati-va si repetati. Dupa cateva saptamani veti avea puterea sa faceti un dips complet. Aceasta tehnica Pavel Tsatsouline numeste „Greasing The Groove”. Vei fi mai puternic la Dips(flotari la paralele) daca faci Dips(flotari la paralele) si ii faci frecvent.
 
-## Dureri de umar<a name="dureri-de-umar"></a>
+## Dureri de umar<a id="dureri-de-umar"></a>
 
 Flotarile la paralele va vor afecta umerii daca nu reusiti sa-I mentineti in pozitie. Nu lasa umerii sa se aplece inainte. Nu iti ridica umerii pana la nivelul urechilor. Impingeti umerii inapoi si in jos. Ridica-ti pieptul in partea de sus, inainte sa cobori. Respirati puternic inainte de a cobora si mentineti-va respiratia pe drumul in jos. Nu expirati sau veti pierde etanseitatea. Coborati, break parallel si reveniti. Expirati, ridicati pieptul, repetati.
 
 Asigurati-va ca nu mergeti prea jos. Trebuie sa folositi o gama completa de miscare pentru a obtine rezistenta maxima si muschi cu Flotarile la paralele. Dar asta nu inseamna ca ar trebui sa mergeti pana la capat pentru a obtine o intindere(stretch) mai mare. Majoritatea oamenilor nu au flexibilitate pentru a cobori adanc. Umerii dvs. se vor apleca, ceea ce ii pune in pericol. Coborati(dip) cu o gama completa de miscare. Dar opriti-va cand umerii va sunt sub coate. Nu este nevoie sa coborati mai mult.
 
-## Dureri in piept<a name="dureri-in-piept"></a>
+## Dureri in piept<a id="dureri-in-piept"></a>
 
 Durerea la nivelul toracelui sau a claviculei se intampla daca partea superioara a spatelui se rotunjeste in timpul Dips-ului. Partea superioara a spatelui se va rotunji daca nu reusiti sa va mentineti pieptul sus. Ridicati pieptul in partea de sus, inainte de a cobora. Mentineti-va forma umplandu-ti plamanii cu aer. Inspirati puternic, mentineti-o, apoi coboara. Treceti de paralela(break parallel) in partea de jos, fara a merge prea jos sau a expira. Apoi reveniti, blocati-va coatele si ridicati pieptul din nou. Tine-ti umerii in jos.
 
-## Variatii de dips<a name="variatii-de-dips"></a>
+## Variatii de dips<a id="variatii-de-dips"></a>
 
-## Dips(flotari la paralele) cu greutati(Weighted dips)<a name="weighted-dips"></a>
+## Dips(flotari la paralele) cu greutati(Weighted dips)<a id="weighted-dips"></a>
 
 ![Weighted Dips](./assets/weighted-dips.jpg)
 _Utilizati o curea pentru dip(dip belt) pentru a adauga greutate pe Dips_
@@ -262,19 +262,19 @@ Puteti face, de asemenea, Weighted Dips, tinand o gantera intre picioare. Dar ac
 
 Treceti la Weighted Dips(flotari la paralele) odata ce puteti face 10 Dips(flotari la paralele) cu o forma adecvata. Incepeti cu 2,5 kg / 5lb pentru doua seturi de cinci si adaugati greutate la fiecare antrenament. Cel mai bine este sa incarcati cate putin(microload). Dips-urile folosesc muschi mai mici, la fel ca [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press) si Overhead Press. Veti progresa mai mult daca adaugati doar 1 kg / 2lb la fiecare antrenament. Imi place sa fac doua seturi de cinci Weighted Dips(flotari la paralele) la sfarsitul antrenamentului, urmate de un set de Dips(flotari la paralele) doar cu greutate corporala pentru cat mai multe repetari.
 
-## Bench Dips<a name="bench-dips"></a>
+## Bench Dips<a id="bench-dips"></a>
 
 Bench Dips(flotari la paralele) sunt Dips(flotari la paralele) intre doua banci plane. Iti pui mainile pe banca din spate. Picioarele merg pe banca din fata ta. Ridica fundul de pe podea, indreptandu-ti bratele. Indoaie usor picioarele pentru a evita presiunea asupra articulatiilor genunchiului. Apoi coborati prin indoirea bratelor pana cand va treceti de paralela(break parallel). Ridicati-va si repetati. Puteti adauga greutate punand o farfurie pe coapse, in timp ce faceti Bench Dips.
 
 Bench Dips(flotari la paralele) sunt groaznice pentru umerii tai. Mainile tale nu sunt langa trunchiul ca atunci cand faci Dips(flotari la paralele) pe bare. Sunt in spatele tau, deoarece acolo este banca. Acest lucru face imposibil sa va mentineti umerii inapoi si in jos. Vor veni inainte. Si cu cat mergi mai adanc si mai greu, cu atat umerii iti vor veni mai in fata. Acest lucru accentueaza articulatiile umarului si le poate afecta. Nu faceti Bench Dips. Faceti pe bare.
 
-## Flotari(Dips) la inele<a name="ring-dips"></a>
+## Flotari(Dips) la inele<a id="ring-dips"></a>
 
 Dipsurile inelare(Flotari la inele) sunt Dips(flotari la paralele) care folosesc inele de gimnastica in loc de bare pentru dips(flotari la paralele). Prinde cele doua inele si sari pentru a ridica picioarele de pe podea. Indoiti-va bratele si coborati(dip) in timp ce tineti mainile aproape de corp, nu le lasati sa se abata. Treceti de paralela(break parallel), reveniti si repetati. Facand dips pe inele este mai greu decat pe bare paralele, deoarece inelele sunt instabile. Muschii tai trebuie sa te stabilizeze ceea ce adauga provocarii.
 
 Dar Flotari la inele(flotari la paralele) sunt periculoase pentru umeri. Avantajul lor principal este si dezavantajul lor major. Mainile tale trebuie sa stea aproape de corp pentru a-ti tine umerii stransi.Dar inelele lucreaza impotriva ta, deoarece nu sunt fixate. Ele se pot indeparta de corpul si poti pune umerii intr-o pozitie slaba, nefavorabila. Acest lucru va poate afecta muschii coafei rotatorii (rotator cuff muscles) care va tin umerii impreuna. Uitati de inele si faceti dips cu bare.
 
-## Aparate pentru dips (Dips Machines)<a name="aparatul-pentru-dips(dips-machine)"></a>
+## Aparate pentru dips (Dips Machines)<a id="aparatul-pentru-dips(dips-machine)"></a>
 
 The Assisted Dip Machine este un aparat care va ajuta sa faceti dips(flotari la paralele) atunci cand nu aveti rezistenta. Va asezati cu genunchii sau picioarele pe o platforma. Apoi apucati barele, coborati(dip) si reveniti. Aparatul te va ajuta sa uric prin ridicarea platformei care iti sustine genunchiului. Foloseste o greutatea de contrabalans pentru aceasta. Cu cat veti seta mai mult greutatea pe masina, cu atat va va oferi mai mult ajutor pe parcursul finalizarii Dips-urilor dvs.
 
