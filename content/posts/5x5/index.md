@@ -14,7 +14,7 @@ Programul StrongLifts 5×5 de formare a fortei consta din doua antrenamente...
 
 - Antrenament A: [Squat(Genuflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera), [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press), [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara)
 
-- Antrenament B: Squat, [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului) , [Indreptari(Deadlifts)](/exercitii/spate/indreptari)
+- Antrenament B: Squat, [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului), [Indreptari(Deadlifts)](/exercitii/spate/indreptari)
 
 Faceti trei antrenamente pe saptamana. Nu te antrena niciodata doua zile la rand sau sa faci doua antrenamente intr-o zi. Asteptati o zi inainte sa va faceti urmatorul antrenament. Acest lucru ofera corpului tau timp sa se recupereze, sa se intareasca si sa-si construiasca muschiul, astfel incat sa poti ridica mai mai mult la urmatorul antrenament. Alterneaza antrenamentele A si B de fiecare data cand te antrenezi.
 
@@ -54,7 +54,7 @@ Incepe cu o greutate cu care te simti comfortabil, astfel incat corpul tau sa se
 
 Daca nu ati facut niciodata aceste exercitii inainte, nu le-ati facut in ani de zile atunci incepeti cu cele mai mici greutati posibile. In acest fel va puteti acumula increderea si exersa o forma adecvata. Iata greutatile de pornire recomandate daca sunteti nou la ridicare...
 
-- Squat(Genoflexiuni cu haltera) , Bench Press , Presa deasupra capului cu bara : 20kg/45lb (Bara olimpica goala)
+- Squat(Genoflexiuni cu haltera), Bench Press, Presa deasupra capului cu bara : 20kg/45lb (Bara olimpica goala)
 - Indreptari : 40kg/95lb (bara goala cu o placa de 10kg/25lb pe fiecare parte)
 - Ramat cu haltera(Barbell row) : 30kg/ 65lb (bara goala cu 5kg/10lb pe fiecare parte)
 
@@ -198,7 +198,7 @@ StrongLifts 5×5 se bazeaza pe bunul simt. Daca esti un ganditor logic ca mine, 
 
 StrongLifts 5×5 se bazeaza pe rutina 5×5. Nu am inventat 5×5 - am scris doar un ghid definitiv. Nu este clar cine a inventat rutina 5×5, dar se pare ca a existat de aproape 100 de ani acum. Iata o scurta istorie despre originile sale...
 
-In „Muscle, Smoke and Mirrors” , Randy Roach a scris ca Milo Steinborn a adus [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) in SUA din Germania, in anii 1920. Power Racks nu existau inca, asa ca a pus bara vertical si apoi a lasat-o pe partea superioara a spatelui. Milo ar putea Squds 250kg/550lb asa de incalzire...
+In „Muscle, Smoke and Mirrors”, Randy Roach a scris ca Milo Steinborn a adus [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) in SUA din Germania, in anii 1920. Power Racks nu existau inca, asa ca a pus bara vertical si apoi a lasat-o pe partea superioara a spatelui. Milo ar putea Squds 250kg/550lb asa de incalzire...
 
 Culturistii americani erau uimiti si in curand au inceput sa faca Genoflexiuni cu haltera si ei. Antrenorul de haltere Mark Berry a castigat masa musculara de 25 de kilograme prin Squatting. Pana la sfarsitul anilor 30, el le spunea tuturor sa faca Genoflexiuni cu haltera in revista sa "Strength". Parea sa fi fost primul care a scris despre rutina 5×5.
 
@@ -295,7 +295,7 @@ Nu conteaza daca ridici mai putin decat celalalt tip. Atata timp cat va ajutati 
 
 ## Seturi si Repetari<a id="seturi-repetari"></a>
 
-Efectuati cinci seturi de cinci repetari (5x5) pe Squat(Genoflexiuni cu haltera) , Bench Press, Overhead si Rows. [Indreptari](/exercitii/spate/indreptari) doar un set de lucru de cinci repetari (1x5). Incalzire cu greutati usoare inainte de a incepe setul greu.
+Efectuati cinci seturi de cinci repetari (5x5) pe Squat(Genoflexiuni cu haltera), Bench Press, Overhead si Rows. [Indreptari](/exercitii/spate/indreptari) doar un set de lucru de cinci repetari (1x5). Incalzire cu greutati usoare inainte de a incepe setul greu.
 
 5x5 inseamna cinci seturi de cinci repetari cu aceeasi greutate. Asadar [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 5×5 90kg inseamna ca Squat(Genoflexiuni cu haltera aceasta greutate timp de cinci repetari pe toate cele cinci seturi. 1x5 inseamna un set de cinci repetari - nu cinci seturi cu o singura repetarre. Asadar, Indreptari 1x5 140kg este un set de lucru greu de unde tragi 140kg pentru cinci repetari.
 
@@ -371,7 +371,7 @@ Zilele de odihna sunt cruciale pentru a obtine rezultate la acest program. Greut
 
 De asemenea, antrenamentele provoaca oboseala. Iti cresc puterea, starea de fitness si rezistenta pe termen lung. Dar pe termen scurt iti obosesc corpul, muschii si mintea. Ai nevoie de zile de odihna pentru a incepe urmatorul antrenament. Altfel nu poti ridica mai multa greutate decat ai facut-o data trecuta.
 
-Prin urmare, a face doua antrenamente la rand nu functioneaza. Picioarele tale vor fi in continuare obosite pentru [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) , umerii inca obositi sa ridice greutatea, spatele inca obosit sa traga .
+Prin urmare, a face doua antrenamente la rand nu functioneaza. Picioarele tale vor fi in continuare obosite pentru [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera), umerii inca obositi sa ridice greutatea, spatele inca obosit sa traga .
 
 Programul va poate obliga sa va antrenati doua zile la rand. Din cand in cand este in regula, dar in fiecare saptamana iti va strica progresul. Daca este singura cale, imprastiati antrenamentele cat mai mult - unul dimineata devreme, celalalt seara tarziu a doua zi. Acest lucru ofera corpului tau mai mult timp de recuperare.
 
@@ -431,9 +431,9 @@ Cealalta problema cu inceperea cu greutati prea mari este aceea ca determina o f
 
 A incepe intens inseamna sa incerci sa iti accelerezi progresul. Crezi ca te va face mai puternic mai repede. Dar nu se intampla pentru ca sfarsesti a nu mai executa toate repetarile, obosit, sariti antrenamentele si trebuie sa reincepeti cu greutati mai mici. Veti crede ca programul nu functioneaza si veti simti ca renuntati.
 
-Amintiti-va fabula iepurelui care a pierdut cursa impotriva broastei testoasa. Nu vrei sa fi iepurele care incepe intens, devine dureros , te blochezi si apoi trebuie sa o iei de la capat. Vrei sa fii ca broasca testoasa –incepi usor, adaugand greutate constant si ajungand mai repede, evitand durerea si plafonarile pe parcurs.
+Amintiti-va fabula iepurelui care a pierdut cursa impotriva broastei testoasa. Nu vrei sa fi iepurele care incepe intens, devine dureros, te blochezi si apoi trebuie sa o iei de la capat. Vrei sa fii ca broasca testoasa –incepi usor, adaugand greutate constant si ajungand mai repede, evitand durerea si plafonarile pe parcurs.
 
-Greutatile de pornire depind de puterea si experienta ta. Descarcati foile de calcul si aplicatiile , acestea vor calcula ponderile de pornire pentru dvs. Iata ideea de baza...
+Greutatile de pornire depind de puterea si experienta ta. Descarcati foile de calcul si aplicatiile, acestea vor calcula ponderile de pornire pentru dvs. Iata ideea de baza...
 
 - **Daca ati facut aceste exercitii inainte, cu o forma adecvata, atunci incepeti cu 50% din numarul maxim**. Deci, daca puteti [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 5x100kg/220lb, incepeti cu 50kg/110lb. Acest lucru va fi usor, dar in doua luni veti castiga 110kg/245lb pentru 5×5 - mai mult decat ati inceput.
 - **Daca nu ati facut niciodata acest exercitiu sau nu le-ati practicat de multi ani, atunci incepeti cu haltera goala**. Puteti parea ridicol o perioada, dar greutatea va creste la fiecare antrenament. In trei luni, veti face Squat(Genoflexiuni cu haltera) 100kg/220lb pentru 5×5 - mai mult decat majoritatea oamenilor.
@@ -795,7 +795,7 @@ Exercitiile de izolare vizeaza muschii secundari, mici, care cresc mai incet ca 
 
 Exercitiile de izolare nu sunt necesara. StrongLifts 5×5 lucreaza fiecare muschi folosind exercitii compuse. Muschii bratului actioneaza pentru a trage greutatea pe bara(rows) si a o apasa pe presa(press). Ei sustin bara la fiecare exercitiu. Intre timp muschii abdomenului(abs) iti sustine coloana vertebrala. Iar gambele te stabilizeaza.
 
-Prin urmare, nu este necesar sa adaugati exercitii pentru a lucra acesti muschi direct. Regula 80/20 prevede ca 80% din rezultatele dvs. vor proveni din Squat(Genoflexiuni cu haltera), Bench , [Indreptari(Deadlifts)](/exercitii/spate/indreptari) , Overhead Press si Rows . Aceste exercitii lucreaza o multime de muschi cu greutati mari. Prin urmare, acestea declanseaza o crestere totala a muschilor.
+Prin urmare, nu este necesar sa adaugati exercitii pentru a lucra acesti muschi direct. Regula 80/20 prevede ca 80% din rezultatele dvs. vor proveni din Squat(Genoflexiuni cu haltera), Bench, [Indreptari(Deadlifts)](/exercitii/spate/indreptari), Overhead Press si Rows . Aceste exercitii lucreaza o multime de muschi cu greutati mari. Prin urmare, acestea declanseaza o crestere totala a muschilor.
 
 Dar majoritatea oamenilor nu ridica greutati mari. Ei incearca sa compenseze lipsa de intensitate cu cantitatea. Singurul mod in care poti face 5-7 exercitii de izolare dupa cele principale este daca ridici o greutate mica. Daca ai ridicat o masa mare, ai fi prea obosit sa faci mai mult de 1-2 exercitii in plus.
 
@@ -887,7 +887,7 @@ Doar exercitiile pentru brate(arm work) nu este suficienta pentru a obtine brate
 
 ## Muschii abdominali<a id="muschi-abdominali"></a>
 
-Principala functie a muschilor abdominali(abs) este sa va sprijiniti coloana vertebrala. Acestea se contracta pentru a mentine coloana vertebrala neutra atunci cand stai, te misti, [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) , [Indreptari](exerciti/spate/indreptari) etc. Acest lucru determina cresterea muschilor tai abdominali.
+Principala functie a muschilor abdominali(abs) este sa va sprijiniti coloana vertebrala. Acestea se contracta pentru a mentine coloana vertebrala neutra atunci cand stai, te misti, [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera), [Indreptari](exerciti/spate/indreptari) etc. Acest lucru determina cresterea muschilor tai abdominali.
 
 Abs-urile dvs. nu pot fi vizibile daca un strat de grasime le acopera. Majoritatea baietilor trebuie sa-si reduca grasimea din corp la 10% inainte de a-si putea vedea abs. Abdomenele interminabile nu ard grasimile locale. Trebuie sa scadeti grasimea totala a corpului pentru ca “patratelele” sa apara. Faceti acest lucru mai ales imbunatatindu-va alimentatia.
 
@@ -998,7 +998,7 @@ Muschii mai puternici rezista mai mult. Obosesc mai greu, deoarece fiecare misca
 
 Gandeste-te - alergatorii de maraton rareori trebuie sa renunte la alergare pentru ca nu mai au rasuflare. Au renuntat sa alerge pentru ca picioarele lor sunt obosite. Sportivii si echipele de astazi inteleg ca a fi mai puternic te face mai rezistent. De aceea, toti au REZISTENTA si antrenori pentru aceasta conditie.
 
-Acum, desigur, daca vrei sa fii bun la alergare pe o distanta lunga sau cu bicicleta, trebuie sa alergi/sa parcurgi distante lungi. La fel cum trebuie sa faci Squat(Genoflexiuni cu haltera) pentru a deveni bun la Squatting , trebuie sa alergi pentru a fi bun la alergare - cel putin pentru a imbunatati abilitatea de a alerga. Pentru a deveni mai eficient la ea.
+Acum, desigur, daca vrei sa fii bun la alergare pe o distanta lunga sau cu bicicleta, trebuie sa alergi/sa parcurgi distante lungi. La fel cum trebuie sa faci Squat(Genoflexiuni cu haltera) pentru a deveni bun la Squatting, trebuie sa alergi pentru a fi bun la alergare - cel putin pentru a imbunatati abilitatea de a alerga. Pentru a deveni mai eficient la ea.
 
 Provocarea este ca este greu sa fi bun la ambele. Antrenamentul de forta face ca alergatorii slabi de rezistenta sa fie mai buni la alergare pe distante mari. Insa alergarea pe distante mari nu face ca elevii slabi sa fie mai puternici la ridicare. In schimb, doare in momentul in care incercati sa dobanditi rezistanta, facandu-va mai putin exploziv si impiedicand recuperarea.
 
@@ -1023,7 +1023,7 @@ Puiul nu este creta. Acesta este talc si scade frecarea. Powerlifters pun puiul 
 Creta de bord nu este la fel cu creta de sala. Creta de bord este fabricata din sulfat de calciu. Creta gimnastica este fabricata din carbonat de magneziu. Este acelasi care folosesc alpinistii de piatra alba si gimnaste. Puteti gasi creta in majoritatea magazinelor de alpinism. Sau il puteti comanda online, link-uri...
 
 - **GSC Gym Chalk **. Opt blocuri pentru un total de 1lb. Aceasta ar trebui sa dureze cateva luni. Spargeti unul in bucati intr-o galeata. Apoi puneti-va pe palme, astfel incat sa va umple pliurile pielii. Este normal sa fie necesar sa reaplicati creta pe setul urmator.
-- **Galeata Primo Chalk , 1lb creta intr-o galeata convenabila**. Dublati pretul, dar o calitate mai mare. Am avut in trecut eczeme din creta. Acesta pare sa fie mai usor pe maini.
+- **Galeata Primo Chalk, 1lb creta intr-o galeata convenabila**. Dublati pretul, dar o calitate mai mare. Am avut in trecut eczeme din creta. Acesta pare sa fie mai usor pe maini.
 - **Creta lichida fiara **. Creta lichida nu lasa urme. Creta se dizolva in alcool. Pune-l pe palmele tale, precum dezinfectantul de mana. Dupa 10 sec, alcoolul se evapora si mainile tale sunt cretice. Folositi acest lucru daca sala de sport nu permite creta - nu lasa praf si functioneaza mai bine decat manusile.
 
 Nu veti avea nevoie de creta in primele saptamani de StrongLifts 5×5. Dar, odata ce greutatile se vor ingreuna, va fi nevoie de creta pentru ca Indreptari(Deadlifts) sa-l tina pe bara. Daca este cald in sala de gimnastica sau ai usor mainile transpirate, vei avea nevoie si de creta pe celelalte exercitii, astfel incat bara sa nu se poata deplasa si sa formeze o forma proasta.

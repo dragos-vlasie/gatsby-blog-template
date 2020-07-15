@@ -28,7 +28,6 @@ const Information = styled.div`
 `;
 
 const Tag = ({ pageContext, data }) => {
-  console.log('Tag -> data', data);
   const { posts, upperTag } = pageContext;
   // const upperTag = upperTag.charAt(0).toUpperCase() + upperTag.slice(1);
   const { html, frontmatter } = data.markdownRemark;

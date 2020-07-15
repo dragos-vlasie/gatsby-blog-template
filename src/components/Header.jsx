@@ -8,9 +8,9 @@ import Wave from '../elements/Wave';
 const Wrapper = styled.header`
   background: ${props => props.theme.gradient.rightToLeft};
   z-index: -1;
-  height: ${props => (props.big ? '650px' : '550px')};
+  height: ${props => (props.big ? '650px' : '450px')};
   @media (max-width: ${props => props.theme.breakpoints.m}) {
-    height: ${props => (props.big ? '600px' : '500px')};
+    height: ${props => (props.big ? '600px' : '400px')};
   }
   @media (max-width: ${props => props.theme.breakpoints.s}) {
     height: ${props => (props.big ? '500px' : '325px')};
@@ -69,7 +69,7 @@ const Header = ({ children, title, date, cover, big }) => {
     to: { opacity: 1 },
   });
   return (
-    <Wrapper big={true}>
+    <Wrapper big={false}>
       <Img fluid={cover || {} || [] || ''} />
       <Text>
         <animated.h1 data-testid="header-title" style={titleProps}>

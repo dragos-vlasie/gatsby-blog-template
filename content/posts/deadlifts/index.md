@@ -215,7 +215,7 @@ Indreptarea este mai mult pentru spate decat picioarele in comparatie cu [Genofl
 - **Spate**. Muschii spatelui se contracta pentru a va mentine coloana vertebrala neutra in timp ce gravitatia incearca sa o indoaie. Dorsalul(lats) tau mentine greutatea aproape de corp. Deadlifts sunt cel mai bun exercitiu pentru spate(back-builder), deoarece iti lucreaza intregul spate cu greutati mai grele decat orice alt exercitiu.
 - **Trapezul**. Muschii trapezului se contracta pentru a va mentine umerii la locul lor si a transfera forta in bara. Chiar si muschii umerilor si pieptului se contracta pentru a adauga sprijin. Cu cat ridici mai mult la Indreptari(Deadlift), cu cat trapezul este mai contractat, si asfel cu atat devine mai mari. Nu este nevoie sa dai umeri pe sapte.
 - **Abdomenul**. Muschii abdominali si oblicii se contracta pentru a va sprijini partea inferioara a spatelui. Cu cat Indreptarile(Deadlifts) sunt mai grele, cu atat devin mai puternice si mai musculare. Mancati corect si ii puteti vedea.
-- **Bratele**. Mainile tale tin bara. Acest lucru va consolideaza priza si antebratele. Dar toata parea de sus se contracta, in timpul Indreptarilor cu greutate mare, inclusiv bicepsul si tricepsul tau. Nu se indoaie, ci functioneaza izometric , ca si spatele tau, pentru a-ti mentine corpul in pozitie.
+- **Bratele**. Mainile tale tin bara. Acest lucru va consolideaza priza si antebratele. Dar toata parea de sus se contracta, in timpul Indreptarilor cu greutate mare, inclusiv bicepsul si tricepsul tau. Nu se indoaie, ci functioneaza izometric, ca si spatele tau, pentru a-ti mentine corpul in pozitie.
 
 Indreptarile sunt cel mai bun exercitiu pentru spatele tau. Adaugati Barbell [Ramat cu haltera(Barbell Row)](/exerciti/spate/ramat-cu-bara) si poate Tractiuni si nu aveti nevoie de mai mult pentru a construi un spate in forma de V . Ridicati multa greutate si puteti avea un fizic excelent facand doar doua-trei exercitii pe antrenament. Acesta este motivul pentru care StrongLifts 5 × 5 este atat de eficient.
 
@@ -271,7 +271,7 @@ Greutatea mare este imposibil de tras din degetele de la picioare. Bara se va mu
 
 Unii incep cu bara prea aproape. Tibia ta trebuie sa atinga bara doar in timpul pozitiei de inceput. Daca te atinge cand te ridici, tibia va impiedica bara sa se ridici inainte sa incepeti. Va trebui sa ramana aproape vertical, ceea ce provoaca un echilibru neplacut si este ineficient.
 
-Tibia ta va impinge de obicei bara pana la mijlocul piciorului daca este prea aproape. Acest lucru va pune intr-o pozitie mai puternica de a trage. Dar , din nou, este mai bine sa incepeti cu piciorul(talpa) la mijloc sub bara, decat sa mutati bara acolo mai tarziu. Cu cat pozitia de inceput este mai consistenta, cu atat forma ta este mai consistenta.
+Tibia ta va impinge de obicei bara pana la mijlocul piciorului daca este prea aproape. Acest lucru va pune intr-o pozitie mai puternica de a trage. Dar, din nou, este mai bine sa incepeti cu piciorul(talpa) la mijloc sub bara, decat sa mutati bara acolo mai tarziu. Cu cat pozitia de inceput este mai consistenta, cu atat forma ta este mai consistenta.
 Mijlocul talpii este mijlocul intregului tau picior. Cand stai in fata barei si privesti in jos, nu vei vedea partea picioarelor sub picioare. Prin urmare, majoritatea oamenilor vor pune sub bara mijlocul partii vizibile a piciorului. Dar acest lucru pune bara prea departe.
 
 Trucul simplu este sa-ti verifici talpa de incaltaminte. Gasiti-i centrul si amintiti-va de gaura de la siret de deasupra ei. Pentru mine este de obicei gaura cinci, dar acest lucru depinde de marca si marimea pantofilor tai (eu am 43). Pune gaura sub bara cand stai in fata ei. Poate arata prea aproape, dar nu va fi cazul daca ai facut-o bine.
@@ -552,7 +552,7 @@ Munciti din greu pentru a va incorda corpul intre repetari pentru a va bloca col
 ![The Mountain Indreptaris](./assets/the-mountain-deadlifts.jpg)
 _„The Mountain” este de 2,06m (6’9 ″) si Deadlifts 501 kg. El face indreptari, asa cum este prevazut in acest ghid._
 
-Multi Deadlifters puternici sunt inalti: Brian Shaw are 1,98m , Terry Hollands este 1,94m, Zydrunas Savickas este1,90m ″, Hafþór Július Björnsson are 2,06m inaltime. Si totusi, toti pot sa faca Indreptari(Deadlift) cu peste 400 kg.
+Multi Deadlifters puternici sunt inalti: Brian Shaw are 1,98m, Terry Hollands este 1,94m, Zydrunas Savickas este1,90m ″, Hafþór Július Björnsson are 2,06m inaltime. Si totusi, toti pot sa faca Indreptari(Deadlift) cu peste 400 kg.
 
 Se datoreaza faptului ca inaltimea ta nu conteaza. Uita-te la The Montain din imaginea de sus: trage cu capul neutru, cu umerii in fata barei, bara se trage peste picioare, etc. Urmeaza toate sfaturile pentru un Deadlift corect ca in acest ghid, deoarece Deadlifting pentru tipii inalti este acelasi ca pentru baieti de inaltime medie.
 
@@ -662,14 +662,14 @@ Efectueaza priza statica in ultimul set al Indreptarilor(Deadlift) al zilei . O 
 
 Grippers nu sunt atat de eficenti pentru a creste rezistenta la prindere pentru Deadlifts. Construiesc un tip de prindere diferit,ce nu este transferabil la Indreptari(Deadlifts).
 
-- **Deadlifts/Indreptarile au nevoie de suport de prindere** - puterea de a pastra mana inchisa astfel incat sa nu pierzi bara (gravitatea trage greutatea in jos , care deschid mainile)
-- **Aparat flexor pentru antebrat iti intareste priza la zdrobire** - puterea de a inchide mana impotriva unei rezistente externe (inchiderea capitanului Crush GrippersProdus , dand forta la strangeri de mana, etc )
+- **Deadlifts/Indreptarile au nevoie de suport de prindere** - puterea de a pastra mana inchisa astfel incat sa nu pierzi bara (gravitatea trage greutatea in jos, care deschid mainile)
+- **Aparat flexor pentru antebrat iti intareste priza la zdrobire** - puterea de a inchide mana impotriva unei rezistente externe (inchiderea capitanului Crush GrippersProdus, dand forta la strangeri de mana, etc )
 
 Acesta este motivul pentru care priza statica functioneaza mai bine decat aparatul flexor. Acestea iti antreneaza priza exact asa cum o folosesti la Deadlifts. In plus, dureaza doar 10 secunde la sfarsitul fiecarui set. Si nu trebuie sa cumparati echipamente suplimentare - aveti deja haltera. Va puteti economisi banii si puteti cumpara fripturi in schimb.
 
 Daca doriti oricum sa utilizati aparatul flexor, atunci nu faceti inchideri si dechideri rapide pentru repetitii. Pastrati priza inchisa pentru timp. Acesta va incerca sa deschida mana ca gravitatea in timpul Indreptarilor cu greutati mari. Tineti-va mana inchisa pentru a construi rezistenta de sprijin de care aveti nevoie pentru Deadlifts(Indreptari) grele.
 
-Tineti minte ca deja antrenati priza destul de dess. Fiecare exercitiu din StrongLifts 5 × 5 , viata de zi cu zi, etc. Folosirea aparatului flexor poate provoca dureri la nivelul cotului care va pot impiedica din a face exercitii. Ia-o incet. Daca doare, opreste-te.
+Tineti minte ca deja antrenati priza destul de dess. Fiecare exercitiu din StrongLifts 5 × 5, viata de zi cu zi, etc. Folosirea aparatului flexor poate provoca dureri la nivelul cotului care va pot impiedica din a face exercitii. Ia-o incet. Daca doare, opreste-te.
 
 ## Echipament<a id="echipament"></a>
 
@@ -723,9 +723,9 @@ Centura trebuie sa aiba aceeasi latime, pentru a oferi abdomenului o suprafata m
 - **Cureaua sportivului Bestbelt**. Multe persoane le plac aceste curele, de calitate.
 - **Inzer Forever Belt**. 10mm, 4 ″ latime, o singura prong.
 
-Am Inzer - 10mm si prong single (mai usor de pus decat 13mm/double prong). Are 4 ″ latime si se potriveste bine in ciuda trunchiului meu scurt. Niciodata nu doare , dar am purta mai mare pe Deadlfits decat Genuflexiuni .
+Am Inzer - 10mm si prong single (mai usor de pus decat 13mm/double prong). Are 4 ″ latime si se potriveste bine in ciuda trunchiului meu scurt. Niciodata nu doare, dar am purta mai mare pe Deadlfits decat Genuflexiuni .
 
-Nu purtati centura stransa sau va raniti coastele. Curelele nu sunt corsete. Purtati-o peste buric, mai sus decat pe [Genoflexiuni cu haltera](/exercitii/picioare/genuflexiuni-cu-haltera) , astfel incat sa nu iti apese in solduri cand incepeti Indreptarile. Daca sunteti scurt cu un trunchi mic, o centura lata de 3 "sau 2,5" s-ar putea potrivi mai bine pentru Deadlifts.
+Nu purtati centura stransa sau va raniti coastele. Curelele nu sunt corsete. Purtati-o peste buric, mai sus decat pe [Genoflexiuni cu haltera](/exercitii/picioare/genuflexiuni-cu-haltera), astfel incat sa nu iti apese in solduri cand incepeti Indreptarile. Daca sunteti scurt cu un trunchi mic, o centura lata de 3 "sau 2,5" s-ar putea potrivi mai bine pentru Deadlifts.
 
 ## Chingi(curele pentru priza)<a id="chingi(curele-pentru-priza)"></a>
 
@@ -858,7 +858,7 @@ Acum trage INCET. Ridicati bara pana cand simtiti ca bara atinge partea superioa
 
 Multi tipi, in special cei din crossfitt se pare ca ar vrea sa lase greutatea din varful Indreptarilor. Se pare ca exista trei motive pentru care fac acest lucru:
 
-1. Le este frica sa nu-i doara spatele. Usor: drumul in jos este exact opusul drumului sus - bara aproape, spatele neutru. Daca nu va puteti descurca la ridicare , nu ar trebui sa va descurcati la coborare.
+1. Le este frica sa nu-i doara spatele. Usor: drumul in jos este exact opusul drumului sus - bara aproape, spatele neutru. Daca nu va puteti descurca la ridicare, nu ar trebui sa va descurcati la coborare.
 2. Se lovesc in genunchi. Usor de asemenea: incetati sa va aplecati doar genunchii si indoiti si soldurile. Miscati-va soldurile inapoi si mentineti genunchii inapoi. Acest lucru creeaza spatiu pentru haltera.
 3. Vor sa atraga atentia. Atunci cand te plangi sau tipete nu sunt suficient, trebuie doar sa dai cu greutatea de podea. Nu pacalesc pe nimeni, cand se pare ca greutate este doar 100 kg...
 
@@ -933,7 +933,7 @@ Solutia este o Indreptare cu un spate inferior neutru. Incepeti cu acel arc natu
 
 Resetati coloana vertebrala intre repetari. Spatele tau va obosi si va dori sa se rotunjeasca. Puteti evita acest lucru setandu-va intr-o pozitie puternica de fiecare data. Asta inseamna ca iti ridici pieptul din nou, iti pui din nou coloana vertebrala in pozitie neutra, contractatati-va din nou si respirati din nou. Abia acum tragi.
 
-Nu incepeti cu spatele indoit si incercati sa il obtineti neutru in timpul ridicarii. In primul rand , asta functioneaza rar. Doi, dr. Stuart McGill Phd spune ca acest lucru este si mai rau pentru coloana vertebrala decat ridicarea cu spatele indoit. NU MISCATI SPATELE IN TIMPUL RIDICARII.
+Nu incepeti cu spatele indoit si incercati sa il obtineti neutru in timpul ridicarii. In primul rand, asta functioneaza rar. Doi, dr. Stuart McGill Phd spune ca acest lucru este si mai rau pentru coloana vertebrala decat ridicarea cu spatele indoit. NU MISCATI SPATELE IN TIMPUL RIDICARII.
 
 Intinzandu-va hamstrings rareori rezolva rotunjirea spatelui inferior pe Indreptari(Deadlifts). Problema nu este ca hamstrings-ul tau este incordat. Problema este ca partea inferioara a spatelui nu este suficient de incordat. E slabit. Tine l strans inainte de tragere. Daca nu puteti obtine acel arc natural, ridicati soldurile la tavan in timpul pozitiei de start.
 
@@ -1072,7 +1072,7 @@ Ar trebui sa faci Indreptari. Cu cat mai repede cu atat mai bine. Pentru ca este
 
 Iata cum functioneaza: fiecare repetitie fara a va rani va sporeste increderea. Crezi ca vei fi bine pentru ca ai fost bine data trecuta. Asa ca adaugati greutate si daca sunteti din nou in regula, obtineti un alt impuls in incredere. Acest lucru creeaza o bucla de feedback pozitiv care invinge frica.
 
-Frica in sine nu dispare niciodata. Inca am frica uneori cand ma apropii de greutati maxime , iar asta in ciuda ridicarii de aproape 6 ani. Diferenta este ca experienta m-a invatat cum sa fac fata fricii. Este destul de simplu: trebuie sa devii confortabil, fiind incomod.
+Frica in sine nu dispare niciodata. Inca am frica uneori cand ma apropii de greutati maxime, iar asta in ciuda ridicarii de aproape 6 ani. Diferenta este ca experienta m-a invatat cum sa fac fata fricii. Este destul de simplu: trebuie sa devii confortabil, fiind incomod.
 
 Ceea ce nu functioneaza este sa inlocuim Deadlifts cu masini sau alte exercitii care arata similar. Acest lucru nu va va face mai confortabil la Indreptari(Deadlifts). Nu este o pregatire specifica. Trebuie sa faci Indreptari pentru a devenii mai bun la ele. Iata cum:
 
@@ -1226,7 +1226,7 @@ Atarnati pe bara de tractiune cat puteti. De obicei fac seturi de pana la un min
 
 Nu. Termenele nu sunt [Genoflexiuni cu haltera](/exercitii/picioare/genuflexiuni-cu-haltera). Sunt Deadlifts. Daca incerci sa golesti greutatea, vei incepe cu soldurile prea mici. Se vor termina mai departe de bara, ceea ce face ca greutatea sa fie mai greu de tras. Tibiile tale vor deveni si mai multe, astfel incat le vei lovi pe drum. Nu merge.
 
-Exista unele lifters puternice de pozitia de inceput , care intr - o pozitie Genuflexiuni scazuta inainte de deadlifting greutatea. Elevul olimpic rus Mikhael Koklyaev face acest lucru, de exemplu. Verificati imaginea de mai jos ..
+Exista unele lifters puternice de pozitia de inceput, care intr - o pozitie Genuflexiuni scazuta inainte de deadlifting greutatea. Elevul olimpic rus Mikhael Koklyaev face acest lucru, de exemplu. Verificati imaginea de mai jos ..
 
 ![Indreptari Mikhael Koklyaev](./assets/deadlift-mikhael.jpg)
 _Mikhael Koklyaev porneste intr-o pozitie joasa. Dar soldurile lui se ridica inainte ca greutatea sa paraseasca podeaua._
@@ -1260,7 +1260,7 @@ In plus, recordurile mondiale nu reflecta intotdeauna modul in care sunt Deadlif
 
 Si s-ar putea sa se rotunjeasca mai putin decat credeti. Deadlifters puternici pot avea muschi uriasi ai spatelui care se revarsa. Acest lucru poate crea un aspect mai rotunjit al coloanei vertebrale superioare. Partea inferioara a spatelui poate parea mai uniforma, daca muschii spatelui mai mari umplu curba interioara normala a coloanei vertebrale.
 
-Acestea fiind spuse , multi Deadlifters de succes au tras stilul rotunjit. Konstantins Konstantinovs (426 kg/939lb fara centura in 2009), Bob People (329 kg/725lb cantarind doar 82,5 kg/181lb in 1949), Vince Anello (373 kg/821lb care a fost de 4 ori mai mare decat corpul sau), etc.
+Acestea fiind spuse, multi Deadlifters de succes au tras stilul rotunjit. Konstantins Konstantinovs (426 kg/939lb fara centura in 2009), Bob People (329 kg/725lb cantarind doar 82,5 kg/181lb in 1949), Vince Anello (373 kg/821lb care a fost de 4 ori mai mare decat corpul sau), etc.
 
 Avantajul tragerii cu spatele rotunjit este ca iti coboara umerii si iti apropie soldurile de bara. Umerii inferiori scad intervalul de miscare. Bara mai aproape de solduri iti scurteaza artificial coapsele (mai ales daca sunt lungi ca ale mele). Eficienta creste si astfel puteti ridica greutatea mai grea.
 
@@ -1275,7 +1275,7 @@ Observati si modul in care Konstanstinovs mentine curba vertebrala cu care se st
 ![Konstantinovs Indreptari](./assets/deadlift-konstantinovs.jpg)
 _Konstantinovs nu se rotunjeste complet si mentine curba in coloana vertebrala_
 
-Cel mai important, Konstantinovs este Deadlifting de ani buni. Spatele si abdomenulul lui sunt mai puternice. Ii protejeaza coloana vertebrala mai mult impotriva ranilor. De asemenea , el a perfectat sale tehnica prin ani de practica. Rotunjite-spate Deadlifters incearca sa imite l aiba muschii slabi si forma rea.
+Cel mai important, Konstantinovs este Deadlifting de ani buni. Spatele si abdomenulul lui sunt mai puternice. Ii protejeaza coloana vertebrala mai mult impotriva ranilor. De asemenea, el a perfectat sale tehnica prin ani de practica. Rotunjite-spate Deadlifters incearca sa imite l aiba muschii slabi si forma rea.
 
 Este un lucru sa rotunjiti usor atunci cand incercati un PR o data pe an. Este un alt lucru sa o faci de fiecare data cand ai Deadlift. Dar unii oameni cauta modalitati de a-si rationaliza forma proasta - „ Konstantinovs o face, asa ca de ce nu pot?” Pentru ca nu esti el! Iti lipseste experienta si forta.
 
@@ -1287,7 +1287,7 @@ Deadlift mai mult. Acesta este cel mai bun mod de a ajunge la patru farfurii (18
 
 Acest lucru nu inseamna ca ar trebui sa Deadlift zilnic. Inseamna ca cresterea Deadlift-urilor fara Deadlifting nu functioneaza. Tragerea de sumo in schimb nu functioneaza nici ea. Vrei sa te perfectionezi la pian, trebuie sa canti la pian - nu la chitara. Acelasi lucru este aici: trebuie sa Deadlift pentru a va mari Deadlift.
 
-Cel mai simplu, cel mai eficient program pentru a creste Indreptare dvs. la 180 kg/400lb este StrongLifts 5 × 5 . Poate dubla cu usurinta Deadlift-ul in 12 moths daca incepeti lumina, folositi forma corecta si adaugati 5lb/2,5 kg fiecare antrenament. Cititi ghidul , urmariti videoclipurile si folositi aplicatiile pentru a va ajuta.
+Cel mai simplu, cel mai eficient program pentru a creste Indreptare dvs. la 180 kg/400lb este StrongLifts 5 × 5 . Poate dubla cu usurinta Deadlift-ul in 12 moths daca incepeti lumina, folositi forma corecta si adaugati 5lb/2,5 kg fiecare antrenament. Cititi ghidul, urmariti videoclipurile si folositi aplicatiile pentru a va ajuta.
 
 Cresterea Deadlift de la 0 la 100-120 kg/220-265lb este usor. Trebuie doar sa Deadlift in mod constant si sa adaugati greutate in timp. Detaliile conteaza mai mult pe masura ce devii mai puternic si ajungi la cele trei si apoi patru placi Deadlift. Iata cateva sfaturi care sa te ajute sa ajungi acolo ...
 
@@ -1303,7 +1303,7 @@ Cel mai important, ciocneste-te pe tehnica ta. Fiecare campion mortal se ridica 
 
 Cel mai bun mod este sa obtineti feedback de la un antrenor care stie cum sa Deadlift cu o forma adecvata. Cineva care poate Deadlift de cel putin 400lb. Cineva care nu s-a nascut puternic, dar a trebuit sa munceasca din greu pentru a-si creste Deadlifts. Cineva, prin urmare, intelege ce trebuie. Cineva care nu consuma droguri.  
 Poate nu gasesti un antrenor unde locuiesti. Nu puteam in Belgia. Asa ca am rezolvat asta prin inregistrarea video a lifturilor pentru a primi feedback. Tapeaza-te din lateral pentru a putea vedea ce faci. Examinati videoclipurile dintre seturi si post-antrenament. Apoi incearca sa imbunatatesti data viitoare cand ai Deadlift.
-Iata care sunt principalele lucruri de cautat. Ia - astea dreapta , si tu esti deja 80% acolo.
+Iata care sunt principalele lucruri de cautat. Ia - astea dreapta, si tu esti deja 80% acolo.
 
 - **Pozitia de inceput corecta** - bara peste mijlocul piciorului, omoplati peste bara, tibia impotriva barei
 - **Coloanei vertebrale neutre** - cap neutru, piept in sus, arcul normal al spatelui inferior

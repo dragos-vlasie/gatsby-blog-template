@@ -402,7 +402,7 @@ Incercati: mergeti la sala, faceti incalzirea si veti vedea ca muschii se vor si
 
 ### Pot face StrongLifts 5×5 in fiecare zi?
 
-Nu. Pentru ca asa cum am explicat mai sus , corpul tau are nevoie de zile de odihna pentru a se reface de la stresul ridicarii greutatilor. Daca te antrenezi in fiecare zi, corpul tau nu ajunge sa se odihneasca corect pentru urmatorul antrenament. Dupa un timp, vei incepe sa sari anumite repetari si nu vei mai adauga greutate la fiecare antrenament. Atunci vei incepe sa adaugi zile de odihna.
+Nu. Pentru ca asa cum am explicat mai sus, corpul tau are nevoie de zile de odihna pentru a se reface de la stresul ridicarii greutatilor. Daca te antrenezi in fiecare zi, corpul tau nu ajunge sa se odihneasca corect pentru urmatorul antrenament. Dupa un timp, vei incepe sa sari anumite repetari si nu vei mai adauga greutate la fiecare antrenament. Atunci vei incepe sa adaugi zile de odihna.
 
 Majoritatea oamenilor nu trebuie sa se instruiasca in fiecare zi pentru a obtine rezultate. Obtineti o multime de rezultate antrenandu-te deja de trei ori pe saptamana. Ma antrenez din 1999 si nu ma antrenez de mai mult de patru ori pe saptamana. Puteti deveni mai puternici si mai musculosi decat majoritatea oamenilor cu doar trei antrenamente pe saptamana.
 
@@ -489,7 +489,7 @@ De asemenea, ii puteti trimite linkul catre acest ghid, pentru a-l putea citi el
 
 Daca va este frica sa nu va raniti, asta se poate intampla la orice varsta - asigurati-va ca va incalziti corect si folositi o postura adecvata. Daca va este frica ca nu veti avea castiguri - veti face, veti progresa.
 
-Se pare ca unii tipi cred ca sunt prea batrani pentru a face acest lucru. Cred ca pentru ca faci asta te simti batran. Gandirea si comportamentul unui batran , te face sa te simti batran. Incepeti antrenamentul si veti incepe sa va simtiti mai tineri.
+Se pare ca unii tipi cred ca sunt prea batrani pentru a face acest lucru. Cred ca pentru ca faci asta te simti batran. Gandirea si comportamentul unui batran, te face sa te simti batran. Incepeti antrenamentul si veti incepe sa va simtiti mai tineri.
 
 ### Ce zici de stretching?
 

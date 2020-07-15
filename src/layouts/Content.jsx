@@ -8,7 +8,7 @@ const Wrapper = styled.div`
   padding: 25px;
   max-width: 50rem;
   margin: auto;
-  margin-top: -5rem;
+  margin-top: ${props => (props.page ? '0' : '-3rem')};
   z-index: 1;
   ${prism};
   p,
@@ -65,9 +65,11 @@ const Wrapper = styled.div`
   }
 `;
 
-const Content = ({ input }) => (
-  <Wrapper dangerouslySetInnerHTML={{ __html: input }} />
-);
+const Content = ({ input, page }) => {
+  console.log('Content -> page', page);
+
+  return <Wrapper page={page} dangerouslySetInnerHTML={{ __html: input }} />;
+};
 
 export default Content;
 
