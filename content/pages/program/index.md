@@ -5,48 +5,48 @@ title: 'Program'
 published: true
 ---
 
-## Programe de forță și ghiduri de instruire
+## Programe de forta si ghiduri de instruire
 
-Oamenii fac pregătirea mai complicată decât este.
+Oamenii fac pregatirea mai complicata decat este.
 
-Cel mai important lucru pentru a deveni mai puternic este să ridici mai multă greutate. Încercați să ridicați cel puțin 1kg / 2lb mai mult decât data trecută. Puterea ta va urca.
+Cel mai important lucru pentru a deveni mai puternic este sa ridici mai multa greutate. Incercati sa ridicati cel putin 1kg / 2lb mai mult decat data trecuta. Puterea ta va urca.
 
-Pentru ca acest lucru să funcționeze, trebuie să utilizați exerciții mari, compuse precum Squats, Bench și Deadlifts.
+Pentru ca acest lucru sa functioneze, trebuie sa utilizati exercitii mari, compuse precum Squats, Bench si Deadlifts.
 
-Desigur, nu puteți adăuga greutate pentru totdeauna. Dar puteți adăuga greutate mai mult decât credeți.
+Desigur, nu puteti adauga greutate pentru totdeauna. Dar puteti adauga greutate mai mult decat credeti.
 
-## Programe de formare a forței
+## Programe de formare a fortei
 
-- [StrongLifts 5 × 5](program/full-body/5x5) - pentru începători care nu au ridicat niciodată greutăți, sau Squat mai puțin <140kg / 300lb.
-- [Madcow 5 × 5](/madcow-5x5/) - pentru elevii intermediari care pot gheata cel puțin 140 kg / 300lb chiar acum
-- [Smolov](/smolov/) - rutină specializată pentru a adăuga rapid până la 100lb în Squat în 13 săptămâni
+- [StrongLifts 5 × 5](program/full-body/5x5) - pentru incepatori care nu au ridicat niciodata greutati, sau Squat mai putin <140kg / 300lb.
+- [Madcow 5 × 5](/madcow-5x5/) - pentru elevii intermediari care pot gheata cel putin 140 kg / 300lb chiar acum
+- [Smolov](/smolov/) - rutina specializata pentru a adauga rapid pana la 100lb in Squat in 13 saptamani
 
-## Construirea mușchiului
+## Construirea muschiului
 
-Unul dintre efectele secundare majore ale câștigării forței fizice este construirea masei musculare.
+Unul dintre efectele secundare majore ale castigarii fortei fizice este construirea masei musculare.
 
-Mușchii dvs. se contractă pentru a ridica greutățile. Cu cât crești mai mare greutatea, cu atât mușchii îți lucrează mai greu. Mușchiul tău crește pentru a muta acele greutăți mai mari.
+Muschii dvs. se contracta pentru a ridica greutatile. Cu cat cresti mai mare greutatea, cu atat muschii iti lucreaza mai greu. Muschiul tau creste pentru a muta acele greutati mai mari.
 
-Acesta este motivul pentru care rezistența este dimensiunea.
+Acesta este motivul pentru care rezistenta este dimensiunea.
 
-- [Cum se construiește mușchi](/build-muscle/)
-- [Cum se construiește arme mai mari](/bigger-arms/)
-- [Cum se construiește piept mai mare](/bigger-chest/)
+- [Cum se construieste muschi](/build-muscle/)
+- [Cum se construieste arme mai mari](/bigger-arms/)
+- [Cum se construieste piept mai mare](/bigger-chest/)
 
-## Pierderea grăsimilor
+## Pierderea grasimilor
 
-Deoarece antrenamentul de forță construiește mușchi, acesta previne, de asemenea, pierderea musculară atunci când faceți dieta pentru pierderea de grăsime.
+Deoarece antrenamentul de forta construieste muschi, acesta previne, de asemenea, pierderea musculara atunci cand faceti dieta pentru pierderea de grasime.
 
-Pierderea grăsimii este inutilă dacă nu construiți mușchi. Ideea este să construiți un corp atrăgător, nu să sfârșiți cu pielea grasă sau cu pielea grasă.
+Pierderea grasimii este inutila daca nu construiti muschi. Ideea este sa construiti un corp atragator, nu sa sfarsiti cu pielea grasa sau cu pielea grasa.
 
-- [Cum să scapi de grăsime](/lose-fat/)
-- [Cum să pierzi grăsimea din burtă](/belly-fat/)
-- [Cum să-ți pierzi bărbătele boabe](/man-boobs/)
+- [Cum sa scapi de grasime](/lose-fat/)
+- [Cum sa pierzi grasimea din burta](/belly-fat/)
+- [Cum sa-ti pierzi barbatele boabe](/man-boobs/)
 
-## Creștere în greutate
+## Crestere in greutate
 
-Dacă sunteți slab, va trebui să mâncați mai multe calorii pentru a câștiga în greutate.
+Daca sunteti slab, va trebui sa mancati mai multe calorii pentru a castiga in greutate.
 
-Ridicarea greutăților va crea musculare. Însă aveți nevoie de un surplus caloric pentru a vă crește greutatea corpului.
+Ridicarea greutatilor va crea musculare. Insa aveti nevoie de un surplus caloric pentru a va creste greutatea corpului.
 
-- [Cum să câștigi greutate](/gain-weight/)
+- [Cum sa castigi greutate](/gain-weight/)
