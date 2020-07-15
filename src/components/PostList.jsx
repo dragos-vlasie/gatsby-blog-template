@@ -23,10 +23,14 @@ const Wrapper = styled.article`
   }
 
   @media (max-width: 1000px) {
+    &:first-of-type {
+      max-width: 100%;
+      flex-basis: 100%;
+    }
     flex-basis: calc(99.9% * 1 / 2 - 1rem);
     max-width: calc(99.9% * 1 / 2 - 1rem);
     width: calc(99.9% * 1 / 2 - 1rem);
-    height: 18rem;
+    height: 15rem;
   }
 
   @media (max-width: 700px) {
