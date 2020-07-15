@@ -1,11 +1,12 @@
 import React from 'react';
-import { Link } from 'gatsby';
+import { Link, graphql } from 'gatsby';
 import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { Layout, Container } from 'layouts';
 import { Header } from 'components';
 import config from '../../config/site';
+import Content from '../layouts/Content';
 
 const StyledLink = styled(Link)`
   color: ${props => props.theme.colors.white.light};
@@ -26,18 +27,21 @@ const Information = styled.div`
   }
 `;
 
-const Tag = ({ pageContext }) => {
-  const { posts, tagName } = pageContext;
-  console.log('posts:', posts);
-  console.log('tagName:', tagName);
-  const upperTag = tagName.charAt(0).toUpperCase() + tagName.slice(1);
+const Tag = ({ pageContext, data }) => {
+  console.log('Tag -> data', data);
+  const { posts, upperTag } = pageContext;
+  // const upperTag = upperTag.charAt(0).toUpperCase() + upperTag.slice(1);
+  const { html, frontmatter } = data.markdownRemark;
+  const image = frontmatter.cover.childImageSharp.fluid;
+
   return (
     <Layout>
-      <Helmet title={`${tagName} | ${config.siteTitle}`} />
-      <Header title={upperTag}>
+      <Helmet title={`${upperTag} | ${config.siteTitle}`} />
+      <Header title={upperTag} cover={image}>
         <StyledLink to="/tags">All Tags</StyledLink>
       </Header>
       <Container>
+        <Content input={html} />
         <Information>
           {posts.map((post, index) => (
             <Link
@@ -58,6 +62,33 @@ export default Tag;
 Tag.propTypes = {
   pageContext: PropTypes.shape({
     posts: PropTypes.array,
-    tagName: PropTypes.string,
+    upperTag: PropTypes.string,
   }),
 };
+
+export const query = graphql`
+  query($upperTag: String!) {
+    markdownRemark(frontmatter: { title: { eq: $upperTag } }) {
+      html
+      frontmatter {
+        date
+        title
+        tags
+        cover {
+          childImageSharp {
+            fluid(
+              maxWidth: 900
+              quality: 85
+              duotone: { highlight: "#386eee", shadow: "#2323be", opacity: 60 }
+            ) {
+              ...GatsbyImageSharpFluid_withWebp
+            }
+            resize(width: 1200, quality: 90) {
+              src
+            }
+          }
+        }
+      }
+    }
+  }
+`;

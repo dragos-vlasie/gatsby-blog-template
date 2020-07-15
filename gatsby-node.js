@@ -13,6 +13,7 @@ exports.createPages = ({ graphql, actions }) => {
         `
           query {
             allMarkdownRemark(
+              filter: { fileAbsolutePath: { regex: "/posts/" } }
               sort: { order: ASC, fields: [frontmatter___date] }
             ) {
               edges {
@@ -63,12 +64,13 @@ exports.createPages = ({ graphql, actions }) => {
         tags.forEach(tagName => {
           const posts = postsByTag[tagName];
           const kebabcase = tagName.split(' ').join('-');
+          const upperTag = tagName.charAt(0).toUpperCase() + tagName.slice(1);
           createPage({
             path: `/${kebabcase}`,
             component: tagPosts,
             context: {
               posts,
-              tagName,
+              upperTag,
             },
           });
         });
@@ -77,8 +79,7 @@ exports.createPages = ({ graphql, actions }) => {
         posts.forEach(({ node }, index) => {
           const path = node.frontmatter.path;
           const prev = index === 0 ? null : posts[index - 1].node;
-          const next =
-            index === posts.length - 1 ? null : posts[index + 1].node;
+          const next = index === posts.length - 1 ? null : posts[index + 1].node;
 
           createPage({
             path: `/${node.frontmatter.tags}/${node.frontmatter.subCategory}${path}`,

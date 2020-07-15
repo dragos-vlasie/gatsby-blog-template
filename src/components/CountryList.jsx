@@ -1,10 +1,10 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 import styled from '@emotion/styled';
 import PropTypes, { element } from 'prop-types';
 import { Link } from 'gatsby';
-import PostList from './PostList'
+import PostList from './PostList';
 
-import Country from './Country'
+import Country from './Country';
 const Wrapper = styled.div`
   display: flex;
   flex-direction: row;
@@ -54,15 +54,14 @@ const PostWrapper = styled.div`
   }
 `;
 
-const CountryList = ( {data} ) => {
-  console.log('data:', data)
+const CountryList = ({ data }) => {
   const edges = data.edges;
   const [continent, setContinent] = useState();
   return (
     <Wrapper>
       <Row>
         <ColumnSmall>
-          {edges.map(({node}) => {
+          {edges.map(({ node }) => {
             const { id, frontmatter } = node;
             const { tags } = frontmatter;
             return (
@@ -79,8 +78,8 @@ const CountryList = ( {data} ) => {
           <PostWrapper>
             {edges.map(({ node }) => {
               const { id, excerpt, frontmatter } = node;
-              const { cover, path, title, date,tags } = frontmatter;
-              if(tags===continent) {
+              const { cover, path, title, date, tags } = frontmatter;
+              if (tags === continent) {
                 return (
                   <PostList
                     key={id}
@@ -90,8 +89,8 @@ const CountryList = ( {data} ) => {
                     date={date}
                     excerpt={excerpt}
                   />
-                  );
-                }
+                );
+              }
             })}
           </PostWrapper>
         </ColumnLarge>
@@ -101,6 +100,5 @@ const CountryList = ( {data} ) => {
 };
 
 export default CountryList;
-
 
 CountryList.propTypes = {};

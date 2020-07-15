@@ -43,7 +43,7 @@ const NavBar = () => (
     </StyledLink>
     <Nav>
       <Link to="/exercitii">Exercitii</Link>
-      <Link to="/program-de-antrenament">Program</Link>
+      <Link to="/program">Program</Link>
       <Link to="/blog">Alimentatie</Link>
     </Nav>
   </Headroom>

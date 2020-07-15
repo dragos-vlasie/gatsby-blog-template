@@ -4,9 +4,7 @@ import { Layout, Container } from 'layouts';
 import { Header, TagsBlock } from 'components';
 
 const Tags = ({ pageContext }) => {
-  console.log('pageContext:', pageContext)
   const { tags } = pageContext;
-  console.log('tags:', tags)
 
   return (
     <Layout>
