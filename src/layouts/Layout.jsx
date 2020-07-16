@@ -63,7 +63,7 @@ const Layout = ({ children }) => (
             list-style: none;
           }
 
-          @media (max-width: ${theme.breakpoints.m}) {
+          @media (max-width: ${theme.breakpoints.s}) {
             .contents .contents-ul {
               column-count: 1;
               column-gap: 18%;

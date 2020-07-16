@@ -6,8 +6,8 @@ import styled from '@emotion/styled';
 import { Header, PostList } from 'components';
 import { Layout } from 'layouts';
 import FadeIn from '../elements/FadeIn';
-import CountryList from '../components/CountryList';
 import Content from '../layouts/Content';
+import Button from '../elements/Button';
 
 const PostWrapper = styled.div`
   display: flex;
@@ -21,6 +21,10 @@ const PostWrapper = styled.div`
   @media (max-width: 700px) {
     margin: -8rem 1rem 1rem 1rem;
   }
+`;
+
+const CenterContainer = styled.div`
+  display: flex;
 `;
 
 const Index = ({ data }) => {
@@ -48,6 +52,11 @@ const Index = ({ data }) => {
         </PostWrapper>
       </FadeIn>
       <Content input={html} page={true} />
+      <CenterContainer>
+        <Button to="/contact" type="primary" role="button">
+          Click sa acesati Programul StrongLifts 5x5
+        </Button>
+      </CenterContainer>
     </Layout>
   );
 };

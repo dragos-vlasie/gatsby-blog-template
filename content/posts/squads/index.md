@@ -8,7 +8,7 @@ subCategory: ['picioare']
 published: true
 ---
 
-## Cum sa faci genuflexiuni(Squats) cu o forma corecta: Ghidul definitiv
+## Cum sa faci genuflexiuni(Squats) cu o forma corecta: Ghidul complet
 
 ![Stronglift-squat](./assets/stronglifts-squat.jpg)
 _Cum sa faci genuflexiuni(Squts) cu un barbell: indoaie-ti picioarele pana cand coapsele sunt paralele cu solul. Apoi reveniti._

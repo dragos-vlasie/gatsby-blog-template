@@ -28,6 +28,7 @@ const Information = styled.div`
 `;
 
 const Tag = ({ pageContext, data }) => {
+  console.log('Tag -> pageContext', pageContext);
   const { posts, upperTag } = pageContext;
   const { html, frontmatter } = data.markdownRemark;
   const image = frontmatter.cover.childImageSharp.fluid;
@@ -36,7 +37,7 @@ const Tag = ({ pageContext, data }) => {
     <Layout>
       <Helmet title={`${upperTag} | ${config.title}`} />
       <Header title={upperTag} cover={image}>
-        <StyledLink to="/tags">All Tags</StyledLink>
+        {/* <StyledLink to="/tags">All Tags</StyledLink> */}
       </Header>
       <Container>
         <Content input={html} />

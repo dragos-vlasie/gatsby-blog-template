@@ -8,7 +8,7 @@ subCategory: ['umeri']
 published: true
 ---
 
-## Cum sa faceti Presa deasupra capului(Overhead Press) cu forma corecta: Ghidul definitiv<a id="cum sa faceti Presa deasupra capului(Overhead Press) cu forma corecta: Ghidul definitiv"></a>
+## Cum sa faceti Presa deasupra capului(Overhead Press) cu forma corecta: Ghidul complet<a id="cum sa faceti Presa deasupra capului(Overhead Press) cu forma corecta: Ghidul complet"></a>
 
 ![How to Overhead Press](./assets/stronglifts-overhead-press.jpg)
 _Cum sa faceti Presa deasupra capului(Overhead Press): impingeti bara de pe umeri peste cap, tinand picioarele drepte._

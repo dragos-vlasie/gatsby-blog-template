@@ -66,8 +66,6 @@ const Wrapper = styled.div`
 `;
 
 const Content = ({ input, page }) => {
-  console.log('Content -> page', page);
-
   return <Wrapper page={page} dangerouslySetInnerHTML={{ __html: input }} />;
 };
 

@@ -17,11 +17,11 @@ Pentru a fi in siguranta, porniti lumina, pentru a putea exersa mai intai o form
 
 Cea mai mare parte a programului tau de antrenament de forta ar trebui sa constea din cele cinci exercitii compuse cu bila de mai jos. Impreuna, aceste exercitii construiesc forta si muschiul total.
 
-- [Squat](/exercitii/picioare/genoflexiuni-cu-bara)
-- [Bench Press](/exercitii/piept/bench-press)
-- [Deadlift](</exercitii/spate/indreptari(deadlifts)>)
-- [Overhead Press](/exercitii/umeri/presa-deasupra-capului-cu-haltera)
-- [Barbell Row](/barbell-row/)
+- [Genuflexiuni cu bara(Squats)](/exercitii/picioare/genoflexiuni-cu-bara)
+- [Impinsul cu haltera de la piept(Bench Press)](/exercitii/piept/bench-press)
+- [Indreptari(Deadlift)](</exercitii/spate/indreptari(deadlifts)>)
+- [Presa deasupra capului(Overhead Press)](/exercitii/umeri/presa-deasupra-capului-cu-haltera)
+- [Ramat cu haltera(Barbell Row)](/exercitii/spate/ramat-cu-spatele/)
 
 Acestea sunt cele doua cele mai bune exercitii de greutate corporala pe care le puteti utiliza pentru a ajuta la exercitiile principale de barbell. Aceste doua exercitii suplimentare sunt excelente pentru rezistenta corpului superior si pentru a construi brate mai mari.
 

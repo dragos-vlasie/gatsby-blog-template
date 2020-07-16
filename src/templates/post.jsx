@@ -9,6 +9,7 @@ import FadeIn from '../elements/FadeIn';
 import Suggestions from '../elements/Suggestions';
 
 const Post = ({ data, pageContext }) => {
+  console.log('Post -> pageContext', pageContext);
   const { next, prev } = pageContext;
   const { html, frontmatter, excerpt } = data.markdownRemark;
   const { date, title, tags, path, description } = frontmatter;

@@ -8,7 +8,7 @@ subCategory: ['spate']
 published: true
 ---
 
-## Cum sa faceti tractiuni (pull-ups) cu o forma corecta: Ghidul definitiv<a id=" Cum sa faceti tractiuni (pull-ups) cu o forma corecta: Ghidul definitiv"></a>
+## Cum sa faceti tractiuni (pull-ups) cu o forma corecta: Ghidul complet<a id=" Cum sa faceti tractiuni (pull-ups) cu o forma corecta: Ghidul complet"></a>
 
 ![Pullups](./assets/stronglifts-pullups.jpg)
 _Cum se face tractiuni: stati atarnati pe bara cu bratele drepte.Trageti pana cand barbia va trece de bara._

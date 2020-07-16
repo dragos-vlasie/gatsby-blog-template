@@ -8,7 +8,7 @@ subCategory: ['piept']
 published: true
 ---
 
-## Cum sa faceti Impinsul cu haltera de la piept(Bench Press) cu o forma adecvata: Ghidul definitiv
+## Cum sa faceti Impinsul cu haltera de la piept(Bench Press) cu o forma adecvata: Ghidul complet
 
 ## Cum sa faceti Impinsul cu haltera de la piept(Bench Press) cu o forma adecvata:
 
