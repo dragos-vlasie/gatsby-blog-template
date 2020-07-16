@@ -108,10 +108,7 @@ const StyledLink = styled(Link)`
   &:focus {
     outline: none;
     box-shadow: 0 0 0 5px
-      ${props =>
-        props.cardstyle === 'primary'
-          ? props.theme.tint.blue
-          : props.theme.tint.orange};
+      ${props => (props.cardstyle === 'primary' ? props.theme.tint.blue : props.theme.tint.orange)};
   }
 `;
 
@@ -155,11 +152,7 @@ const Suggestions = ({ left, right }) => (
                     fluid(
                       maxWidth: 1920
                       quality: 90
-                      duotone: {
-                        highlight: "#386eee"
-                        shadow: "#2323be"
-                        opacity: 60
-                      }
+                      duotone: { highlight: "#386eee", shadow: "#2323be", opacity: 60 }
                     ) {
                       ...GatsbyImageSharpFluid_withWebp
                     }
@@ -187,19 +180,22 @@ const Suggestions = ({ left, right }) => (
           element => element.node.frontmatter.title === right.frontmatter.title
         );
 
+      const subCategoryPathLeft =
+        left && left.frontmatter.subCategory ? '/' + left.frontmatter.subCategory : '';
+      const subCategoryPathRight =
+        right && right.frontmatter.subCategory ? '/' + right.frontmatter.subCategory : '';
+
       return (
         <Row>
           {left && (
             <Wrapper data-testid="suggestion-left">
               <Image>
-                <img
-                  src={
-                    leftData.node.frontmatter.cover.childImageSharp.fluid.src
-                  }
-                  alt=""
-                />
+                <img src={leftData.node.frontmatter.cover.childImageSharp.fluid.src} alt="" />
               </Image>
-              <StyledLink to={left.frontmatter.path} cardstyle={'cardstyle'}>
+              <StyledLink
+                to={`/${left.frontmatter.tags[0]}${subCategoryPathLeft}${left.frontmatter.path}`}
+                cardstyle={'cardstyle'}
+              >
                 <Title>{left.frontmatter.title}</Title>
               </StyledLink>
               <ImageOverlay cardstyle={'cardstyle'} />
@@ -209,14 +205,12 @@ const Suggestions = ({ left, right }) => (
           {right && (
             <Wrapper data-testid="suggestion-right">
               <Image>
-                <img
-                  src={
-                    rightData.node.frontmatter.cover.childImageSharp.fluid.src
-                  }
-                  alt=""
-                />
+                <img src={rightData.node.frontmatter.cover.childImageSharp.fluid.src} alt="" />
               </Image>
-              <StyledLink to={right.frontmatter.path} cardstyle={'cardstyle'}>
+              <StyledLink
+                to={`/${right.frontmatter.tags[0]}${subCategoryPathRight}${right.frontmatter.path}`}
+                cardstyle={'cardstyle'}
+              >
                 <Title>{right.frontmatter.title}</Title>
               </StyledLink>
               <ImageOverlay cardstyle={'cardstyle'} />

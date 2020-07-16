@@ -12,6 +12,9 @@ const Button = styled(Link)`
   font-family: ${props => props.theme.fontFamily.heading};
   display: inline-block;
   font-size: 1.5rem;
+  @media (max-width: ${props => props.theme.breakpoints.s}) {
+    font-size: 1rem;
+  }
   font-weight: 700;
   line-height: 1.25;
   margin: 2rem auto;
@@ -21,7 +24,6 @@ const Button = styled(Link)`
   transition: ${props => props.theme.transitions.default.transition};
   user-select: none;
   vertical-align: middle;
-  white-space: nowrap;
   z-index: 10;
   &:hover {
     box-shadow: ${props => props.theme.button[props.type].hover.boxShadow};

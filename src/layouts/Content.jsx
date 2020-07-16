@@ -7,6 +7,9 @@ const Wrapper = styled.div`
   background: white;
   padding: 25px;
   max-width: 50rem;
+  @media (max-width: ${props => props.theme.breakpoints.s}) {
+    max-width: 95%;
+  }
   margin: auto;
   margin-top: ${props => (props.page ? '0' : '-3rem')};
   z-index: 1;

@@ -21,7 +21,7 @@ Cea mai mare parte a programului tau de antrenament de forta ar trebui sa conste
 - [Impinsul cu haltera de la piept(Bench Press)](/exercitii/piept/bench-press)
 - [Indreptari(Deadlift)](</exercitii/spate/indreptari(deadlifts)>)
 - [Presa deasupra capului(Overhead Press)](/exercitii/umeri/presa-deasupra-capului-cu-haltera)
-- [Ramat cu haltera(Barbell Row)](/exercitii/spate/ramat-cu-spatele/)
+- [Ramat cu haltera(Barbell Row)](/exercitii/spate/ramat-cu-bara)
 
 Acestea sunt cele doua cele mai bune exercitii de greutate corporala pe care le puteti utiliza pentru a ajuta la exercitiile principale de barbell. Aceste doua exercitii suplimentare sunt excelente pentru rezistenta corpului superior si pentru a construi brate mai mari.
 
