@@ -1302,15 +1302,17 @@ Cel mai important, ciocneste-te pe tehnica ta. Fiecare campion mortal se ridica 
 ## Cum imi pot imbunatati forma?<a id="cum-imi-pot-imbunatati-forma?"></a>
 
 Cel mai bun mod este sa obtineti feedback de la un antrenor care stie cum sa Deadlift cu o forma adecvata. Cineva care poate Deadlift de cel putin 400lb. Cineva care nu s-a nascut puternic, dar a trebuit sa munceasca din greu pentru a-si creste Deadlifts. Cineva, prin urmare, intelege ce trebuie. Cineva care nu consuma droguri.  
-Poate nu gasesti un antrenor unde locuiesti. Nu puteam in Belgia. Asa ca am rezolvat asta prin inregistrarea video a lifturilor pentru a primi feedback. Tapeaza-te din lateral pentru a putea vedea ce faci. Examinati videoclipurile dintre seturi si post-antrenament. Apoi incearca sa imbunatatesti data viitoare cand ai Deadlift.
+Poate nu gasesti un antrenor unde locuiesti. Nu puteam in Romania. Asa ca am rezolvat asta prin inregistrarea video a lifturilor pentru a primi feedback. Filmeaza-te din lateral pentru a putea vedea ce faci. Examinati videoclipurile dintre seturi si post-antrenament. Apoi incearca sa imbunatatesti data viitoare cand ai Deadlift.
 Iata care sunt principalele lucruri de cautat. Ia - astea dreapta, si tu esti deja 80% acolo.
 
 - **Pozitia de inceput corecta** - bara peste mijlocul piciorului, omoplati peste bara, tibia impotriva barei
 - **Coloanei vertebrale neutre** - cap neutru, piept in sus, arcul normal al spatelui inferior
 - **Calea verticala a barelor** - repetare, coborare si coborare
   Daca observati ca pozitia ta Deadlift este oprit, nu incercati sa remediati totul simultan. Veti fi coplesit daca trebuie sa va ganditi la prea multe lucruri in timp ce trageti. In schimb, alege un lucru pe care sa te concentrezi in setul urmator. Daca o intelegeti corect, atunci alegeti urmatorul lucru de rezolvat pe setul urmator.
+
   Stapanirea formei corecte va va duce prin cele patru etape ale competentei . La inceput nu stii ca tragi gresit. Dar va inregistrati si observati erorile. Asa ca va concentrati sa faceti acest lucru chiar atunci cand faceti Deadlift. Pana la urma te opresti sa te gandesti la asta - devine doar firesc.  
-  Dar vei continua sa parcurgi aceste patru etape, oricat de avansate ai fi. Intotdeauna vor exista aspecte ale formei pe care le puteti imbunatati. Toti marii Deadlifters continua sa-si perfectioneze tehnica in ciuda anilor lor de experienta. Fac si eu. Este unul dintre lucrurile de care ma bucur cel mai mult despre ridicare.  
+  Dar vei continua sa parcurgi aceste patru etape, oricat de avansate ai fi. Intotdeauna vor exista aspecte ale formei pe care le puteti imbunatati. Toti marii Deadlifters continua sa-si perfectioneze tehnica in ciuda anilor lor de experienta. Fac si eu. Este unul dintre lucrurile de care ma bucur cel mai mult despre ridicare.
+
   Tehnica dvs. va fi mai consecventa daca ceea ce faceti inainte de dvs. Deadlift greutatea este consecventa. Asa ca incepeti-va in acelasi mod de fiecare data . Mergeti la bar in acelasi fel, puneti acelasi picior sub el in primul rand, apucati-l mai intai cu aceeasi mana etc.
 
 ## Cat ar trebui sa pot sa Deadlift?<a id="cat-ar-trebui-sa-pot-sa-Deadlift?"></a>

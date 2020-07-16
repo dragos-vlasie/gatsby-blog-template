@@ -33,7 +33,6 @@ const Index = ({ data }) => {
         <PostWrapper>
           {edges.map(({ node }) => {
             const { id, excerpt, frontmatter } = node;
-            console.log('Index -> frontmatter', frontmatter);
             const { cover, path, title, date } = frontmatter;
             return (
               <PostList

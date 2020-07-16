@@ -29,19 +29,18 @@ const Information = styled.div`
 
 const Tag = ({ pageContext, data }) => {
   const { posts, upperTag } = pageContext;
-  // const upperTag = upperTag.charAt(0).toUpperCase() + upperTag.slice(1);
   const { html, frontmatter } = data.markdownRemark;
   const image = frontmatter.cover.childImageSharp.fluid;
 
   return (
     <Layout>
-      <Helmet title={`${upperTag} | ${config.siteTitle}`} />
+      <Helmet title={`${upperTag} | ${config.title}`} />
       <Header title={upperTag} cover={image}>
         <StyledLink to="/tags">All Tags</StyledLink>
       </Header>
       <Container>
         <Content input={html} />
-        <Information>
+        {/* <Information>
           {posts.map((post, index) => (
             <Link
               key={index}
@@ -50,7 +49,7 @@ const Tag = ({ pageContext, data }) => {
               <h3>{post.frontmatter.title}</h3>
             </Link>
           ))}
-        </Information>
+        </Information> */}
       </Container>
     </Layout>
   );

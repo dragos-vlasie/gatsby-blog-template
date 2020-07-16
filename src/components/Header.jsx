@@ -8,7 +8,7 @@ import Wave from '../elements/Wave';
 const Wrapper = styled.header`
   background: ${props => props.theme.gradient.rightToLeft};
   z-index: -1;
-  height: ${props => (props.big ? '650px' : '450px')};
+  height: ${props => (props.big ? '650px' : '500px')};
   @media (max-width: ${props => props.theme.breakpoints.m}) {
     height: ${props => (props.big ? '600px' : '400px')};
   }

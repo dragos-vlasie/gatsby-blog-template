@@ -44,7 +44,7 @@ const NavBar = () => (
     <Nav>
       <Link to="/exercitii">Exercitii</Link>
       <Link to="/program">Program</Link>
-      <Link to="/blog">Alimentatie</Link>
+      <Link to="/alimentatie">Alimentatie</Link>
     </Nav>
   </Headroom>
 );

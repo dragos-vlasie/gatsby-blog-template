@@ -18,8 +18,7 @@ Desigur, nu puteti adauga greutate pentru totdeauna. Dar puteti adauga greutate 
 ## Programe de formare a fortei
 
 - [StrongLifts 5 × 5](program/full-body/5x5) - pentru incepatori care nu au ridicat niciodata greutati, sau Squat mai putin <140kg / 300lb.
-- [Madcow 5 × 5](/madcow-5x5/) - pentru elevii intermediari care pot gheata cel putin 140 kg / 300lb chiar acum
-- [Smolov](/smolov/) - rutina specializata pentru a adauga rapid pana la 100lb in Squat in 13 saptamani
+  <!-- - [Madcow 5 × 5](/madcow-5x5/) - pentru elevii intermediari care pot gheata cel putin 140 kg / 300lb chiar acum- [Smolov](/smolov/) - rutina specializata pentru a adauga rapid pana la 100lb in Squat in 13 saptamani -->
 
 ## Construirea muschiului
 

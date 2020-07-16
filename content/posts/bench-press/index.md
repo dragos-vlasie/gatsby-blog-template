@@ -5,7 +5,6 @@ date: '2020-02-15'
 title: 'Bench press'
 tags: ['exercitii']
 subCategory: ['piept']
-
 published: true
 ---
 
