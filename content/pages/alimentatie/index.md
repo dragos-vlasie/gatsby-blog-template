@@ -15,7 +15,7 @@ Trebuie doar sa va controlati raportul de calorii. Puteti face acest lucru numar
 
 Probabil ati auzit ca stilul de viata bate dietele pe termen lung. Acesta este de fapt sensul initial al cuvantului dieta - „un mod de a trai” (din cuvantul grecesc „diaita”)
 
-Asadar, sfatul dietei StrongLifts este sa va concentrati pe dezvoltarea unor obiceiuri alimentare simple pe care sa le puteti respecta pe termen lung.
+Asadar, sfatul dietei Antrenamente este sa va concentrati pe dezvoltarea unor obiceiuri alimentare simple pe care sa le puteti respecta pe termen lung.
 
 - [Reguli de nutritie simpla](/alimentatie/dieta-reguli-de-baza)
 - [Postul intermitent](/alimentatie/intermittent-fasting)

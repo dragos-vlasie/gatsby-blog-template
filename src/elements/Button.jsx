@@ -11,15 +11,15 @@ const Button = styled(Link)`
   cursor: pointer;
   font-family: ${props => props.theme.fontFamily.heading};
   display: inline-block;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   @media (max-width: ${props => props.theme.breakpoints.s}) {
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
   font-weight: 700;
   line-height: 1.25;
   margin: 2rem auto;
   min-width: 10rem;
-  padding: 1.15rem 2.45rem;
+  padding: 1rem 2rem;
   text-align: center;
   transition: ${props => props.theme.transitions.default.transition};
   user-select: none;

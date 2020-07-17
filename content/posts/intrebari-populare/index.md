@@ -4,25 +4,25 @@ cover: './blocks.jpg'
 date: '2020-02-15'
 title: '5x5 - Intrebari populare'
 tags: ['program']
-published: true
+published: false
 ---
 
 ## Intrebari populare
 
-### StrongLifts 5×5 va functiona pentru mine?
+### Antrenamente 5×5 va functiona pentru mine?
 
 A functionat pentru mine si cei doi frati ai mei. A functionat pentru mai multi dintre prietenii mei. A functionat pentru fetele cu care m-am intalnit. A functionat oricarui persoanei careia i-am dat acest program. Primesc e-mailuri in fiecare zi de la oameni din toata lumea spunand ca acest program este cel mai bun, pentru ei a functionat cel mai bine.
 
-Deci, sunt sigur ca StrongLifts 5×5 va functiona si pentru tine. Va functiona foarte bine daca...
+Deci, sunt sigur ca Antrenamente 5×5 va functiona si pentru tine. Va functiona foarte bine daca...
 
 - Nu ai intrat niciodata intr-o sala de sport. Esti intimidat de gantere,speriat de rani sau pur si simplu slab. Acest program incepe usor si se concentreaza pe forma. Incet va faceti confortabil cu greutatile evitand in acelasi timp riscul de a te rani. Forta si increderea ta cresc odata cu cresterea greutatii.
 - Nu ai folosit niciodata ganterele. Ati mai mers la sala inainte, dar doar masini ati folosit. Poate ca te-ai descurcat cu ganterele, dar nu ai facut niciodata Genoflexiuni cu haltera, [Indreptari(Deadlifts)](/exercitii/spate/indreptari) si OHPress. Veti invata sa ridicati greutati daca incepeti usor, facandu-le mult si adaugand greutate la fiecare antrenament.
 - Ati relua antrenamentele dupa o pauza. Ai facut aceste exercitii inainte. Dar ai renuntat la ele vara trecuta. Sau nu ai mai ridicat greutati din liceu. Acest program va va readuce in forma rapid. Veti obtine o forma si mai buna daca nu ati folosit niciodata acest tip de program de instruire structurat.
 
-Nu am vazut niciodata ca StrongLifts 5×5 nu functioneaza. Am vazut povesti pe internet care spun ca acest program nu functioneaza pentru ei.
+Nu am vazut niciodata ca Antrenamente 5×5 nu functioneaza. Am vazut povesti pe internet care spun ca acest program nu functioneaza pentru ei.
 Dar este de obicei pentru ca...
 
-- Acest antrenament NU este pentru cei cu experienta. Nu faceti acest lucru daca puteti face genuflexiuni (Squat) cu 150kg si Indreptari 200kg chiar acum. Nu puteti adauga greutate la fiecare antrenament cu aceste greutati. De aceea nu mai fac StrongLifts 5×5 - greutatile mele sunt prea grele. Faceti Madcow 5×5 in schimb.
+- Acest antrenament NU este pentru cei cu experienta. Nu faceti acest lucru daca puteti face genuflexiuni (Squat) cu 150kg si Indreptari 200kg chiar acum. Nu puteti adauga greutate la fiecare antrenament cu aceste greutati. De aceea nu mai fac Antrenamente 5×5 - greutatile mele sunt prea grele. Faceti Madcow 5×5 in schimb.
 - Acest antrenament NU este pentru cei ce “stiu totul”. Trebuie sa faceti programul asa cum este stabilit pentru ca acesta sa functioneze. Daca o faci in felul tau schimband lucrurile, nu va functiona. Trebuie sa fii antrenabil. Si ar trebui sa cititi acest ghid la fiecare doua saptamani pentru a vedea lucruri care v-au omis prima data.
 - Acest antrenament NU este pentru o persoana delasatoare. Acest program nu va functiona daca sariti antrenamentele. Nu functioneaza daca sariti Genoflexiuni cu haltera. Nu functioneaza daca nu iti maresti greutatea pe care o ridici. Nu vei deveni puternic si mare decat daca ridici greutati mari. Acest lucru necesita multa munca.
 
@@ -32,7 +32,7 @@ Deci, daca ai 60kg/135lb la 1m82/6'2 ″... abia mananci pentru a evita cresteri
 
 Castigurile de forta sunt aproape imediate. Veti vedea ca greutatea pe bar creste la fiecare antrenament. Daca incepeti cu haltera, nu ratati un antrenament si obtineti repetari de fiecare data, veti face genuflexiuni (Genoflexiuni cu haltera) cu 100kg/220lb in 12 saptamani si 130kg/265lb in 16 saptamani. Vei fi mai puternic decat majoritatea baietilor.
 
-Cantitatea maxima de muschi slabi pe care o puteti castiga in mod natural este de 2lb pe luna . Deci, daca nu ati ridicat niciodata, puteti castiga 10lb masa musculara slaba in 20 de saptamani si 24lb pana anul viitor. Retineti ca acestia sunt muschi SLABI - cresterea in greutate poate fi mai mare datorita cresterii retentiei de apa.
+Cantitatea maxima de muschi slabi pe care o puteti castiga in mod natural este de 1kg pe luna . Deci, daca nu ati ridicat niciodata, puteti castiga 5 masa musculara slaba in 20 de saptamani si 10kg pana anul viitor. Retineti ca acestia sunt muschi SLABI - cresterea in greutate poate fi mai mare datorita cresterii retentiei de apa.
 
 Daca ai mai ridicat greutati inainte si te-ai intors dintr-o pauza, vei castiga mai rapid muschiul. Datorita memoriei musculare veti recapata muschiul pe care l-ati pierdut in timpul pauzei, mai repede decat l-ati construit prima data. Puterea ta va reveni si mai repede si vei pierde grasime in acelasi timp.
 
@@ -70,7 +70,7 @@ Cat de mult efort este prea mult, si cat de mult este prea putin? Aici este mai 
 
 Verificati cartile recomandate daca doriti sa invatati mai mult.
 
-### StrongLifts 5×5 cladeste muschi?
+### Antrenamente 5×5 cladeste muschi?
 
 Da. Puteti obtine 12kg de muschi in primul an daca nu ati facut niciodata un program de antrenament ca acesta. Asta doar prin antrenament de trei ori pe saptamana si fara a utiliza suplimente sau medicamente.
 
@@ -90,7 +90,7 @@ Daca insistati pe culturism, veti obtine mai bune rezultate facand mai intai ace
 
 Totusi, cei mai multi tipi nu vor merge acolo. Deoarece acest program construieste un corp grozav, construieste forta si dureaza mai putin timp. Este, de asemenea, un mod mai simplu si mai sanatos de a te antrena.
 
-### Imi pot creste masa musculara cu StrongLifts 5×5?
+### Imi pot creste masa musculara cu Antrenamente 5×5?
 
 Da, daca mananci mai multe calorii decat arde corpul tau. Adaugarea masei musculare si obtinerea unui corp masiv, se reduce la cresterea greutatii corpului. Pentru a castiga in greutate, trebuie sa mananci mai multe calorii decat corpul tau arde. Trebuie sa creati un surplus caloric. Faci asta mancand mai multe alimente .
 
@@ -102,7 +102,7 @@ Stai departe de grasimi. Sunt pline de zaharuri si te vor face sa te ingrasi. In
 
 Cititi ghidul despre cum sa castigati in greutate pentru tipii slabi .
 
-### Pot pierde din grasime cu StrongLifts 5×5?
+### Pot pierde din grasime cu Antrenamente 5×5?
 
 Daca esti obez, vei pierde grasime in timp ce construiesti muschi. Corpul tau va arde calorii pentru a ridica greutatile. De asemenea, va arde mai multe calorii dupa antrenament pentru recuperarea muschilor (acest lucru va va creste metabolismul). Iar corpul iti va folosi rezervele de grasime pentru a-ti construi muschi, astfel incat sa poti ridica greutati mari.
 
@@ -112,7 +112,7 @@ Baietii obezi inceteaza de obicei sa se ingrijoreze de greutatea lor dupa un tim
 
 Daca nu sunteti obezi, cu cat scadeti grasimea corpului, cu atat mai greu va fi sa continuati acest program. Trebuie sa mananci mai putin pentru a pierde grasime. Dar trebuie sa mananci mai mult pentru a construi muschi. Daca mananci prea putin, muschii nu se pot recupera bine intre antrenamente. Nu puteti adauga greutate pe bara de lucru, iar programul nu poate functiona.
 
-Prin urmare, sa faceti StrongLifts 5×5 pe un deficit caloric pentru a pierde grasime este o idee proasta. Va functiona primele cateva saptamani cand greutatile sunt usoare. Dar nu atunci cand greutatile devin mai grele. Ar trebui sa mananci cel putin calorii de intretinere, apoi sa adaugi niste cardio pentru a ajuta la pierderea de grasime.
+Prin urmare, sa faceti Antrenamente 5×5 pe un deficit caloric pentru a pierde grasime este o idee proasta. Va functiona primele cateva saptamani cand greutatile sunt usoare. Dar nu atunci cand greutatile devin mai grele. Ar trebui sa mananci cel putin calorii de intretinere, apoi sa adaugi niste cardio pentru a ajuta la pierderea de grasime.
 
 Amintiti-va ca un nivel scazut de grasime este inutil daca nu aveti muschi pentru care sa va prezentati. Si puteti pierde cu usurinta 1lb de grasime pe saptamana mai tarziu, dar acum puteti castiga doar 0,5lb pe saptamana. Asa ca castiga mai intai muschi. Ajungeti sa faceti genuflexiuni(Genoflexiuni cu haltera) cu 140kg/300lb. Dupa aceea, va puteti concentra pe reducerea grasimilor din corp, daca mai este nevoie.
 
@@ -122,7 +122,7 @@ Cititi ghidul despre cum puteti pierde grasime.
 
 Da. Corpul tau nu se recupereaza la fel de repede ca cel al tinerilor. Dar vei castiga forta si muschi, chiar daca nu ai ridicat niciodata sau esti in anii 70. Varsta ta va fi o problema doar daca crezi ca este.
 
-Oamenii mai in varsta imi spun ca StrongLifts 5×5 a fost ca o fantana a tineretii. Daca corpul tau se simte batran, te simti batran si te comporte ca o persoana in varsta. Dar daca corpul tau se simte tanar, te simti tanar si te comporti ca o persoana mai tanara. Iata cum acest program te ajuta sa realizezi asta...
+Oamenii mai in varsta imi spun ca Antrenamente 5×5 a fost ca o fantana a tineretii. Daca corpul tau se simte batran, te simti batran si te comporte ca o persoana in varsta. Dar daca corpul tau se simte tanar, te simti tanar si te comporti ca o persoana mai tanara. Iata cum acest program te ajuta sa realizezi asta...
 
 - Construiti muschi . Pierdeti muschii din inactivitate si din stilul de viata sedentar pe masura ce imbatranesti. De asemenea, pierzi muschi ca parte a procesului de imbatranire - cu pana la 10% pe deceniu peste 50. Cresterea greutatilor scade pierderea musculara din imbatranire prin construirea muschiului. Veti castiga mult din spatele muschiului pierdut.
 - Pierde grasime. Inactivitatea te face sa te ingrasi, mai ales daca nu mananci mai putin, desi te misti mai putin. Muschiul pierdut este inlocuit cu grasime, si vei deveni gras. Acest program inverseaza faptul ca prin construirea de muschi, arderea caloriilor si stimularea metabolismului. Pierzi grasime.
@@ -134,9 +134,9 @@ Cu cat esti mai inactiv, cu atat mai usoare sunt greutatile cu care va trebui sa
 
 De asemenea, bara goala poate fi prea grea pentru ridicarea deasupra capului. Incercati cu o bara mai usoara de 5kg/10lb. Daca aceasta este inca prea grea, inlocuiti OHPress cu [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press). Bench la fiecare antrenament timp de trei-patru saptamani pentru a creste rezistenta corpului superior. Apoi adaugati [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului) inapoi.
 
-Adaugati greutatea incet. Maxim 2,5kg/5lb pe antrenament. 1kg/2lb este si mai bine, si o necesitate pentru Banca si OHPress. Folositi o forma adecvata pentru a evita sa te ranesti. Programul va va face mai puternic la fel ca in cazul baietilor mai tineri. Dar va trebui sa modificati StrongLifts 5×5 mai devreme pentru a continua progresul.
+Adaugati greutatea incet. Maxim 2,5kg/5lb pe antrenament. 1kg/2lb este si mai bine, si o necesitate pentru Banca si OHPress. Folositi o forma adecvata pentru a evita sa te ranesti. Programul va va face mai puternic la fel ca in cazul baietilor mai tineri. Dar va trebui sa modificati Antrenamente 5×5 mai devreme pentru a continua progresul.
 
-Iata de ce: te recuperezi mai lent decat baietii mai tineri. Deci, trebuie sa modificati StrongLifts 5×5 pentru a creste recuperarea intre antrenamente. Corpul tau poate apoi sa se intareasca si sa se ridice mai greu, fara rani.
+Iata de ce: te recuperezi mai lent decat baietii mai tineri. Deci, trebuie sa modificati Antrenamente 5×5 pentru a creste recuperarea intre antrenamente. Corpul tau poate apoi sa se intareasca si sa se ridice mai greu, fara rani.
 
 Treceti de la 5×5 la 3×5 imediat ce va plafonati pentru a obtine repetari. Nu trebuie sa asteptati pana cand esuati de trei ori sau sa va inlaturati. Treceti deja pentru a reduce stresul antrenamentelor. Daca aveti febra musculara tot timpul, in ciuda faptului ca nu incepeti prea greu, ar trebui sa treceti cu siguranta.
 
@@ -144,7 +144,7 @@ Urmatoarea schimbare este de a obtine mai multe zile de odihna. Puteti lua doua 
 
 Mai bine este sa te antrenezi pur si simplu de doua ori pe saptamana, de exemplu luni si joi. Astfel, aveti doua zile de odihna inainte de antrenamentul de joi si trei zile de odihna inainte de antrenamentul de luni. Veti face aproximativ aceeasi cantitate de antrenamente intr-o luna, dar programul dvs. de pregatire va fi consecvent.
 
-StrongLifts 5x5 pentru barbatii invarsta
+Antrenamente 5x5 pentru barbatii invarsta
 
 Luni - antrenament A Joi - antrenament B
 [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 3x5 [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 3x5
@@ -157,9 +157,9 @@ Progresul tau va fi mai lent, comparativ cu cei care se antreneaza de trei ori p
 
 Retineti ca impliniti 40 de ani nu inseamna ca trebuie sa faceti aceste schimbari. Un barbat in varsta de 72 de ani are nevoie de aceste schimbari mai mult decat unul de 57 de ani, iar el are nevoie de mai mult decat de unul de 40 de ani. Am 36 de ani si totusi fac genuflexiuni (Squat) de trei ori pe saptamana. Sunt doar mai atent sa nu ma ranesc. Uita-te la progresul tau pentru a decide ce sa faci.
 
-### StrongLifts 5×5 functioneaza pentru femei?
+### Antrenamente 5×5 functioneaza pentru femei?
 
-Da. Bara nu stie ca esti femeie si nu-i pasa. Iar corpul tau reactioneaza la efort, asa cum fac barbatii - castigi forta si muschi ca raspuns la efortul greutatii barei pentru a face fata mai bine acestui efort data viitoare. Deci femeile ar trebui sa ridice greutatile precum barbatii si sa faca StrongLifts 5×5 ca si barbatii.
+Da. Bara nu stie ca esti femeie si nu-i pasa. Iar corpul tau reactioneaza la efort, asa cum fac barbatii - castigi forta si muschi ca raspuns la efortul greutatii barei pentru a face fata mai bine acestui efort data viitoare. Deci femeile ar trebui sa ridice greutatile precum barbatii si sa faca Antrenamente 5×5 ca si barbatii.
 
 Singura diferenta este ca nu veti obtine niciodata puterea, dimensiunea si masa musculara a unui om care se antreneaza la fel de greu. Barbatii au un nivel de testosteron de aproximativ sapte ori mai mare decat femeile. De asemenea, barbatii au mai multa masa musculara superioara a corpului decat femeile. Si majoritatea barbatilor sunt mai inalti si mai mari decat femeile.
 
@@ -177,7 +177,7 @@ Am vazut fete care ar putea face Bench Press(Impinsul cu haltera de la piept) cu
 
 Deoarece aveti mai putin testosteron, muschi si o talie mai mica decat barbatii, progresul dvs. va fi, de asemenea, mai lent. Continuati cu adaugarea a 2,5kg/5lb pe antrenament. Obtineti placi fractionale, astfel incat sa puteti adauga doar 1kg/2lb pe antrenament pe Bench Press(Impinsul cu haltera de la piept) si [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului). Acest lucru va va imbunatati progresul.
 
-### Adolescentii pot face StrongLifts 5×5?
+### Adolescentii pot face Antrenamente 5×5?
 
 Da, am inceput in adolescenta mea tarzie. Chiar si copiii pot face acest program - halterofilii chinezi incep adesea inca de la varsta de sase ani. Acesta este un avantaj competitiv urias, deoarece au cel putin zece ani de practica tehnica pana la 18 ani. Cu cat poti incepe mai devreme sa ridici greutati, cu atat mai bine.
 
@@ -201,9 +201,9 @@ Cheia este sa porniti usor. Obtineti o bara de 5kg sau chiar o matura. Concentra
 
 Cel mai important, nu-l forta pe copil. Imi place sa ridic greutati, poate si lui, dar nu toata lumea o face. Pustiului ar putea sa nu-i placa. Daca nu se distreaza, nu va fi motivat. Aceasta poate duce la erori tehnice care pot provoca vatamari. Sau doar te va uri pentru ca l-ai fortat. El trebuie sa se distreze in primul rand.
 
-### Pot obtine rezultate cu StrongLifts 5×5 daca am o genetica proasta?
+### Pot obtine rezultate cu Antrenamente 5×5 daca am o genetica proasta?
 
-Da. StrongLifts 5×5 functioneaza in special pentru persoanele cu genetica proasta, pentru care nu a functionat niciodata nimic. Acest lucru se datoreaza faptului ca majoritatea oamenilor cu genetica proasta au imitat rutine de la oameni cu o genetica buna - de obicei, un muschi pe zi izolati, despicaturi de rutina. Asta functioneaza rar pentru oamenii obisnuiti, in special pentru cei cu genetica proasta.
+Da. Antrenamente 5×5 functioneaza in special pentru persoanele cu genetica proasta, pentru care nu a functionat niciodata nimic. Acest lucru se datoreaza faptului ca majoritatea oamenilor cu genetica proasta au imitat rutine de la oameni cu o genetica buna - de obicei, un muschi pe zi izolati, despicaturi de rutina. Asta functioneaza rar pentru oamenii obisnuiti, in special pentru cei cu genetica proasta.
 
 Va sugerez sa nu va mai faceti griji pentru genetica voastra. Am ceea ce oamenii considera „genetica proasta” - incheieturi subtiri, glezne subtiri, umeri mici, subtire in mod natural (ectomorf). In ciuda acestui fapt, am reusit sa acumulez 43lb de muschi, [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 419lb, Indreptari 500lb. Nu voi inregistra recordurile mondiale, dar am atins un nivel avansat, facandu-ma mai puternic decat media de gimnastica.
 
@@ -247,9 +247,9 @@ In al treilea rand, iti lipseste experienta. Oamenii care fac deadlifturi 5×5 a
 
 Daca va plac Indreptari(Deadlifts) incalziti-va cu seturi de cinci, cum sugereaza aplicatia mea . Acest lucru va ofera mai multe seturi, fara efortul seturilor cu aceeasi greutate. Nu iti vei afecta recuperarea si nu te vei plafona.
 
-### StrongLifts 5×5 functioneaza cu ganterele?
+### Antrenamente 5×5 functioneaza cu ganterele?
 
-StrongLifts 5×5 este un program cu haltere. Ideea principala este sa adaugati 2,5kg/5lb la fiecare antrenament. Nu poti face acest lucru cu ganterele, deoarece acestea cresc de obicei cu 2kg/5lb. Acest lucru va obliga sa adaugati 4kg/10lb pentru fiecare antrenament, ceea ce este prea mult. Vei esua reputatiile, sau vei trece peste ele, vei deveni frustrat si nu vei reusi sa progresezi.
+Antrenamente 5×5 este un program cu haltere. Ideea principala este sa adaugati 2,5kg/5lb la fiecare antrenament. Nu poti face acest lucru cu ganterele, deoarece acestea cresc de obicei cu 2kg/5lb. Acest lucru va obliga sa adaugati 4kg/10lb pentru fiecare antrenament, ceea ce este prea mult. Vei esua reputatiile, sau vei trece peste ele, vei deveni frustrat si nu vei reusi sa progresezi.
 
 Chiar daca aveti gantere cu cresteri mai mici, tot nu puteti sa faci genofleiuni(squat) c u greutati mari. Cea mai grea parte este de a tine ganterele, nu de a face exercitiul propriu-zis. Sa zicem ca esti atat de puternic incat poti sa faci genuflexiuni(Genoflexiuni cu haltera) cu 100lb in fiecare mana. In continuare, sunt doar 200lb care iti solicita picioarele. Am facut genuflexiuni(Genoflexiuni cu haltera) cu dublu utilizand bara.
 
@@ -259,9 +259,9 @@ Aceasta nu inseamna ca ganterele sunt inutile. Imi plac exercitiile cu gantere s
 
 Daca aveti doar gantere sau doriti doar sa utilizati gantere, va rugam sa faceti un program specific cu gantere.
 
-### StrongLifts 5×5 functioneaza cu aparate?
+### Antrenamente 5×5 functioneaza cu aparate?
 
-Nu. Toate rezultatele StrongLifts 5×5 pe care le promit sunt valabile numai daca utilizati bara de greutate. Acestea nu se aplica daca ridicati in interiorul unui aparat Smith (bara este atasata la şine), cu greutate si alte aparate precum Bowflex. Utilizarea acestor echipamente va duce la rezultate ami slabe si poate la rani.
+Nu. Toate rezultatele Antrenamente 5×5 pe care le promit sunt valabile numai daca utilizati bara de greutate. Acestea nu se aplica daca ridicati in interiorul unui aparat Smith (bara este atasata la şine), cu greutate si alte aparate precum Bowflex. Utilizarea acestor echipamente va duce la rezultate ami slabe si poate la rani.
 
 Principalul beneficiu al utilizarii halterelor, si nu a aparatelor este:
 
@@ -271,13 +271,13 @@ In 2014, cand am inceput sa ridic, m-am antrenat cu ajutorul aparatelor pentru p
 
 Am trecut la greutati libere dupa aceea. Pentru ca aceasta experienta m-a facut sa inteleg ca hanterele sunt superioare aparatelor, deoarece miscarea este mai solicitanta. Este mai greu, deoarece mai multi muschi trebuie sa lucreze pentru a echilibra si ridica greutatea, deoarece niciun aparat nu va ajuta.
 
-Daca doriti sa faceti StrongLifts 5×5 si doriti sa obtineti cele mai bune rezultate, utilizati greutati libere/halterele. Daca sala de sport nu are, treceti la o alta sala. Am inteles ca este posibil sa nu fie practic, dar asta as face - pentru ca vreau sa ma antrenez cat mai eficient si aveti nevoie de haltere pentru asta.
+Daca doriti sa faceti Antrenamente 5×5 si doriti sa obtineti cele mai bune rezultate, utilizati greutati libere/halterele. Daca sala de sport nu are, treceti la o alta sala. Am inteles ca este posibil sa nu fie practic, dar asta as face - pentru ca vreau sa ma antrenez cat mai eficient si aveti nevoie de haltere pentru asta.
 
-Unii oameni nu le pasa de antrenament eficient, nu le pasa de obtinerea fortei si muschilor pe care ii pot. Vor doar sa devina un pic „mai in forma”. Pentru mine asta este plictisitor. Dar daca te simti bine, atunci alege un program bazat pe ajutorul aparatelor. Nu jigniti StrongLifts 5×5 folosind echipamente inferioare.
+Unii oameni nu le pasa de antrenament eficient, nu le pasa de obtinerea fortei si muschilor pe care ii pot. Vor doar sa devina un pic „mai in forma”. Pentru mine asta este plictisitor. Dar daca te simti bine, atunci alege un program bazat pe ajutorul aparatelor. Nu jigniti Antrenamente 5×5 folosind echipamente inferioare.
 
-### Ce se intampla daca sala mea de sport nu are haltere pentru a face StrongLifts 5×5?
+### Ce se intampla daca sala mea de sport nu are haltere pentru a face Antrenamente 5×5?
 
-Ce as face este sa nu mai merg la acea sala si sa merg la o sala adevarata. StrongLifts 5×5 este un program gratuit de pregatire pentru greutate. Foloseste haltere, deoarece acesta este cel mai eficient mod de a deveni mai puternic. Aparatele, ganterele, aparatele Smith, cablurile nu sunt la fel de eficiente si, prin urmare, progresul este incetinit.
+Ce as face este sa nu mai merg la acea sala si sa merg la o sala adevarata. Antrenamente 5×5 este un program gratuit de pregatire pentru greutate. Foloseste haltere, deoarece acesta este cel mai eficient mod de a deveni mai puternic. Aparatele, ganterele, aparatele Smith, cablurile nu sunt la fel de eficiente si, prin urmare, progresul este incetinit.
 
 Puteti fi incapatanat si sa folositi oricum echipamente inferioare. Dar nu aceasta este solutia cea mai buna: nu veti putea progresa ca oamenii care folosesc halterele. Vei esua repetarile mai devreme, mai ales daca folosesti gantere. Vei avea febra muscular daca folosesti aparatele, pentru ca vei lupta sa faci genuflexiuni si sa te lasi cu o forma adecvata.
 
@@ -285,15 +285,15 @@ Multi oameni s-au incapatanat inaintea ta, si vin mai tarziu. Cand va apropiati 
 
 Este o mare pierdere de timp. Faceti-o chiar din start. Anuleaza-ti calitatea de membru la sala si mergi la una potrivita. Ai platit un an? Nu vor sa va restituie? Spune-le sa pastreze banii. Ia-ti pierderea si participa oricum la o sala de fitness (nu pot sa cred cine va continua sa mearga la o sala de gimnastica proasta pentru ca au platit un an – accepta-ti pierderea).
 
-Daca insisti sa mergi la sala de sport si folosesti echipamentele proaste, atunci fa o alta rutina. Nu te voi ajuta sa adaptezi StrongLifts 5×5 la echipamentul tau, deoarece acest lucru ar fi ineficient si ai pierde timp. Urasc sa-mi pierd timpul, asa ca nu o sa te ajut sa ti-l pierzi pe al tau. Intoarce-te cand vei avea echipament adecvat si voi fi fericit sa te ajut atunci.
+Daca insisti sa mergi la sala de sport si folosesti echipamentele proaste, atunci fa o alta rutina. Nu te voi ajuta sa adaptezi Antrenamente 5×5 la echipamentul tau, deoarece acest lucru ar fi ineficient si ai pierde timp. Urasc sa-mi pierd timpul, asa ca nu o sa te ajut sa ti-l pierzi pe al tau. Intoarce-te cand vei avea echipament adecvat si voi fi fericit sa te ajut atunci.
 
-### Cum pot imbina StrongLifts 5×5 cu Crossfit?
+### Cum pot imbina Antrenamente 5×5 cu Crossfit?
 
-StrongLifts 5×5 este deja un program complet de formare. Nu trebuie sa il combini cu un alt program. Pentru a obtine rezultate, aveti nevoie de zilele de odihna intre antrenamentele 5×5 pentru StrongLifts. Daca te antrenezi in zilele de odihna, corpul tau nu se poate recupera si fara recuperare nu se poate intari si construi muschi.
+Antrenamente 5×5 este deja un program complet de formare. Nu trebuie sa il combini cu un alt program. Pentru a obtine rezultate, aveti nevoie de zilele de odihna intre antrenamentele 5×5 pentru Antrenamente. Daca te antrenezi in zilele de odihna, corpul tau nu se poate recupera si fara recuperare nu se poate intari si construi muschi.
 
-Deci, daca faci StrongLifts 5×5 de trei ori pe saptamana, iar apoi Crossfit 5x/saptamana nu va functiona. Faceti StrongLifts 5×5 de trei ori pe saptamana sau faceti Crossfit de 5 ori/saptamana. Daca insistati sa le faceti pe ambele, atunci faceti StrongLifts 5×5 luni/miercuri/vineri, si Crossfit sambata - da, doar o singura sesiune Crossfit.
+Deci, daca faci Antrenamente 5×5 de trei ori pe saptamana, iar apoi Crossfit 5x/saptamana nu va functiona. Faceti Antrenamente 5×5 de trei ori pe saptamana sau faceti Crossfit de 5 ori/saptamana. Daca insistati sa le faceti pe ambele, atunci faceti Antrenamente 5×5 luni/miercuri/vineri, si Crossfit sambata - da, doar o singura sesiune Crossfit.
 
-Nu am facut niciodata Crossfit, dar m-am antrenat in salile de sport Crossfit de cand mi-am vandut sala de sport de acasa. Cei mai multi Crossfitters casual pe care i-am intalnit ar trebui sa devina mai puternici, sa-si construiasca muschii si sa-si imbunatateasca forma. Probabil ca si tu. Asa faceti StrongLifts 5×5 timp de cateva luni, apoi reveniti la Crossfit - va fi mai usor.
+Nu am facut niciodata Crossfit, dar m-am antrenat in salile de sport Crossfit de cand mi-am vandut sala de sport de acasa. Cei mai multi Crossfitters casual pe care i-am intalnit ar trebui sa devina mai puternici, sa-si construiasca muschii si sa-si imbunatateasca forma. Probabil ca si tu. Asa faceti Antrenamente 5×5 timp de cateva luni, apoi reveniti la Crossfit - va fi mai usor.
 
 Ar trebui sa iau o saptamana pauza de la StrongLifters 5×5 la fiecare 8-12 saptamani?
 Nu. Programul este de numai 3 antrenamente pe saptamana. Asta inseamna ca deja primiti patru zile de odihna pe saptamana. Adaugati zilele suplimentare de odihna pe care majoritatea oamenilor le iau sarind un antrenament aici si acolo. Si apoi luati in considerare eliminarile dupa ce incepeti repetarile care nu au reusit. Odihna este incorporata in program si deja esti suficient.
@@ -302,7 +302,7 @@ In plus, o saptamana libera de antrenament nu va va face mai puternic. Veti invo
 
 Daca doriti o pauza, atunci faceti o saptamana mai usoara unde ridicati cu 10% mai putin sau faceti doar doua seturi sau mergeti la sala doar de doua ori, ceva de genul. Dar nu stai acasa fara sa faci nimic. Esti doar lenes. Antrenamentele tale vor fi mai grele in saptamana urmatoare, ceea ce te poate face sa pierzi din motivatie.
 
-### Am nevoie de un partener de instruire pentru StrongLifts 5×5?
+### Am nevoie de un partener de instruire pentru Antrenamente 5×5?
 
 Nu. M-am antrenat in principal singur de cand am inceput sa ridic in 2014. Majoritatea oamenilor te vor trage in jos, asa ca de multe ori esti mai bine singur.
 
@@ -314,7 +314,7 @@ Nu exista nicio indoiala in faptul ca te antrenezi mai bine cu un partener de pr
 
 De aceea, de obicei, esti mai bine singur.
 
-### Am nevoie de un supraveghetor(spotter) pentru a face StrongLifts 5×5 in siguranta?
+### Am nevoie de un supraveghetor(spotter) pentru a face Antrenamente 5×5 in siguranta?
 
 Nu. Am ridicat greutati fara sa ma supravegheze cineva (spotter) in mare parte in ultimii 5 ani.
 
@@ -372,8 +372,6 @@ Daca as astepta sa ridic doar atunci cand simti ca imi place sau am fost motivat
 
 Pentru unii oameni suna extrem. Nu suna ca o mare chestie omiterea antrenamentul de astazi. Puteti merge maine pana la urma. Dar majoritatea oamenilor care cred asta, nu vor merge maine. Sau a doua zi. Toti cei care au renuntat la antrenament, au inceput cu un antrenament stupid pe care l-au sarit.
 
-Stiu asta. Si de aceea nu omit antrenamentul. Acesta este si motivul pentru care sunt atat de consecvent de cand am inceput antrenamentele in 1999.
-
 Daca incercati acest lucru, veti vedea ca uneori, nu v-a placut sa va antrenati, oricum ati mers la sala si, odata ce ati inceput antrenamentul, devii motivat. Cred ca este din cauza ca ai depasit acea inertie, asa ca stii ca incepi sa te simti bine cu asta.
 
 Alteori, nu iti va face placere. E in regula.Faceti tot posibilul. Veti observa ca, dupa ce ati terminat antrenamentul, veti fi oricum fericiti. Intotdeauna esti fericit ca ai intrat in sala de sport, pana la urma.
@@ -400,17 +398,17 @@ Majoritatea oamenilor vor prefera sa nu ridice atunci cand au febra musculara. E
 
 Incercati: mergeti la sala, faceti incalzirea si veti vedea ca muschii se vor simti mai bine. Si asigurati-va ca nu ati inceput prea tare. Primele antrenamente ar trebui sa fie usoare. Nu faceti greseala de a incepe cu maximul.
 
-### Pot face StrongLifts 5×5 in fiecare zi?
+### Pot face Antrenamente 5×5 in fiecare zi?
 
 Nu. Pentru ca asa cum am explicat mai sus, corpul tau are nevoie de zile de odihna pentru a se reface de la stresul ridicarii greutatilor. Daca te antrenezi in fiecare zi, corpul tau nu ajunge sa se odihneasca corect pentru urmatorul antrenament. Dupa un timp, vei incepe sa sari anumite repetari si nu vei mai adauga greutate la fiecare antrenament. Atunci vei incepe sa adaugi zile de odihna.
 
-Majoritatea oamenilor nu trebuie sa se instruiasca in fiecare zi pentru a obtine rezultate. Obtineti o multime de rezultate antrenandu-te deja de trei ori pe saptamana. Ma antrenez din 1999 si nu ma antrenez de mai mult de patru ori pe saptamana. Puteti deveni mai puternici si mai musculosi decat majoritatea oamenilor cu doar trei antrenamente pe saptamana.
+Majoritatea oamenilor nu trebuie sa se instruiasca in fiecare zi pentru a obtine rezultate. Obtineti o multime de rezultate antrenandu-te deja de trei ori pe saptamana. Ma antrenez de mult si nu ma antrenez de mai mult de patru ori pe saptamana. Puteti deveni mai puternici si mai musculosi decat majoritatea oamenilor cu doar trei antrenamente pe saptamana.
 
-Nerabdarea este rea cand vine vorba de ridicare. Dar daca este nerabdarea care te face sa vrei sa faci StrongLifts 5×5 in fiecare zi, atunci adauga mai multa greutate la fiecare antrenament. Folositi cresteri mai mari de 5kg/10lb pentru o perioada. Acest lucru va va face sa progresati la o dubla viteza, ca in timpul antrenamentului in fiecare zi, dar in timp ce obtineti zile de odihna intre antrenamente.
+Nerabdarea este rea cand vine vorba de ridicare. Dar daca este nerabdarea care te face sa vrei sa faci Antrenamente 5×5 in fiecare zi, atunci adauga mai multa greutate la fiecare antrenament. Folositi cresteri mai mari de 5kg/10lb pentru o perioada. Acest lucru va va face sa progresati la o dubla viteza, ca in timpul antrenamentului in fiecare zi, dar in timp ce obtineti zile de odihna intre antrenamente.
 
 ### Pot face antrenamente pentru brate/abdomen/spate etc in zilele libere?
 
-Nu, pentru ca atunci nu te odihnesti. Corpul tau are nevoie de zile de odihna, asa cum este explicat in acest ghid. Aveti nevoie de atat antrenamente, cat si de zile de odihna pentru a obtine rezultate pe StrongLifts 5×5. Programul nu functioneaza daca nu te odihnesti - mai ales odata ce greutatile vor fi foarte grele, lucru care se va intampla destul de rapid.
+Nu, pentru ca atunci nu te odihnesti. Corpul tau are nevoie de zile de odihna, asa cum este explicat in acest ghid. Aveti nevoie de atat antrenamente, cat si de zile de odihna pentru a obtine rezultate pe Antrenamente 5×5. Programul nu functioneaza daca nu te odihnesti - mai ales odata ce greutatile vor fi foarte grele, lucru care se va intampla destul de rapid.
 
 Daca doriti cu adevarat sa adaugati exercitii suplimentare pentru brate/abdomen, atunci faceti-le la sfarsitul antrenamentului, asa cum este descris mai sus . Antrenamentele dvs. vor dura putin mai mult, dar in acest fel aveti patru zile de odihna pe saptamana. Daca nu aveti timp sa le faceti dupa antrenament, atunci faceti aceste lucruri sambata (presupunand ca va antrenati luni/miercuri/vineri). Astfel ai 3 zile complete de odihna.
 
@@ -437,11 +435,11 @@ Daca credeti ca va veti opri si va este teama ca nu reusiti repetari, atunci con
 
 ### Cum trebuie sa ma antrenez daca calatoresc cu munca si am acces doar la salile de hotel?
 
-Majoritatea salilor de gimnastica ale hotelului nu au haltere si Power racks. De obicei, au doar gantere usoare si tone de echipamente cardio. StrongLifts 5×5 nu functioneaza cu ganterele asa cum s-a discutat deja - a face cu gantere, Squat(Genoflexiuni cu haltera) and [Indreptari(Deadlifts)](/exercitii/spate/indreptari) este o pierdere de timp. Urasc sa-mi pierd timpul cu lucruri mai putin eficiente, asa ca as prefera sa nu fac nimic decat asta.
+Majoritatea salilor de gimnastica ale hotelului nu au haltere si Power racks. De obicei, au doar gantere usoare si tone de echipamente cardio. Antrenamente 5×5 nu functioneaza cu ganterele asa cum s-a discutat deja - a face cu gantere, Squat(Genoflexiuni cu haltera) and [Indreptari(Deadlifts)](/exercitii/spate/indreptari) este o pierdere de timp. Urasc sa-mi pierd timpul cu lucruri mai putin eficiente, asa ca as prefera sa nu fac nimic decat asta.
 
 Acum calatoresc mult, dar nu ma antrenez niciodata in hoteluri. Ceea ce fac este sa merg la Crossfit-ul local. Cele mai multe orase mari au unul. Crossfitters Squat(Genoflexiuni cu haltera) si Indreptari ca noi. Salile lor sunt imense si au haltere/rows pentru Squat(Genoflexiuni cu haltera)/Indreptari grele. Asa ca merg la crossfit-ul local si ma antrenez acolo.
 
-Nu trebuie sa te inscrii la cursurile Crossfit. Mergeti pur si simplu in intervalul orar si faceti antrenamentul StrongLifts 5×5. Plateste taxa pentru o zi si efectueaza-ti antrenamentul. In acest fel, nu omiteti antrenamentele, nu faceti antrenamente care sunt sub nivelul vostru de pregatire, care vor cauza pierderi de forta, cand puteti pur si simplu sa progresati.
+Nu trebuie sa te inscrii la cursurile Crossfit. Mergeti pur si simplu in intervalul orar si faceti antrenamentul Antrenamente 5×5. Plateste taxa pentru o zi si efectueaza-ti antrenamentul. In acest fel, nu omiteti antrenamentele, nu faceti antrenamente care sunt sub nivelul vostru de pregatire, care vor cauza pierderi de forta, cand puteti pur si simplu sa progresati.
 
 ### Ce se intampla daca urasc Squat(Genoflexiuni cu haltera)/Rows/Bench/orice?
 
@@ -459,13 +457,13 @@ Slabiciunea si forma proasta sunt lucruri de care trebuie sa-ti dai seama. Nu ve
 
 Desigur, daca [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press) continua sa va raneasca umerii, atunci faceti in schimb Grip Bench Press(Impinsul cu haltera de la piept). Incercati insa cel putin sa va dati seama de ce doare. In multe cazuri, problema este postura proasta. Majoritatea oamenilor nu se adreseaza niciodata acelei forme proaste, ci merg direct pentru inlocuire. Este lenes.
 
-### Fumatul imi va impiedica castigurile pe StrongLifts 5×5?
+### Fumatul imi va impiedica castigurile pe Antrenamente 5×5?
 
 Probabil ca nu. Am fumat 10 ani si am castigat forta si muschi indiferent. Apoi, din nou, am fost fumator de weekend. Pe termen lung, este mai bine pentru sanatatea ta sa renunti la fumat. Incepe doar ridicarea, pentru un timp. Nu trebuie sa repari totul in acelasi timp.
 
 Daca decideti sa renuntati mai tarziu, va recomand “Allen Carr’s Stop Smoking” . Citind acea carte m-a facut sa renunt in 2006. De atunci nu am mai atins o tigara si ma bucur ca nu mai ating acea porcarie. Oricum nu mi-a placut niciodata.
 
-### Alcoolul va impiedica castigurile mele pe StrongLifts 5×5?
+### Alcoolul va impiedica castigurile mele pe Antrenamente 5×5?
 
 Depinde decat de mult alcool vorbesti.
 
@@ -479,7 +477,7 @@ Dar solutia evidenta aici este sa nu mai beti atat de mult. Rar beau si prieteni
 
 Daca aveti bautura ocazionala aici sau acolo, alcoolul nu este o problema. Rar beau, dar cand o fac este o bautura maxima.
 
-### Cum sa-mi conving prietenul sa faca StrongLifts 5×5?
+### Cum sa-mi conving prietenul sa faca Antrenamente 5×5?
 
 Lasa rezultatele tale sa vorbeasca. Cand puteti sa faceti genuflexiuni(Squat) + 100kg/220lb si ati castigat cateva kilograme de muschi, ii veti atrage atentia. Va dori sa stie ce faceti si sa incercati sa nu fie „lasat pe dinafara”.
 
@@ -512,4 +510,4 @@ Puteti face stretching inainte de antrenament (eu nu). Dar nu iti inlocuieste in
 
 De cele mai multe ori fac Stretch Squat(Genoflexiuni cu haltera) (solduri/glezne) si atarnari passive(passive hangs) (umeri/coloana vertebrala). O fac pe prima dupa Genoflexiuni cu haltera, cea din urma intre seturi. Nu aveti nevoie de o multime de exercitii - pastrati-l simplu.
 
-Flexibilitatea vine mai repede decat puterea. Intinderea necesita mai multa munca la inceput si poate fi incomoda. Dar daca o faci in mod constant, te vei vedea imbunatatiri peste cateva saptamani. Este nevoie de mai putina munca dupa aceea, deoarece exercitiile StrongLifts 5×5 va vor ajuta sa mentineti flexibilitatea.
+Flexibilitatea vine mai repede decat puterea. Intinderea necesita mai multa munca la inceput si poate fi incomoda. Dar daca o faci in mod constant, te vei vedea imbunatatiri peste cateva saptamani. Este nevoie de mai putina munca dupa aceea, deoarece exercitiile Antrenamente 5×5 va vor ajuta sa mentineti flexibilitatea.

@@ -4,12 +4,10 @@ cover: './blocks.jpg'
 date: '2020-02-15'
 title: 'Cum sa pierzi grasime'
 tags: ['exercitii']
-published: true
+published: false
 ---
 
 # Cum sa pierzi rapid grasimea (12lb in 90 de zile)
-
-<div class = "entry-meta"> <span class = "posted-on"> Ultima actualizare: [<class class = "actualizat" datetime = "2018-12-03T10: 06: 28 + 01: 00" itemprop = "dateModified"> 3 decembrie 2018 </time>] (https://stronglifts.com/lose-fat/ "1:00 pm") </span> <span class = "byline"> <span class = " autor vcard "itemtype =" http://schema.org/Person "itemscope =" itemscope "itemprop =" autor "> de [<span class =" autor-name "itemprop =" name "> Mehdi </span>] (/ despre / "Despre Mehdi") </span> </span> </div>
 
 Pierderea grasimii poate fi frustranta atunci cand se pare ca nu pierdeti grasime, chiar daca nu mancati mult.
 
@@ -271,7 +269,7 @@ Majoritatea oamenilor care vor sa piarda grasime, fac cardio. Au lovit banda de 
 
 Ridicarea greutatilor este mai distractiva. Construieste muschi. Iti creste metabolismul, spre deosebire de cardio, la majoritatea oamenilor. Ceea ce inseamna ca veti arde mai multe calorii de la ridicarea greutatilor si dupa antrenament.
 
-Pentru cele mai bune rezultate, trebuie sa faceti greutate gratuita, exercitii compuse. Asta inseamna [Genuflexiuni cu haltera(Squats)](/exercitii/picioare/fenuflexiuni-cu-haltera) si [Deadlifts](</indreptari(deadlifts)>). Daca nu ati ridicat niciodata greutati inainte, incepeti cu bara goala pentru a va concentra pe formular. Verifica programul meu [StrongLifts 5 × 5](program/full-body/5x5), dureaza doar de trei ori pe saptamana.
+Pentru cele mai bune rezultate, trebuie sa faceti greutate gratuita, exercitii compuse. Asta inseamna [Genuflexiuni cu haltera(Squats)](/exercitii/picioare/fenuflexiuni-cu-haltera) si [Deadlifts](</indreptari(deadlifts)>). Daca nu ati ridicat niciodata greutati inainte, incepeti cu bara goala pentru a va concentra pe formular. Verifica programul meu [ [Antrenamente 5x5](/program/full-body/5x5) ](program/full-body/5x5), dureaza doar de trei ori pe saptamana.
 
 <!--
 ## <span id = "Frecvent_Asked_Questions"> Intrebari frecvente </span>

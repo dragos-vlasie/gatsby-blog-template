@@ -4,14 +4,13 @@ import Wave from '../elements/Wave';
 
 const Wrapper = styled.footer`
   position: relative;
-  height: 200px;
-  padding-top: 2rem;
   bottom: 0;
   box-shadow: ${props => props.theme.shadow.footer};
   background: ${props => props.theme.gradient.leftToRight};
   font-family: ${props => props.theme.fontFamily.body};
   font-weight: 500;
   padding-top: 7rem;
+  padding-bottom: 2rem;
 `;
 
 const Text = styled.div`
@@ -34,7 +33,7 @@ const Footer = () => (
   <Wrapper>
     <Wave orientation={'top'} />
     <Text>
-      <span>Gatsby Template </span>
+      <span>Antrenamente</span>
       <Copyright>Copyright © 2019. Dragos Vlasie. All rights reserved.</Copyright>
     </Text>
   </Wrapper>

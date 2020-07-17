@@ -8,9 +8,9 @@ subCategory: ['full-body']
 published: true
 ---
 
-##StrongLifts 5×5: Fii mai puternic ridicand greutati doar de 3 ori/saptamana
+##Antrenamente 5×5: Fii mai puternic ridicand greutati doar de 3 ori/saptamana
 
-Programul StrongLifts 5×5 de formare a fortei consta din doua antrenamente...
+Programul Antrenamente 5×5 de formare a fortei consta din doua antrenamente...
 
 - Antrenament A: [Squat(Genuflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera), [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press), [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara)
 
@@ -20,9 +20,9 @@ Faceti trei antrenamente pe saptamana. Nu te antrena niciodata doua zile la rand
 
 Majoritatea oamenilor se antreneaza luni, miercuri si vineri. Asta va ofera o zi de recuperare intre fiecare antrenament si doua zile de recuperare inainte de urmatorul antrenament de luni. Ceea ce functioneaza, de asemenea, se poate sa te antrenezi marti, joi si sambata... sau duminica, marti si joi.
 
-Incepeti StrongLifts 5×5 facand antrenamentul A. Mergeti acasa, mancati si dormiti. Doua zile mai tarziu, faceti antrenament B. Alte doua zile mai tarziu faceti antrenament A. Prima saptamana va arata asa daca va antrenati Luni/Miercuri/Vineri...
+Incepeti Antrenamente 5×5 facand antrenamentul A. Mergeti acasa, mancati si dormiti. Doua zile mai tarziu, faceti antrenament B. Alte doua zile mai tarziu faceti antrenament A. Prima saptamana va arata asa daca va antrenati Luni/Miercuri/Vineri...
 
-#### StrongLifts 5x5 Saptamana 1
+#### Antrenamente 5x5 Saptamana 1
 
 <div style="overflow-x: auto;">
 
@@ -36,7 +36,7 @@ Incepeti StrongLifts 5×5 facand antrenamentul A. Mergeti acasa, mancati si dorm
 
 Incepeti saptamana a doua cu antrenamentul B, deoarece ati terminat saptamana unu cu antrenamentul A. Apoi continuati sa alternati antrenamentele de fiecare data cand mergeti la sala. A doua saptamana va arata asa, daca te duci la sala luni, miercuri si vineri ca majoritatea oamenilor...
 
-#### StrongLifts 5x5 Saptamana 2
+#### Antrenamente 5x5 Saptamana 2
 
 <div style="overflow-x: auto;">
 
@@ -66,7 +66,7 @@ Daca doriti sa faceti mai mult de 1x5 Indreptari(Deadlifts), mai bine este sa va
 
 Mariti greutatea la fiecare antrenament nou(fie A sau B) la fiecare exercitiu in care ati completat cinci repetari pe fiecare set. Adaugati 2,5kg/5lb pe acele exercitii. Pe Indreptari adaugati 5kg/10lb. Asadar, daca sunteti nou la ridicare si ati inceput cu greutatile de pornire recomandate, primele doua saptamani vor arata astfel...
 
-#### StrongLifts 5x5 Saptamana 1
+#### Antrenamente 5x5 Saptamana 1
 
 <div style="overflow-x: auto;">
 
@@ -78,7 +78,7 @@ Mariti greutatea la fiecare antrenament nou(fie A sau B) la fiecare exercitiu in
 
 </div>
 
-#### StrongLifts 5x5 Saptamana 2
+#### Antrenamente 5x5 Saptamana 2
 
 <div style="overflow-x: auto;">
 
@@ -103,9 +103,9 @@ Rezultate tipice
 Rezultatele voastre depind de varsta, sexul, greutatea, tehnica, alimentatia, somnul, experienta, consecventa, efortul, etc. Multi oameni si-au dublat Squat-ul pana la 136kg intr-un an folosind acest program. Dar
 aceste rezultate sunt atipice pentru cei mai inaintati in varsta sau femeile care au mai putin testosteron.
 
-Rezultatul tipic la care va puteti astepta daca faceti StrongLifts 5×5 asa cum este prevazut este o crestere a fortei si a masei musculare. Marimea castigurilor si timpul necesar variaza. Dar nu am intalnit pe cineva care nu s-a imbunatatit cu acest program. Fa-l dupa regulile de mai sus si iata la ce te poti astepta...
+Rezultatul tipic la care va puteti astepta daca faceti Antrenamente 5×5 asa cum este prevazut este o crestere a fortei si a masei musculare. Marimea castigurilor si timpul necesar variaza. Dar nu am intalnit pe cineva care nu s-a imbunatatit cu acest program. Fa-l dupa regulile de mai sus si iata la ce te poti astepta...
 
-- **Mai multa forta**. Vei fi mai puternic dupa fiecare antrenament StrongLifts 5×5. Vei creste in forta mai rapid decat alti oameni. Forta ta se va transfera la activitati fizice din afara salii de sport. Ridicarea obiectelor grele, transportul alimentelor sau urcarea scarilor va fi mai usoara.
+- **Mai multa forta**. Vei fi mai puternic dupa fiecare antrenament Antrenamente 5×5. Vei creste in forta mai rapid decat alti oameni. Forta ta se va transfera la activitati fizice din afara salii de sport. Ridicarea obiectelor grele, transportul alimentelor sau urcarea scarilor va fi mai usoara.
 
 - **Mai multi muschi**. Muschii tai vor deveni mai puternici si mai mari pentru a ridica greutatile. Daca nu ati facut niciodata un program de antrenament adecvat ca acesta inainte, puteti obtine pana la 12kg de masa muscluara intr-un an . De asemenea, veti recapata muschi pierduti si veti opri pierderea musculara din imbatranire/dieta.
 
@@ -139,13 +139,13 @@ Avertisment: acest program pare usor, dar nu este. Adaugati greutate la fiecare 
 
 ## Muschi lucrati<a id="muschi-lucrati"></a>
 
-StrongLifts 5×5 este un program care antreneaza intreg corpul. Fiecare exercitiu soliciita mai multi muschi. Impreuna, aceste exercitii compuse iti lucreaza intregul corp. Acest lucru face ca acest program sa fie eficient in timp - puteti antrena fiecare muschi facand doar trei exercitii pe antrenament.
+Antrenamente 5×5 este un program care antreneaza intreg corpul. Fiecare exercitiu soliciita mai multi muschi. Impreuna, aceste exercitii compuse iti lucreaza intregul corp. Acest lucru face ca acest program sa fie eficient in timp - puteti antrena fiecare muschi facand doar trei exercitii pe antrenament.
 
 Acest lucru poate fi greu de crezut daca esti obisnuit sa antrenezi un muschi pe zi, facand o duzina de exercitii pe antrenament. Dar nu trebuie sa va antrenati muschii direct pentru a creste. De fapt, cresc mai bine cu exercitii compuse, deoarece puteti ridica greutati mai grele. Acest lucru declanseaza o crestere musculara mai mare.
 
 Acesta este motivul pentru care cu cat ai mai multa forta cu atat ai un corp mai mult muscular . Cu cat esti mai puternic, cu atat poti sa ridicii greutati si mai grele, asfel, vei pune mai multa masa musculara. Muschii tai trebuie sa creasca pentru a ridica greutatile mai grele. Prin urmare, nu este importanta cantitatea de exercitii pe care le faceti. Este intensitatea.
 
-Intensitatea este mai mare la exercitiile compuse, deoarece puteti utiliza greutati mai mari. StrongLifts 5×5 foloseste cele mai bune cinci exercitii compuse - “the big five”. Iata toti muschii pe care ii veti lucra facand Squat(Genuflexiuni cu haltera), Bench Press(Impinsul cu haltera de la piept), OverheadPress(Presa deasuprea capului), Indreptari si Barbell Row(ramat cu haltera) in fiecare saptamana...
+Intensitatea este mai mare la exercitiile compuse, deoarece puteti utiliza greutati mai mari. Antrenamente 5×5 foloseste cele mai bune cinci exercitii compuse - “the big five”. Iata toti muschii pe care ii veti lucra facand Squat(Genuflexiuni cu haltera), Bench Press(Impinsul cu haltera de la piept), OverheadPress(Presa deasuprea capului), Indreptari si Barbell Row(ramat cu haltera) in fiecare saptamana...
 
 - **Piept**. Tot pieptul tau lucreaza pentru a indeparta bara de tine cand faci ridicari la piept - [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press). Pieptul superior actioneaza pentru a ridica greutatea atunci cand impingeti deasupra capului.
 - **Umerii**. Intregul umar (fata, lateral, spate) functioneaza pentru a ridica bratele atunci cand impingeti bara deasupra capului - [OverheadPress(Presa deasuprea capului)](/exercitii/umeri/presa-deasupra-capului). Umerii vostri din fata lucreaza, de asemenea, pentru a ridica bratele atunci cand impingeti la piept - Bench Press(Impinsul cu haltera de la piept).
@@ -157,11 +157,11 @@ Intensitatea este mai mare la exercitiile compuse, deoarece puteti utiliza greut
 - **Coapse**. Coapsele, fesele si hamstring indreptati picioarele si soldurile atunci cand faceti Genoflexiuni cu haltera(Squat) si Deadlift. De asemenea, va mentin stabilizat atunci cand faceti Presa deasupra capului cu bara si Impinsul cu haltera de la piept.
 - **Spate**. Partea inferioara a spatelui impiedica coloana vertebrala sa se rotunjeasca pe Indreptari, Genoflexiuni cu haltera(Squat) si Row. Partea superioara a spatelui trage greutatea inapoi pe Row. De asemenea, mentine bara aproape cand faceti Indreptari
 
-Nu puteti face greseala de a favoriza partile corpului pe StrongLifts 5×5. Exercitiile compuse iti lucreaza intregul corp. Deci nu te vei transforma intr-un cocalar cu doar partea superioara a corpului lucrata, cu doar piept si brate, dar fara spate si picioare. In schimb, veti construi un fizic echilibrat, bine proportionat.
+Nu puteti face greseala de a favoriza partile corpului pe Antrenamente 5×5. Exercitiile compuse iti lucreaza intregul corp. Deci nu te vei transforma intr-un cocalar cu doar partea superioara a corpului lucrata, cu doar piept si brate, dar fara spate si picioare. In schimb, veti construi un fizic echilibrat, bine proportionat.
 
 De fapt, distributia superioara/inferioara a corpului este aproape uniforma. In doua saptamani faceti 150 de repetari [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) (picioare), 150 de repetitii pentru [Bench press(Impinsul cu haltera de la piept)](/exercitii/bench-press) (partea superioara), 15 repetari DL (picioare) si 75 de repetari (partea superior). Deci acest antrenamment lucreaza 43% picioare si 57% lucreaza in partea superioara a corpului. Aceasta creeaza o dezvoltare echilibrata.
 
-Retineti ca StrongLifts 5×5 nu este un program de culturism. Iti vei construi corpul. Vei face muschi . Multi muschi. Dar nu te vei transforma intr-un culturist. Vei construi in schimb un corp muscular si atletic. Unul care nu arata doar puternic, dar, de asemenea, este puternic.
+Retineti ca Antrenamente 5×5 nu este un program de culturism. Iti vei construi corpul. Vei face muschi . Multi muschi. Dar nu te vei transforma intr-un culturist. Vei construi in schimb un corp muscular si atletic. Unul care nu arata doar puternic, dar, de asemenea, este puternic.
 
 Cheia este sa-ti cresti puterea. Nu va asteptati sa aveti pieptul atat de dezvoltat ca unul care ridica 100kg, daca faceti doar jumatate din asta. Nu va asteptati sa avetii picioarele ca a unui Squatter ce face 180kg/400lb daca nu puteti chiar sa faci [Genoflexiuni cu haltera](/exercitii/picioare/genuflexiuni-cu-haltera) cu nici jumate din atat. Scopul vostru trebuie sa fie Genoflexiuni cu haltera cu 140kg/300lb, Bench Press(Impinsul cu haltera de la piept) 100kg/220lb si Indreptari(Deadlifts) de 180kg/400lb.
 
@@ -173,30 +173,30 @@ Conform legendei, Milo de la Croton s-a antrenat pentru Jocurile Olimpice purtan
 
 Este doar o legenda, dar sunt multe lectii aici. A pornit usor. A adaugat greutate incet. El a adaugat greutate la fiecare antrenament. A ridicat un obiect greu care-i lucra intregul corp. El a ridicat-o frecvent. El l-a echilibrat singur. Programul lui era simplu. Dar a fost o munca grea. Si a fost eficient.
 
-StrongLifts 5×5 nu foloseste vitelul. Dar functioneaza la fel. Si de aceea este atat de eficient.
+Antrenamente 5×5 nu foloseste vitelul. Dar functioneaza la fel. Si de aceea este atat de eficient.
 
 - **Greutati libere**. Masinile echilibreaza greutatea pentru tine. Greutatile libere(bara olimpica) te obliga sa o echilibrezi. Deci, solicita mai multi muschi, imbunatatesc echilibrul si construiesc forta care se transfera in afara salii de sport. De asemenea, miscarile sunt mai naturale si mai sigure, deoarece controlati cum se misca bara.
-- **Haltere**. Puteti ridica greutati mai grele cu halterele decat gantere. Si nu ai nevoie decat de o bara pentru a face toate exercitiile StrongLifts 5×5. Acest lucru face ca construirea unei sali de gimnastica sa fie ieftina si usoara.
+- **Haltere**. Puteti ridica greutati mai grele cu halterele decat gantere. Si nu ai nevoie decat de o bara pentru a face toate exercitiile Antrenamente 5×5. Acest lucru face ca construirea unei sali de gimnastica sa fie ieftina si usoara.
 - **Muschi stabilizatori si secundari **. Puteti ridica mai mult facand exercitiile compuse(compound) precum [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) decat alte exercitii de izolarea. Squat(Genoflexiuni cu bara) folosesc mai multi muschi - puteti ridica mult mai multa greutate si astfel puteti face mai mult muschi si mai multa forta. Si din moment ce exercitiile compuse(compound) functioneaza mai multi muschi, nu aveti nevoie de o multime de exercitii. Trei este suficient - economiseste timp.
 - **Genoflexiuni cu haltera(Squat)**. Squat(Genoflexiuni cu bara) este coloana vertebrala a programului. Iti functioneaza intregul corp, cu greutati mari si pe o gama lunga de miscare. Genoflexiunile cu bara sunt cel mai bun exercitiu pentru a castiga forta si muschi. Il vei uri pentru ca sunt exercitii foarte grele, dar il iubesti pentru rezultatele pe care le ofera!
-- **Pentru incepatori**. StrongLifts 5×5 incepe cu greutati usoare. Acest lucru previne durerea si accidentarea. II ofera corpului tau timp sa se adapteze la ridicare mai des. Impiedica esecul(platoul) prea devreme. Te obliga sa te concentrezi pe ridicare cu o forma adecvata. Si te pregateste pentru saptamanile grele mai tarziu.
+- **Pentru incepatori**. Antrenamente 5×5 incepe cu greutati usoare. Acest lucru previne durerea si accidentarea. II ofera corpului tau timp sa se adapteze la ridicare mai des. Impiedica esecul(platoul) prea devreme. Te obliga sa te concentrezi pe ridicare cu o forma adecvata. Si te pregateste pentru saptamanile grele mai tarziu.
 - **Intensitate**. Antrenamentele sunt scurte, dar intense. Fiecare exercitiu lucreaza mai multi muschi in acelasi timp, iar greutatea este mai mare si ai nevoie de mai multa forta. Dar faci doar trei exercitii, astfel incat sa nu pierzi focusul. Scurt si la obiect!
 - **Supraincarcarea progresive(progresive overload)**. Cresterea greutatii iti determina progresiv corpul sa devina mai puternic. Corpul tau se inarmeaza pentru a gestiona mai bine sarcina data viitoare. Deci, muschii devin mai mari/puternici, oasele sunt mai dense si tendoanele mai puternice. Daca nu ridici mult poti sa pierzi muschi si forta.
 - **Frecventa**. Sa faci Squat de trei ori pe saptamana este mai bine decat o data, deoarece iti declansezi picioarele de 3 ori mai mult pentru a creste muschiul. De asemenea, trebuie sa practicati forma corecta de trei ori mai mult. Acest lucru va imbunatateste forma, care va ajuta sa ridicati greutati mai mari si declanseaza si mai multa crestere musculara.
 - **Cinci a cate cinci**. Puteti ridica mai multa greutate faceti cinci repetari in loc de opt, zece sau doisprezece. Forma voastra este mai buna, deoarece setul s-a incheiat inainte de oboseala. Cantitatea totala de seturi este aceeasi, indiferent daca faceti 5×5 sau 3×8 (25 vs 24). Greutatile pe care le ridicati sunt mai grele ceea ce stimuleaza cresterea musculara.
-- **Fara esec**. Antremanentul pana la esec te face pompat si provoaca febra muscluara. Febra muscluara te impiedica sa antrenezi din nou muschii in aceeasi saptamana. Cu toate acestea, antrenamentul frecvent declanseaza crestere a fortei si cresteri musculare. Prin urmare, nu incercati sa atingeti esecul pe StrongLifts 5×5. Incercati sa adaugati greutati.
-- **Odihna**. Fiecare antrenament stimuleaza forta si castigurile musculare. Te face mai puternic. Dar iti oboseste si corpul. Ai nevoie de odihna intre antrenamente, astfel incat muschii sa se poata recupera, sa creasca mai puternici si sa ridici mai multe greutati data viitoare. StrongLifts 5×5 va ofera patru zile de odihna pe saptamana.
-- **Plan**. Nerespectarea planificarii te va face sa esuezi. Majoritatea oamenilor nu au niciun plan in sala de sport. Ei fac ceea ce simt sau vad ca altcineva face. StrongLifts 5×5 va ofera un plan de antrenament in fiecare zi. Iti ofera un mod simplu de a progresa. Veti sti ce sa faceti si la ce sa va asteptati. Vei fi increzator si dorinic de a merge la sala pt continua progresul.
-- **Aderenta**. Cel mai bun program de sala este cel pe care il respecti. Este mai usor sa respecti programul StrongLifts 5×5, deoarece dureaza doar trei antrenamente pe saptamana. Si fiecare antrenament dureaza mai putin de o ora in primele 12 saptamani. Vei omite mai putin antrenamentele si vei fi mai consecvent.
-- **Obiectiv**. StrongLifts 5×5 este lipsit de rezultate de fatada - subiective, cum ar fi „a-ti simti muschii” sau a felului in care te uiti in oglinda. Stii daca programul functioneaza uitandu-te la greutatea de pe bara. Daca creste in timp - si o va face - castigi forta si muschi, punct!
-- **Distractie**. Multi oameni devin dependenti de a pune mai multe greutati pe bara de fiecare data cand se duc la sala. Vei fi surprins de cat de puternic poti ajunge pe StrongLifts 5×5. Pentru prima data veti astepta cu nerabdare sa mergeti la sala si sa ridicati mai mult decat data trecuta. Motivatia ta va atinge noi culmi.
-- **Simplu**. Nu aveti nevoie de doctorat pentru a intelege StrongLifts 5×5. Programul este format din doua antrenamente cu trei exercitii fiecare. Faceti seturi de cinci si adaugati greutate pe bara de fiecare data. Si ati terminat. Este si mai simplu cand utilizati foile de calcul, deoarece va vor da oportunitatea sa fa concentrati doar la exercitii pe care trebuie sa le faceti.
+- **Fara esec**. Antremanentul pana la esec te face pompat si provoaca febra muscluara. Febra muscluara te impiedica sa antrenezi din nou muschii in aceeasi saptamana. Cu toate acestea, antrenamentul frecvent declanseaza crestere a fortei si cresteri musculare. Prin urmare, nu incercati sa atingeti esecul pe Antrenamente 5×5. Incercati sa adaugati greutati.
+- **Odihna**. Fiecare antrenament stimuleaza forta si castigurile musculare. Te face mai puternic. Dar iti oboseste si corpul. Ai nevoie de odihna intre antrenamente, astfel incat muschii sa se poata recupera, sa creasca mai puternici si sa ridici mai multe greutati data viitoare. Antrenamente 5×5 va ofera patru zile de odihna pe saptamana.
+- **Plan**. Nerespectarea planificarii te va face sa esuezi. Majoritatea oamenilor nu au niciun plan in sala de sport. Ei fac ceea ce simt sau vad ca altcineva face. Antrenamente 5×5 va ofera un plan de antrenament in fiecare zi. Iti ofera un mod simplu de a progresa. Veti sti ce sa faceti si la ce sa va asteptati. Vei fi increzator si dorinic de a merge la sala pt continua progresul.
+- **Aderenta**. Cel mai bun program de sala este cel pe care il respecti. Este mai usor sa respecti programul Antrenamente 5×5, deoarece dureaza doar trei antrenamente pe saptamana. Si fiecare antrenament dureaza mai putin de o ora in primele 12 saptamani. Vei omite mai putin antrenamentele si vei fi mai consecvent.
+- **Obiectiv**. Antrenamente 5×5 este lipsit de rezultate de fatada - subiective, cum ar fi „a-ti simti muschii” sau a felului in care te uiti in oglinda. Stii daca programul functioneaza uitandu-te la greutatea de pe bara. Daca creste in timp - si o va face - castigi forta si muschi, punct!
+- **Distractie**. Multi oameni devin dependenti de a pune mai multe greutati pe bara de fiecare data cand se duc la sala. Vei fi surprins de cat de puternic poti ajunge pe Antrenamente 5×5. Pentru prima data veti astepta cu nerabdare sa mergeti la sala si sa ridicati mai mult decat data trecuta. Motivatia ta va atinge noi culmi.
+- **Simplu**. Nu aveti nevoie de doctorat pentru a intelege Antrenamente 5×5. Programul este format din doua antrenamente cu trei exercitii fiecare. Faceti seturi de cinci si adaugati greutate pe bara de fiecare data. Si ati terminat. Este si mai simplu cand utilizati foile de calcul, deoarece va vor da oportunitatea sa fa concentrati doar la exercitii pe care trebuie sa le faceti.
 
-StrongLifts 5×5 se bazeaza pe bunul simt. Daca esti un ganditor logic ca mine, acest program va avea sens pentru tine. Va fi evident ca acest program este mult mai eficient decat cele care se focuseaza pe un singur muschi pe zi, rutine de izolare a muschilor, sunt o pierdere de vreme atunci cand acest program ofera tot de ce ai nevoie in doar 3 exercitii.
+Antrenamente 5×5 se bazeaza pe bunul simt. Daca esti un ganditor logic ca mine, acest program va avea sens pentru tine. Va fi evident ca acest program este mult mai eficient decat cele care se focuseaza pe un singur muschi pe zi, rutine de izolare a muschilor, sunt o pierdere de vreme atunci cand acest program ofera tot de ce ai nevoie in doar 3 exercitii.
 
-## Istoria StrongLifts de 5×5<a id="istoria"></a>
+## Istoria Antrenamente de 5×5<a id="istoria"></a>
 
-StrongLifts 5×5 se bazeaza pe rutina 5×5. Nu am inventat 5×5 - am scris doar un ghid definitiv. Nu este clar cine a inventat rutina 5×5, dar se pare ca a existat de aproape 100 de ani acum. Iata o scurta istorie despre originile sale...
+Antrenamente 5×5 se bazeaza pe rutina 5×5. Nu am inventat 5×5 - am scris doar un ghid definitiv. Nu este clar cine a inventat rutina 5×5, dar se pare ca a existat de aproape 100 de ani acum. Iata o scurta istorie despre originile sale...
 
 In „Muscle, Smoke and Mirrors”, Randy Roach a scris ca Milo Steinborn a adus [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) in SUA din Germania, in anii 1920. Power Racks nu existau inca, asa ca a pus bara vertical si apoi a lasat-o pe partea superioara a spatelui. Milo ar putea Squds 250kg/550lb asa de incalzire...
 
@@ -204,7 +204,7 @@ Culturistii americani erau uimiti si in curand au inceput sa faca Genoflexiuni c
 
 Doua decenii mai tarziu in Marea Britanie, Reg Park a fost 3x Mr. Universe. El a putut Genoflexiuni cu haltera 300kg, Bench 230kg si Indreptari 340kg. In 1960, a pus tot ce a invatat in cartea sa„ 'Strength & Bulk Training for Weight Lifters & Body Builders”. Programul sau principal a fost o rutina de 5×5 care se focuseza pe Genoflexiuni cu haltera.
 
-Reg Park a devenit ulterior mentorul lui Arnold Schwarzenegger. Biografiile sale Total Recall si Educatia unui culturist dezvaluie ca Arnold a facut o multime de ridicari cu greutati mari. El a fost un competitor olimpic si facea powerlifting inainte de a se transforma in culturist. Reg Park l-a antrenat pe Arnold folosind StrongLifts 5×5.
+Reg Park a devenit ulterior mentorul lui Arnold Schwarzenegger. Biografiile sale Total Recall si Educatia unui culturist dezvaluie ca Arnold a facut o multime de ridicari cu greutati mari. El a fost un competitor olimpic si facea powerlifting inainte de a se transforma in culturist. Reg Park l-a antrenat pe Arnold folosind Antrenamente 5×5.
 
 Intre timp, halterofilul canadian Doug Hepburn a castigat aur la Olimpiada din 1953. Era un mare fan al programului 5×5 si putea Genoflexiuni cu haltera 350kg, Bench Press(Impinsul cu haltera de la piept) 580lb si Indreptari 705lb. Interesant este ca Hepburn s-a antrenat in sala de sport Ed Yaricks din California, pe care Reg Park a vizitat-o in 1949. Probabil de aceea a folosit acest program...
 
@@ -216,7 +216,7 @@ Nu am inventat 5×5. Rutina si principiile sale au fost cu mult inainte de a ma 
 
 ### Antrenamente<a id="program-antrenamente"></a>
 
-StrongLifts 5×5 declanseaza forta si cresterea muschilor in intregul corp folosind doua antrenamente A si B. Ve ti face [Genoflexiuni cu haltera(Squat)](/exercitii/picioare/genuflexiuni-cu-haltera) la fiecare antrenament ca prim exercitiu, deoarece acesta este coloana vertebrala a programului. Urmatoarele doua exercitii se schimba in functie de ce antrenament faceti A sau B.
+Antrenamente 5×5 declanseaza forta si cresterea muschilor in intregul corp folosind doua antrenamente A si B. Ve ti face [Genoflexiuni cu haltera(Squat)](/exercitii/picioare/genuflexiuni-cu-haltera) la fiecare antrenament ca prim exercitiu, deoarece acesta este coloana vertebrala a programului. Urmatoarele doua exercitii se schimba in functie de ce antrenament faceti A sau B.
 
 - Antrenament A: [Squat(Genoflexiuni cu haltera) ](/exercitii/picioare/genuflexiuni-cu-haltera) 5×5, [Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press) 5×5, [Barbell Row(ramat cu haltera) ](/exercitii/spate/ramat-cu-bara) 5×5
 
@@ -234,11 +234,11 @@ Ai putea face patru antrenamente pe saptamana. Mai ai acea zi libera, dar progre
 
 Daca va lipseste unul sau doua antrenamente, continuati din locul unde ati v-ati oprit. Sa zicem ca te antrenezi pe Luni/Miercuri/Vineri si pierzi vineri. Faceti antrenamentul acela sambata. Nu este nevoie sa scadeati din greutatile de pe bara, nu ve ti pierdeti puterea atat de repede. Continuati Luni/Miercuri/Vineri saptamana urmatoare.
 
-Retineti ca aceste trei antrenamente pe saptamana sunt un program complet de formare. Nu puteti face StrongLifts 5×5 pe deasupra altui program. V-ar strica recuperarea si va va impiedica sa adaugati greutati pe bara la fiecare antrenament. V-ar lipsi repetitii, si veti stagna la aceeasi greutate si nu ajungeti nicaieri. Faceti acest program sau altul - nu ambele!
+Retineti ca aceste trei antrenamente pe saptamana sunt un program complet de formare. Nu puteti face Antrenamente 5×5 pe deasupra altui program. V-ar strica recuperarea si va va impiedica sa adaugati greutati pe bara la fiecare antrenament. V-ar lipsi repetitii, si veti stagna la aceeasi greutate si nu ajungeti nicaieri. Faceti acest program sau altul - nu ambele!
 
 ## Exercitii<a id="exercitii"></a>
 
-Pentru StrongLifts 5×5 faci cinci exercitii - [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera). [Bench Press](/exercitii/bench-press), [Indreptari](/exercitii/spate/indreptari), [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului) si [Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara) Fiecare antrenament incepe cu Genoflexiuni cu haltera. Celelalte exercitii alterneaza depinzand de antrenament.
+Pentru Antrenamente 5×5 faci cinci exercitii - [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera). [Bench Press](/exercitii/bench-press), [Indreptari](/exercitii/spate/indreptari), [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului) si [Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara) Fiecare antrenament incepe cu Genoflexiuni cu haltera. Celelalte exercitii alterneaza depinzand de antrenament.
 
 - **[Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) Coloana vertebrala a programului**. Genoflexiuni cu haltera va intaresc picioarele si orice altceva datorita greutati mari pe care le ridicatii la acest exercitiu. Bara se deplaseaza printr-un interval mai lung de miscare decat orice alt exercitiu.
 - **[Bench Press(Impinsul cu haltera de la piept)](/exercitii/bench-press)**. Echivalentul Genoflexiuni cu haltera pentru partea superioara a corpului. Bench press(Impinsul cu haltera de la piept) iti intareste si mareste pieptul, umerii si bratele. Aici poti ridica maii mult deacat la orice alt exercitiu pentru partea superioara a corpului.
@@ -252,7 +252,7 @@ Utilizati o bara olimpica pentru fiecare exercitiu. Puteti incarca bara cu mult 
 
 Bara trebuie sa se miste liber. Nu poate fi atasata la un aparat, deoarece asta iti va scoate munca din muschii tai. Trebuie sa echilibrezi singur greutatea, sa nu lasi o masina sa o faca. De asemenea, aveti nevoie de control total asupra modului de miscare a barei - o masina nu poate determina calea barei.
 
-Asa ca nu faceti StrongLifts 5×5 folosind aparate. Bara de pe aparat este fixa ce face ca muschii sa functioneze mai putin, deoarece nu trebuie sa o echilibrezi. De asemenea, te forteaza in miscari nefiresti care pot provoca dureri si rani.
+Asa ca nu faceti Antrenamente 5×5 folosind aparate. Bara de pe aparat este fixa ce face ca muschii sa functioneze mai putin, deoarece nu trebuie sa o echilibrezi. De asemenea, te forteaza in miscari nefiresti care pot provoca dureri si rani.
 
 Ganterele nu functioneaza pentru acest program. Nu poti [Genoflexiuni cu haltera(Squat)](/exercitii/picioare/genuflexiuni-cu-haltera) sau [Indreptari](/exercitii/spate/indreptari)foarte greu, deoarece trebuie sa tii greutatilor pe o bara. Si majoritatea ganterelor cresc cu 2kg. Te obliga sa folosesti cresteri mai mari de 4kg pe antrenament. Ceea ce va va stagna cresterea.
 
@@ -272,7 +272,7 @@ Utilizati aceeasi o miscare completa pentru fiecare exercitiu, set si antrenamen
 
 ## Ordinea exercitiilor<a id="ordinea-exercitiilor"></a>
 
-Ordinea de exercitiu a StrongLifts 5×5 nu este aleatorie, ci intentionata. De aceea trebuie respectata.
+Ordinea de exercitiu a Antrenamente 5×5 nu este aleatorie, ci intentionata. De aceea trebuie respectata.
 
 Incepeti intotdeauna cu [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) . Sunt cele mai grele exercitii si exercitiul principal al programului. Daca Squat(Genoflexiuni cu haltera va fii al doilea sau ultimul exercitiu, il vei face mai greu pentru ca esti deja obosit. Asadar, este mai probabil sa le sari peste ele (mai ales daca urasti Genoflexiuni cu haltera). [Genoflexiuni cu haltera(Squat)](/exercitii/picioare/genuflexiuni-cu-haltera) pentru primul exercitiu, pentru a fi cat mai consecvent.
 
@@ -301,7 +301,7 @@ Efectuati cinci seturi de cinci repetari (5x5) pe Squat(Genoflexiuni cu haltera)
 
 5x5 Indreptari dupa 5×5 Squat(Genoflexiuni cu haltera nu functioneaza. Indreptari(Deadlifts) folosesc mai multi muschi. Bara este mai grea si fiecare repetare porneste de la un start mort. A trage greutate foarte mare pentru 5×5 este brutal. In loc sa iti accelerezi progresul, il vei incetini, adaugand mai multe repetari. Indreptari doar 1x5 - este suficient.
 
-StrongLifts 5×5 foloseste seturi de cinci repetari - nu opt sau zece repetari ca pe 3×8 sau 3×10. Asta nu inseamna ca a face opt sau zece repetari nu are valoare. Dar nu este eficient pentru persoanele care nu au construit o forta de baza, masa musculara si tehnica. Iata de ce cinci repetari functioneaza mai bine:
+Antrenamente 5×5 foloseste seturi de cinci repetari - nu opt sau zece repetari ca pe 3×8 sau 3×10. Asta nu inseamna ca a face opt sau zece repetari nu are valoare. Dar nu este eficient pentru persoanele care nu au construit o forta de baza, masa musculara si tehnica. Iata de ce cinci repetari functioneaza mai bine:
 
 - **Greutate mai mare Cinci repetari iti scurteaza seturile**. S-au terminat inainte de a fi extenuat. Deci, puteti ridica maximum cu cinci decat opt sau zece repetari. Greutatile mari iti declanseaza corpul mai mult pentru a castiga forta si muschi. Trebuie sa devina mai puternic si sa construiasca muschi pentru a ridica greutatile mai mari.
 - **Progres rapid**. Puteti adauga 2,5kg la fiecare antrenament mai usor cand faceti cinci repetari, deoarece puteti ridica mai din ce in ce mai greu. Acest lucru inseamna ca puteti aplica o suprasarcina progresiva mai mult timp fara a stagna. Vei ridica mai mult, vei fi mai puternic si vei construi astfel mai multa masa musculara facand 5 repetari.
@@ -313,7 +313,7 @@ Cinci seturi va ofera, de asemenea, aproape dublul practicii formei decat trei s
 
 ## Pauza intre seturi<a id="pauza-seturi"></a>
 
-Odihneste-te cat ai nevoie intre seturi pentru a obtine cinci repetari in setul urmator. Primele saptamani de StrongLifts 5×5 nu aveti nevoie de mult timp de odihna, deoarece greutatile sunt usoare. Dar, pe masura ce greutatea creste si forta necesara creste si seturile vor deveni mai dificile, va trebui sa te odihnesti mai mult. Iata ce va recomand...
+Odihneste-te cat ai nevoie intre seturi pentru a obtine cinci repetari in setul urmator. Primele saptamani de Antrenamente 5×5 nu aveti nevoie de mult timp de odihna, deoarece greutatile sunt usoare. Dar, pe masura ce greutatea creste si forta necesara creste si seturile vor deveni mai dificile, va trebui sa te odihnesti mai mult. Iata ce va recomand...
 
 - 1min30daca ati completat cu usurinta cinci repetari in ultimul set
 - 3min daca te-ai straduit sa obtii cinci repetari in ultimul set
@@ -323,7 +323,7 @@ ATP-ul ori Adenozina Tri-Fosfat este forma in care energia este stocata. Corpul 
 
 Timpurile de odihna conteaza deoarece ATP este sursa dumneavoastra de energie primara pentru ridicare. Fiecare set va epuizeaza rezelvele ATP. Dureaza trei minute sa recuperezi 80%. Odihneste-te cinci minute si ai 95% inapoi. Deci, pauza mai lunga intre seturi va ofera mai mult ATP pentru setul urmator. Te ajuta sa ridici mai multa greutate.
 
-Puazele mai scurte va fac sa transpirati mai mult si sa pompati mai mult sange in muschi. Dar limiteaza cat de multa greutate poti pune pe bara, fortandu-te sa ridici cu magazinele ATP epuizate. Scopul StrongLifts 5×5 este de a cat mai mul, deoarece asta declanseaza forta maxima si castigurile musculare. Odihneste-te mai mult atunci cand faceti seturi grele si corpul o cere.
+Puazele mai scurte va fac sa transpirati mai mult si sa pompati mai mult sange in muschi. Dar limiteaza cat de multa greutate poti pune pe bara, fortandu-te sa ridici cu magazinele ATP epuizate. Scopul Antrenamente 5×5 este de a cat mai mul, deoarece asta declanseaza forta maxima si castigurile musculare. Odihneste-te mai mult atunci cand faceti seturi grele si corpul o cere.
 
 Dezavantajul pauzelor mai lungi este ca face ca antrenamentele sa dureze mai mult. Puteti remedia asta daca va odihniti mai mult cand este nevoie. Nu trebuie sa va odihniti intre exercitii sau seturi de incalzire usoara - setati doar echipamentul, adaugati greutate si incepeti. Pastrati timp de odihna mai lung pentru seturile grele.
 
@@ -335,7 +335,7 @@ Stai concentrat intre seturi. Puteti sta pe o banca, dar imi place sa stau in pi
 
 Folositi un ritm de ridicare care va permite sa ridicati cat mai multe greutati cu o forma corecta. Ridicarea lenta nu este buna, deoarece risipeste forta. Dar ridicarea prea rapida face mai greu controlul barei si ridicarea cu o forma adecvata. Trebuie sa aveti in permanenta controulul pe bara. Doar nu fi lent.
 
-Primele saptamani de StrongLifts 5×5 va trebui sa va ridicati mai incet pentru a putea exersa forma corecta. Dar pe masura ce castigi experienta, poti incepe sa accelerezi bara in urcare. Aceasta o sa foloseasca mai multe fibre musculare si va ajuta sa ridicati greutati mai grele.
+Primele saptamani de Antrenamente 5×5 va trebui sa va ridicati mai incet pentru a putea exersa forma corecta. Dar pe masura ce castigi experienta, poti incepe sa accelerezi bara in urcare. Aceasta o sa foloseasca mai multe fibre musculare si va ajuta sa ridicati greutati mai grele.
 
 Coborati intotdeauna bara sub control. Nu coborati incet deoarece asta te va face sa pirzi din forta! Dar nici nu lasati bara deodata. Controlati-o la coborare, astfel incat sa puteti mentine o forma adecvata. Bara trebuie sa coboare mai repede decat se misca in sus. Si calea barei trebuie sa fie cat mai aproape de verticala.
 
@@ -365,7 +365,7 @@ O tehnica avansata care functioneaza bine la Bench and [OverheadPress(Presa deas
 
 ## Zile de odihna<a id="zile-odihna"></a>
 
-Faceti trei antrenamente StrongLifts 5×5 pe saptamana. Asteptati cel putin o zi intre doua antrenamente. Daca ridicati Luni/Miercuri/Vineri, veti avea patru zile de odihna pe saptamana in zilele de mar, joi, sambata si duminica.
+Faceti trei antrenamente Antrenamente 5×5 pe saptamana. Asteptati cel putin o zi intre doua antrenamente. Daca ridicati Luni/Miercuri/Vineri, veti avea patru zile de odihna pe saptamana in zilele de mar, joi, sambata si duminica.
 
 Zilele de odihna sunt cruciale pentru a obtine rezultate la acest program. Greutatea iti streseaza corpul la fiecare antrenament. Acest lucru il face sa devina mai puternic si sa creeze masa musculara, astfel incat sa poata face fata mai bine greutatii la urmatorul antrenament. Dar corpul tau are nevoie de timp pentru a se recupera, pentru a castiga forta si pentru a adauga muschi.
 
@@ -377,7 +377,7 @@ Programul va poate obliga sa va antrenati doua zile la rand. Din cand in cand es
 
 Zilele de odihna nu inseamna odihna la pat. Puteti face orice activitate fizica, atat timp cat nu va afecteaza recuperarea, provocand mai multa oboseala. O plimbare sau un jog light este bine. Un maraton nu este. Evitati activitatile de inalta intensitate cand iesiti. Da prioritate greutatilor si vei face progrese mai bune.
 
-Asta inseamna ca daca esti obisnuit sa mergi cu bicicleta la serviciu, este bine sa continui sa o faci chiar si in zilele de odihna. Corpul tau este deja obisnuit. Picioarele tale s-ar putea recupera efectiv mai rapid, deoarece acest lucru face sangele sa curga mai repede si sa transporte nutrientii din picioare. Daca nu ai facut asta pana acum, probabil ca o idee proasta sa incepi in timpul programului StrongLifts.
+Asta inseamna ca daca esti obisnuit sa mergi cu bicicleta la serviciu, este bine sa continui sa o faci chiar si in zilele de odihna. Corpul tau este deja obisnuit. Picioarele tale s-ar putea recupera efectiv mai rapid, deoarece acest lucru face sangele sa curga mai repede si sa transporte nutrientii din picioare. Daca nu ai facut asta pana acum, probabil ca o idee proasta sa incepi in timpul programului Antrenamente.
 
 ## Progresie<a id="progresie"></a>
 
@@ -389,21 +389,13 @@ Iata cum trebuie sa progresati:
 - **[Bench press(Impinsul cu haltera de la piept)](/exercitii/bench-press)/OverheadPress/Row: 2,5kg La fel ca la [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera)**. Dar cresteri mai mici de 1kg functioneaza si mai bine. Mai ales daca esti mai slab sau de gen feminin. Vei progresa mai mult, fara sa-ti ratezi repetari si sa ramai blocat la o greutate.
 - **Deadlift: 5kg/10lb - adica 2,5kg pe ambele parti ale barei**. [Indreptari(Deadlifts)](/exercitii/spate/indreptari) folosesc muschi mari, astfel incat poti incarca mai mult bara. Dupa ce ati ajuns la [Indreptari](/exercitii/spate/indreptari) 100kg, treceti la 2,5kg pe antrenament.
 
-Gratuit: descarcati fisa de calcul StrongLifts 5×5 pentru a va calcula primele 12 saptamani de antrenament. Vei cunoaste exercitiile, greutatile, seturile si repetitiile de facut. Iar graficele de progres te vor tine motivat. Inscrieti-va la sfaturile mele de e-mail zilnic pentru a obtine foaia de calcul. Doar faceti clic aici
+Gratuit: descarcati fisa de calcul Antrenamente 5×5 pentru a va calcula primele 12 saptamani de antrenament. Vei cunoaste exercitiile, greutatile, seturile si repetitiile de facut. Iar graficele de progres te vor tine motivat. Inscrieti-va la sfaturile mele de e-mail zilnic pentru a obtine foaia de calcul. Doar faceti clic aici
 
 Unele sali de gimnastica nu au farfurii mici de 1,25kg pentru a adauga 2,5kg la fiecare antrenament. Cereti-le sa obtina o pereche sau cumpara-ti propriul set. Pune-l in geanta de sala si ia le de fiecare data cu tine. Discurile mici nu ocupa niciun spatiu si cantaresc putin. Te vor ajuta sa progresezi mai mult fara sa te opresti la o greutate anume.
 
 Ceea ce nu functioneaza este sa adaugati 2,5kg/5lb doar pe o parte a barei. Acest lucru schimba centrul de greutate. Va trebui sa reglati prinderea pentru a compensa, apoi sa o reglati din nou atunci cand bara este incarcata uniform. Aceasta cere o forma proasta, o incarcare neuniforma a corpului si poti sa te accidentezi. Doar obtine discuri mici!
 
-De asemenea, ceea ce nu functioneaza este sa adaugati 5kg pe antrenament (2,5kg pe parte). Functioneaza o perioada pe SQ/DL, dar nu mult. Si functioneaza doar cateva antrenamente pe Bench/Overhead Press. Saltul in greutate este prea mare, asa ca veti rata repede repetariile si va veti frustra. Comparatie:
-
-- **Adaugarea a 2**.5kg intr-un ghemus de 500 de lire este o crestere de 1%
-- **Adaugarea a 2**.5kg intr-un ghemurat de 200lb este o crestere de 2,5% - 2,5x mai mult
-- **Adaugarea de 2**.5kg la o presa de 100lb este o crestere de 5% - 5x mai mult
-
-- Adaugarea de 5kg la o presa de 100lb este o crestere de 10% - inca 10x
-  - **Adaugarea de 1**.25kg la o presa de 100lb este o crestere de 2,5%
-- Adaugarea de 1kg la aa 100lb Presa generala este o crestere de 1%
+De asemenea, ceea ce nu functioneaza este sa adaugati 5kg pe antrenament (2,5kg pe parte). Functioneaza o perioada pe SQ/DL, dar nu mult. Si functioneaza doar cateva antrenamente pe Bench/Overhead Press. Saltul in greutate este prea mare, asa ca veti rata repede repetariile si va veti frustra.
 
 Cu cat ridicati mai putina greutate, cu atat este mai greu sa adaugati 5kg/10lb in fiecare antrenament. Puteti face acest lucru pe SQ/DL pentru un timp, deoarece folosesc muschi mari (picioare, spate). Ca urmare, greutatea este mai grea. Dar Bench/OHP folosesc muschi mici (piept, umeri, brate). Bara va fi mai usoara, ceea ce face sariturile mai mari.
 
@@ -425,7 +417,7 @@ Unii vor incepe prea mult pe Genoflexiuni cu haltera, pentru ca sunt obisnuiti c
 
 Inceperea cu o greutate prea mare provoaca, de asemenea, plafonari. Daca incepeti astazi cu cele cinci repetari maxime, nu puteti ridica inca doua zile mai tarziu... si inca doua zile mai tarziu. Iti va fi dor de repetitii, sa te duci si sa te inchei blocat. Greutatea dvs. initiala trebuie sa fie usoara, astfel incat sa aveti loc pentru a adauga cu usurinta greutate pentru urmatoarele antrenamente.
 
-Conceptia care sustine ca greutatile mici nu intaresc puterea si muschii este gresita. Desigur, ridicarea unei greutati mai mare este mai bine. Si veti lucra pentru asta cu StrongLifts 5×5. Dar greutatile mai usoare iti ajuta corpul sa castige forta si muschi. Nu este necesar sa va ridicati maximul absolut de fiecare data.
+Conceptia care sustine ca greutatile mici nu intaresc puterea si muschii este gresita. Desigur, ridicarea unei greutati mai mare este mai bine. Si veti lucra pentru asta cu Antrenamente 5×5. Dar greutatile mai usoare iti ajuta corpul sa castige forta si muschi. Nu este necesar sa va ridicati maximul absolut de fiecare data.
 
 Cealalta problema cu inceperea cu greutati prea mari este aceea ca determina o forma de executare a exercitiului mai proasta. In loc sa practicati o forma adecvata cu o greutate usoara, trebuie sa o ridicati cu orice pret pentru a obtine repetari. Acest lucru creeaza obiceiuri tehnice proaste, care vor provoca plafonari si rani mai tarziu atunci cand greutatea devine si mai grea.
 
@@ -463,7 +455,7 @@ Daca greutatea dvs. de lucru este bara goala, nu trebuie sa va incalziti inca. G
 
 Indreptari si Ramat cu haltera au nevoie de mai putin incalzire, deoarece sunt ultimul exercitiu. Esti deja incalzit pana in acel moment. In plus, greutatea de pornire nu poate fi bara goala, deoarece greutatea trebuie sa inceapa de la podea. Deci nu va incalziti niciodata cu haltera goala pe [Indreptari](/exercitii/spate/indreptari) si [Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara).
 
-Aplicatia StrongLifts dispune de un calculator de incalzire incorporat, care va ofera seturile exacte, repetarile si greutatile cu care sa va incalziti. Va ofera acest lucru pentru fiecare exercitiu si greutate. Aveti nevoie de StrongLifts Pro pentru a obtine acces la aceasta optiune, dar veti vedea ca numai aceasta caracteristica merita pretul.
+Aplicatia Antrenamente dispune de un calculator de incalzire incorporat, care va ofera seturile exacte, repetarile si greutatile cu care sa va incalziti. Va ofera acest lucru pentru fiecare exercitiu si greutate. Aveti nevoie de Antrenamente Pro pentru a obtine acces la aceasta optiune, dar veti vedea ca numai aceasta caracteristica merita pretul.
 
 Sau puteti utiliza unul dintre acele calculatoare de incalzire gratuite online. Dar toate sunt ineficiente. Greseala pe care o fac este sa te faca sa faci cinci seturi de incalzire, indiferent de cat de grea este munca ta. Oamenii mai slabi ajung sa faca prea multe seturi de incalzire, in timp ce oamenii mai puternici nu fac suficiente.
 
@@ -477,7 +469,7 @@ Daca 1x5 [Indreptari(Deadlifts)](/exercitii/spate/indreptari) nu se simt suficie
 
 ## Pauzele<a id="pauzele"></a>
 
-Nu trebuie sa va luati o saptamana de odihna la fiecare 12 saptamani. StrongLifts 5×5 include o multime de pauze deja cu cele patru zile de odihna pe saptamana. De asemenea, obtineti pauze de la ridicarea greutatilor atunci cand treceti peste o plafonare. Toate acestea au grija de recuperarea ta. Deci, continuati sa ridicati si sa adaugati greutate.
+Nu trebuie sa va luati o saptamana de odihna la fiecare 12 saptamani. Antrenamente 5×5 include o multime de pauze deja cu cele patru zile de odihna pe saptamana. De asemenea, obtineti pauze de la ridicarea greutatilor atunci cand treceti peste o plafonare. Toate acestea au grija de recuperarea ta. Deci, continuati sa ridicati si sa adaugati greutate.
 
 Acestea fiind spuse, daca te antrenezi de trei ori pe saptamana, 45 de saptamani pe an, atunci o saptamana libera nu va face rau. Aceasta este regula 80/20, denumita Principiul lui Pareto. De obicei, imi iau o saptamana de pregatire cand merg in vacanta cu familia sau prietenii. Nu afecteaza ce am acumulat pentru ca sunt consecvent in restul anului.
 
@@ -493,7 +485,7 @@ Daca calatoroti mult cu munca, este greu. Va trebui sa va antrenati sau veti rat
 
 Apropo - sarirea unui antrenament nu este o pauza. Pauze pe care le planuiesti in avans - „Am sa vina o vacanta, nu ma antrenez”. Saltul la un antrenament se intampla de obicei in acest moment - „Nu ma simt in stare astazi”. Pauzele regulate sunt in regula. Amanarea antrenamentelor nu este - rationalizeaza lenea.
 
-Retineti ca aplicatia StrongLifts va va spune cu ce greutate sa incepeti dupa pauza. Urmareste cat timp nu te-ai antrenat si recomanda reduceri de greutate adecvate. Acest lucru previne repetarile ratate si durerile de dupa pauza. Descarcati-l aici .
+Retineti ca aplicatia Antrenamente va va spune cu ce greutate sa incepeti dupa pauza. Urmareste cat timp nu te-ai antrenat si recomanda reduceri de greutate adecvate. Acest lucru previne repetarile ratate si durerile de dupa pauza. Descarcati-l aici .
 
 ## Obiectivele de forta<a id="obiective"></a>
 
@@ -508,7 +500,7 @@ Obiectivele iti dau directie. Acestea va reamintesc ce trebuie sa faceti pentru 
 
 Iata cateva obiective solide si INTELIGENTE pe care ar trebui sa le stabilesti...
 
-#### StrongLifts 5x5 Saptamana 1
+#### Antrenamente 5x5 Saptamana 1
 
 <div style="overflow-x: auto;">
 
@@ -525,7 +517,7 @@ Iata cateva obiective solide si INTELIGENTE pe care ar trebui sa le stabilesti..
 
 Aceste obiective sunt toate pentru o singura repetare incarcata cu greutatea maxima pe care o poti ridica, numite si 1RM. Competitia de ridicare a haltere foloseste 1RM-uri pentru a compara puterea intre concurenti si pentru a determina castigatorii. 1RM-ul dvs. este cu aproximativ 20kg/45lb mai greu decat 5×5. Il poti testa la fiecare sase luni daca esti curios, dar nu trebuie.
 
-Puteti atinge nivelul incepator cu StrongLifts 5×5. Nu trebuie decat sa mergi la sala de trei ori pe saptamana si sa te antrenezi. Puteti atinge si nivelul Intermediar I cu StrongLifts 5×5. Dar, de obicei, va trebui sa treceti la 3×5/3×3/1×3 pentru a traversa plafonarile si a ajunge acolo.
+Puteti atinge nivelul incepator cu Antrenamente 5×5. Nu trebuie decat sa mergi la sala de trei ori pe saptamana si sa te antrenezi. Puteti atinge si nivelul Intermediar I cu Antrenamente 5×5. Dar, de obicei, va trebui sa treceti la 3×5/3×3/1×3 pentru a traversa plafonarile si a ajunge acolo.
 
 Dincolo de asta, majoritatea oamenilor trebuie sa treaca la programe de pregatire mai avansate, cum ar fi Madcow 5×5 . De asemenea, ai nevoie de mai multa daruire - sa mananci corect, sa mananci destul, sa dormi suficient, sa perfectionezi tehnica, sa fii consecvent etc. Nu toata lumea este dispusa sa depuna timp si efort, asa ca nu toata lumea ajunge acolo.
 
@@ -535,13 +527,13 @@ Perioade de varsta si de greutate corporala. Baietii tineri progreseaza mai repe
 
 Incercati doar sa imbunatatiti. Majoritatea baietilor pot atinge cu usurinta nivelul intermediar I in 12 luni. Acest lucru va va face mai puternic decat 80% din oameni. Puterea pe care o veti construi va adauga masa musculara cadrului dvs., cu o rata de 2lb/luna in medie. Deci, aceasta este o cantitate suplimentara de 24kg de muschi slabi intr-un an .
 
-Retineti ca este putin probabil sa aveti un progres constant. La inceput o vei face. Cu toate acestea, pe masura ce greutatea creste, vei ajunge in cele din urma sa te plafonezi. Toata lumea face sau cu totii am ghemuit 500kg. Dar unii oameni au lovit plafonarile mai devreme decat altii. Acest lucru explica intervalul de timp.
+Retineti ca este putin probabil sa aveti un progres constant. La inceput o vei face. Cu toate acestea, pe masura ce greutatea creste, vei ajunge in cele din urma sa te plafonezi. Toata lumea o face sau cu totii am face Genuflexiuni cu 500kg. Dar unii oameni au lovit plafonarile mai devreme decat altii. Acest lucru explica intervalul de timp.
 
 Impartiti-va obiectivele in mini-obiective. Inainte de a putea [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 400lb, mai intai trebuie sa faci cu 350lb, 300lb, 265lb si 220lb. Concentreaza-te pe urmatorul tau pas in loc sa te uiti la varful muntelui. Obiectivul principal va parea mai usor de atins si va puteti verifica progresul pe drum. Cateva idei...
 
-- **Forta relativa**. Stabiliti mai multe din greutatea corpului dvs. ca obiective. Sa zicem ca ai o masa corporala de 80kg/175lb. 1xbw = 80k5/175lb Squat(Genoflexiuni cu haltera). 1.5x = 120kg/260lb. Puteti viza 1x, 1.5x, 2x, 2.5x, 3x etc.
+- **Forta relativa**. Stabiliti mai multe din greutatea corpului dvs. ca obiective. Sa zicem ca ai o masa corporala de 80kg/175lb. 1xbw = 80kg/175lb Squat(Genoflexiuni cu haltera). 1.5x = 120kg/260lb. Puteti viza 1x, 1.5x, 2x, 2.5x, 3x etc.
 - **Discuri**. Stabiliti „discuri mari pentru baieti” ca obiective. O prima placa mare de 20kg/45lb pe fiecare parte a barei pe Squat(Genoflexiuni cu haltera). Apoi doua discuri mari, apoi trei si apoi patru.
-- **Total**. Squat(Genoflexiuni cu haltera) 350lb, Bench 220lb si Indreptari 430lb pentru a va alatura clubului de 1000lb. Squat(Genoflexiuni cu haltera) 140kg, Bench 100kg si [Indreptari](/exercitii/spate/indreptari) 160kg pentru a va alatura clubului de 400kg. Creati propriile cluburi.
+- **Total**. Squat(Genoflexiuni cu haltera) 140kg, Bench 100kg si [Indreptari](/exercitii/spate/indreptari) 160kg pentru a va alatura clubului de 400kg. Creati propriile cluburi.
 - **Coerenta**. Trei antrenamente pe saptamana timp de 12 saptamani. Verificati calendarul in aplicatie . Obtineti trei cercuri rosii in fiecare saptamana in aceleasi zile, cat mai mult timp posibil.
 
 Va recomand sa setati obiectivul Intermediar I pana in ziua de anul viitor. Stabiliti obiectivele pentru incepator in urmatoarele sase luni. Stabiliti si obiectivele de coerenta. Acum imprimati acest lucru si agatati-l undeva unde va veti vedea obiectivele zilnic - pe frigider, baie, sala de gimnastica, orice. Apoi faceti treaba.
@@ -613,7 +605,7 @@ Adaugati greutate la fiecare antrenament dupa terminare. Va fi nevoie de cinci a
 
 Daca sunteti confuz in legatura cu modul de eliminare, folositi aplicatia mea . Se sterge automat greutatea pentru dvs. atunci cand nu reusiti trei antrenamente la un exercitiu. Acest lucru te ajuta, tu nu esti nevoit sa afli singur cate greutati trebuie sa elemini, si poate in final o vei face gresit. Lasati aplicatia sa gandeasca si sa se concentreze pe ridicarea greutatilor in schimb.
 
-Prin micsorarea greutatii, ii oferi corpului odihna suplimentara pentru a deveni mai puternic pentru urmatoarea greutate. Vor fi momente pe StrongLifts 5×5 in care greutatea iti va stresa corpul mai mult decat poate face fata. Vei esua pentru ca nu vei fi recuperat la timp pentru urmatorul antrenament cu o greutate mai mare. Micsorarea greutatii rezolva asta.
+Prin micsorarea greutatii, ii oferi corpului odihna suplimentara pentru a deveni mai puternic pentru urmatoarea greutate. Vor fi momente pe Antrenamente 5×5 in care greutatea iti va stresa corpul mai mult decat poate face fata. Vei esua pentru ca nu vei fi recuperat la timp pentru urmatorul antrenament cu o greutate mai mare. Micsorarea greutatii rezolva asta.
 
 De asemenea, micsorarea greutatii previne plafonarile mentale. In loc sa te lovesti de peretele acela de caramida, te opresti dupa trei antrenamente esuate. Reduceti greutatea in schimb si va pregatiti din nou. Greutatile vor fi usoare pentru mai multe antrenamente. Acest lucru va creste impulsul si va va readuce motivatia.
 
@@ -650,35 +642,35 @@ Folositi aplicatia mea - va va spune cand sa treceti la 3×5/3×3/1x3. Practic, 
 
 ## Madcow 5×5<a id="madcow"></a>
 
-Madcow 5×5 este programul de antrenament dupa StrongLifts 5×5. Utilizeaza aceleasi exercitii si principii precum supraincarcarea progresiva. Diferenta consta in cresterea in greutate in fiecare saptamana nu la fiecare antrenament. Cand nu mai faceti progrese pe StrongLifts 5×5, treceti la Madcow 5×5.
+Madcow 5×5 este programul de antrenament dupa Antrenamente 5×5. Utilizeaza aceleasi exercitii si principii precum supraincarcarea progresiva. Diferenta consta in cresterea in greutate in fiecare saptamana nu la fiecare antrenament. Cand nu mai faceti progrese pe Antrenamente 5×5, treceti la Madcow 5×5.
 
-Oamenii intreaba des daca fac StrongLifts 5×5. Am facut-o cu ani in urma, dar nu mai pot acum. Greutatile mele sunt prea grele pentru asta. Fac Squat(Genoflexiuni cu haltera) cu 147.5kg pentru 5×5. Aceasta este aproape de doua ori greutatea mea corporala. In nici un caz corpul meu nu poate sa-si revina in timp, pentru a face Squat(Genoflexiuni cu haltera) cu 150kg pentru 5×5 doua zile mai tarziu... si apoi 152,5kg inca doua zile. As esua.
+Oamenii intreaba des daca fac Antrenamente 5×5. Am facut-o cu ani in urma, dar nu mai pot acum. Greutatile mele sunt prea grele pentru asta. Fac Squat(Genoflexiuni cu haltera) cu 147.5kg pentru 5×5. Aceasta este aproape de doua ori greutatea mea corporala. In nici un caz corpul meu nu poate sa-si revina in timp, pentru a face Squat(Genoflexiuni cu haltera) cu 150kg pentru 5×5 doua zile mai tarziu... si apoi 152,5kg inca doua zile. As esua.
 
 Mi-as dori sa mai pot adauga greutate la fiecare antrenament. Dar am nevoie de o progresie mai lenta pentru a deveni mai puternic. Trebuie sa adaug greutate in fiecare saptamana. Acest lucru ofera corpului meu mai mult timp pentru a ma recupera din greutatile mai grele, subliniind-o. Ii ofera o saptamana pentru a se intari si a construi muschi pentru a ridica mai greu data viitoare.
 
 Acesta este principiul diminuarii rentabilitatilor. Majoritatea oamenilor pot progresa facand Squat(Genoflexiuni cu haltera) de la 0 la 100kg/220lb in trei pana la patru luni. Dar a lua la 400lb de obicei dureaza unul pana la doi ani. La inceput aveti castiguri pentru incepatori. Dar cu cat devii mai puternic, cu atat vei obtine o putere suplimentara mai lenta.
 
-Acest lucru inseamna, de asemenea, faptul ca ceea ce duce Squat(Genoflexiuni cu haltera) de la 0 la 100kg, de obicei, nu-l va duce la 180kg. Nimic nu functioneaza pentru totdeauna, nici macar StrongLifts 5×5. Pe masura ce puterea ta creste si corpul se schimba, singura modalitate de a continua progresul este trecerea la un program de antrenament diferit - in acest caz Madcow 5×5 .
+Acest lucru inseamna, de asemenea, faptul ca ceea ce duce Squat(Genoflexiuni cu haltera) de la 0 la 100kg, de obicei, nu-l va duce la 180kg. Nimic nu functioneaza pentru totdeauna, nici macar Antrenamente 5×5. Pe masura ce puterea ta creste si corpul se schimba, singura modalitate de a continua progresul este trecerea la un program de antrenament diferit - in acest caz Madcow 5×5 .
 
-Schimbati atunci cand sunteti blocati pe StrongLifts 5×5. Micsorati greutatea si treceti mai intai la 3×5/3×3/1x3. Fii consecvent, foloseste o forma adecvata, incalzeste-te corect si odihneste-te suficient intre seturi. Dormi mult si alimenteaza-te corespunzator. Dupa ce ajungeti intr-un punct in care nu ridicati mai mult decat luna trecuta, este timpul sa schimbati.
+Schimbati atunci cand sunteti blocati pe Antrenamente 5×5. Micsorati greutatea si treceti mai intai la 3×5/3×3/1x3. Fii consecvent, foloseste o forma adecvata, incalzeste-te corect si odihneste-te suficient intre seturi. Dormi mult si alimenteaza-te corespunzator. Dupa ce ajungeti intr-un punct in care nu ridicati mai mult decat luna trecuta, este timpul sa schimbati.
 
 Unii vor sa stie exact greutatea pentru a ajunge mai intai. Nu pot spune. Depinde de greutatea, varsta, forma, alimentatia, somnul, etc. Multi oameni obtin Squat(Genoflexiuni cu haltera) peste 140kg/300lb inainte de a trece la Madcow 5×5. Ar trebui sa fiti capabil sa obtineti [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) peste 100kg/220lb cel putin.
 
 Nu-l schimbati doar pentru ca vreti ca antrenamentul sa fie mai usor. Adaugarea in greutate in fiecare saptamana este mai usoara decat cea facuta la fiecare antrenament. Dar devine si greu. In plus, acest lucru este menit sa fie greu. Trebuie sa va supuneti corpul la efort pentru ca acesta sa devina mai puternic. E o munca grea. Dar daca nu renunti, te obisnuiesti. Munceste din greu si va deveni mai usor.
 
-Nu schimbati pentru ca cititi prostii despre schimbarea programelor la fiecare 12 saptamani pentru a induce muschii in eroare. StrongLifts 5×5 va deruteaza muschii folosind o greutate diferita in fiecare antrenament – una mai grea. Schimbarea programelor tot timpul nu face decat sa va induca in eroare, deoarece nu iti vei da seama ce functioneaza.
+Nu schimbati pentru ca cititi prostii despre schimbarea programelor la fiecare 12 saptamani pentru a induce muschii in eroare. Antrenamente 5×5 va deruteaza muschii folosind o greutate diferita in fiecare antrenament – una mai grea. Schimbarea programelor tot timpul nu face decat sa va induca in eroare, deoarece nu iti vei da seama ce functioneaza.
 
 Unii se plictisesc facand aceleasi cinci exercitii. Distractia ar trebui sa fie in calatoria de a te imbunatati. Dar daca aveti nevoie de varietate - faceti unul sau doua exercitii in plus la sfarsit antrenamentele dumneavoastra din cand in cand. Obtineti varietate in acest fel, fara a fi nevoit sa schimbati programele.
 
 Motivul principal pentru a nu trece la Madcow 5×5 este deoarece progresul este mai lent. Este o prostie sa adaugi greutate in fiecare saptamana cand ai putea face acest lucru la fiecare antrenament. Adaugati greutate pe bara la fiecare antrenament, atat timp cat aveti capacitatea de a face acest lucru. Pentru cei mai multi oameni asta inseamna pana cand poti face Squat(Genoflexiuni cu haltera) cu aproape 140kg/300lb.
 
-Multi oameni nu ajung niciodata la Madcow 5×5. Ei fac StrongLifts 5×5 sase luni, de obicei din ianuarie pana in august. Apoi renunta pe timpul iernii. In ianuarie incep StrongLifts 5×5 din nou pentru a recastiga toata puterea si muschii pierduti. Eu nu as proceda astfel, dar daca esti fericit, bine.
+Multi oameni nu ajung niciodata la Madcow 5×5. Ei fac Antrenamente 5×5 sase luni, de obicei din ianuarie pana in august. Apoi renunta pe timpul iernii. In ianuarie incep Antrenamente 5×5 din nou pentru a recastiga toata puterea si muschii pierduti. Eu nu as proceda astfel, dar daca esti fericit, bine.
 
 ## Recuperare<a id="Recuperare"></a>
 
 Febra musculara
 
-Nu este necesar sa obtineti dureri pentru a obtine rezultate pe StrongLifts 5×5. Febra muscular(DOMS) se poate intampla. Si estenuarea este posibila. Dar nu inseamna ca castigi mai multa forta si muschi din antrenamentele tale. Singurul lucru care conteaza este ca greutatea pe bara creste in timp.
+Nu este necesar sa obtineti dureri pentru a obtine rezultate pe Antrenamente 5×5. Febra muscular(DOMS) se poate intampla. Si estenuarea este posibila. Dar nu inseamna ca castigi mai multa forta si muschi din antrenamentele tale. Singurul lucru care conteaza este ca greutatea pe bara creste in timp.
 
 Va fi dureros daca vei incepe prea tare. [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) poate provoca dureri de picioare care dureaza pana la o saptamana. Nu conteaza daca alergi mult sau joci fotbal. Nu sunt Genoflexiuni cu haltera. Muschii trebuie sa se obisnuiasca cu exercitiile noi. Cel mai bun mod este sa porniti usor si sa adaugati incet greutate.
 
@@ -692,15 +684,15 @@ Orice alta activitate care pune sangele in miscare va ajuta, de asemenea, - un m
 
 Daca aveti in continuare febra muscular, micsorati greutatea si continuati-va antrenamentul. Acest lucru le va oferi o pauza, astfel incat sa se poata adapta la efort. Si renuntati sa faceti orice altceva care va solicita picioarele pana cand durerea dispare - renuntati temporar la cardio, alergare, sport etc. Faceti mai putin.
 
-Rar ma doare de la ridicare. Daca ma doare este pentru ca am facut un exercitiu nou. Daca nu ridic greutati timp de doua saptamani, reiau si incerc sa ridic ceea ce am facut inainte de pauza, ma doare. Dar in afara de asta, este rar. Nu te pregatesti sa esuezi pe StrongLifts 5×5, asa ca durerea ar trebui sa fie minima.
+Rar ma doare de la ridicare. Daca ma doare este pentru ca am facut un exercitiu nou. Daca nu ridic greutati timp de doua saptamani, reiau si incerc sa ridic ceea ce am facut inainte de pauza, ma doare. Dar in afara de asta, este rar. Nu te pregatesti sa esuezi pe Antrenamente 5×5, asa ca durerea ar trebui sa fie minima.
 
 ## Nutritie<a id="nutritie"></a>
 
-Corpul tau transforma mancarea in energie - calorii. Arde aceste calorii pentru a ridica greutatile si pentru a te recupera din antrenamentele tale. Majoritatea baietilor au nevoie de cel putin 3000kcal/zi pentru a castiga forta si a construi muschi pe StrongLifts 5×5. Baietii slabi cu metabolisme rapide ar putea avea nevoie sa manance si mai mult.
+Corpul tau transforma mancarea in energie - calorii. Arde aceste calorii pentru a ridica greutatile si pentru a te recupera din antrenamentele tale. Majoritatea baietilor au nevoie de cel putin 3000kcal/zi pentru a castiga forta si a construi muschi pe Antrenamente 5×5. Baietii slabi cu metabolisme rapide ar putea avea nevoie sa manance si mai mult.
 
 Iata de ce: construirea muschilor este scazuta pe lista de prioritati a corpului. Daca exista o lipsa de alimente, corpul tau il va folosi mai intai pentru sarcini critice. Deci nu va puteti recupera bine cu un deficit caloric. Si daca nu va puteti recupera bine, nu puteti adauga greutate la urmatorul antrenament. Vei omite anumite repetii, ceea ce inseamna ca nu poti progresa.
 
-Mancarea caloriilor de intretinere este mai bine, dar nu ideal. Pana la urma, nu incercati sa va mentineti situatia pe StrongLifts 5×5. Incerci sa o imbunatatesti castigand forta si muschi. Mancatul peste limita minima nu asigura necesarul de calori,astfel impiedicand recuperarea intre antrenamente.
+Mancarea caloriilor de intretinere este mai bine, dar nu ideal. Pana la urma, nu incercati sa va mentineti situatia pe Antrenamente 5×5. Incerci sa o imbunatatesti castigand forta si muschi. Mancatul peste limita minima nu asigura necesarul de calori,astfel impiedicand recuperarea intre antrenamente.
 
 Cele mai bune programe care va calculeaza necesarul de calorii vor sugera baietilor 16kcal/lb pentru intretinere. Daca cantaresti 75kg/165lb, aceasta este 2640kcal. Dar, din nou, nu incercati sa mentineti, ci sa imbunatatiti. Si adaugarea in greutate la fiecare antrenament este o munca grea. Prin urmare, are sens sa mananci mai mult. Acest lucru ne aduce la 3000kcal/zi.
 
@@ -716,13 +708,13 @@ Oamenii care au ridicat inainte pot, de asemenea, sa-si construiasca muschi in t
 
 Si daca utilizati droguri sau aveti o genetica excelenta, atunci puteti face lucruri pe care simplii,naturalii muritori nu le pot. Dar majoritatea oamenilor care incearca sa-si construiasca muschii in timp ce isi pierd grasimea sfarsesc sa-si invarta rotile. Nu progreseaza pentru ca exista prea multa hrana pentru a pierde grasime, dar nu este suficient pentru a construi muschi.
 
-Puteti scapa cu un deficit caloric in primele saptamani de StrongLifts 5×5. Daca porniti usor, greutatile vor creste si veti castiga ceva muschi. Dar cu cat greutatile sunt mai mari, cu atat efortul este mai mare si cu atat este mai mare necesitatea recuperarii. Va trebui sa mananci mai mult pentru a continua.
+Puteti scapa cu un deficit caloric in primele saptamani de Antrenamente 5×5. Daca porniti usor, greutatile vor creste si veti castiga ceva muschi. Dar cu cat greutatile sunt mai mari, cu atat efortul este mai mare si cu atat este mai mare necesitatea recuperarii. Va trebui sa mananci mai mult pentru a continua.
 
 Nu iti va placea sa mananci mai mult daca esti un fost gras care a muncit din greu pentru a pierde grasimea. O sa-ti fie frica ca nu cumva sa o recuperezi. La fel, daca ai patratele(six pack abs) - iti va fi teama sa le pierzi daca grasimea din corp creste din faptul ca mananci mai mult. Din pacate, nu le poti avea pe toate in acelasi timp. Trebuie sa alegi.
 
-Alegeti muschi. Puteti pierde cu usurinta 1lb de grasime o saptamana mai tarziu. Dar nu poti castiga mai mult de 2lb de muschi slabi pe luna . Si trebuie sa te ridici greu pentru a castiga atat de mult muschi. Aceasta necesita mancare multa. In plus, o grasime scazuta a corpului este inutila daca nu construiti mai intai masa musculara - doar sfarsiti slab.
+Alegeti muschi. Puteti pierde cu usurinta 0.5 de grasime o saptamana mai tarziu. Dar nu poti castiga mai mult de 1kg de muschi slabi pe luna . Si trebuie sa te ridici greu pentru a castiga atat de mult muschi. Aceasta necesita mancare multa. In plus, o grasime scazuta a corpului este inutila daca nu construiti mai intai masa musculara - doar sfarsiti slab.
 
-Dedicati anul urmator formarii fortei si muschilor. Grasimea corpului tau va scadea daca ai inceput fiind obez. Daca ati inceput fiind slab cu grasime corporala dintr-o singura cifra, aceasta va creste pana la cifre duble mai mici. Dar il puteti scadea cu usurinta intr-un an dupa ce ati adaugat 24lb de muschi slabi si ati reusit sa faceti [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 300lb.
+Dedicati anul urmator formarii fortei si muschilor. Grasimea corpului tau va scadea daca ai inceput fiind obez. Daca ati inceput fiind slab cu grasime corporala dintr-o singura cifra, aceasta va creste pana la cifre duble mai mici. Dar il puteti scadea cu usurinta intr-un an dupa ce ati adaugat 10.5kg de muschi slabi si ati reusit sa faceti [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) 300lb.
 
 S-ar putea sa nu ai nevoie nici macar sa iti reduci grasimea din corp mai tarziu. Nu am niveluri de grasime pentru o singura cifra. Nici cei mai multi sportivi. Cu toate acestea, muschii abdominali (abs-urile) mele sunt vizibile. Muschii mai mari se lipesc mai departe. Ele pot impinge prin grasimea de sub piele. Deci pot sa fie vizibile in lipsa unui procent mai mare de grasime corporala.
 
@@ -791,9 +783,9 @@ Si relaxeaza-te. Stresul psihologic adauga in plus stresul fizic pe care il obti
 
 ## Exercitii de izolare pentru muschii secundari<a id="muschi-secundari"></a>
 
-Exercitiile de izolare vizeaza muschii secundari, mici, care cresc mai incet ca bratele, abdomenul(abs) si gambele(calves). Unora le place sa adauge anumite exercitii pentru acesti muschi pe StrongLifts 5×5.
+Exercitiile de izolare vizeaza muschii secundari, mici, care cresc mai incet ca bratele, abdomenul(abs) si gambele(calves). Unora le place sa adauge anumite exercitii pentru acesti muschi pe Antrenamente 5×5.
 
-Exercitiile de izolare nu sunt necesara. StrongLifts 5×5 lucreaza fiecare muschi folosind exercitii compuse. Muschii bratului actioneaza pentru a trage greutatea pe bara(rows) si a o apasa pe presa(press). Ei sustin bara la fiecare exercitiu. Intre timp muschii abdomenului(abs) iti sustine coloana vertebrala. Iar gambele te stabilizeaza.
+Exercitiile de izolare nu sunt necesara. Antrenamente 5×5 lucreaza fiecare muschi folosind exercitii compuse. Muschii bratului actioneaza pentru a trage greutatea pe bara(rows) si a o apasa pe presa(press). Ei sustin bara la fiecare exercitiu. Intre timp muschii abdomenului(abs) iti sustine coloana vertebrala. Iar gambele te stabilizeaza.
 
 Prin urmare, nu este necesar sa adaugati exercitii pentru a lucra acesti muschi direct. Regula 80/20 prevede ca 80% din rezultatele dvs. vor proveni din Squat(Genoflexiuni cu haltera), Bench, [Indreptari(Deadlifts)](/exercitii/spate/indreptari), Overhead Press si Rows . Aceste exercitii lucreaza o multime de muschi cu greutati mari. Prin urmare, acestea declanseaza o crestere totala a muschilor.
 
@@ -801,11 +793,11 @@ Dar majoritatea oamenilor nu ridica greutati mari. Ei incearca sa compenseze lip
 
 In plus, cu cat faci mai multe exercitii de izolare, cu atat antrenamentul tau dureaza mai mult. Acest lucru face pauzele scurte mai tentante intre seturi. Dar asta face mai dificil sa te ridici intens asa cum am discutat deja. Se sfarseste prin a va afecta progresul asupra principalelor exercitii care declanseaza cea mai mare crestere.
 
-Daca insistati sa adaugati acest tip de exercitii, atunci cel putin asteptati pana cand ati facut StrongLifts 5×5 timp de opt saptamani. Concentreaza-te sa-ti cresti puterea asupra principalelor exercitii. Sansele sunt ca nici macar nu veti dori sa faceti exercitii de izolare pentru muschii secundari dupa aceea. Pentru ca vei fi multumit de castigurile musculare.
+Daca insistati sa adaugati acest tip de exercitii, atunci cel putin asteptati pana cand ati facut Antrenamente 5×5 timp de opt saptamani. Concentreaza-te sa-ti cresti puterea asupra principalelor exercitii. Sansele sunt ca nici macar nu veti dori sa faceti exercitii de izolare pentru muschii secundari dupa aceea. Pentru ca vei fi multumit de castigurile musculare.
 
 ## Brate<a id="brate"></a>
 
-Unde lucreaza bratul pe StrongLifts 5×5? Este peste tot daca va puteti gandi la absenta bicepsului si extensiilor de triceps, cunoscute și sub numele de concasoare de craniu(skullcrushers). Gandeste-te la asta…
+Unde lucreaza bratul pe Antrenamente 5×5? Este peste tot daca va puteti gandi la absenta bicepsului si extensiilor de triceps, cunoscute și sub numele de concasoare de craniu(skullcrushers). Gandeste-te la asta…
 
 - **Biceps**. Trageti greutatea catre Ramat cu haltera . Bratele tale se apleaca ca atunci cand ridici greutatea de jos pana sus(curls). Dar bicepsul tau ridica greutati mai mari, deoarece primesc ajutor din partea muschilor spatelui.
 - **Triceps**. Impingeti bara departe pe Bench/Overhead Press. Tineti bratele intinse ca atunci cand lucrati concasoarele de craniu/extensiile de triceps. Dar tricepsul tau ridica greutati mai mari, obtinand ajutor din umeri si muschii toracali.
@@ -826,7 +818,7 @@ Gropile(Dips) sunt cele mai bune exercitii de izolare pentru tricepsul tau. Indr
 
 Daca doriti sa lucrati bratele mai mult, adaugati Dips la antrenamentul A si Chinups la antrenamentul B. Trei seturi sunt suficiente, deoarece exercitiile principale functioneaza deja cu bratele. Programul tau va arata astfel...
 
-#### StrongLifts 5x5 Saptamana 1
+#### Antrenamente 5x5 Saptamana 1
 
 <div style="overflow-x: auto;">
 
@@ -838,7 +830,7 @@ Daca doriti sa lucrati bratele mai mult, adaugati Dips la antrenamentul A si Chi
 | Dips 3x10                                                                  | Chinups 3x10                                                                  | Dips 3x10                                                                  |
 
 </div>	
-Daca nu puteti face un singur Chinup sau Dip, faceti trei seturi de cate repetari puteti (nu folositi masini). Dupa ce puteti face 10 repetari, treceti la 3×5 si adaugati 1kg/2lb fiecare antrenament. Aplicatia mea va va arata cum sa progresati atunci cand faceti upgrade la StrongLifts Pro . Foloseste-l ca tu sa nu fi nevoit sa te gandesti  la asta.
+Daca nu puteti face un singur Chinup sau Dip, faceti trei seturi de cate repetari puteti (nu folositi masini). Dupa ce puteti face 10 repetari, treceti la 3×5 si adaugati 1kg/2lb fiecare antrenament. Aplicatia mea va va arata cum sa progresati atunci cand faceti upgrade la Antrenamente Pro . Foloseste-l ca tu sa nu fi nevoit sa te gandesti  la asta.
 
 Ofera-i corpului timp sa se obisnuiesti cu exercitiile suplimentare inainte de a adauga mai multe. In acest fel puteti vedea, de asemenea, impactul adaugarii Chinups si Dips asupra dezvoltarii bratului. Un obiectiv de forta bun pentru a viza pe Chinups si Dips consta in cinci repetari cu o placa/un disc mare de 20kg/45lb atarnata de talie.
 
@@ -848,7 +840,7 @@ Doua seturi sunt suficiente pe langa toate exercitiile pe care le ai deja pentru
 
 Progresul va fi lent, deoarece acestea sunt exercitii de izolare si faceti repetari mari. Doar concentrati-va sa faceti exercitiul corect, cu o forma adecvata, sa va deplasati muschii pe intreaga gama de miscare. Bratele drepte in partea de jos a ridicarii, atingeti-va nasul cu haltera in partea de sus. Simte muschiul.
 
-#### StrongLifts 5x5 cu mai multe exercitii pentru brate
+#### Antrenamente 5x5 cu mai multe exercitii pentru brate
 
 <div style="overflow-x: auto;">
 
@@ -866,9 +858,9 @@ Asta inseamna cinci exercitii pe antrenament, care va va creste timpul de sala. 
 
 Singura zi de odihna pe care ai putea-o dedica exercitiilor pentru brate este sambata daca te antrenezi lunea, miercurea si vinerea. Acest lucru ofera bratelor timp sa se recupereze si sa devena mai puternice pentru antrenamentul dvs. Chinups si Dips mai intai pentru ca sunt exercitii compuse – lucrati intens. Exercitiile de izolare la sfarsit.
 
-StrongLifts 5x5 cu Extra Arm Day
+Antrenamente 5x5 cu Extra Arm Day
 
-#### StrongLifts 5x5 Saptamana 1
+#### Antrenamente 5x5 Saptamana 1
 
 <div style="overflow-x: auto;">
 
@@ -881,7 +873,7 @@ StrongLifts 5x5 cu Extra Arm Day
 
 </div>
 
-Nu fiti surprinsi daca picioarele devin mai mari decat bratele pe StrongLifts 5×5. Asa trebuie. Picioarele tale sunt formate din muschi mari. Vor creste mai repede si vor deveni mai mari decat bratele tale. Nu te lasa indus in eroare de catre partile superioare ale capitanului din sala de sport cu bratele mari, dar picioarele subtiri. Ei sunt cei anormali.
+Nu fiti surprinsi daca picioarele devin mai mari decat bratele pe Antrenamente 5×5. Asa trebuie. Picioarele tale sunt formate din muschi mari. Vor creste mai repede si vor deveni mai mari decat bratele tale. Nu te lasa indus in eroare de catre partile superioare ale capitanului din sala de sport cu bratele mari, dar picioarele subtiri. Ei sunt cei anormali.
 
 Doar exercitiile pentru brate(arm work) nu este suficienta pentru a obtine brate de 45 cm/18 ″. Sa zicem ca ai 60kg/135lb la 1m85/6'2 ″ - unde este carnea pentru a creste circumferinta bratului? Cu exceptia cazului in care aveti o greutate excesiva, va trebui sa mananci. Majoritatea oamenilor trebuie sa castige intre 5 si 7kg/10-15lb pentru a castiga un centimetru pe brate.
 
@@ -895,7 +887,7 @@ Insa o cantitate scazuta de grasime este inutila daca nu aveti abdomenul pentru 
 
 Retineti ca nu exista muschi abdominali inferiori. Abdomenul dvs. inferior si superior se contracta ca un intreg. Daca abdomenul tau inferior este bombat, fie este doar gras sau ai o postura proasta – stand prea arcuiti, numita si hiperlordoza, de obicei de la statul pe scaun prea mult. Invata sa ai o postura corecta.
 
-Nu sunt necesare exercitii abdominale suplimentare pentru StrongLifts 5×5. Dar daca doriti sa adaugati unele, faceti ridicari ale genunchiului si poduri. Adaugati unul la fiecare antrenament. Doua seturi de opt pe prima. Seturi de 30-60sec pentru acestea din urma. Treceti la StrongLifts Pro in aplicatia mea si va va arata cum sa progresati.
+Nu sunt necesare exercitii abdominale suplimentare pentru Antrenamente 5×5. Dar daca doriti sa adaugati unele, faceti ridicari ale genunchiului si poduri. Adaugati unul la fiecare antrenament. Doua seturi de opt pe prima. Seturi de 30-60sec pentru acestea din urma. Treceti la Antrenamente Pro in aplicatia mea si va va arata cum sa progresati.
 
 ### Gambe<a id="gambe"></a>
 
@@ -903,7 +895,7 @@ Nu sunt necesare exercitii abdominale suplimentare pentru StrongLifts 5×5. Dar 
 
 Dar poate fi o pierdere de timp daca aveti insertii musculare la nivelul gambelor ridicate. Muschii gambelor imi atarna in sus in treimea superioara a piciorului inferior. Cele doua treimi inferioare sunt alcatuite numai din tendoane si oase. Acestea sunt puternice si musculare. Dar nimic nu ii poate face sa atarne. Acest lucru creeaza un aspect subtire.
 
-Daca alegeti sa adaugati exercitii de izolare pentru gambe la StrongLifts 5×5, plusati tare si intens. Gambele sunt obisnuite cu mult efort din mersul zilnic. Va trebui sa le supuneti unui effort mai mare decat alti muschi pentru a declansa cresterea. Asigurati-va ca lucrati intens cu greutatile.
+Daca alegeti sa adaugati exercitii de izolare pentru gambe la Antrenamente 5×5, plusati tare si intens. Gambele sunt obisnuite cu mult efort din mersul zilnic. Va trebui sa le supuneti unui effort mai mare decat alti muschi pentru a declansa cresterea. Asigurati-va ca lucrati intens cu greutatile.
 
 Si fii realist. Daca ai gambele dezvoltate ca mine, este putin probabil ca muschii sa nu iasa din toate directiile, ca la unii tipi. M-am intalnit cu o fata slaba, care cantarea doar 45kg, dar avea gambele mai mari decat mine, in ciuda faptului ca nu se antreneaza. Asa cum spun ei, daca doriti gambe mari, alegeti parinti mai buni.
 
@@ -930,7 +922,7 @@ LISS arde mai multe calorii. Intensitatea este mai mare decat la mers. Dar este 
 
 Prin urmare, HIIT este mai bun. Este greu sa o faci mai mult de 20 de minute. Insa arzi mai multe calorii prin EPOC/afterburn - metabolismul tau este mai mare pana la 48 de ore dupa cardio. Adaugati o incalzire de 5 minute si 5 minute de racire si aveti 30 min in total, arzand la fel de mult cu LISS 30min.
 
-Singura problema cu cardio HIIT este ca este intens. Trebuie sa fiti foarte motivate pentru a beneficia la maxim. Din acest motiv iti va fi mai greu sa te recuperezi de la acest antrenament. Daca incercati sa faceti acest lucru in fiecare zi, va va impiedica recuperarea. Nu veti face progrese bune cu StrongLifts 5×5 - veti rata repetari si va veti plafona.
+Singura problema cu cardio HIIT este ca este intens. Trebuie sa fiti foarte motivate pentru a beneficia la maxim. Din acest motiv iti va fi mai greu sa te recuperezi de la acest antrenament. Daca incercati sa faceti acest lucru in fiecare zi, va va impiedica recuperarea. Nu veti face progrese bune cu Antrenamente 5×5 - veti rata repetari si va veti plafona.
 
 Faceti prima cantitate minima de cardio de care aveti nevoie pentru a obtine rezultate. In acest fel, atunci cand va blocati (si veti face, toata lumea face), puteti adauga mai mult cardio pentru a va detasa. Daca faceti 6x cardio pe saptamana din prima zi, nu puteti face mai mult mai tarziu cand va blocati. Mai mult nu este mai bun - mai putin este mai mult.
 
@@ -938,7 +930,7 @@ Doar culturistii competitivi care incearca sa ajunga la un nivel scazut de grasi
 
 Cel mai bine este sa incepeti cu doua sesiuni cardio HIIT pe saptamana. Luni pentru ca esti proaspat venit din cele doua zile libere. Vineri pentru ca esti pe cale sa iei doua zile libere. Dupa cateva saptamani, puteti adauga cardio si miercuri, daca este nevoie. Acest lucru va ofera patru zile de odihna pe saptamana pentru a va recupera.
 
-## StrongLifts 5x5 - HIIT Cardio Post Workout
+## Antrenamente 5x5 - HIIT Cardio Post Workout
 
 <div style="overflow-x: auto;">
 
@@ -956,7 +948,7 @@ Cardio in zilele tale de odihna este o idee groaznica. Cand se recupereaza corpu
 
 Singura exceptie este sambata. Daca te antrenezi luni/miercuri/vineri, atunci HIIT cardio sambata functioneaza. Duminica trebuie sa va recuperati inainte de urmatorul antrenament de luni. Puteti adauga cea de-a doua sesiune cardio HIIT miercuri, astfel incat acestea sa fie raspandite. Asa…
 
-#### StrongLifts 5x5 - Ziua Cardio
+#### Antrenamente 5x5 - Ziua Cardio
 
 <div style="overflow-x: auto;">
 
@@ -978,7 +970,7 @@ Nu fac prea mult cardio, dar cand imi place sa balansez ciocanul. 200 de repetar
 
 Ridicarea greutatilor este buna pentru inima ta. Iti scade ritmul cardiac si tensiunea arteriala. Frecventa mea cardiaca in repaus a fost in jur de 50 pentru multi ani, in ciuda faptului ca nu a rulat niciodata si abia fac cardio. Medicii sunt de obicei surprinsi de acest lucru, deoarece principalul lucru pe care il fac este sa ridic greutati grele de cateva ori pe saptamana.
 
-StrongLifts 5×5 nu este o rutina obisnuita in care faci exercitii de izolare precum ridicarea de jos in sus cu greutati usoare. Persoanele care fac astfel de rutina trebuie sa adauge cardio. Facem exercitii compuse care ne lucreaza intregul corp. Crestem greutatea progresiv. Si atingem intensitati de pregatire ridicate.
+Antrenamente 5×5 nu este o rutina obisnuita in care faci exercitii de izolare precum ridicarea de jos in sus cu greutati usoare. Persoanele care fac astfel de rutina trebuie sa adauge cardio. Facem exercitii compuse care ne lucreaza intregul corp. Crestem greutatea progresiv. Si atingem intensitati de pregatire ridicate.
 
 De fapt facem cardio daca va ganditi la asta.Faci genuflexiuni(squat) intens pentru un set de cinci repetari - dureaza aproximativ 20 de secunde. Frecventa cardiaca creste si iesi din respiratie. Dupa ce te odihnesti trei minute, iti faci urmatorul set. Acest lucru este ca un interval de intensitate mare de cardio - iti antreneaza inima si plamanii.
 
@@ -990,11 +982,11 @@ Tensiunea arteriala revine la normal dupa terminarea setului. Dar, de asemenea, 
 
 Ca exemplu, ganditi-va sa mergeti pe scari. Fiecare pas este ca un singur picior [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera). Dubla-ti Squat-ul si picioarele devin de doua ori mai puternice. Fiecare pas iti ia acum jumatate din efort. Asa ca inima ta necesita sa depuna un efort mai mic. Muschii mai puternici iti fac inima mai eficient.
 
-Ideea este ca starea ta cardiovasculara se va imbunatati daca faci StrongLifts 5×5 si lucrezi la acei 300lb/140kg.Va deveni peste nivelul mediu si lucruri precum urcarea pe scari sau chiar alergari scurte vor deveni mai usoare. Nu este nevoie sa faceti cardio suplimentar pentru a va face inima sanatoasa.
+Ideea este ca starea ta cardiovasculara se va imbunatati daca faci Antrenamente 5×5 si lucrezi la acei 300lb/140kg.Va deveni peste nivelul mediu si lucruri precum urcarea pe scari sau chiar alergari scurte vor deveni mai usoare. Nu este nevoie sa faceti cardio suplimentar pentru a va face inima sanatoasa.
 
 ### Rezistenta<a id="rezistenta"></a>
 
-Muschii mai puternici rezista mai mult. Obosesc mai greu, deoarece fiecare miscare depune mai putin efort decat inainte. Deci, cu cat muschii sunt mai puternici, cu atat rezisti mai mult si astfel poti merge mai mult. Cresterea fortei cu StrongLifts 5×5 iti creste rezistenta musculara.
+Muschii mai puternici rezista mai mult. Obosesc mai greu, deoarece fiecare miscare depune mai putin efort decat inainte. Deci, cu cat muschii sunt mai puternici, cu atat rezisti mai mult si astfel poti merge mai mult. Cresterea fortei cu Antrenamente 5×5 iti creste rezistenta musculara.
 
 Gandeste-te - alergatorii de maraton rareori trebuie sa renunte la alergare pentru ca nu mai au rasuflare. Au renuntat sa alerge pentru ca picioarele lor sunt obosite. Sportivii si echipele de astazi inteleg ca a fi mai puternic te face mai rezistent. De aceea, toti au REZISTENTA si antrenori pentru aceasta conditie.
 
@@ -1026,7 +1018,7 @@ Creta de bord nu este la fel cu creta de sala. Creta de bord este fabricata din 
 - **Galeata Primo Chalk, 1lb creta intr-o galeata convenabila**. Dublati pretul, dar o calitate mai mare. Am avut in trecut eczeme din creta. Acesta pare sa fie mai usor pe maini.
 - **Creta lichida fiara **. Creta lichida nu lasa urme. Creta se dizolva in alcool. Pune-l pe palmele tale, precum dezinfectantul de mana. Dupa 10 sec, alcoolul se evapora si mainile tale sunt cretice. Folositi acest lucru daca sala de sport nu permite creta - nu lasa praf si functioneaza mai bine decat manusile.
 
-Nu veti avea nevoie de creta in primele saptamani de StrongLifts 5×5. Dar, odata ce greutatile se vor ingreuna, va fi nevoie de creta pentru ca Indreptari(Deadlifts) sa-l tina pe bara. Daca este cald in sala de gimnastica sau ai usor mainile transpirate, vei avea nevoie si de creta pe celelalte exercitii, astfel incat bara sa nu se poata deplasa si sa formeze o forma proasta.
+Nu veti avea nevoie de creta in primele saptamani de Antrenamente 5×5. Dar, odata ce greutatile se vor ingreuna, va fi nevoie de creta pentru ca Indreptari(Deadlifts) sa-l tina pe bara. Daca este cald in sala de gimnastica sau ai usor mainile transpirate, vei avea nevoie si de creta pe celelalte exercitii, astfel incat bara sa nu se poata deplasa si sa formeze o forma proasta.
 
 Spalati creta de pe maini dupa antrenament. Creta iti usuca pielea - asa functioneaza. Pielea ta se poate bate iarna daca o lasi prea mult timp. Tenul meu este predispus la eczeme, asa ca il spal mereu repede cand termin. Luati in considerare hidratarea mainilor pentru a preveni pielea uscata.
 
@@ -1036,7 +1028,7 @@ Cei mai buni pantofi pentru ridicare au talpile tari. Nu se pot comprima sub gre
 
 Pantofii de alergare sunt groaznici pentru ridicare. Talpile au umplere de aer sau gel pentru a absorbi impactul cand alergi. Acestea se comprima diferit la fiecare reprezentant pe care il ridici. Dar nu puteti prezice cum si astfel nu puteti controla bara. Ridicarea cu incaltaminte de alergare provoaca o forma proasta. Este ca si cum ai ridica greutati pe o trambulina.
 
-Ridicarea descultului este mai buna, dar nu ideala, piciorul tau poate aluneca atunci cand te ghemuiesti sau Bench, deoarece nu ai tractiune. Arcul tau nu primeste niciun sprijin, ceea ce poate fi o idee proasta daca esti cu piciorul plat ca mine. Si multe sali de sport nu permit ridicarea descultelor, deoarece este necurat si nesigur.
+Ridicarea descultului este mai buna, dar nu ideala, piciorul tau poate aluneca atunci cand te Genuflexiuni sau Bench, deoarece nu ai tractiune. Arcul tau nu primeste niciun sprijin, ceea ce poate fi o idee proasta daca esti cu piciorul plat ca mine. Si multe sali de sport nu permit ridicarea descultelor, deoarece este necurat si nesigur.
 
 Cel mai bine este sa purtati pantofi cu talpa din plastic dur sau cauciuc dens. Talpa subtire te pune mai aproape de podea. Acestea scurteaza distanta pe care o parcurge bara cand faceti Indreptari, ajutandu-va sa trageti mai greu. Talpile plate va ajuta sa implicati lantul posterior mai mult pe Squat(Genoflexiuni cu haltera) and Indreptari(Deadlifts) Verificati aceste...
 
@@ -1060,19 +1052,11 @@ Unii oameni cred ca centurile va slabesc abs. Ele nu pot fi slabe, deoarece iti 
 
 Dar centurile nu va protejeaza coloana vertebrala impotriva unei forme proaste. Tragerea cu spatele rotund poate provoca vatamari in ciuda purtarii centurii. Leziunea ar putea fi mai grava daca te ridici mai greu, deoarece ai crezut ca centura face din spate antiglont. Utilizati intotdeauna o forma adecvata. Nu purtati o centura pentru a acoperi durerile de spate.
 
-Nu aveti nevoie de centura in primele saptamani de StrongLifts 5×5. Greutatile sunt usoare si mai intai ar trebui sa va concentrati pe o forma adecvata. Dar, odata ce devine mai greu sa adaugati greutate la fiecare antrenament, incepeti sa purtati o centura. Este cel mai util pe [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera). Indreptari si Overhead. Il port foarte rar pe Banci si Randuri.
+Nu aveti nevoie de centura in primele saptamani de Antrenamente 5×5. Greutatile sunt usoare si mai intai ar trebui sa va concentrati pe o forma adecvata. Dar, odata ce devine mai greu sa adaugati greutate la fiecare antrenament, incepeti sa purtati o centura. Este cel mai util pe [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera). Indreptari si Overhead. Il port foarte rar pe Banci si Randuri.
 
 Centura trebuie sa aiba aceeasi latime in fata si in spate. Curele pentru culturism nu sunt bune, deoarece de obicei sunt mai mici in fata. Ideea este de a oferi abs-urilor o suprafata pentru a te impotrivi. Intoarceti centura sau obtineti o centura corespunzatoare care este de 3-4 ″ lat.
 
 Curelele cu prindere unica sunt mai usor de instalat/dezactivat decat doua pini. Centurile cu prajini sunt mai usor de reglat decat centurile de parghie. Daca purtati cureaua mai stransa/mai stransa la unele exercitii, veti avea nevoie de o surubelnita pentru a regla centura. Cu centurile de pronga, pur si simplu mutati prongul in urmatoarea crestatura.
-
-Obtineti o centura groasa de 10 mm, daca nu sunteti un tip cu adevarat mare. Verificati aceste...
-
-Curea Ader Powerlifting . 10mm grosime, 4 ″ latime, o singura prong. Pret bun.
-Flexz curea de ridicare . 10mm grosime, 4 ″ latime, o singura prong
-Cureaua sportivului Bestbelt . Multe persoane le plac aceste curele, de calitate.
-Inzer Forever Belt . Eu am asta. 10mm, 4 ″ latime, o singura prong.
-Majoritatea centurilor vor fi mai dure la inceput, ceea ce se poate simti inconfortabil. Trebuie sa-l rupeti ca la o pereche noua de pantofi din piele. Rotiti si desfasurati de doua ori centura pentru a accelera intrarea.
 
 Intotdeauna incalzire fara centura. Puneti-l pentru ultimele seturi de incalzire si numai seturi grele. Si indepartati-va centura intre seturi - nu va plimbati cu ea, ca si corpurile superioare ale capitanului. Pare o prostie.
 
@@ -1094,7 +1078,7 @@ Puteti lua in considerare...
 
 ### Incepand cu prea multa greutate<a id="prea-greu"></a>
 
-Cea mai mare greseala de pe StrongLifts 5×5 este sa lucrezi prea intens la inceput. Nu ii oferi corpului tau timp sa se adaptezi la efortul necesar executarii Genoflexiuni cu haltera-urilor de trei ori pe saptamana si sa devii mai puternic. Veti avea febra musculara si veti dori sa sariti antrenamentele in schimb. Iti este dor de repetari si te demotivezi. Crezi ca programul nu functioneaza si vrei sa renunti.
+Cea mai mare greseala de pe Antrenamente 5×5 este sa lucrezi prea intens la inceput. Nu ii oferi corpului tau timp sa se adaptezi la efortul necesar executarii Genoflexiuni cu haltera-urilor de trei ori pe saptamana si sa devii mai puternic. Veti avea febra musculara si veti dori sa sariti antrenamentele in schimb. Iti este dor de repetari si te demotivezi. Crezi ca programul nu functioneaza si vrei sa renunti.
 
 Majoritatea oamenilor vor sa inceapa intens pentru a-si accelera progresul. Insa, de obicei, primesc contrariul. Daca abia reusiti sa faceti repetarile la primul antrenament, nu puteti ridica 2,5kg/5lb mai mult doua zile mai tarziu. In cazul in care vei avea febra muscular la picioare de la primul antrenament, nu vei putea face Squat(Genoflexiuni cu haltera) din nou doua zile mai tarziu. Esuezi prematur.
 
@@ -1104,13 +1088,13 @@ Nu este o pierdere de timp sa pornesti usor. Da, ridicarea unei greutati mai mar
 
 Iar greutatile devin grele, intr-o perioada scurta de timp. Adaugati 30kg/60lb la Squat(Genoflexiuni cu haltera) in fiecare luna, 15kg/30lb la prese si 60kg/120lb in [Indreptari(Deadlifts)](/exercitii/spate/indreptari) Dar progresul tuturor incetineste dupa un timp. Deci, ajungeti in aceeasi situatie la un an distanta, fie ca incepeti cu o bara goala sau 60kg/135lb.
 
-Antrenamentul de forta este un maraton, nu un sprint. Nu castigi acest joc incercand sa mergi cat mai repede. Castigi prin perseverenta. Este nevoie de timp pentru a deveni mai puternic si a invata o forma adecvata. Si nu puteti castiga mai mult de 2lb de muschi pe luna . Prin urmare, rabdarea este esentiala.
+Antrenamentul de forta este un maraton, nu un sprint. Nu castigi acest joc incercand sa mergi cat mai repede. Castigi prin perseverenta. Este nevoie de timp pentru a deveni mai puternic si a invata o forma adecvata. Si nu puteti castiga mai mult de 1kg de muschi pe luna. Prin urmare, rabdarea este esentiala.
 
 Oamenilor din sala nu le pasa de greutatile pe care le ridicati. Sunt concentrati pe ei insisi. Si au fost si ei incepatori. Daca cineva rade de tine pentru ca incepi usor, lasa-l sa rada. Dupa 12 saptamani, vei face Squat(Genoflexiuni cu haltera) cu discuri. Rasul lor se va transforma in uimire.
 
 Nu incepeti cu cele cinci reprize maxime. Incepeti cu o greutate usoara, astfel incat sa va puteti concentra asupra formei si a dezvolta impulsul. Daca sari peste anumite repetari in prima saptamana sau chiar luna, ai inceput mult prea greu. Micsorati greutatea pentru a oferi corpului tau timp sa se recupereze si sa devina mai puternic.
 
-Acest sfat se aplica oricarui program, StrongLifts 5×5, dar si Madcow 5×5 ulterior.
+Acest sfat se aplica oricarui program, Antrenamente 5×5, dar si Madcow 5×5 ulterior.
 
 ### Schimbarea programului<a id="schimbare-program"></a>
 
@@ -1120,7 +1104,7 @@ Daca te doare dintele, probabil ca nu incerci sa-l repari singur. Mergi la un de
 
 Prioritatea acestui program este de a deveni mai puternic la cei cinci mari - SQ/BP/DL/OHP/ROW. Pentru a deveni puternic la aceste exercitii, trebuie sa stapanesti forma corespunzatoare si sa te antrenezi intens. Pentru a stapani forma corecta, trebuie sa faceti foarte mult exercitii. Pentru a deveni mai puternic, trebuie sa faceti seturi de cinci. Programul functioneaza cel mai bine asa cum este.
 
-Rutina 5×5 este de aproape 100 de ani. StrongLifts timp de 10 ani. Zeci de mii de oameni au facut aceasta rutina. Tot ce am invatat este in acest ghid. Nu puteti face nimic pe care altcineva nu l-a mai incercat. Nu poti imbunatati cu nimic. Acest program este deja optimizat.
+Rutina 5×5 este de aproape 100 de ani. Antrenamente timp de 10 ani. Zeci de mii de oameni au facut aceasta rutina. Tot ce am invatat este in acest ghid. Nu puteti face nimic pe care altcineva nu l-a mai incercat. Nu poti imbunatati cu nimic. Acest program este deja optimizat.
 
 Puteti invata prin incercare si eroare - gandind ca stiti mai bine si faceti-o in mod propriu. Sau puteti economisi timp si efort facand programul asa cum este prevazut. Acest lucru te scuteste facand aceleasi greseli care s-au facut inainte. Te ajuta sa castigi mai rapid forta si muschii.
 
@@ -1144,7 +1128,7 @@ Pe masura ce devi mai puternic, devi mai rezistent, si te poti antrena mai mult.
 
 ### Antrenarea intr-o sala nedotata<a id="sala-nedotata"></a>
 
-Nu puteti face StrongLifts 5×5 fara greutatile gratuite. Presele pentru picioare sau Smith Squat(Genoflexiuni cu haltera) preiau munca de pe muschii tai. Nu te fac sa echilibrezi bara ca obisnuitele Genoflexiuni cu haltera. Mai rau, te forteaza in miscari fixe care pot provoca rani. Greutatile libere sunt mai eficiente si mai sigure.
+Nu puteti face Antrenamente 5×5 fara greutatile gratuite. Presele pentru picioare sau Smith Squat(Genoflexiuni cu haltera) preiau munca de pe muschii tai. Nu te fac sa echilibrezi bara ca obisnuitele Genoflexiuni cu haltera. Mai rau, te forteaza in miscari fixe care pot provoca rani. Greutatile libere sunt mai eficiente si mai sigure.
 
 De asemenea, nu puteti face acest lucru fara Power Rack. Trebuie sa puneti bara in siguranta pe spatele dvs. si sa ridicati greu. Nu puteti pierde forta curatand-o mai intai (aceasta oricum limiteaza cat de intens poti face Genoflexiuni cu haltera-urile). Si nu trebuie sa iti fie frica ca vei esua si ca vei cadea pe spate, deoarece nu exista ace de siguranta care sa prinda bara.
 
@@ -1152,13 +1136,13 @@ Ganterele nu functioneaza nici pentru acest program. Nu face Squat(Genoflexiuni 
 
 Trebuie sa ridicati o greutate mare pentru a castiga forta si muschi. Barbell este cel mai bun instrument pentru asta, deoarece puteti utiliza cele mai grele greutati. Dar ai nevoie de ceva pentru a prinde greutatea daca nu reusesti. Fara Power Rack poti ramane blocat sub greutate si sa fii ucis. Intr-adevar.
 
-Este posibil ca actuala dvs. sala sa nu aiba echipamentul de care aveti nevoie pentru a face StrongLifts 5×5. Treceti la o sala de sport adevarata sau construiti o sala de gimnastica. Dar sa nu nemultumiti acest program facandu-l cu masini sau gantere. Nu va functiona. Nu faceti StrongLifts 5×5 daca nu folositi echipament adecvat.
+Este posibil ca actuala dvs. sala sa nu aiba echipamentul de care aveti nevoie pentru a face Antrenamente 5×5. Treceti la o sala de sport adevarata sau construiti o sala de gimnastica. Dar sa nu nemultumiti acest program facandu-l cu masini sau gantere. Nu va functiona. Nu faceti Antrenamente 5×5 daca nu folositi echipament adecvat.
 
 Da, schimbarea salii de fitness poate fi un inconvenient major pentru dvs. Dar acest lucru nu este menit sa fie usor. Nu esti primul sau singurul care se ocupa de aceasta problema. Multi oameni o fac, inclusiv eu. Daca nu sunteti dispus sa faceti ceea ce este nevoie, cel mai bine este sa cautati un program diferit - acesta clar nu este pentru dvs.
 
 ### Adaugarea greutatilor prea repede<a id="prea-repede"></a>
 
-StrongLifts 5×5 nu functioneaza daca adaugati 5kg/10lb pe antrenament. Aceasta functioneaza pe [Indreptari(Deadlifts)](/exercitii/spate/indreptari) pana cand ajungeti la 100kg/220lb. Functioneaza daca greutatile de pornire se simt prea usoare. Functioneaza daca reveniti dintr-o pauza mare. Dar nu functioneaza mult, mai ales nu pe exercitii de apasare care lucreaza muschii secundari.
+Antrenamente 5×5 nu functioneaza daca adaugati 5kg/10lb pe antrenament. Aceasta functioneaza pe [Indreptari(Deadlifts)](/exercitii/spate/indreptari) pana cand ajungeti la 100kg/220lb. Functioneaza daca greutatile de pornire se simt prea usoare. Functioneaza daca reveniti dintr-o pauza mare. Dar nu functioneaza mult, mai ales nu pe exercitii de apasare care lucreaza muschii secundari.
 
 Corpul tau trebuie sa se recupereze pentru a deveni mai puternic si pentru a ridica mai greu. Nu se poate recupera in timp daca il stresati cu cresteri uriase. Adaugarea a 5kg/10lb la o presa de 50kg/100lb sau 10kg/20lb la 100kg/200lb [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera) este o crestere de 10%. Acest lucru poate functiona o data sau de doua ori, dar nu la fiecare antrenament. E prea mult.
 
@@ -1188,7 +1172,7 @@ Multi oameni au fost surprinsi sa afle ca urmatorul lor antrenament cu mai multa
 
 Nu va fie teama de esec. Increderea dvs. nu poate creste daca evitati ceea ce va este frica. Toata lumea esueaza, am esuat mult. Ridicati in suportul de alimentare. Setati sigurantele. Intreaba de un loc,poate. Cateodata nu o sa reusesti, dar trebuie sa experimentezi si acest lucru. Dar nu evita esecul.
 
-Unii oameni nu adauga greutate pentru ca sunt nemultumiti de forma lor fizica. Daca corpul dvs. este perfect 80%, adaugati greutate. Atata timp cat nu comiti greseli periculoase, cum ar fi aplecarea pe spate prea mult, pozitia coatelor incorecta( prea departate) pe Bench, genunchii care sunt prea apropiati in ghemuit sau va arcuiti prea mult pe ohp... continuati.
+Unii oameni nu adauga greutate pentru ca sunt nemultumiti de forma lor fizica. Daca corpul dvs. este perfect 80%, adaugati greutate. Atata timp cat nu comiti greseli periculoase, cum ar fi aplecarea pe spate prea mult, pozitia coatelor incorecta( prea departate) pe Bench, genunchii care sunt prea apropiati in Genuflexiuni sau va arcuiti prea mult pe OHP... continuati.
 
 Greselile de 20% mai mici, incercati sa remediati in timp ce adaugati greutate. Lucreaza la postura in timpul incalzirii. Dar nu ramaneti cu greutati usoare pentru a obtine o forma perfecta. Oricine poate avea o forma perfecta cu greutati usoare. Este nevoie de forta pentru a avea o forma perfecta cu greutate mare. Trebuie sa ridici greutati mari pentru asta.
 
@@ -1204,7 +1188,7 @@ Fiecare antrenament iti determina corpul sa castige forta si muschi. Deci, corpu
 
 Daca va sari doar peste un antrenament, puteti relua, de obicei, programul de unde ati ramas. Dar sarirea a doua antrenamente la rand poate provoca pierderi de forta. Sariti trei antrenamente si va trebui sa micsorati greutatea pentru a obtine cele cinci repetari la fiecare antrenament pe viitor. Acest lucru iti incetineste progresul.
 
-StrongLifts 5×5 functioneaza cel mai bine daca efectuati trei antrenamente pe saptamana. Doua poti lucra, dar nu una pe saptamana. Si un antrenament la fiecare 10 zile cu siguranta nu functioneaza. Uite, sunt 168 de ore intr-o saptamana. Acest program are nevoie doar de patru ore din timpul tau. Stabiliti-va corect prioritatile si faceti-va timp pentru acest lucru.
+Antrenamente 5×5 functioneaza cel mai bine daca efectuati trei antrenamente pe saptamana. Doua poti lucra, dar nu una pe saptamana. Si un antrenament la fiecare 10 zile cu siguranta nu functioneaza. Uite, sunt 168 de ore intr-o saptamana. Acest program are nevoie doar de patru ore din timpul tau. Stabiliti-va corect prioritatile si faceti-va timp pentru acest lucru.
 
 Decide zilele si orele in care te vei antrena. Apoi continuati orice s-ar intampla. Cu febra musculara, nemotivat, obosit sau bolnav - nu conteaza. Tineti-va de planul vostru si incepeti programul. Poate ai un antrenament prost, poate nu. Dar antrenamentele proaste sunt intotdeauna mai bune decat cele nefacute - nu regreti niciodata ca ai mers la sala.
 
@@ -1218,7 +1202,7 @@ Tineti-va de plan. Spune nu oamenilor. Si nu gasiti scuze.
 
 Veti transpira mai mult daca va odihniti doar 30 de secunde sau faceti seturi unele dupa altele. Dar vei ridica cu resursele de ATP epuizate. Iar forma ta se va deteriora, deoarece vei obosi. Perioadele scurte de odihna fac imposibila ridicarea cu greutati mari si cresc riscul de ranire. Trebuie sa va odihniti pana la cinci minute pentru a deveni puternic.
 
-Scopul StrongLifts 5×5 este de a ridica greutati mari - nu de a transpira, a te estenua sau de a ramane fara respiratie. Daca doriti sa transpirati, atunci faceti HIIT cardio dupa antrenament. Daca doriti sa va extenuati, atunci adaugati exercitii pentru asta. Dar odihneste-te atat timp cat ai nevoie pe principalele exercitii, astfel incat sa poti ridica masiv si sa devii mai puternic.
+Scopul Antrenamente 5×5 este de a ridica greutati mari - nu de a transpira, a te estenua sau de a ramane fara respiratie. Daca doriti sa transpirati, atunci faceti HIIT cardio dupa antrenament. Daca doriti sa va extenuati, atunci adaugati exercitii pentru asta. Dar odihneste-te atat timp cat ai nevoie pe principalele exercitii, astfel incat sa poti ridica masiv si sa devii mai puternic.
 
 Daca aveti doar o jumatate de ora pentru a va antrena, atunci doar [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera). Nu va grabiti antrenamentul pentru a face totul. Genoflexiuni cu haltera-ul va lucreaza intregul corp si reprezinta coloana vertebrala a programului. Faceti-le corect si sariti restul.
 
