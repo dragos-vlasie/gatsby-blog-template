@@ -245,7 +245,7 @@ In al doilea rand, puteti ridica greutati mai grele pe [Indreptari(Deadlifts)](/
 
 In al treilea rand, iti lipseste experienta. Oamenii care fac deadlifturi 5×5 ajung mereu sa inteleaga, mai tarziu. Cand trebuie sa lupti pentru a obtine 5×5 Squat(Genoflexiuni cu haltera) si sa lupti pentru a obtine 5×5 Presses, nu vrei sa inchei antrenamentul cu un 5×5 Deadlift. Esti fericit sa termini cu un set greu de cinci.
 
-Daca va plac Indreptari(Deadlifts) incalziti-va cu seturi de cinci, cum sugereaza aplicatia mea . Acest lucru va ofera mai multe seturi, fara efortul seturilor cu aceeasi greutate. Nu iti vei afecta recuperarea si nu te vei plafona.
+Daca va plac Indreptari(Deadlifts) incalziti-va cu seturi de cinci. Acest lucru va ofera mai multe seturi, fara efortul seturilor cu aceeasi greutate. Nu iti vei afecta recuperarea si nu te vei plafona.
 
 ### Antrenamente 5×5 functioneaza cu ganterele?
 

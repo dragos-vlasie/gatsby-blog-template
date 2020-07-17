@@ -565,9 +565,9 @@ Nu aveti nevoie de un spotter pentru a prinde greutatea daca nu reusiti o repeta
 
 Mai multa siguranta este egala cu mai multa incredere si mai multe castiguri. Stiti ca pinii/carligele de siguranta(safety pins) vor prinde greutate daca esuati. Nu mai tineti de frica esecului. Puteti lucra la maxim si incerca PR-uri fara spotter. Si vei fi surprins ca puteti face mai multe repetari sau sa lucrati cu mai multa greutate decat va asteptati. Repetari si o greutate pe care nu le-ai fi incercat niciodata fara Power Rack sau spotter. Vei progresa mai repede pe Stronglifts 5 × 5 daca faceti Bench Press in Power Rack.
 
-Am petrecut mai mult de zece ani Bench Pressing, mai ales singur, in sala de sport de acasa, fara spotter. Nu am reusit repetari de multe ori, dar nu m-am accidentat niciodata. Carligele de siguranta(safety pins) ale Power Rack-ului meu au prins intotdeauna bara. Campionul Mondial, Mike Tuchscherer, de asemenea, face Bench Press, mai ales singur, in sala de sport, de origine, fara spotter. El face Bench Press cu aproape 500lb, astfel incat daca nu reuseste, il poate ucide. Dar a fost intotdeauna in siguranta, deoarece se antreneaza in interiorul Power Rack.
+Am petrecut mai mult de zece ani Bench Pressing, mai ales singur, in sala de sport de acasa, fara spotter. Nu am reusit repetari de multe ori, dar nu m-am accidentat niciodata. Carligele de siguranta(safety pins) ale Power Rack-ului meu au prins intotdeauna bara. Campionul Mondial, Mike Tuchscherer, de asemenea, face Bench Press, mai ales singur, in sala de sport, de origine, fara spotter. El face Bench Press cu aproape 230kg/500lb, astfel incat daca nu reuseste, il poate ucide. Dar a fost intotdeauna in siguranta, deoarece se antreneaza in interiorul Power Rack-ului.
 
-Daca sala de sport nu are un Power Rack, treceti la o sala de sport reala care are una. Sau cumpara-ti propriul Power Rack si construieste-ti o sala de sport asa cum am facut eu. Retineti ca, daca faceti [Antrenamente 5x5](/program/full-body/5x5) , aveti nevoie si de un Power Rack pentru genuflexiuni(Squats). Aveti nevoie de unul pentru a prinde bara de pe partea superioara a spatelui daca nu reusiti sa faceti genuflexiuni(Squats) cu greutatea. Iata cateva Power Racks pe care le recomand pentru a face genuflexiuni(Squats) si Impinsul cu haltera de la piept in siguranta, fara spotter.
+<!-- Daca sala de sport nu are un Power Rack, treceti la o sala de sport reala care are una. Sau cumpara-ti propriul Power Rack si construieste-ti o sala de sport asa cum am facut eu. Retineti ca, daca faceti [Antrenamente 5x5](/program/full-body/5x5) , aveti nevoie si de un Power Rack pentru genuflexiuni(Squats). Aveti nevoie de unul pentru a prinde bara de pe partea superioara a spatelui daca nu reusiti sa faceti genuflexiuni(Squats) cu greutatea. Iata cateva Power Racks pe care le recomand pentru a face genuflexiuni(Squats) si Impinsul cu haltera de la piept in siguranta, fara spotter.
 
 - **Atlas Power Rack**. Transport ieftin, dar fara transport gratuit. Recenzii de 4,8 stele pe Amazon.
 - **PowerLine PPR200X**. Sustine 600lb, montanti(uprights) exteriori, carlige de siguranta, bara de tractiuni. Dar prea scurt pentru Overhead Press. 4,6 stele. Transport gratuit.
@@ -576,7 +576,7 @@ Daca sala de sport nu are un Power Rack, treceti la o sala de sport reala care a
 - **Rogue R3**. De inalta calitate cu bara de tractiuni. Dar scump si trebuie sa-l ansamblezi.
 - **Short Power Rack**. Potrivit pentru plafoane joase, sub 6 ″.
 
-  Rack-urile pentru genuflexiuni(Squats) cu carlige de siguranta(safety pins) functioneaza, de asemenea, la Impinsul cu haltera de la piept in siguranta, fara spotter. Arata ca o jumatate de Power Rack, cu exceptia faptului ca carligele de siguranta sunt adesea fixate. Daca nu se potrivesc cu lungimea bratelor dvs. si nu le puteti ajusta, le veti lovi la repetari bune. Acest lucru dezechilibreaza bara si provoaca repetari esuate. Ridicati-va banca punand farfurii plate sub ea. Aceasta va pozitiona trunchiul mai sus, astfel incat sa nu atingeti carligele de siguranta la repetarile bune.
+  Rack-urile pentru genuflexiuni(Squats) cu carlige de siguranta(safety pins) functioneaza, de asemenea, la Impinsul cu haltera de la piept in siguranta, fara spotter. Arata ca o jumatate de Power Rack, cu exceptia faptului ca carligele de siguranta sunt adesea fixate. Daca nu se potrivesc cu lungimea bratelor dvs. si nu le puteti ajusta, le veti lovi la repetari bune. Acest lucru dezechilibreaza bara si provoaca repetari esuate. Ridicati-va banca punand farfurii plate sub ea. Aceasta va pozitiona trunchiul mai sus, astfel incat sa nu atingeti carligele de siguranta la repetarile bune. -->
 
 ## Dezavantajele Power Rack-ului<a id="dezavantajele-power-rack-ului"></a>
 
@@ -1041,7 +1041,7 @@ Pentru a face Impinsul cu haltera de la piept greu, trebuie sa faceti Bench Pres
 
 Cel mai simplu mod de a deveni mai puternic este sa adaugati greutate. Aceasta se intoarce in Grecia Antica. Conform legendei, luptatorul Milo de la Croton s-a antrenat pentru Jocurile Olimpice carand in fiecare zi un bou nou-nascut. Pe masura ce boul crestea, il expunea incet pe Milo la o greutate mai grea. Corpul sau s-a adaptat prin construirea de forta si muschi. Milo a castigat Jocurile Olimpice de sase ori. Si desi aceasta poate fi doar o legenda, ideea este sa adaugati greutate.
 
-Nu faceti Impinsul cu haltera de la piept cu aceeasi greutate luni intregi. Da-i corpului tau un motiv pentru a deveni mai puternic. Incercati intotdeauna sa faceti Bench Press putin mai mult decat data trecuta. La [Antrenamente 5x5](/program/full-body/5x5) , adaugati 2,5 kg / 5lb (sau mai putin) de fiecare data cand faceti Bench Press. Incepeti usor pentru a va concentra pe forma adecvata si a dezvolta impulsul. Cand te blochezi, micsorati greutatea si incercati sa recuperati. Aplicatia iti spune cand sa adaugi greutate si cand sa elimini din aceasta, astfel incat sa te poti concentra pe exercitiul propriu-zis.
+Nu faceti Impinsul cu haltera de la piept cu aceeasi greutate luni intregi. Da-i corpului tau un motiv pentru a deveni mai puternic. Incercati intotdeauna sa faceti Bench Press putin mai mult decat data trecuta. La [Antrenamente 5x5](/program/full-body/5x5) , adaugati 2,5 kg / 5lb (sau mai putin) de fiecare data cand faceti Bench Press. Incepeti usor pentru a va concentra pe forma adecvata si a dezvolta impulsul. Cand te blochezi, micsorati greutatea si incercati sa recuperati.
 
 ## Reduce repetarile (Lower the reps)<a id="reduce-repetarile"></a>
 
@@ -1084,7 +1084,7 @@ Microload imediat ce va luptati in terminarea repetarilor. Daca abia ai obtinut 
 
 Femeile ar trebui sa faca microload Bench Press din prima zi. Femeile sunt mai mici decat barbatii. Muschii lor sunt mai mici. Muschii mai mici pot ridica mai putin in greutate. Acesta este motivul pentru care recordurile de Bench Press pentru barbati sunt mai mari decat ale femeilor si de ce aceea sporturile sunt impartite pe sexe. Cresterea cu 2,5 kg / 5lb nu functioneaza pentru femei (sau pentru baieti mici / mai mari). Veti trece de la Benching 40kg 5 × 5 la un antrenament, la abia obtinerea unui repetari cu 42,5 kg data viitoare. Adaugati cate putin (Microload).
 
-Retineti ca aplicatia [Antrenamente 5x5](/program/full-body/5x5) pentru iPhone si Android iti va spune sa faci microload pe Bench Press atunci cand detecteaza ca te chinui sa cresti greutatea. Puteti, de asemenea, sa adaugati o greutate mica manual, oricand, modificand cresterile de greutate in setarile aplicatiei. Si aplicatia iti va spune cate seturi, repetari si cu ce greutate trebuie sa te antrenezi la fiecare antrenament pentru a-ti creste Bench Press-ul. Aplicatia [Antrenamente 5x5](/program/full-body/5x5) se poate descarca gratuit pe iPhone si Android.
+<!-- Retineti ca aplicatia [Antrenamente 5x5](/program/full-body/5x5) pentru iPhone si Android iti va spune sa faci microload pe Bench Press atunci cand detecteaza ca te chinui sa cresti greutatea. Puteti, de asemenea, sa adaugati o greutate mica manual, oricand, modificand cresterile de greutate in setarile aplicatiei. Si aplicatia iti va spune cate seturi, repetari si cu ce greutate trebuie sa te antrenezi la fiecare antrenament pentru a-ti creste Bench Press-ul. Aplicatia [Antrenamente 5x5](/program/full-body/5x5) se poate descarca gratuit pe iPhone si Android. -->
 
 ## Odihneste-te mai mult intre seturi<a id="odihna"></a>
 
@@ -1092,7 +1092,9 @@ Odihneste-te cinci minute intre seturile grele de Bench Press. Veti obtine mai m
 
 Pauzele mai scurte va vor face sa transpirati mai mult. Dar nu iti vor creste Bench Press-ul. Te obliga sa faci Bench Press cu resursele de ATP epuizate, ceea ce este mai greu. Pauza mai lunga de cinci minute nu este necesara. Ai ceva mai mult ATP disponibil, dar petreci mai mult timp in sala de sport. Este un compromis cu profituri diminuate. Nu ma odihnesc niciodata mai mult de cinci minute intre seturile Bench Press.
 
-Mentineti-va antrenamentele scurte, odihnindu-va doar cinci minute intre seturile de Bench Press. Nu trebuie sa va odihniti mult timp intre seturile mai usoare. Daca doriti sa stiti cat timp sa stati intre fiecare set de Bench Press, utilizati aplicatia [Antrenamente 5x5](/program/full-body/5x5) pentru iPhone si Android. Cronometrul incorporat va va spune cat timp sa va odihniti intre fiecare set de incalzire si de lucru. Te va ajuta sa iti cresti Bench Press-ul fara sa petreci o viata intreaga in sala.
+Mentineti-va antrenamentele scurte, odihnindu-va doar cinci minute intre seturile de Bench Press. Nu trebuie sa va odihniti mult timp intre seturile mai usoare.
+
+<!-- Daca doriti sa stiti cat timp sa stati intre fiecare set de Bench Press, utilizati aplicatia [Antrenamente 5x5](/program/full-body/5x5) pentru iPhone si Android. Cronometrul incorporat va va spune cat timp sa va odihniti intre fiecare set de incalzire si de lucru. Te va ajuta sa iti cresti Bench Press-ul fara sa petreci o viata intreaga in sala. -->
 
 ## Imbunatatirea exercitiilor de incalzire (Bench Press Warmup)<a id="incalzirea-pentru-bench-press"></a>
 
@@ -1127,7 +1129,7 @@ Cheia este sa incepeti fiecare repetare in partea de sus, la fel ca atunci cand 
 
 Paused Bench Press nu inlocuieste Bench Press-ul obisnuit. Pentru a-ti mari Bench Press-ul, trebuie sa faci Bench Press. Nu intrerupeti fiecare repetare de Bench Press. Nu va incalziti facand o Paused Bench Press deoarece va veti epuiza muschii pentru Bench Press. Faceti Bench Press obisnuit cu o atingere si mergeti in partea de jos (fara a indoi). Dupa ce ati terminat, efectuati Paused Bench Press separate ca exercitiu de asistenta/ izolare.
 
-Pe [Antrenamente 5x5](/program/full-body/5x5) , puteti face Paused Bench Press la finalul antrenamentului. Trei seturi de cinci cu aproximativ 20% mai putin decat Bench Press. Doar asigurati-va ca ati verificat mai intai alte optiuni. Microload, repetati greutatea daca ramaneti blocati, micsorati greutatea (deload) dupa trei esecuri, treceti de la 5 × 5 la 3 × 5 si asa mai departe. Doar atunci ar trebui sa adaugati Paused Bench Press. Retineti ca aplicatia [Antrenamente 5x5](/program/full-body/5x5) va va sfatui cum sa progresati pe Bench Press.
+Pe [Antrenamente 5x5](/program/full-body/5x5) , puteti face Paused Bench Press la finalul antrenamentului. Trei seturi de cinci cu aproximativ 20% mai putin decat Bench Press. Doar asigurati-va ca ati verificat mai intai alte optiuni. Microload, repetati greutatea daca ramaneti blocati, micsorati greutatea (deload) dupa trei esecuri, treceti de la 5 × 5 la 3 × 5 si asa mai departe. Doar atunci ar trebui sa adaugati Paused Bench Press.
 
 ## Fii rabdator<a id="fii-rabdator"></a>
 

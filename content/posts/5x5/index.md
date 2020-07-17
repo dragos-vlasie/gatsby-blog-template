@@ -224,7 +224,7 @@ Antrenamente 5×5 declanseaza forta si cresterea muschilor in intregul corp folo
 
 Faceti un antrenament pe zi. Daca acest lucru nu se simte suficient, greutatea este prea usoara. Ai rabdare sau creste greutatea. Odata ce greutatea este destul de grea, nu veti putea face mai mult de trei exercitii fara a pierde din forta. Bench Press(Impinsul cu haltera de la piept) iti oboseste umerii pentru Presa deasupra capului cu bara, iar Rows iti oboseste spatele pentru [Indreptari(Deadlifts)](/exercitii/spate/indreptari)
 
-Alterneaza antrenamentele A si B de fiecare data cand te antrenezi. Incepeti cu antrenamentul A azi, faceti antrenamentul B in doua zile, apoi faceti din nou antrenamentul A. Aceasta inseamna ca in cateva saptamani veti face A/B/A, unele B/A/B. Daca nu obtineti acest lucru, descarcati si utilizati foile de calcul.
+Alterneaza antrenamentele A si B de fiecare data cand te antrenezi. Incepeti cu antrenamentul A azi, faceti antrenamentul B in doua zile, apoi faceti din nou antrenamentul A. Aceasta inseamna ca in cateva saptamani veti face A/B/A, unele B/A/B.
 
 Asteptati cel putin o zi intre doua antrenamente. Acest lucru ofera corpului tau timp pentru a se reface, a se consolida si a construi muschi pentru a ridica mai multe greutati la urmatorul antrenament. Nu face antrenament doua zile la rand - bara va fi mai greu de ridicat si veti rata repetari, deoarece muschii nu s-au recuperat pe deplin.
 
@@ -389,7 +389,7 @@ Iata cum trebuie sa progresati:
 - **[Bench press(Impinsul cu haltera de la piept)](/exercitii/bench-press)/OverheadPress/Row: 2,5kg La fel ca la [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera)**. Dar cresteri mai mici de 1kg functioneaza si mai bine. Mai ales daca esti mai slab sau de gen feminin. Vei progresa mai mult, fara sa-ti ratezi repetari si sa ramai blocat la o greutate.
 - **Deadlift: 5kg/10lb - adica 2,5kg pe ambele parti ale barei**. [Indreptari(Deadlifts)](/exercitii/spate/indreptari) folosesc muschi mari, astfel incat poti incarca mai mult bara. Dupa ce ati ajuns la [Indreptari](/exercitii/spate/indreptari) 100kg, treceti la 2,5kg pe antrenament.
 
-Gratuit: descarcati fisa de calcul Antrenamente 5×5 pentru a va calcula primele 12 saptamani de antrenament. Vei cunoaste exercitiile, greutatile, seturile si repetitiile de facut. Iar graficele de progres te vor tine motivat. Inscrieti-va la sfaturile mele de e-mail zilnic pentru a obtine foaia de calcul. Doar faceti clic aici
+<!-- Gratuit: descarcati fisa de calcul Antrenamente 5×5 pentru a va calcula primele 12 saptamani de antrenament. Vei cunoaste exercitiile, greutatile, seturile si repetitiile de facut. Iar graficele de progres te vor tine motivat. Inscrieti-va la sfaturile mele de e-mail zilnic pentru a obtine foaia de calcul. Doar faceti clic aici -->
 
 Unele sali de gimnastica nu au farfurii mici de 1,25kg pentru a adauga 2,5kg la fiecare antrenament. Cereti-le sa obtina o pereche sau cumpara-ti propriul set. Pune-l in geanta de sala si ia le de fiecare data cu tine. Discurile mici nu ocupa niciun spatiu si cantaresc putin. Te vor ajuta sa progresezi mai mult fara sa te opresti la o greutate anume.
 
@@ -455,13 +455,11 @@ Daca greutatea dvs. de lucru este bara goala, nu trebuie sa va incalziti inca. G
 
 Indreptari si Ramat cu haltera au nevoie de mai putin incalzire, deoarece sunt ultimul exercitiu. Esti deja incalzit pana in acel moment. In plus, greutatea de pornire nu poate fi bara goala, deoarece greutatea trebuie sa inceapa de la podea. Deci nu va incalziti niciodata cu haltera goala pe [Indreptari](/exercitii/spate/indreptari) si [Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara).
 
-Aplicatia Antrenamente dispune de un calculator de incalzire incorporat, care va ofera seturile exacte, repetarile si greutatile cu care sa va incalziti. Va ofera acest lucru pentru fiecare exercitiu si greutate. Aveti nevoie de Antrenamente Pro pentru a obtine acces la aceasta optiune, dar veti vedea ca numai aceasta caracteristica merita pretul.
-
 Sau puteti utiliza unul dintre acele calculatoare de incalzire gratuite online. Dar toate sunt ineficiente. Greseala pe care o fac este sa te faca sa faci cinci seturi de incalzire, indiferent de cat de grea este munca ta. Oamenii mai slabi ajung sa faca prea multe seturi de incalzire, in timp ce oamenii mai puternici nu fac suficiente.
 
 Incalzirea iti face antrenamentul mai lung. Cu cat esti mai puternic, cu atat greutatea ta este mai mare si setarile de incalzire la fel. Tineti-va antrenamentele scurte, nu va odihniti intre seturile de incalzire. Acest lucru va va oferi o transpiratie buna, fara a va obosi prea mult, deoarece greutatile de incalzire sunt usoare.
 
-Singura exceptie este ultimul set de incalzire. Odihneste-te inainte de a-ti face primul set de lucru. In acest fel aveti ATP complet disponibil inainte de a face acel set greu. Pe celelalte seturi de incalzire, trebuie doar sa adaugati greutate si sa plecati. Utilizati cronometrul pentru repausul incalzirii in aplicatia noastra - va spune cat timp sa asteptati, astfel incat sa va puteti concentra pe ridicare.
+Singura exceptie este ultimul set de incalzire. Odihneste-te inainte de a-ti face primul set de lucru. In acest fel aveti ATP complet disponibil inainte de a face acel set greu. Pe celelalte seturi de incalzire, trebuie doar sa adaugati greutate si sa plecati.
 
 Respecta seturile de incalzire ridicandu-le precum seturile tale grele. Antrenamentul dvs. nu incepe cand greutatea dvs. de 5×5 este pe bara. Antrenamentul tau incepe cu incalzirea ta. Pune aceeasi concentrare si efort in ele. Daca o faci corect. seturile tale de lucru grele se vor simti mai usoare.
 
@@ -485,7 +483,7 @@ Daca calatoroti mult cu munca, este greu. Va trebui sa va antrenati sau veti rat
 
 Apropo - sarirea unui antrenament nu este o pauza. Pauze pe care le planuiesti in avans - „Am sa vina o vacanta, nu ma antrenez”. Saltul la un antrenament se intampla de obicei in acest moment - „Nu ma simt in stare astazi”. Pauzele regulate sunt in regula. Amanarea antrenamentelor nu este - rationalizeaza lenea.
 
-Retineti ca aplicatia Antrenamente va va spune cu ce greutate sa incepeti dupa pauza. Urmareste cat timp nu te-ai antrenat si recomanda reduceri de greutate adecvate. Acest lucru previne repetarile ratate si durerile de dupa pauza. Descarcati-l aici .
+<!-- Retineti ca aplicatia Antrenamente va va spune cu ce greutate sa incepeti dupa pauza. Urmareste cat timp nu te-ai antrenat si recomanda reduceri de greutate adecvate. Acest lucru previne repetarile ratate si durerile de dupa pauza. Descarcati-l aici . -->
 
 ## Obiectivele de forta<a id="obiective"></a>
 
@@ -563,7 +561,7 @@ Asadar, daca ai mancat o masa pe zi, dormind cinci ore pe noapte, facand cardio 
 
 Oricum, primul lucru pe care il faci cand esuezi un set este sa te odihnesti mai mult. Pune bara la loc si asteptati cel putin cinci minute inainte de a face setul urmator. Rezervele tale de ATP trebuie sa fie recuperate complet, altfel veti esua in efectuarea repetarii din nou. Acesta nu este cardio, ci antrenament de forta. Odihneste-te mai mult ca sa poti ridica greutati.
 
-Utilizati cronometrul incorporat in aplicatia mea. Sa zicem ca ai pierdut repriza a treia de la setul al treilea. Marcati-o ca doua repetari efectuate apasand pe cercul setat de mai multe ori la rand (repetarile vor scadea). Aplicatia va va recomanda sa va odihniti mai mult inainte de a face urmatorul set, astfel incat sa terminati setul de aceasta data.
+<!-- Utilizati cronometrul incorporat in aplicatia mea. Sa zicem ca ai pierdut repriza a treia de la setul al treilea. Marcati-o ca doua repetari efectuate apasand pe cercul setat de mai multe ori la rand (repetarile vor scadea). Aplicatia va va recomanda sa va odihniti mai mult inainte de a face urmatorul set, astfel incat sa terminati setul de aceasta data. -->
 
 Verificati de doua ori daca echipamentul dvs. este setat sa prinda bara daca nu reusiti sa faceti Genoflexiuni cu haltera-urile sau ridicarile la piept. Nu doriti ca greutatea sa fie si mai grea, ingrijorandu-va de vatamarile din timpul setului. Genuflexiunile( Genoflexiuni cu haltera) si Bench press in cadrul de forta(Power Rack). Setati siguranta la inaltimea corespunzatoare, astfel incat sa poata prinde bara daca nu reusiti.
 
@@ -587,8 +585,6 @@ Repetati greutatea la urmatorul antrenament pentru fiecare exercitiu in care ati
 
 Cresteti greutatea la fiecare exercitiu in care ati obtinut cinci repetari la fiecare set. Sa zicem ca nu reusesti in [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-haltera). dar nu la Bench Press(Impinsul cu haltera de la piept) si [Barbell Row(ramat cu haltera)](/exerciti/spate/ramat-cu-bara). Nu cresteti greutatea Squat-ul la urmatorul antrenament - repetati-l. Insa adaugati greutate pe Banci si Randuri de cand aveti 5×5 acolo.
 
-Daca nu il primiti, folositi aplicatia mea . Iti spune cata greutate sa ridici urmatorul antrenament atunci cand esuezi. Repeta greutatea pe exercitiile pe care nu reusesti decat in ​​timp ce o cresti la exercitiile pe care le reusesti. Daca veti obtine 5×5 data viitoare, atunci incepe sa adaugati din nou greutate. Descarcati-l aici .
-
 Mai intai vei esua la exercitiile care folosesc muschii mai mici. [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului) mai intai, apoi Bench Press(Impinsul cu haltera de la piept), apoi Squat(Genoflexiuni cu haltera) si, in sfarsit, Deadlift. Daca nu reusiti intr-o alta ordine, formularul dvs. este dezactivat. Daca nu reusiti repetarile in primele 12 saptamani, ati inceput prea greu, adaugati prea multa greutate, va odihniti prea putin, etc.
 
 ## Faza de descarcare(deload) <a id="descarcari"></a>
@@ -603,7 +599,7 @@ De asemenea, puteti delega daca aveti o forma proasta. Daca nu il puteti imbunat
 
 Adaugati greutate la fiecare antrenament dupa terminare. Va fi nevoie de cinci antrenamente pentru a reveni la acel 100kg/220lb Squat(Genoflexiuni cu haltera). In timpul celor doua saptamani, greutatea se va simti usor. Totusi, luati-va in serios amagirea - ridicati greutatea ca si cum ar fi 100kg/220lb. Cand veti reveni la aceasta greutate, veti reusi sa faceti toate repetarile.
 
-Daca sunteti confuz in legatura cu modul de eliminare, folositi aplicatia mea . Se sterge automat greutatea pentru dvs. atunci cand nu reusiti trei antrenamente la un exercitiu. Acest lucru te ajuta, tu nu esti nevoit sa afli singur cate greutati trebuie sa elemini, si poate in final o vei face gresit. Lasati aplicatia sa gandeasca si sa se concentreze pe ridicarea greutatilor in schimb.
+<!-- Daca sunteti confuz in legatura cu modul de eliminare, folositi aplicatia mea . Se sterge automat greutatea pentru dvs. atunci cand nu reusiti trei antrenamente la un exercitiu. Acest lucru te ajuta, tu nu esti nevoit sa afli singur cate greutati trebuie sa elemini, si poate in final o vei face gresit. Lasati aplicatia sa gandeasca si sa se concentreze pe ridicarea greutatilor in schimb. -->
 
 Prin micsorarea greutatii, ii oferi corpului odihna suplimentara pentru a deveni mai puternic pentru urmatoarea greutate. Vor fi momente pe Antrenamente 5×5 in care greutatea iti va stresa corpul mai mult decat poate face fata. Vei esua pentru ca nu vei fi recuperat la timp pentru urmatorul antrenament cu o greutate mai mare. Micsorarea greutatii rezolva asta.
 
@@ -635,8 +631,6 @@ Antrenamentele vor fi mai usoare dupa ce treceti la 3×5. Se va simti ca o amagi
 Treceti la 3×3 - trei seturi de trei repetari. Nu puteti obtine cinci repetari pe fiecare set, asa ca faceti trei. Apoi adaugati din nou greutate la fiecare antrenament. Va fi mai usor, deoarece ati incetat sa esuati. In plus, efort este mai mic, astfel incat corpul tau sa se recupereze mai bine intre antrenamente.
 
 In cele din urma vei esua si pe 3×3. Renuntati si treceti la 1x3 - un set greu de trei repetari, urmat de doua seturi de rezerva mai usoare, cu o greutate mai mica cu 5%. Veti putea sa adaugati din nou greutate la fiecare antrenament pana cand va blocati. Atunci este momentul sa treceti la un alt program de pregatire .
-
-Folositi aplicatia mea - va va spune cand sa treceti la 3×5/3×3/1x3. Practic, daca nu reusiti trei antrenamente la rand la 5×5, schimbati. Nu reusiti din nou trei antrenamente la rand, descarcati(deload) + treceti la 3×5. Trei esecuri la rand la 3×5, descarcati(deload) + treceti la 3×3. Trei esecuri la rand la 3×3, descarcati(deload) + treceti la 1x3.
 
 3×5/3×3/1x3 nu se aplica la [Indreptari](/exercitii/spate/indreptari), deoarece este doar 1x5. In plus, majoritatea oamenilor se blocheaza pe Squat(Genoflexiuni cu haltera) inainte de [Indreptari(Deadlifts)](/exercitii/spate/indreptari) - asa ca este putin probabil sa aveti nevoie sa schimbati strategia aici. Pe Ramat cu haltera trecerea la 3×5 poate avea sens, dar 3×3/1x3 probabil ca nu, neramanand mare lucru de facut.
 
@@ -762,7 +756,7 @@ Lipsa somnului iti slabeste sistemul imunitar. Ai mai multe sanse sa te imbolnav
 
 Puteti scapa dormind mai putin de opt ore in unele nopti. Am atins PR-uri la cinci ore de somn. Dar cu cat mai multe nopti nu dormi suficient, cu atat efectele negative sunt mai mari. In cele din urma, trebuie sa dormiti o ora in plus pentru fiecare ora in care nu ati dormit, pentru a va recupera orele de somn.
 
-Pastrarea unui jurnal de somn ajuta. Folosesc aplicatia pentru sanatate pentru iPhone si alarma la culcare. Seteaza-ti ora de trezire si ora de culcare, astfel incat sa ai cele opt ore de somn. Telefonul dvs. va va anunta cand este timpul sa dormiti. Apoi urmariti timpul mediu de somn in aplicatia de sanatate. Ma apropii de opt ore.
+<!-- Pastrarea unui jurnal de somn ajuta. Folosesc aplicatia pentru sanatate pentru iPhone si alarma la culcare. Seteaza-ti ora de trezire si ora de culcare, astfel incat sa ai cele opt ore de somn. Telefonul dvs. va va anunta cand este timpul sa dormiti. Apoi urmariti timpul mediu de somn in aplicatia de sanatate. Ma apropii de opt ore. -->
 
 Alte cateva sfaturi care sa va ajute sa va imbunatatiti somnul, astfel incat sa va recuperati mai bine din antrenamentele dvs....
 
@@ -830,7 +824,7 @@ Daca doriti sa lucrati bratele mai mult, adaugati Dips la antrenamentul A si Chi
 | Dips 3x10                                                                  | Chinups 3x10                                                                  | Dips 3x10                                                                  |
 
 </div>	
-Daca nu puteti face un singur Chinup sau Dip, faceti trei seturi de cate repetari puteti (nu folositi masini). Dupa ce puteti face 10 repetari, treceti la 3×5 si adaugati 1kg/2lb fiecare antrenament. Aplicatia mea va va arata cum sa progresati atunci cand faceti upgrade la Antrenamente Pro . Foloseste-l ca tu sa nu fi nevoit sa te gandesti  la asta.
+<!-- Daca nu puteti face un singur Chinup sau Dip, faceti trei seturi de cate repetari puteti (nu folositi masini). Dupa ce puteti face 10 repetari, treceti la 3×5 si adaugati 1kg/2lb fiecare antrenament. Aplicatia mea va va arata cum sa progresati atunci cand faceti upgrade la Antrenamente Pro . Foloseste-l ca tu sa nu fi nevoit sa te gandesti  la asta. -->
 
 Ofera-i corpului timp sa se obisnuiesti cu exercitiile suplimentare inainte de a adauga mai multe. In acest fel puteti vedea, de asemenea, impactul adaugarii Chinups si Dips asupra dezvoltarii bratului. Un obiectiv de forta bun pentru a viza pe Chinups si Dips consta in cinci repetari cu o placa/un disc mare de 20kg/45lb atarnata de talie.
 
@@ -887,7 +881,7 @@ Insa o cantitate scazuta de grasime este inutila daca nu aveti abdomenul pentru 
 
 Retineti ca nu exista muschi abdominali inferiori. Abdomenul dvs. inferior si superior se contracta ca un intreg. Daca abdomenul tau inferior este bombat, fie este doar gras sau ai o postura proasta – stand prea arcuiti, numita si hiperlordoza, de obicei de la statul pe scaun prea mult. Invata sa ai o postura corecta.
 
-Nu sunt necesare exercitii abdominale suplimentare pentru Antrenamente 5×5. Dar daca doriti sa adaugati unele, faceti ridicari ale genunchiului si poduri. Adaugati unul la fiecare antrenament. Doua seturi de opt pe prima. Seturi de 30-60sec pentru acestea din urma. Treceti la Antrenamente Pro in aplicatia mea si va va arata cum sa progresati.
+<!-- Nu sunt necesare exercitii abdominale suplimentare pentru Antrenamente 5×5. Dar daca doriti sa adaugati unele, faceti ridicari ale genunchiului si poduri. Adaugati unul la fiecare antrenament. Doua seturi de opt pe prima. Seturi de 30-60sec pentru acestea din urma. Treceti la Antrenamente Pro in aplicatia mea si va va arata cum sa progresati. -->
 
 ### Gambe<a id="gambe"></a>
 

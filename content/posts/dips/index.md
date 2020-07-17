@@ -117,7 +117,7 @@ Modul ideal de a face Dips(flotari la paralele) este cu mainile sub umeri. Acest
 - **Lockout**. Bratele drepte. Coatele incuiate. Piept sus. Umerii in jos. Cap neutru.
 - **Respiratia**. Inspirati in partea de sus. Mentineti in coborare. Expirati din nou in varf.
 
-Gratuit: descarcati lista mea de verificare pentru a obtine cele mai bune sfaturi pentru a face Dips(flotari la paralele) cu o forma corecta. Recititi aceste sfaturi intre seturi si veti face mai multe Dips(flotari la paralele) fara sa va raniti. . Inscrieti-va pentru a avea acces instantaneu la lista de verificare si va voi trimite sfaturi si trucuri zilnice pe e-mail. Doar faceti click aici.
+<!-- Gratuit: descarcati lista mea de verificare pentru a obtine cele mai bune sfaturi pentru a face Dips(flotari la paralele) cu o forma corecta. Recititi aceste sfaturi intre seturi si veti face mai multe Dips(flotari la paralele) fara sa va raniti. . Inscrieti-va pentru a avea acces instantaneu la lista de verificare si va voi trimite sfaturi si trucuri zilnice pe e-mail. Doar faceti click aici. -->
 
 ## Muschii lucrati<a id="muschii-lucrati"></a>
 
