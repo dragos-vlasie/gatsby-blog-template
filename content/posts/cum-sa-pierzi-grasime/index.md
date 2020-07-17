@@ -7,21 +7,21 @@ tags: ['exercitii']
 published: true
 ---
 
-# Cum să pierzi rapid grăsimea (12lb în 90 de zile)
+# Cum sa pierzi rapid grasimea (12lb in 90 de zile)
 
 <div class = "entry-meta"> <span class = "posted-on"> Ultima actualizare: [<class class = "actualizat" datetime = "2018-12-03T10: 06: 28 + 01: 00" itemprop = "dateModified"> 3 decembrie 2018 </time>] (https://stronglifts.com/lose-fat/ "1:00 pm") </span> <span class = "byline"> <span class = " autor vcard "itemtype =" http://schema.org/Person "itemscope =" itemscope "itemprop =" autor "> de [<span class =" autor-name "itemprop =" name "> Mehdi </span>] (/ despre / "Despre Mehdi") </span> </span> </div>
 
-Pierderea grăsimii poate fi frustrantă atunci când se pare că nu pierdeți grăsime, chiar dacă nu mâncați mult.
+Pierderea grasimii poate fi frustranta atunci cand se pare ca nu pierdeti grasime, chiar daca nu mancati mult.
 
-Este tentant să începi să dai vina pe metabolismul sau genetica ta când nimic nu pare să funcționeze.
+Este tentant sa incepi sa dai vina pe metabolismul sau genetica ta cand nimic nu pare sa functioneze.
 
-Dar pierderea de grăsime este ușor.
+Dar pierderea de grasime este usor.
 
-De fapt, puteți pierde rapid 1lb de grăsime pe săptămână - fără a vă muri de foame, fără a petrece 6 zile pe săptămână la sală și fără a face cardio.
+De fapt, puteti pierde rapid 1lb de grasime pe saptamana - fara a va muri de foame, fara a petrece 6 zile pe saptamana la sala si fara a face cardio.
 
-În acest ghid, vă voi arăta cum să pierdeți grăsimea rapid și permanent. Voi rătăci prin miturile populare despre pierderea de grăsime și voi răspunde la întrebări populare despre cum să pierzi grăsime.
+In acest ghid, va voi arata cum sa pierdeti grasimea rapid si permanent. Voi rataci prin miturile populare despre pierderea de grasime si voi raspunde la intrebari populare despre cum sa pierzi grasime.
 
-Dar mai întâi, îți voi spune exact de ce nu ai reușit să pierzi grăsime.
+Dar mai intai, iti voi spune exact de ce nu ai reusit sa pierzi grasime.
 
 Sa mergem.
 
@@ -29,443 +29,443 @@ Sa mergem.
 
 Cuprins <span class = "toc_toggle"> [[ascunde](#)] </span>
 
-- [<span class = "toc_number toc_depth_1"> 1 </span> De ce nu poți pierde grăsime] (# Why_You_Can8217t_Lose_Fat)
-  - [<span class = "toc_number toc_depth_2"> 1.1 </span> Vă subestimați cât de mult mâncați] (# You_underestimate_How_Much_You_Eat)
-  - [<span class = "toc_number toc_depth_2"> 1.2 </span> Vă supraestimați cât de mult arde] (# You_Overestimate_How_Much_You_Burn)
-  - [<span class = "toc_number toc_depth_2"> 1.3 </span> Nu mâncați suficiente calorii] (# You8217re_Not_Eating_Enough_Calories)
-  - [<span class = "toc_number toc_depth_2"> 1.4 </span> Îți pierzi timpul consumând sănătos] (# You_Waste_Your_Time_Eating_Healthy)
-- [<span class = "toc_number toc_depth_1"> 2 </span> Mănâncă mai puține calorii decât ardeți pentru a pierde grăsime] (# Eat_Less_Calories_Than_You_Burn_to_Lose_Fat)
-  - [<span class = "toc_number toc_depth_2"> 2.1 </span> Începeți urmărirea aportului caloric] (# Start_Tracking_Your_Calorie_Intake)
-  - [<span class = "toc_number toc_depth_2"> 2.2 </span> Estimează câte calorii arde] (# Estimate_How_Many_Calories_You_Burn)
-  - [<span class = "toc_number toc_depth_2"> 2.3 </span> Creați un deficit caloric pentru a pierde grăsimea] (# Create_a_Caloric_Deficit_to_Lose_Fat)
+- [<span class = "toc_number toc_depth_1"> 1 </span> De ce nu poti pierde grasime] (# Why_You_Can8217t_Lose_Fat)
+  - [<span class = "toc_number toc_depth_2"> 1.1 </span> Va subestimati cat de mult mancati] (# You_underestimate_How_Much_You_Eat)
+  - [<span class = "toc_number toc_depth_2"> 1.2 </span> Va supraestimati cat de mult arde] (# You_Overestimate_How_Much_You_Burn)
+  - [<span class = "toc_number toc_depth_2"> 1.3 </span> Nu mancati suficiente calorii] (# You8217re_Not_Eating_Enough_Calories)
+  - [<span class = "toc_number toc_depth_2"> 1.4 </span> Iti pierzi timpul consumand sanatos] (# You_Waste_Your_Time_Eating_Healthy)
+- [<span class = "toc_number toc_depth_1"> 2 </span> Mananca mai putine calorii decat ardeti pentru a pierde grasime] (# Eat_Less_Calories_Than_You_Burn_to_Lose_Fat)
+  - [<span class = "toc_number toc_depth_2"> 2.1 </span> Incepeti urmarirea aportului caloric] (# Start_Tracking_Your_Calorie_Intake)
+  - [<span class = "toc_number toc_depth_2"> 2.2 </span> Estimeaza cate calorii arde] (# Estimate_How_Many_Calories_You_Burn)
+  - [<span class = "toc_number toc_depth_2"> 2.3 </span> Creati un deficit caloric pentru a pierde grasimea] (# Create_a_Caloric_Deficit_to_Lose_Fat)
 - [<span class = "toc_number toc_depth_1"> 3 </span> Nu mai pierde timpul cu Cardio] (# Stop_Wasting_Your_Time_With_Cardio)
-  - [<span class = "toc_number toc_depth_2"> 3.1 </span> Nu ești un sportiv profesionist] (# You8217re_not_a_Professional_Athlete)
-  - [<span class = "toc_number toc_depth_2"> 3.2 </span> Fii mai activ, dar nu contează pe asta] (# Be_More_Active_But_Don8217t_Count_on_That)
-- [<span class = "toc_number toc_depth_1"> 4 </span> Greutăți de ridicare, astfel încât să nu obții Skinny] (# Lift_Weights_so_You_Don8217t_Get_Skinny)
-- [<span class = "toc_number toc_depth_1"> 5 </span> Întrebări frecvente] (# Frequently_Asked_Questions)
-  - [<span class = "toc_number toc_depth_2"> 5.1 </span> Cum pierd grăsime dacă am un metabolism lent?] (# How_do_I_lose_fat_if_I_have_a_slow_metabolism)
-  - [<span class = "toc_number toc_depth_2"> 5.2 </span> Ce ar trebui să mănânc pentru a pierde grăsimea?] (# What_should_I_eat_to_lose_fat)
-  - [<span class = "toc_number toc_depth_2"> 5.3 </span> Mâncând grăsime te îngrașă?] (# Does_eating_fat_makes_you_fat)
-  - [<span class = "toc_number toc_depth_2"> 5.4 </span> Câte mese ar trebui să mănânc pentru a pierde grăsime?] (# How_many_meals_should_I_eat_to_lose_fat)
-  - [<span class = "toc_number toc_depth_2"> 5.5 </span> Trebuie să fac cardio pentru a pierde grăsimea?] (# Do_I_have_to_do_cardio_to_lose_fat)
-  - [<span class = "toc_number toc_depth_2"> 5.6 </span> Cum încetez să mănânc mâncare nebun?] (# How_do_I_stop_eating_junk_food)
-  - [<span class = "toc_number toc_depth_2"> 5.7 </span> Cât de repede pot pierde grăsime?] (# How_fast_can_I_lose_fat)
-  - [<span class = "toc_number toc_depth_2"> 5.8 </span> Câtă grăsime pot pierde într-o lună?] (# How_much_fat_can_I_lose_in_one_month)
-  - [<span class = "toc_number toc_depth_2"> 5.9 </span> Câtă grăsime pot pierde într-o săptămână?] (# How_much_fat_can_I_lose_in_one_week)
-  - [<span class = "toc_number toc_depth_2"> 5.10 </span> Dieta sau antrenamentul contează cel mai mult pentru a pierde grăsime?] (# Does_diet_or_training_matter_most_to_lose_fat)
-  - [<span class = "toc_number toc_depth_2"> 5.11 </span> Care este diferența dintre pierderea de grăsime și pierderea în greutate?] (# What8217s_the_difference_between_fat_loss_and_weight_loss)
-  - [<span class = "toc_number toc_depth_2"> 5.12 </span> Ar trebui să mă cântăresc în fiecare zi pentru a pierde grăsime?] (# Should_I_weigh_myself_every_day_to_lose_fat)
-  - [<span class = "toc_number toc_depth_2"> 5.13 </span> Contează IMC?] (# Does_BMI_matter)
-  - [<span class = "toc_number toc_depth_2"> 5.14 </span> Câte calorii ar trebui să mănânc pe zi pentru a pierde grăsime?] (# How_many_calories_should_I_eat_per_day_to_lose_fat)
-  - [<span class = "toc_number toc_depth_2"> 5.15 </span> Trebuie să socotesc calorii pentru a pierde grăsime?] (# Do_I_have_to_count_calories_to_lose_fat)
-  - [<span class = "toc_number toc_depth_2"> 5.16 </span> Trebuie să mănânc micul dejun pentru a pierde grăsimea?] (# Do_I_have_to_eat_breakfast_to_lose_fat)
-  - [<span class = "toc_number toc_depth_2"> 5.17 </span> Cum pot urmări progresul pierderii de grăsime?] (# How_can_I_track_my_fat_loss_progress)
-  - [<span class = "toc_number toc_depth_2"> 5.18 </span> Sunt gras. Ar trebui să pierd grăsime sau să construiesc mai întâi mușchi?] (# I8217m_skinny-fat_Should_I_lose_fat_or_build_muscle_first)
-  - [<span class = "toc_number toc_depth_2"> 5.19 </span> Care este cea mai bună dietă pentru pierderea de grăsime?] (# What8217s_the_best_diet_for_fat_loss)
+  - [<span class = "toc_number toc_depth_2"> 3.1 </span> Nu esti un sportiv profesionist] (# You8217re_not_a_Professional_Athlete)
+  - [<span class = "toc_number toc_depth_2"> 3.2 </span> Fii mai activ, dar nu conteaza pe asta] (# Be_More_Active_But_Don8217t_Count_on_That)
+- [<span class = "toc_number toc_depth_1"> 4 </span> Greutati de ridicare, astfel incat sa nu obtii Skinny] (# Lift_Weights_so_You_Don8217t_Get_Skinny)
+- [<span class = "toc_number toc_depth_1"> 5 </span> Intrebari frecvente] (# Frequently_Asked_Questions)
+  - [<span class = "toc_number toc_depth_2"> 5.1 </span> Cum pierd grasime daca am un metabolism lent?] (# How_do_I_lose_fat_if_I_have_a_slow_metabolism)
+  - [<span class = "toc_number toc_depth_2"> 5.2 </span> Ce ar trebui sa mananc pentru a pierde grasimea?] (# What_should_I_eat_to_lose_fat)
+  - [<span class = "toc_number toc_depth_2"> 5.3 </span> Mancand grasime te ingrasa?] (# Does_eating_fat_makes_you_fat)
+  - [<span class = "toc_number toc_depth_2"> 5.4 </span> Cate mese ar trebui sa mananc pentru a pierde grasime?] (# How_many_meals_should_I_eat_to_lose_fat)
+  - [<span class = "toc_number toc_depth_2"> 5.5 </span> Trebuie sa fac cardio pentru a pierde grasimea?] (# Do_I_have_to_do_cardio_to_lose_fat)
+  - [<span class = "toc_number toc_depth_2"> 5.6 </span> Cum incetez sa mananc mancare nebun?] (# How_do_I_stop_eating_junk_food)
+  - [<span class = "toc_number toc_depth_2"> 5.7 </span> Cat de repede pot pierde grasime?] (# How_fast_can_I_lose_fat)
+  - [<span class = "toc_number toc_depth_2"> 5.8 </span> Cata grasime pot pierde intr-o luna?] (# How_much_fat_can_I_lose_in_one_month)
+  - [<span class = "toc_number toc_depth_2"> 5.9 </span> Cata grasime pot pierde intr-o saptamana?] (# How_much_fat_can_I_lose_in_one_week)
+  - [<span class = "toc_number toc_depth_2"> 5.10 </span> Dieta sau antrenamentul conteaza cel mai mult pentru a pierde grasime?] (# Does_diet_or_training_matter_most_to_lose_fat)
+  - [<span class = "toc_number toc_depth_2"> 5.11 </span> Care este diferenta dintre pierderea de grasime si pierderea in greutate?] (# What8217s_the_difference_between_fat_loss_and_weight_loss)
+  - [<span class = "toc_number toc_depth_2"> 5.12 </span> Ar trebui sa ma cantaresc in fiecare zi pentru a pierde grasime?] (# Should_I_weigh_myself_every_day_to_lose_fat)
+  - [<span class = "toc_number toc_depth_2"> 5.13 </span> Conteaza IMC?] (# Does_BMI_matter)
+  - [<span class = "toc_number toc_depth_2"> 5.14 </span> Cate calorii ar trebui sa mananc pe zi pentru a pierde grasime?] (# How_many_calories_should_I_eat_per_day_to_lose_fat)
+  - [<span class = "toc_number toc_depth_2"> 5.15 </span> Trebuie sa socotesc calorii pentru a pierde grasime?] (# Do_I_have_to_count_calories_to_lose_fat)
+  - [<span class = "toc_number toc_depth_2"> 5.16 </span> Trebuie sa mananc micul dejun pentru a pierde grasimea?] (# Do_I_have_to_eat_breakfast_to_lose_fat)
+  - [<span class = "toc_number toc_depth_2"> 5.17 </span> Cum pot urmari progresul pierderii de grasime?] (# How_can_I_track_my_fat_loss_progress)
+  - [<span class = "toc_number toc_depth_2"> 5.18 </span> Sunt gras. Ar trebui sa pierd grasime sau sa construiesc mai intai muschi?] (# I8217m_skinny-fat_Should_I_lose_fat_or_build_muscle_first)
+  - [<span class = "toc_number toc_depth_2"> 5.19 </span> Care este cea mai buna dieta pentru pierderea de grasime?] (# What8217s_the_best_diet_for_fat_loss)
 
 </ Div>
 
-## <span id = "Why_You_Can8217t_Lose_Fat"> De ce nu puteți pierde grăsime </span>
+## <span id = "Why_You_Can8217t_Lose_Fat"> De ce nu puteti pierde grasime </span>
 
-### <span id = "You_underestimate_How_Much_You_Eat"> Subestimați cât de mult mâncați </span>
+### <span id = "You_underestimate_How_Much_You_Eat"> Subestimati cat de mult mancati </span>
 
-Dacă nu vă puteți pierde grăsime, pentru că mâncați prea mult.
+Daca nu va puteti pierde grasime, pentru ca mancati prea mult.
 
-Probabil credeți că nu mâncați mult. Da tu esti. Altfel, nu te-ai chinui să pierzi grăsime.
+Probabil credeti ca nu mancati mult. Da tu esti. Altfel, nu te-ai chinui sa pierzi grasime.
 
-Poate că „mănânci sănătos”. Dar nici asta nu contează. Dacă „alimentația sănătoasă” nu creează un deficit caloric, nu veți pierde grăsime.
+Poate ca „mananci sanatos”. Dar nici asta nu conteaza. Daca „alimentatia sanatoasa” nu creeaza un deficit caloric, nu veti pierde grasime.
 
-Adevărul este că majoritatea oamenilor sunt groaznici când estimează câte calorii mănâncă pe zi.
+Adevarul este ca majoritatea oamenilor sunt groaznici cand estimeaza cate calorii mananca pe zi.
 
-Aceștia subestimează dramatic cât mănâncă cu adevărat.
+Acestia subestimeaza dramatic cat mananca cu adevarat.
 
-Iată dovada: urmăriți câte calorii mâncați pe zi timp de o săptămână folosind o aplicație precum Myfitnesspal.
+Iata dovada: urmariti cate calorii mancati pe zi timp de o saptamana folosind o aplicatie precum Myfitnesspal.
 
-Mulți oameni sfârșesc șocați să descopere că unele dintre alimentele lor preferate care cred că sunt „sănătoase” conțin tone de calorii.
+Multi oameni sfarsesc socati sa descopere ca unele dintre alimentele lor preferate care cred ca sunt „sanatoase” contin tone de calorii.
 
-Aceste exces de calorii sunt ceea ce vă păstrează grăsimea.
+Aceste exces de calorii sunt ceea ce va pastreaza grasimea.
 
-### <span id = "You_Overestimate_How_Much_You_Burn"> Supraestimați cât de mult ardeți </span>
+### <span id = "You_Overestimate_How_Much_You_Burn"> Supraestimati cat de mult ardeti </span>
 
 Cardio este o pierdere de timp pentru majoritatea oamenilor.
 
-O oră pe banda de alergare, de obicei, arde aproximativ 500 de calorii.
+O ora pe banda de alergare, de obicei, arde aproximativ 500 de calorii.
 
-Acesta este echivalentul unui mac mare (fără cartofi prăjiți și cocs) sau a unui „Frappuccino” la Starbucks (fără tort sau brioșă).
+Acesta este echivalentul unui mac mare (fara cartofi prajiti si cocs) sau a unui „Frappuccino” la Starbucks (fara tort sau briosa).
 
-Așadar, puteți anula cu ușurință acea oră de cardio doar mâncând o masă sau o băutură bogată în calorii.
+Asadar, puteti anula cu usurinta acea ora de cardio doar mancand o masa sau o bautura bogata in calorii.
 
-Și totuși, mulți tipi cred că pot mânca orice vor, deoarece fac o oră de cardio în fiecare zi.
+Si totusi, multi tipi cred ca pot manca orice vor, deoarece fac o ora de cardio in fiecare zi.
 
-Nu poți.
+Nu poti.
 
-Cardio va arde o mulțime de calorii doar dacă puteți petrece câteva ore în sala de sport în fiecare zi.
+Cardio va arde o multime de calorii doar daca puteti petrece cateva ore in sala de sport in fiecare zi.
 
-Dacă te poți antrena ca un atlet, atunci poți mânca orice vrei, fără să te îngrași.
+Daca te poti antrena ca un atlet, atunci poti manca orice vrei, fara sa te ingrasi.
 
-Dar nu cred că ai timpul să te antrenezi atât de mult.
+Dar nu cred ca ai timpul sa te antrenezi atat de mult.
 
-Prin urmare, va trebui să urmăriți ce mâncați.
+Prin urmare, va trebui sa urmariti ce mancati.
 
-Altfel nu vei pierde grăsime.
+Altfel nu vei pierde grasime.
 
-### <span id = "You8217re_Not_Eating_Enough_Calories"> Nu mâncați suficiente calorii </span>
+### <span id = "You8217re_Not_Eating_Enough_Calories"> Nu mancati suficiente calorii </span>
 
-Dacă consumul de 500kcal pe zi mai puțin te face să pierzi 1lb de grăsime pe săptămână ... atunci consumul cu 1000 kg / zi mai puțin trebuie să fie și mai bun, nu?
+Daca consumul de 500kcal pe zi mai putin te face sa pierzi 1lb de grasime pe saptamana ... atunci consumul cu 1000 kg / zi mai putin trebuie sa fie si mai bun, nu?
 
 Nu.
 
-Cu cât pierdeți mai multe grăsimi, cu atât trebuie să vă reduceți în continuare aportul caloric zilnic pentru a continua să pierdeți grăsimi.
+Cu cat pierdeti mai multe grasimi, cu atat trebuie sa va reduceti in continuare aportul caloric zilnic pentru a continua sa pierdeti grasimi.
 
-Dacă îți reduci caloriile cu 1000kcal / zi din prima săptămână, ce vei face atunci când nu mai pierzi grăsime din asta?
+Daca iti reduci caloriile cu 1000kcal / zi din prima saptamana, ce vei face atunci cand nu mai pierzi grasime din asta?
 
-Pe lângă faptul că nimeni nu se poate lipi de calorii scăzute, 1200kcal / zi diete pe termen lung.
+Pe langa faptul ca nimeni nu se poate lipi de calorii scazute, 1200kcal / zi diete pe termen lung.
 
-Oricât de multă putere vei avea, în cele din urmă vei fi flămând și aiurea.
+Oricat de multa putere vei avea, in cele din urma vei fi flamand si aiurea.
 
-Așa se face că tone de oameni ajung să câștige toată greutatea pe care și-au pierdut-o înapoi (plus altele).
+Asa se face ca tone de oameni ajung sa castige toata greutatea pe care si-au pierdut-o inapoi (plus altele).
 
-Mai mult nu este mai bine când vine vorba de pierderea grăsimii.
+Mai mult nu este mai bine cand vine vorba de pierderea grasimii.
 
-### <span id = "You_Waste_Your_Time_Eating_Healthy"> Îți pierzi timpul mâncând sănătos </span>
+### <span id = "You_Waste_Your_Time_Eating_Healthy"> Iti pierzi timpul mancand sanatos </span>
 
-Acum mănânc sănătos și vă recomand să mâncați și sănătos.
+Acum mananc sanatos si va recomand sa mancati si sanatos.
 
-Dar consumul sănătos nu garantează că veți pierde grăsime.
+Dar consumul sanatos nu garanteaza ca veti pierde grasime.
 
-De fapt, există John Cisna care a pierdut 37lb în timp ce [mânca de trei ori McDonald](https://amzn.to/2Fcedrz) pe săptămână timp de 90 de zile.
+De fapt, exista John Cisna care a pierdut 37lb in timp ce [manca de trei ori McDonald](https://amzn.to/2Fcedrz) pe saptamana timp de 90 de zile.
 
-Există și Mark Haub, profesor de nutriție în Kansas. A pierdut 27lb în 10 săptămâni [mâncând în cea mai mare parte twinkles](https://edition.cnn.com/2010/HEALTH/11/08/twinkie.diet.professor/index.html) (chiar și colesterolul său rău și trigliceridele au scăzut).
+Exista si Mark Haub, profesor de nutritie in Kansas. A pierdut 27lb in 10 saptamani [mancand in cea mai mare parte twinkles](https://edition.cnn.com/2010/HEALTH/11/08/twinkie.diet.professor/index.html) (chiar si colesterolul sau rau si trigliceridele au scazut).
 
-Doar ca să fiu clar aici - NU VĂ RĂSPUNSĂ NU VREȚI SĂ MÂNCEAȚI MCDONALD ȘI GÂNDURI ÎNTREZIUNEA PESTEI.
+Doar ca sa fiu clar aici - NU VA RASPUNSA NU VRETI SA MANCEATI MCDONALD SI GANDURI INTREZIUNEA PESTEI.
 
 Asta ar fi o prostie.
 
-Ideea mea este: nu este cât de „sănătos” este mâncarea, ci câte calorii există în interior.
+Ideea mea este: nu este cat de „sanatos” este mancarea, ci cate calorii exista in interior.
 
-Deoarece multe „alimente sănătoase” sunt de fapt calorii mari.
+Deoarece multe „alimente sanatoase” sunt de fapt calorii mari.
 
 Gandeste-te la asta:
 
-- Smoothies și sucuri de fructe sunt sănătoase, deoarece au o mulțime de vitamine. Dar sunt și zaharuri concentrate. Sucul de mere de la menajeră are doar la fel de multe zaharuri ca Coca-cola.
-- Salata este sănătoasă și un aliment cu calorii scăzute. Dar restaurantele adesea adaugă pansamente bogate în calorii, crutoane, guacamole, etc. Salatele lui MicDonald au adesea mai multe calorii decât un mac mare.
-- Fructele uscate și nucile sunt sănătoase. Dar sunt calorii dens. 20 de prune uscate are aproximativ 500calorii - aceeași cantitate de calorii ca un mac nou din nou.
-- Alimentele ecologice pot fi sănătoase. Dar o „gogoașă ecologică” este încă o gogoașă. Nu contează dacă zahărul și grăsimea provin dintr-o sursă organică. Are calorii mari
+- Smoothies si sucuri de fructe sunt sanatoase, deoarece au o multime de vitamine. Dar sunt si zaharuri concentrate. Sucul de mere de la menajera are doar la fel de multe zaharuri ca Coca-cola.
+- Salata este sanatoasa si un aliment cu calorii scazute. Dar restaurantele adesea adauga pansamente bogate in calorii, crutoane, guacamole, etc. Salatele lui MicDonald au adesea mai multe calorii decat un mac mare.
+- Fructele uscate si nucile sunt sanatoase. Dar sunt calorii dens. 20 de prune uscate are aproximativ 500calorii - aceeasi cantitate de calorii ca un mac nou din nou.
+- Alimentele ecologice pot fi sanatoase. Dar o „gogoasa ecologica” este inca o gogoasa. Nu conteaza daca zaharul si grasimea provin dintr-o sursa organica. Are calorii mari
 
-Mâncat sănătos este bun. O fac și o recomand.
+Mancat sanatos este bun. O fac si o recomand.
 
-Dar pentru a pierde grăsimea, a mânca sănătos nu este suficient.
+Dar pentru a pierde grasimea, a manca sanatos nu este suficient.
 
-## <span id = "Eat_Less_Calories_Than_You_Burn_to_Lose_Fat"> Mănâncă mai puține calorii decât ardeți pentru a pierde grăsimea </span>
+## <span id = "Eat_Less_Calories_Than_You_Burn_to_Lose_Fat"> Mananca mai putine calorii decat ardeti pentru a pierde grasimea </span>
 
 Este atat de simplu.
 
-Dacă nu pierdeți grăsime, nu mâncați mai puține calorii decât arde corpul.
+Daca nu pierdeti grasime, nu mancati mai putine calorii decat arde corpul.
 
-Nu contează dacă mănânci sănătos, asta nu te va face să slăbești decât dacă tu; aportul caloric total este mai mic decât ceea ce arzi.
+Nu conteaza daca mananci sanatos, asta nu te va face sa slabesti decat daca tu; aportul caloric total este mai mic decat ceea ce arzi.
 
-Poate mănânci mai puțin decât luna trecută. Dar dacă aportul de calorii este în continuare mai mare decât ceea ce arzi, tot nu vei pierde grăsime.
+Poate mananci mai putin decat luna trecuta. Dar daca aportul de calorii este in continuare mai mare decat ceea ce arzi, tot nu vei pierde grasime.
 
-Trebuie să creați un deficit caloric și faceți asta consumând mai puține calorii decât arde corpul vostru.
+Trebuie sa creati un deficit caloric si faceti asta consumand mai putine calorii decat arde corpul vostru.
 
-### <span id = "Start_Tracking_Your_Calorie_Intake"> Începeți urmărirea aportului caloric </span>
+### <span id = "Start_Tracking_Your_Calorie_Intake"> Incepeti urmarirea aportului caloric </span>
 
-Trebuie să conștientizezi câte calorii sunt în cele mai comune alimente pe care le consumi.
+Trebuie sa constientizezi cate calorii sunt in cele mai comune alimente pe care le consumi.
 
-Există alimente pe care le consumi, care sunt poate sănătoase sau care crezi că nu sunt atât de rele, dar care sunt bogate în calorii.
+Exista alimente pe care le consumi, care sunt poate sanatoase sau care crezi ca nu sunt atat de rele, dar care sunt bogate in calorii.
 
-Gândiți-vă la regula Pareto
+Ganditi-va la regula Pareto
 
 - 80% din rezultatele tale provin de la 20% din ceea ce faci
-- Majoritatea oamenilor mănâncă aceleași alimente la 80% din timp
+- Majoritatea oamenilor mananca aceleasi alimente la 80% din timp
 
-Prin urmare, există alimente pe care ai tendința să le consumi foarte mult, dar care, probabil, dăunează pierderii de grăsime.
+Prin urmare, exista alimente pe care ai tendinta sa le consumi foarte mult, dar care, probabil, dauneaza pierderii de grasime.
 
-Dar nu știi despre asta.
+Dar nu stii despre asta.
 
-Așadar, începe să urmărești tot ce mănânci timp de o lună folosind o aplicație precum myfitnesspal.
+Asadar, incepe sa urmaresti tot ce mananci timp de o luna folosind o aplicatie precum myfitnesspal.
 
-Acest lucru va fi enervant, va fi multă muncă. Dar nu puteți rezolva o problemă dacă nu înțelegeți mai întâi cauza.
+Acest lucru va fi enervant, va fi multa munca. Dar nu puteti rezolva o problema daca nu intelegeti mai intai cauza.
 
-Acest exercițiu te va face să încetezi să mănânci câteva alimente bogate în calorii pe care nu știai că le consumi.
+Acest exercitiu te va face sa incetezi sa mananci cateva alimente bogate in calorii pe care nu stiai ca le consumi.
 
-### <span id = "Estimare_How_Many_Calories_You_Burn"> Estimează câte calorii arde </span>
+### <span id = "Estimare_How_Many_Calories_You_Burn"> Estimeaza cate calorii arde </span>
 
-Calculați mai întâi rata metabolică bazală (BMR). Cam atât de multe calorii ai arde dacă nu ai face altceva decât să te odihnești în pat timp de 24 de ore (pentru recuperare musculară, digestie, respirație etc.). Acest calcul depinde de sex, vârstă, greutate și înălțime.
+Calculati mai intai rata metabolica bazala (BMR). Cam atat de multe calorii ai arde daca nu ai face altceva decat sa te odihnesti in pat timp de 24 de ore (pentru recuperare musculara, digestie, respiratie etc.). Acest calcul depinde de sex, varsta, greutate si inaltime.
 
-Apoi multiplicați-vă BMR-ul după nivelurile de activitate fizică (PAL). Acest lucru adaugă calorii arse prin activitățile zilnice. Majoritatea oamenilor au locuri de muncă la birou și parcurg mai puțin de 5000 de pași pe zi. Aceasta dă un multiplicator „sedentar” de doar 1.2.
+Apoi multiplicati-va BMR-ul dupa nivelurile de activitate fizica (PAL). Acest lucru adauga calorii arse prin activitatile zilnice. Majoritatea oamenilor au locuri de munca la birou si parcurg mai putin de 5000 de pasi pe zi. Aceasta da un multiplicator „sedentar” de doar 1.2.
 
-Rețineți că ridicarea greutăților nu arde prea multe calorii. Seturile durează doar câteva secunde și ai petrecut cea mai mare parte a antrenamentului odihnindu-te între seturi. Deci ridicarea greutăților de 3x / săptămână nu te face mai puțin sedentară. Mersul pe jos + pași de 5k pe zi face.
+Retineti ca ridicarea greutatilor nu arde prea multe calorii. Seturile dureaza doar cateva secunde si ai petrecut cea mai mare parte a antrenamentului odihnindu-te intre seturi. Deci ridicarea greutatilor de 3x / saptamana nu te face mai putin sedentara. Mersul pe jos + pasi de 5k pe zi face.
 
-Multiplează-ți BMR x PAL pentru a obține TDEE - cheltuiala ta zilnică totală de energie. Aceasta este cantitatea de calorii de care aveți nevoie pentru a vă menține greutatea pentru vârsta curentă, greutatea corporală și nivelurile de activitate fizică.
+Multipleaza-ti BMR x PAL pentru a obtine TDEE - cheltuiala ta zilnica totala de energie. Aceasta este cantitatea de calorii de care aveti nevoie pentru a va mentine greutatea pentru varsta curenta, greutatea corporala si nivelurile de activitate fizica.
 
-Există tot felul de calculatoare pe care le găsiți online pentru a estima aportul caloric. Însă, de obicei, formula poate fi simplificată pentru băieți în greutatea corpului dvs. în lb x 10-12 \. În sensul că un bărbat de 90 kg / 200lb are nevoie de obicei de aproximativ 2200kcal / zi pentru a-și menține greutatea corporală.
+Exista tot felul de calculatoare pe care le gasiti online pentru a estima aportul caloric. Insa, de obicei, formula poate fi simplificata pentru baieti in greutatea corpului dvs. in lb x 10-12 \. In sensul ca un barbat de 90 kg / 200lb are nevoie de obicei de aproximativ 2200kcal / zi pentru a-si mentine greutatea corporala.
 
-### <span id = "Create_a_Caloric_Deficit_to_Lose_Fat"> Crearea unui deficit caloric pentru a pierde grăsimea </span>
+### <span id = "Create_a_Caloric_Deficit_to_Lose_Fat"> Crearea unui deficit caloric pentru a pierde grasimea </span>
 
-Pentru a pierde grăsime scade caloriile cu aproximativ 500kcal / zi pentru a crea un deficit săptămânal de 3500kcal (ceea ce echivalează cu aproximativ 1lb / 0,5 kg de grăsime pe săptămână).
+Pentru a pierde grasime scade caloriile cu aproximativ 500kcal / zi pentru a crea un deficit saptamanal de 3500kcal (ceea ce echivaleaza cu aproximativ 1lb / 0,5 kg de grasime pe saptamana).
 
-Rețineți că toate aceste calcule de calorii sunt doar o estimare. Nu va fi exact. Deoarece formula originală a fost dezvoltată folosind medii. Unii oameni au un metabolism mai mare decât alții. Și este greu să știi care este nivelul tău de activitate adevărat.
+Retineti ca toate aceste calcule de calorii sunt doar o estimare. Nu va fi exact. Deoarece formula originala a fost dezvoltata folosind medii. Unii oameni au un metabolism mai mare decat altii. Si este greu sa stii care este nivelul tau de activitate adevarat.
 
-Așadar, faceți-vă o idee de cât de multe calorii aveți nevoie pentru a vă menține greutatea corpului. Reduceți aproximativ 500kcal / zi din asta. Apoi verificați cum reacționează corpul dvs. odată ce începeți. Dacă pierdeți mai mult de 1lb pe săptămână, s-ar putea să reduceți prea mult caloriile. Dacă nu pierzi 1lb / grăsime, s-ar putea să mănânci prea mult.
+Asadar, faceti-va o idee de cat de multe calorii aveti nevoie pentru a va mentine greutatea corpului. Reduceti aproximativ 500kcal / zi din asta. Apoi verificati cum reactioneaza corpul dvs. odata ce incepeti. Daca pierdeti mai mult de 1lb pe saptamana, s-ar putea sa reduceti prea mult caloriile. Daca nu pierzi 1lb / grasime, s-ar putea sa mananci prea mult.
 
-Niciun calculator online de calorii nu este exact 100%. Mulți vă vor oferi prea puține sau prea multe calorii pentru a mânca și vă vor confunda. Utilizați numai calculatoare de calorii pentru a obține o estimare. Ajustați-vă în timp ce mergeți.
+Niciun calculator online de calorii nu este exact 100%. Multi va vor oferi prea putine sau prea multe calorii pentru a manca si va vor confunda. Utilizati numai calculatoare de calorii pentru a obtine o estimare. Ajustati-va in timp ce mergeti.
 
-## <span id = "Stop_Wasting_Your_Time_With_Cardio"> Nu mai pierdeți timpul cu Cardio </span>
+## <span id = "Stop_Wasting_Your_Time_With_Cardio"> Nu mai pierdeti timpul cu Cardio </span>
 
-Cardio arde mai puține calorii decât crezi.
+Cardio arde mai putine calorii decat crezi.
 
-O oră pe banda de alergare arde aproximativ 500kcal max.
+O ora pe banda de alergare arde aproximativ 500kcal max.
 
-Și asta dacă faceți cardio la o intensitate moderat mare.
+Si asta daca faceti cardio la o intensitate moderat mare.
 
-Majoritatea oamenilor din săli de gimnastică nu arde asta, se uită la televizor și citesc reviste, în timp ce echivalează cu un jog / light walk.
+Majoritatea oamenilor din sali de gimnastica nu arde asta, se uita la televizor si citesc reviste, in timp ce echivaleaza cu un jog / light walk.
 
-Aceasta nu va arde suficiente calorii pentru a face calorii semnificative pentru a pierde grăsime.
+Aceasta nu va arde suficiente calorii pentru a face calorii semnificative pentru a pierde grasime.
 
 Gandeste-te la asta.
 
-Să zicem că faci cardio mai greu timp de o oră. Vei arde 500kcal maxim.
+Sa zicem ca faci cardio mai greu timp de o ora. Vei arde 500kcal maxim.
 
-Este nevoie doar de un Big Mac (fără cartofi prăjiți / cocs) pentru a anula acele 500kcal pe care le-ați petrecut o oră la ardere.
+Este nevoie doar de un Big Mac (fara cartofi prajiti / cocs) pentru a anula acele 500kcal pe care le-ati petrecut o ora la ardere.
 
-### <span id = "You8217re_not_a_Professional_Athlete"> Nu sunteți un sportiv profesionist </span>
+### <span id = "You8217re_not_a_Professional_Athlete"> Nu sunteti un sportiv profesionist </span>
 
-Michael Phelps, campionul olimpic la înot, poate mânca toată ziua, în timp ce rămâne la 8% din grăsimea corporală cu abs vizibile.
+Michael Phelps, campionul olimpic la inot, poate manca toata ziua, in timp ce ramane la 8% din grasimea corporala cu abs vizibile.
 
-Dar înoată 4-6 ore pe zi. Este ușor de ars 2-3000 de calorii pe zi.
+Dar inoata 4-6 ore pe zi. Este usor de ars 2-3000 de calorii pe zi.
 
-Nu avem timp să facem cardio 4-6 ore. Avem o slujbă.
+Nu avem timp sa facem cardio 4-6 ore. Avem o slujba.
 
-Așadar, nu putem mânca orice ne dorim și arde mai târziu în sală.
+Asadar, nu putem manca orice ne dorim si arde mai tarziu in sala.
 
-Deoarece cardio și creșterea greutăților nu arde suficiente calorii pentru a scăpa de o dietă proastă.
+Deoarece cardio si cresterea greutatilor nu arde suficiente calorii pentru a scapa de o dieta proasta.
 
-Acesta este motivul pentru care majoritatea oamenilor trebuie să mănânce mai puțin pentru a pierde grăsime.
+Acesta este motivul pentru care majoritatea oamenilor trebuie sa manance mai putin pentru a pierde grasime.
 
-### <span id = "Be_More_Active_But_Don8217t_Count_on_That"> Fii mai activ, dar nu contează pe asta </span>
+### <span id = "Be_More_Active_But_Don8217t_Count_on_That"> Fii mai activ, dar nu conteaza pe asta </span>
 
-Este minunat dacă poți începe să mergi mai mult, să iei bicicleta la treabă etc.
+Este minunat daca poti incepe sa mergi mai mult, sa iei bicicleta la treaba etc.
 
-Acest lucru va ajuta la creșterea cantității de calorii pe care le arzi.
+Acest lucru va ajuta la cresterea cantitatii de calorii pe care le arzi.
 
-Dar nu contează că este suficient pentru a pierde grăsime.
+Dar nu conteaza ca este suficient pentru a pierde grasime.
 
-Mersul arde foarte puține calorii. Dacă parcurgeți 5 km / h (3 mile, în ritm mediu, pe o suprafață plană), veți arde 250kcal maxim.
+Mersul arde foarte putine calorii. Daca parcurgeti 5 km / h (3 mile, in ritm mediu, pe o suprafata plana), veti arde 250kcal maxim.
 
-Îmi place foarte mult să mă plimb și vizitez 10.000 de pași pe zi. Însă nu arzi o tonă de calorii cu mersul, decât dacă o faci o tona, ceea ce durează prea mult.
+Imi place foarte mult sa ma plimb si vizitez 10.000 de pasi pe zi. Insa nu arzi o tona de calorii cu mersul, decat daca o faci o tona, ceea ce dureaza prea mult.
 
-Ciclismul arde mai mult, ușor 500kcal / oră. Dar, din nou, câte ore poți face într-o zi?
+Ciclismul arde mai mult, usor 500kcal / ora. Dar, din nou, cate ore poti face intr-o zi?
 
-Dacă nu poți face ore de activitate pe zi, trebuie să mănânci mai puține calorii decât arzi pentru a pierde grăsime.
+Daca nu poti face ore de activitate pe zi, trebuie sa mananci mai putine calorii decat arzi pentru a pierde grasime.
 
-## <span id = "Lift_Weights_so_You_Don8217t_Get_Skinny"> Greutăți de ridicare, astfel încât să nu vă obțineți slab </span>
+## <span id = "Lift_Weights_so_You_Don8217t_Get_Skinny"> Greutati de ridicare, astfel incat sa nu va obtineti slab </span>
 
-O cantitate scăzută de grăsime este inutilă dacă nu aveți mușchi pentru care să vă prezentați.
+O cantitate scazuta de grasime este inutila daca nu aveti muschi pentru care sa va prezentati.
 
-Probabil doriți să pierdeți grăsime pentru a obține un corp mai atractiv. Mai puțină grăsime este mai atractivă decât multă grăsime. Dar o grăsime cu un corp scăzut, fără mușchi, este slabă. Un tip slab este mai puțin atractiv decât un tip musculos.
+Probabil doriti sa pierdeti grasime pentru a obtine un corp mai atractiv. Mai putina grasime este mai atractiva decat multa grasime. Dar o grasime cu un corp scazut, fara muschi, este slaba. Un tip slab este mai putin atractiv decat un tip musculos.
 
-Prin urmare, doriți să construiți mușchi ridicând greutăți mari.
+Prin urmare, doriti sa construiti muschi ridicand greutati mari.
 
-Majoritatea oamenilor care vor să piardă grăsime, fac cardio. Au lovit banda de alergare. Dar acest lucru este plictisitor (de aceea de ce sunt sala de sport este plin de televizoare și reviste). De asemenea, Cardio nu construiește mușchi, ci doar arde grăsime. Majoritatea oamenilor urăsc cardio-ul și este greu să te lipești de ceva ce urăști.
+Majoritatea oamenilor care vor sa piarda grasime, fac cardio. Au lovit banda de alergare. Dar acest lucru este plictisitor (de aceea de ce sunt sala de sport este plin de televizoare si reviste). De asemenea, Cardio nu construieste muschi, ci doar arde grasime. Majoritatea oamenilor urasc cardio-ul si este greu sa te lipesti de ceva ce urasti.
 
-Ridicarea greutăților este mai distractivă. Construiește mușchi. Îți crește metabolismul, spre deosebire de cardio, la majoritatea oamenilor. Ceea ce înseamnă că veți arde mai multe calorii de la ridicarea greutăților și după antrenament.
+Ridicarea greutatilor este mai distractiva. Construieste muschi. Iti creste metabolismul, spre deosebire de cardio, la majoritatea oamenilor. Ceea ce inseamna ca veti arde mai multe calorii de la ridicarea greutatilor si dupa antrenament.
 
-Pentru cele mai bune rezultate, trebuie să faceți greutate gratuită, exerciții compuse. Asta înseamnă [Squats](https://stronglifts.com/squat/) și [Deadlifts](https://stronglifts.com/deadlift/). Dacă nu ați ridicat niciodată greutăți înainte, începeți cu bara goală pentru a vă concentra pe formular. Verifică programul meu [StrongLifts 5 × 5](https://stronglifts.com/5x5/), durează doar de trei ori pe săptămână.
+Pentru cele mai bune rezultate, trebuie sa faceti greutate gratuita, exercitii compuse. Asta inseamna [Genuflexiuni cu haltera(Squats)](/exercitii/picioare/fenuflexiuni-cu-haltera) si [Deadlifts](</indreptari(deadlifts)>). Daca nu ati ridicat niciodata greutati inainte, incepeti cu bara goala pentru a va concentra pe formular. Verifica programul meu [StrongLifts 5 × 5](program/full-body/5x5), dureaza doar de trei ori pe saptamana.
 
 <!--
-## <span id = "Frecvent_Asked_Questions"> Întrebări frecvente </span>
+## <span id = "Frecvent_Asked_Questions"> Intrebari frecvente </span>
 
-### <span id = "How_do_I_lose_fat_if_I_have_a_slow_metabolism"> Cum pierd grăsime dacă am un metabolism lent? </span>
+### <span id = "How_do_I_lose_fat_if_I_have_a_slow_metabolism"> Cum pierd grasime daca am un metabolism lent? </span>
 
-În primul rând, consumând mai puține calorii decât arde corpul tău. În al doilea rând, prin a nu folosi acea încetinire a metabolismului lent ca scuză.
+In primul rand, consumand mai putine calorii decat arde corpul tau. In al doilea rand, prin a nu folosi acea incetinire a metabolismului lent ca scuza.
 
-De unde știi că ai un metabolism lent? Ai măsurat asta? Cum? Cei mai mulți peopel spun că au un metabolism lent, dar nu pot susține acest lucru cu nimic. Ei spun doar un lucru automat, apoi îl folosesc ca argument.
+De unde stii ca ai un metabolism lent? Ai masurat asta? Cum? Cei mai multi peopel spun ca au un metabolism lent, dar nu pot sustine acest lucru cu nimic. Ei spun doar un lucru automat, apoi il folosesc ca argument.
 
-Da, unii oameni au un metabolism mai lent decât alții. Dar programul este același pentru toată lumea: mănâncă mai puține calorii decât arde corpul tău. Creați un deficit caloric și veți pierde grăsime, indiferent dacă aveți un metabolism lent sau nu.
+Da, unii oameni au un metabolism mai lent decat altii. Dar programul este acelasi pentru toata lumea: mananca mai putine calorii decat arde corpul tau. Creati un deficit caloric si veti pierde grasime, indiferent daca aveti un metabolism lent sau nu.
 
-### <span id = "What_should_I_eat_to_lose_fat"> Ce ar trebui să mănânc pentru a pierde grăsimea? </span>
+### <span id = "What_should_I_eat_to_lose_fat"> Ce ar trebui sa mananc pentru a pierde grasimea? </span>
 
-Acest lucru este mai puțin important decât cantitatea totală de calorii pe care le consumi. Din nou, cel mai important lucru pentru a pierde grăsime este crearea unui deficit caloric. Asta implică faptul că puteți mânca orice doriți, atât timp cât atingeți un deficit caloric.
+Acest lucru este mai putin important decat cantitatea totala de calorii pe care le consumi. Din nou, cel mai important lucru pentru a pierde grasime este crearea unui deficit caloric. Asta implica faptul ca puteti manca orice doriti, atat timp cat atingeti un deficit caloric.
 
-Cu toate acestea, veți obține rezultate mai bune dacă vă concentrați nu doar pe cantitatea de calorii, ci și pe calitatea acestora. Mâncând mai multe proteine, de exemplu, vă ajută să pierdeți grăsime păstrându-vă mai mult și creșterea cantității de calorii pe care le ardeți.
+Cu toate acestea, veti obtine rezultate mai bune daca va concentrati nu doar pe cantitatea de calorii, ci si pe calitatea acestora. Mancand mai multe proteine, de exemplu, va ajuta sa pierdeti grasime pastrandu-va mai mult si cresterea cantitatii de calorii pe care le ardeti.
 
-Între timp, legumele verzi precum broccoli sunt bogate în fibre, dar aproape zero în calorii. Ceea ce înseamnă că îți poți mânca stomacul plin de ele, în timp ce abia acum primești calorii. Acest lucru ajută la evitarea foamei în timp ce creezi un deficit caloric.
+Intre timp, legumele verzi precum broccoli sunt bogate in fibre, dar aproape zero in calorii. Ceea ce inseamna ca iti poti manca stomacul plin de ele, in timp ce abia acum primesti calorii. Acest lucru ajuta la evitarea foamei in timp ce creezi un deficit caloric.
 
-Așadar, concentrați-vă pe consumul multor proteine ​​(carne, pui, pește), legume (brocolli, spanac, salată) și apoi cantități moderate de carbohidrați și grăsimi.
+Asadar, concentrati-va pe consumul multor proteine ​​(carne, pui, peste), legume (brocolli, spanac, salata) si apoi cantitati moderate de carbohidrati si grasimi.
 
-### <span id = "Does_eating_fat_makes_you_fat"> Consumul de grăsime te face să te îngrași? </span>
+### <span id = "Does_eating_fat_makes_you_fat"> Consumul de grasime te face sa te ingrasi? </span>
 
 Nu, excesul de calorii.
 
-Puteți și trebuie să mâncați grăsimi pentru sănătate. Dar grăsimea conține mai multe calorii pe gram decât carbohidrații sau proteine ​​(9g per calorii față de 4 pentru carbohidrați și proteine). În acest sens, este mai ușor să consumi excesul de calorii cu grăsimi.
+Puteti si trebuie sa mancati grasimi pentru sanatate. Dar grasimea contine mai multe calorii pe gram decat carbohidratii sau proteine ​​(9g per calorii fata de 4 pentru carbohidrati si proteine). In acest sens, este mai usor sa consumi excesul de calorii cu grasimi.
 
-Dar grăsimile te fac mai rapid, mai lung și încetinesc digestia. Un bagel (carbohidrați) cu unt de arahide (conținut ridicat de grăsimi) vă menține mai lung decât un bagel simplu - chiar și la dimensiuni egale de calorii.
+Dar grasimile te fac mai rapid, mai lung si incetinesc digestia. Un bagel (carbohidrati) cu unt de arahide (continut ridicat de grasimi) va mentine mai lung decat un bagel simplu - chiar si la dimensiuni egale de calorii.
 
-Deci nu evitați grăsimile. Evitați să mâncați excesul de calorii.
+Deci nu evitati grasimile. Evitati sa mancati excesul de calorii.
 
-### <span id = "How_many_meals_should_I_eat_to_lose_fat"> Câte mese ar trebui să mănânc pentru a pierde grăsime? </span>
+### <span id = "How_many_meals_should_I_eat_to_lose_fat"> Cate mese ar trebui sa mananc pentru a pierde grasime? </span>
 
-Răspunsul la asta este mai puțin important decât cantitatea totală de calorii pe care ai mâncat. Primul lucru de a pierde grăsime este să mănânci mai puține calorii decât arzi.
+Raspunsul la asta este mai putin important decat cantitatea totala de calorii pe care ai mancat. Primul lucru de a pierde grasime este sa mananci mai putine calorii decat arzi.
 
-Nu există niciun avantaj real de a mânca mai multe mesaje mai des. Mâncarea a trei mese pe zi, cum ar fi culturistii nu vă va crește metabolismul. Acest mit a fost depanat cu mult timp în urmă.
+Nu exista niciun avantaj real de a manca mai multe mesaje mai des. Mancarea a trei mese pe zi, cum ar fi culturistii nu va va creste metabolismul. Acest mit a fost depanat cu mult timp in urma.
 
-Principalul dezavantaj de a mânca mai multe mese atunci când pierdeți grăsime, este că unele mese vor fi prea mici. Nu te vor ține.
+Principalul dezavantaj de a manca mai multe mese atunci cand pierdeti grasime, este ca unele mese vor fi prea mici. Nu te vor tine.
 
-Pentru majoritatea oamenilor, trei-patru mese pe zi funcționează cel mai bine.
+Pentru majoritatea oamenilor, trei-patru mese pe zi functioneaza cel mai bine.
 
-### <span id = "Do_I_have_to_do_cardio_to_lose_fat"> ** Trebuie să fac cardio pentru a pierde grăsimea? ** </span>
+### <span id = "Do_I_have_to_do_cardio_to_lose_fat"> ** Trebuie sa fac cardio pentru a pierde grasimea? ** </span>
 
-Nu. Dacă vă place să faceți cardio, atunci faceți bine. Dar vei construi un corp mai bun, mai muscular, ridicând greutăți. Este și mai distractiv.
+Nu. Daca va place sa faceti cardio, atunci faceti bine. Dar vei construi un corp mai bun, mai muscular, ridicand greutati. Este si mai distractiv.
 
-Dacă vrei să arzi calorii în plus și să urăști cardio, încearcă să mergi mai mult. Folosiți-vă mai puțin mașina. Folosiți Apple Health și vizați 10.000 de pași pe zi.
+Daca vrei sa arzi calorii in plus si sa urasti cardio, incearca sa mergi mai mult. Folositi-va mai putin masina. Folositi Apple Health si vizati 10.000 de pasi pe zi.
 
-### <span id = "How_do_I_stop_eating_junk_food"> Cum pot înceta să mănânc mâncare junk? </span>
+### <span id = "How_do_I_stop_eating_junk_food"> Cum pot inceta sa mananc mancare junk? </span>
 
-Nu mai cumpărați. Nu-l ai acasă. Faceți așa că trebuie să ieșiți de acasă pentru a mânca mâncare nebun. Dacă simțiți, probabil că veți fi prea leneși pentru a ieși din casă și a-l cumpăra seara târziu.
+Nu mai cumparati. Nu-l ai acasa. Faceti asa ca trebuie sa iesiti de acasa pentru a manca mancare nebun. Daca simtiti, probabil ca veti fi prea lenesi pentru a iesi din casa si a-l cumpara seara tarziu.
 
-Apropo, nu trebuie să încetați să mâncați alimentele preferate. Mănânc burgeri și pizza din când în când. Ce poți face este să îți faci propria versiune acasă. Faceți-vă propriii burgeri - fără toate brânzeturile lacome și sosurile. Ai același gust, dar fără toate caloriile.
+Apropo, nu trebuie sa incetati sa mancati alimentele preferate. Mananc burgeri si pizza din cand in cand. Ce poti face este sa iti faci propria versiune acasa. Faceti-va propriii burgeri - fara toate branzeturile lacome si sosurile. Ai acelasi gust, dar fara toate caloriile.
 
-### <span id = "How_fast_can_I_lose_fat"> Cât de repede pot pierde grăsime? </span>
+### <span id = "How_fast_can_I_lose_fat"> Cat de repede pot pierde grasime? </span>
 
-Mai repede decât puteți construi mușchi. Un kilogram de grăsime este de aproximativ 3500 de calorii. Deci, puteți pierde cu ușurință un kilogram de grăsime pe săptămână dacă mâncați cu 500 kg mai puțin pe zi. Nu este necesar să faceți diete cu conținut scăzut de calorii. Ei nu funcționează oricum, întrucât îți va fi foame și apoi te vei jigni.
+Mai repede decat puteti construi muschi. Un kilogram de grasime este de aproximativ 3500 de calorii. Deci, puteti pierde cu usurinta un kilogram de grasime pe saptamana daca mancati cu 500 kg mai putin pe zi. Nu este necesar sa faceti diete cu continut scazut de calorii. Ei nu functioneaza oricum, intrucat iti va fi foame si apoi te vei jigni.
 
-### <span id = "How_much_fat_can_I_lose_in_one_month"> Câtă grăsime pot pierde într-o lună? </span>
+### <span id = "How_much_fat_can_I_lose_in_one_month"> Cata grasime pot pierde intr-o luna? </span>
 
-Puteți pierde cu ușurință 4lb într-o lună consumând 500kcal / zi mai puțin. De obicei nu veți pierde grăsime pură atunci când veți pierde în greutate. Cu toate acestea, pierderea totală în greutate va fi probabil mai mare atunci când începeți prima dietă, deoarece va exista o anumită pierdere de apă. 10lb de pierdere în greutate în primele săptămâni este posibil.
+Puteti pierde cu usurinta 4lb intr-o luna consumand 500kcal / zi mai putin. De obicei nu veti pierde grasime pura atunci cand veti pierde in greutate. Cu toate acestea, pierderea totala in greutate va fi probabil mai mare atunci cand incepeti prima dieta, deoarece va exista o anumita pierdere de apa. 10lb de pierdere in greutate in primele saptamani este posibil.
 
-### <span id = "How_much_fat_can_I_lose_in_one_week"> Câtă grăsime pot pierde într-o săptămână? </span>
+### <span id = "How_much_fat_can_I_lose_in_one_week"> Cata grasime pot pierde intr-o saptamana? </span>
 
-1lb de grăsime este realist. Pentru asta trebuie să mănânci 500kcal / zi. Aceasta creează un deficit caloric de 3500kcal într-o săptămână, ceea ce este bun pentru 1lb de grăsime.
+1lb de grasime este realist. Pentru asta trebuie sa mananci 500kcal / zi. Aceasta creeaza un deficit caloric de 3500kcal intr-o saptamana, ceea ce este bun pentru 1lb de grasime.
 
-### <span id = "Does_diet_or_training_matter_most_to_lose_fat"> Dieta sau antrenamentul contează cel mai mult pentru a pierde grăsime? </span>
+### <span id = "Does_diet_or_training_matter_most_to_lose_fat"> Dieta sau antrenamentul conteaza cel mai mult pentru a pierde grasime? </span>
 
-Dieta este mai importantă. Deoarece majoritatea oamenilor nu au timp să ardă suficiente calorii pentru a pierde grăsime prin exerciții fizice. O oră pe banda de alergare arde doar aproximativ 500 de calci. Puteți anula cu ușurință acea oră de execuție mâncând un mare mac post-antrenament. Acest lucru este lipsit de cartofi prăjiți și cocs, pe care îl mănâncă mai mulți.
+Dieta este mai importanta. Deoarece majoritatea oamenilor nu au timp sa arda suficiente calorii pentru a pierde grasime prin exercitii fizice. O ora pe banda de alergare arde doar aproximativ 500 de calci. Puteti anula cu usurinta acea ora de executie mancand un mare mac post-antrenament. Acest lucru este lipsit de cartofi prajiti si cocs, pe care il mananca mai multi.
 
-Poveste diferită pentru sportivi. Sunt notorii pentru faptul că au o dietă proastă. Campionul olimpic la înot, Michael Phelps, de exemplu. El avea o cantitate estimată de grăsime de 8%, cu abdomene vizibile. Totuși, a mâncat junk food toată ziua.
+Poveste diferita pentru sportivi. Sunt notorii pentru faptul ca au o dieta proasta. Campionul olimpic la inot, Michael Phelps, de exemplu. El avea o cantitate estimata de grasime de 8%, cu abdomene vizibile. Totusi, a mancat junk food toata ziua.
 
-Motivul pentru care se îndepărtează cu mâncarea multă junk food este că a înotat de șase ori pe săptămână, timp de 4-6 ore pe zi. El a ars cu ușurință între 2000 și 3000 de calorii.
+Motivul pentru care se indeparteaza cu mancarea multa junk food este ca a inotat de sase ori pe saptamana, timp de 4-6 ore pe zi. El a ars cu usurinta intre 2000 si 3000 de calorii.
 
-Nu ne putem antrena 4-6 ore pe zi, deoarece nu suntem plătiți pentru a face acest lucru. Avem o slujbă. Asta înseamnă că trebuie să ne controlăm dieta pentru a pierde grăsime.
+Nu ne putem antrena 4-6 ore pe zi, deoarece nu suntem platiti pentru a face acest lucru. Avem o slujba. Asta inseamna ca trebuie sa ne controlam dieta pentru a pierde grasime.
 
-### <span id = "What8217s_the_difference_between_fat_loss_and_weight_loss"> Care este diferența dintre pierderea de grăsime și pierderea în greutate? </span>
+### <span id = "What8217s_the_difference_between_fat_loss_and_weight_loss"> Care este diferenta dintre pierderea de grasime si pierderea in greutate? </span>
 
-Pierderea de grăsime înseamnă reducerea procentului de grăsime corporală - cantitatea de grăsime pe care o transportați.
+Pierderea de grasime inseamna reducerea procentului de grasime corporala - cantitatea de grasime pe care o transportati.
 
-Pierderea în greutate înseamnă reducerea greutății totale a corpului. Aceasta include totul - masa de grăsime, masa musculară, oasele, organele, greutatea apei, conținutul intestinal etc.
+Pierderea in greutate inseamna reducerea greutatii totale a corpului. Aceasta include totul - masa de grasime, masa musculara, oasele, organele, greutatea apei, continutul intestinal etc.
 
-Două persoane pot avea aceeași greutate corporală, aceeași înălțime, aceeași vârstă. Dar pot arăta complet diferit în funcție de nivelul lor de grăsime și masa musculară.
+Doua persoane pot avea aceeasi greutate corporala, aceeasi inaltime, aceeasi varsta. Dar pot arata complet diferit in functie de nivelul lor de grasime si masa musculara.
 
-Uită-te doar la această imagine:
+Uita-te doar la aceasta imagine:
 
-<noscript> <picture class = "sp-no-webp"> <source srcset = "https://cdn.stronglifts.com/wp-content/uploads/bmi-comparison.webp" type = "image / webp"> <source srcset = "https://cdn.stronglifts.com/wp-content/uploads/bmi-comparison.jpg">! [Comparație IMC - Pierderea în greutate și Pierderea de grăsime] (https://cdn.stronglifts.com/ wp-content / uploads / bmi-comparison.jpg) </ imagine> </ noscript>
+<noscript> <picture class = "sp-no-webp"> <source srcset = "https://cdn.stronglifts.com/wp-content/uploads/bmi-comparison.webp" type = "image / webp"> <source srcset = "https://cdn.stronglifts.com/wp-content/uploads/bmi-comparison.jpg">! [Comparatie IMC - Pierderea in greutate si Pierderea de grasime] (https://cdn.stronglifts.com/ wp-content / uploads / bmi-comparison.jpg) </ imagine> </ noscript>
 
 <picture class = "lazyload sp-no-webp"> <source data-srcset = "https://cdn.stronglifts.com/wp-content/uploads/bmi-comparison.webp" type = "image / webp"> <source data-srcset = "https://cdn.stronglifts.com/wp-content/uploads/bmi-comparison.jpg"> </picture>
 
-Ambii băieți au o înălțime de 6 metri, 250lb și 33,9 BMI.
+Ambii baieti au o inaltime de 6 metri, 250lb si 33,9 BMI.
 
-Dar tipul din stânga are mai puțină grăsime și mai multă masă musculară.
+Dar tipul din stanga are mai putina grasime si mai multa masa musculara.
 
-De ce contează asta? Deoarece persoana obișnuită care vrea să slăbească, o face să arate mai bine.
+De ce conteaza asta? Deoarece persoana obisnuita care vrea sa slabeasca, o face sa arate mai bine.
 
-Reducerea greutății corpului se poate face doar printr-o dietă singură, fără a face exerciții fizice.
+Reducerea greutatii corpului se poate face doar printr-o dieta singura, fara a face exercitii fizice.
 
-Dar o greutate redusă a corpului, cu o masă musculară mică sau nu, nu te va face să arăți mai bine.
+Dar o greutate redusa a corpului, cu o masa musculara mica sau nu, nu te va face sa arati mai bine.
 
-Asta te va face să pari mai slab.
+Asta te va face sa pari mai slab.
 
-Deci, nu contează cât de mult greutate contează.
+Deci, nu conteaza cat de mult greutate conteaza.
 
-Cât de multă greutate și grăsime musculară transportați.
+Cat de multa greutate si grasime musculara transportati.
 
-Acesta este motivul pentru care este mai bine să vă concentrați pe pierderea de grăsime.
+Acesta este motivul pentru care este mai bine sa va concentrati pe pierderea de grasime.
 
-### <span id = "Should_I_weigh_myself_every_day_to_lose_fat"> Ar trebui să mă cântăresc în fiecare zi pentru a pierde grăsime? </span>
+### <span id = "Should_I_weigh_myself_every_day_to_lose_fat"> Ar trebui sa ma cantaresc in fiecare zi pentru a pierde grasime? </span>
 
-Poti. O fac. Folosesc o scară digitală, care se conectează la bluetooth la telefonul meu. Totul este salvat în Apple Health, care creează medii săptămânale și lunare.
+Poti. O fac. Folosesc o scara digitala, care se conecteaza la bluetooth la telefonul meu. Totul este salvat in Apple Health, care creeaza medii saptamanale si lunare.
 
-Doar ține cont de faptul că greutatea ta corporală poate fluctua foarte mult de la o zi la alta. Am înregistrat diferențe de până la 1,8 kg (3,6lb) în 24 de ore.
+Doar tine cont de faptul ca greutatea ta corporala poate fluctua foarte mult de la o zi la alta. Am inregistrat diferente de pana la 1,8 kg (3,6lb) in 24 de ore.
 
-Factorii care vă influențează greutatea includ ceea ce este în stomac, intestine și vezică și pierderea / retenția de apă.
+Factorii care va influenteaza greutatea includ ceea ce este in stomac, intestine si vezica si pierderea / retentia de apa.
 
-De exemplu, consumul de mâncare sărată (cum ar fi o pungă mare de chipsuri de cartofi) te poate face cu ușurință să câștigi 3lb a doua zi.
+De exemplu, consumul de mancare sarata (cum ar fi o punga mare de chipsuri de cartofi) te poate face cu usurinta sa castigi 3lb a doua zi.
 
-Dacă sunteți constipați sau deshidratați, greutatea corporală va fi, de asemenea, mai mare.
+Daca sunteti constipati sau deshidratati, greutatea corporala va fi, de asemenea, mai mare.
 
-Unii oameni se demotivează atunci când se întâmplă astfel de lucruri, deoarece ei cred că tocmai s-au îngrășat din acea masă cu o zi înainte.
+Unii oameni se demotiveaza atunci cand se intampla astfel de lucruri, deoarece ei cred ca tocmai s-au ingrasat din acea masa cu o zi inainte.
 
-Dar nu puteți câștiga 3lb de grăsimi într-o zi. Un kilogram de grăsime necesită aproximativ 3500kcal. Trebuie să mănânci 3x3500kcal = 10500kcal pentru a câștiga 3lb.
+Dar nu puteti castiga 3lb de grasimi intr-o zi. Un kilogram de grasime necesita aproximativ 3500kcal. Trebuie sa mananci 3x3500kcal = 10500kcal pentru a castiga 3lb.
 
-În niciun caz nu ai mâncat 10500kcal cu o zi înainte. Deci, doar creșterea în greutate va dispărea în următoarele zile.
+In niciun caz nu ai mancat 10500kcal cu o zi inainte. Deci, doar cresterea in greutate va disparea in urmatoarele zile.
 
-Acesta este motivul pentru care ar trebui să vă uitați la mediile dvs. în greutate săptămânală și lunară, nu la fluctuațiile zilnice.
+Acesta este motivul pentru care ar trebui sa va uitati la mediile dvs. in greutate saptamanala si lunara, nu la fluctuatiile zilnice.
 
-Încercați să vă cântăriți în aceleași circumstanțe în fiecare zi, astfel încât citirile să fie mai consistente.
+Incercati sa va cantariti in aceleasi circumstante in fiecare zi, astfel incat citirile sa fie mai consistente.
 
-O fac în primul rând dimineața, după ce am făcut pipi și am luat o groapă, înainte să mănânc sau să beau ceva.
+O fac in primul rand dimineata, dupa ce am facut pipi si am luat o groapa, inainte sa mananc sau sa beau ceva.
 
-### <span id = "Does_BMI_matter"> Contează IMC? </span>
+### <span id = "Does_BMI_matter"> Conteaza IMC? </span>
 
-Indicele de masă corporală este util pentru persoanele obișnuite să își țină greutatea în control. Dar nu pentru elevii de greutate ca noi. Deoarece are în vedere doar înălțimea și greutatea, nu și masa musculară.
+Indicele de masa corporala este util pentru persoanele obisnuite sa isi tina greutatea in control. Dar nu pentru elevii de greutate ca noi. Deoarece are in vedere doar inaltimea si greutatea, nu si masa musculara.
 
-La ultimul meu control de sănătate am avut un IMC de 26,38, pe care l-au catalogat drept supraponderal. Recomandarea lor a fost ca ar trebui să pierd 19 kg (pentru a ajunge să cântăresc în doar 60 kg).
+La ultimul meu control de sanatate am avut un IMC de 26,38, pe care l-au catalogat drept supraponderal. Recomandarea lor a fost ca ar trebui sa pierd 19 kg (pentru a ajunge sa cantaresc in doar 60 kg).
 
-Talia mea este de 85 cm și am abdominale vizibile. Deci, evident, nu sunt în greutate. Doar că am mai multă masă musculară decât persoana obișnuită care face testul IMC.
+Talia mea este de 85 cm si am abdominale vizibile. Deci, evident, nu sunt in greutate. Doar ca am mai multa masa musculara decat persoana obisnuita care face testul IMC.
 
-IMC este inutil pentru persoanele care ridică greutăți.
+IMC este inutil pentru persoanele care ridica greutati.
 
-### <span id = "How_many_calories_should_I_eat_per_day_to_lose_fat"> Câte calorii ar trebui să mănânc pe zi pentru a pierde grăsime? </span>
+### <span id = "How_many_calories_should_I_eat_per_day_to_lose_fat"> Cate calorii ar trebui sa mananc pe zi pentru a pierde grasime? </span>
 
-Tipul sedentar care cântărește 90 kg / 200lb are nevoie de aproximativ 2300kcal / zi pentru a-și menține greutatea.
+Tipul sedentar care cantareste 90 kg / 200lb are nevoie de aproximativ 2300kcal / zi pentru a-si mentine greutatea.
 
-Așadar, un bun punct de plecare pentru a pierde în greutate ar fi să mâncați cu aproximativ 500kcal / zi mai puțin. În acest caz, consumul de 1800kcal / zi ar crea un deficit caloric săptămânal de 3500kcal. 1lb de grăsime este 3500kcal. Deci, veți pierde aproximativ un kilogram de grăsime pe săptămână.
+Asadar, un bun punct de plecare pentru a pierde in greutate ar fi sa mancati cu aproximativ 500kcal / zi mai putin. In acest caz, consumul de 1800kcal / zi ar crea un deficit caloric saptamanal de 3500kcal. 1lb de grasime este 3500kcal. Deci, veti pierde aproximativ un kilogram de grasime pe saptamana.
 
-### <span id = "Do_I_have_to_count_calories_to_lose_fat"> Trebuie să număr calorii pentru a pierde grăsime? </span>
+### <span id = "Do_I_have_to_count_calories_to_lose_fat"> Trebuie sa numar calorii pentru a pierde grasime? </span>
 
-Este posibil să pierzi grăsime fără calorii. Mulți oameni o fac. Dar abordarea este aceeași: mănâncă mai puține calorii. Fie prin reducerea dimensiunilor porțiunilor, fie prin eliminarea anumitor alimente (consumul scăzut de carbohidrați este comun, deoarece carbohidrații tind să fie mai mari în calorii).
+Este posibil sa pierzi grasime fara calorii. Multi oameni o fac. Dar abordarea este aceeasi: mananca mai putine calorii. Fie prin reducerea dimensiunilor portiunilor, fie prin eliminarea anumitor alimente (consumul scazut de carbohidrati este comun, deoarece carbohidratii tind sa fie mai mari in calorii).
 
-Beneficiul de a face acest lucru este că este mai simplu. De multe ori nu este clar cât de multe calorii sunt în ceea ce mănânci - cum ar fi atunci când mâncați afară. Și să faci matematici la fiecare masă nu este distracție.
+Beneficiul de a face acest lucru este ca este mai simplu. De multe ori nu este clar cat de multe calorii sunt in ceea ce mananci - cum ar fi atunci cand mancati afara. Si sa faci matematici la fiecare masa nu este distractie.
 
-Dezavantajul este că lucrați la ghici. Dacă nu vă pierdeți grăsimea sau dacă loviți un platou (pe care îl veți face), nu veți ști dacă este pentru că ați mâncat prea mult - nu aveți date cu care să lucrați.
+Dezavantajul este ca lucrati la ghici. Daca nu va pierdeti grasimea sau daca loviti un platou (pe care il veti face), nu veti sti daca este pentru ca ati mancat prea mult - nu aveti date cu care sa lucrati.
 
-Dacă nu ați numărat niciodată calorii înainte, vă recomand cu siguranță să o faceți pentru cel puțin o lună sau două trei. Vei afla câte calorii există în alimentele pe care le consumi majoritatea timpului.
+Daca nu ati numarat niciodata calorii inainte, va recomand cu siguranta sa o faceti pentru cel putin o luna sau doua trei. Vei afla cate calorii exista in alimentele pe care le consumi majoritatea timpului.
 
-După ce ați trecut prin asta timp de câteva luni, veți putea utiliza aceste cunoștințe pentru a mânca instinctiv unele alimente mai puțin decât altele, deoarece știți că aceste alimente au un conținut mai mare de calorii. Acest lucru vă va ajuta să vă formați noi obiceiuri alimentare.
+Dupa ce ati trecut prin asta timp de cateva luni, veti putea utiliza aceste cunostinte pentru a manca instinctiv unele alimente mai putin decat altele, deoarece stiti ca aceste alimente au un continut mai mare de calorii. Acest lucru va va ajuta sa va formati noi obiceiuri alimentare.
 
-Practic asta am făcut. Am numărat calorii o perioadă folosind foi de calcul vechi. Asta m-a făcut să conștientizez că alimentele precum pastele și orezul unde sunt calorii mari, așa că ar trebui să mă uit cu asta. Acum nu am numărat calorii și ani de zile și am grijă cu carbohidrați. Așa am reușit să îmi mențin greutatea în absențe stabile și vizibile în ultimii 10 ani.
+Practic asta am facut. Am numarat calorii o perioada folosind foi de calcul vechi. Asta m-a facut sa constientizez ca alimentele precum pastele si orezul unde sunt calorii mari, asa ca ar trebui sa ma uit cu asta. Acum nu am numarat calorii si ani de zile si am grija cu carbohidrati. Asa am reusit sa imi mentin greutatea in absente stabile si vizibile in ultimii 10 ani.
 
-### <span id = "Do_I_have_to_eat_breakfast_to_lose_fat"> Trebuie să mănânc micul dejun pentru a pierde grăsimea? </span>
+### <span id = "Do_I_have_to_eat_breakfast_to_lose_fat"> Trebuie sa mananc micul dejun pentru a pierde grasimea? </span>
 
-Nu. Primul lucru care contează să piardă grăsime este să mănânci mai puține calorii decât arde corpul tău. Atâta timp cât creezi un deficit caloric, nu contează dacă mănânci micul dejun sau nu.
+Nu. Primul lucru care conteaza sa piarda grasime este sa mananci mai putine calorii decat arde corpul tau. Atata timp cat creezi un deficit caloric, nu conteaza daca mananci micul dejun sau nu.
 
-Există avantajul pierderii de grăsime pe care ți-l vei oferi micul dejun. Unii oameni cred că mâncarea micului dejun îți accelerează metabolismul, dar acel mit a fost [redus din nou și din nou](https://leangains.com/top-ten-fasting-myths-debunked-major-update-nov-4th/) . Nu există nicio diferență între a mânca trei sau șase mese pe zi. Aportul caloric total contează cel mai mult.
+Exista avantajul pierderii de grasime pe care ti-l vei oferi micul dejun. Unii oameni cred ca mancarea micului dejun iti accelereaza metabolismul, dar acel mit a fost [redus din nou si din nou](https://leangains.com/top-ten-fasting-myths-debunked-major-update-nov-4th/) . Nu exista nicio diferenta intre a manca trei sau sase mese pe zi. Aportul caloric total conteaza cel mai mult.
 
-Este adevărat că persoanele care mănâncă micul dejun sunt de obicei mai sănătoase - este mai probabil să urmărească ceea ce mănâncă, să facă exerciții fizice și astfel să fie mai slabe. Între timp, fumătorii și băuturile grei tind să nu mănânce micul dejun dimineața. Aceasta poate face micul dejun mai sănătos și mai slab. Dar să mănânci micul dejun nu are nicio legătură.
+Este adevarat ca persoanele care mananca micul dejun sunt de obicei mai sanatoase - este mai probabil sa urmareasca ceea ce mananca, sa faca exercitii fizice si astfel sa fie mai slabe. Intre timp, fumatorii si bauturile grei tind sa nu manance micul dejun dimineata. Aceasta poate face micul dejun mai sanatos si mai slab. Dar sa mananci micul dejun nu are nicio legatura.
 
-### <span id = "How_can_I_track_my_fat_loss_progress"> Cum pot urmări progresul pierderii de grăsime? </span>
+### <span id = "How_can_I_track_my_fat_loss_progress"> Cum pot urmari progresul pierderii de grasime? </span>
 
-Cea mai ușoară cale este folosirea ecuației marinei americane.
+Cea mai usoara cale este folosirea ecuatiei marinei americane.
 
-- Măsurați-vă circumferința taliei, șoldului și gâtului în fiecare săptămână, în același timp.
-- Măsurați-o de trei ori, luați media și notați-o într-o foaie de calcul.
-- Utilizați o [bandă de măsurare automată](https://amzn.to/2SXzS9T), face lucrurile mult mai ușoare
+- Masurati-va circumferinta taliei, soldului si gatului in fiecare saptamana, in acelasi timp.
+- Masurati-o de trei ori, luati media si notati-o intr-o foaie de calcul.
+- Utilizati o [banda de masurare automata](https://amzn.to/2SXzS9T), face lucrurile mult mai usoare
 
-Îți poți măsura coapsele, bicepsul și pieptul pentru a-ți urmări câștigurile musculare împotriva pierderii de grăsime.
+Iti poti masura coapsele, bicepsul si pieptul pentru a-ti urmari castigurile musculare impotriva pierderii de grasime.
 
-De asemenea, ar trebui să faceți poze cu corpul complet o dată pe lună. Corp complet, cap până în vârf, față, spate și lateral. Purtați aceleași haine și fulgere de fiecare dată, astfel încât să puteți compara cu ușurință progresul. Făcând mai multe poze nu este necesar, deoarece corpul dvs. nu se schimbă atât de rapid.
+De asemenea, ar trebui sa faceti poze cu corpul complet o data pe luna. Corp complet, cap pana in varf, fata, spate si lateral. Purtati aceleasi haine si fulgere de fiecare data, astfel incat sa puteti compara cu usurinta progresul. Facand mai multe poze nu este necesar, deoarece corpul dvs. nu se schimba atat de rapid.
 
-Deoarece pierderea de grăsime depinde foarte mult de respectarea dietei și antrenamentului dvs., ar trebui să urmăriți și aderența. Ar trebui să urmărești să obții o aderență de 80% la ambele. În sensul că sunteți la 200 km de aportul zilnic de calorii și că primiți 10 antrenamente pe lună, cel puțin 80% din timp.
+Deoarece pierderea de grasime depinde foarte mult de respectarea dietei si antrenamentului dvs., ar trebui sa urmariti si aderenta. Ar trebui sa urmaresti sa obtii o aderenta de 80% la ambele. In sensul ca sunteti la 200 km de aportul zilnic de calorii si ca primiti 10 antrenamente pe luna, cel putin 80% din timp.
 
-Nu uitați că perfecțiunea nu este necesară - vă va da greș. Veți obține rezultate dacă veți obține lucrurile corect 80% din timp. Puteți săriți un antrenament o dată pe lună și puteți face niște prăjituri aici și acolo, atât timp cât faceți lucrurile corecte 80% din timp.
+Nu uitati ca perfectiunea nu este necesara - va va da gres. Veti obtine rezultate daca veti obtine lucrurile corect 80% din timp. Puteti sariti un antrenament o data pe luna si puteti face niste prajituri aici si acolo, atat timp cat faceti lucrurile corecte 80% din timp.
 
-### <span id = "I8217m_skinny-fat_Should_I_lose_fat_or_build_muscle_first"> Sunt gras. Ar trebui să pierd grăsime sau să construiesc mai întâi mușchi? </span>
+### <span id = "I8217m_skinny-fat_Should_I_lose_fat_or_build_muscle_first"> Sunt gras. Ar trebui sa pierd grasime sau sa construiesc mai intai muschi? </span>
 
-Dacă sunteți mai subțire decât grăsime, concentrați-vă mai întâi pe construirea mușchilor. Faci asta ridicând greutăți mari. Mănâncă calorii de întreținere și concentrează-te pe creșterea puterii tale.
+Daca sunteti mai subtire decat grasime, concentrati-va mai intai pe construirea muschilor. Faci asta ridicand greutati mari. Mananca calorii de intretinere si concentreaza-te pe cresterea puterii tale.
 
-Dacă sunteți mai gras decât pielea, atunci concentrați-vă pe pierderea grăsimii. Ridicați greutăți mari pentru a vă crește masa musculară și pentru a evita pierderea musculară de la dietă. Ar trebui să puteți construi mușchi și să pierdeți grăsime în același timp pentru o perioadă.
+Daca sunteti mai gras decat pielea, atunci concentrati-va pe pierderea grasimii. Ridicati greutati mari pentru a va creste masa musculara si pentru a evita pierderea musculara de la dieta. Ar trebui sa puteti construi muschi si sa pierdeti grasime in acelasi timp pentru o perioada.
 
-### <span id = "What8217s_the_best_diet_for_fat_loss"> Care este cea mai bună dietă pentru pierderea de grăsime? </span>
+### <span id = "What8217s_the_best_diet_for_fat_loss"> Care este cea mai buna dieta pentru pierderea de grasime? </span>
 
-Cea mai bună dietă este cea pe care o respecti. Indiferent de dieta pe care o alegeți, dacă nu puteți sa o respectati pe termen lung, riscul de a recăpăta grăsimea pierdută este mare.
+Cea mai buna dieta este cea pe care o respecti. Indiferent de dieta pe care o alegeti, daca nu puteti sa o respectati pe termen lung, riscul de a recapata grasimea pierduta este mare.
 
 Orice dieata va va face sa pierdeti grasime daca aveti un deficit caloric. Asta este usor. Cel mai greu este sa iti mentii greutate pe termen lung. Multi oameni recapata din grasime pentru ca nu pot sa mentina o dieta pe termen lung.m. -->

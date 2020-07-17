@@ -32,7 +32,7 @@ const Index = ({ data }) => {
   return (
     <Layout>
       <Helmet title={'Home Page'} />
-      <Header title="StrongLifts">StrongLifts</Header>
+      <Header title="SlickFit">SlickFit</Header>
       <FadeIn>
         <PostWrapper>
           {edges.map(({ node }) => {

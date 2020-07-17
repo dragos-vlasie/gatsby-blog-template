@@ -25,5 +25,5 @@ Cea mai mare parte a programului tau de antrenament de forta ar trebui sa conste
 
 Acestea sunt cele doua cele mai bune exercitii de greutate corporala pe care le puteti utiliza pentru a ajuta la exercitiile principale de barbell. Aceste doua exercitii suplimentare sunt excelente pentru rezistenta corpului superior si pentru a construi brate mai mari.
 
-- [Pullups](exercitii/spate/tractiuni)
-- [Dips](exercitii/piept/flotari-la-paralele)
+- [Tractiuni](exercitii/spate/tractiuni)
+- [Flotari la paralele(Dips)](exercitii/piept/flotari-la-paralele)

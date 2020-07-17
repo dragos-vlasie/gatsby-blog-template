@@ -23,7 +23,7 @@ Asadar, sfatul dietei StrongLifts este sa va concentrati pe dezvoltarea unor obi
 Nu aveti nevoie de suplimente pentru a va consolida si a dezvolta muschi. Puteti obtine rezultate fara a lua suplimente. Majoritatea suplimentelor nu functioneaza oricum, asa ca esti mai bine fara.
 
 <!--
-- [Doar suplimentele de care aveti nevoie](https://stronglifts.com/supplements/)
+- [Doar suplimentele de care aveti nevoie](https://supplements/)
 
 Daca sunteti un tanar, slab, ectomorf, pui masa musculara foarte greu, care se lupta sa creasca in greutate, caloriile lichide va pot ajuta sa obtineti rezultatele pe care vi le doriti.
 

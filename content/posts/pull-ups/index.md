@@ -191,7 +191,7 @@ _Incepeti fiecare repetare cu coatele blocate pentru o dezvoltare maxima a bratu
 
 ## Picioare<a id="picioare"></a>
 
-Genunchii indoiti impotriva(vs) picioarelor drepte. Tractiunile(pull-ups)facute cu picioarele drepte sunt mai bune deoarece va puteti mentine spate neutru mai usor. Dar putine sali de sport au bare de ridicare inalte/ridicate. Cele mai multe Power Rack-uri sunt prea mici pentru a face Pullups cu picioarele drepte, fara ca picioarele sa atinga podeaua. Acesta este motivul pentru care fac tractiuni(pull-ups) cu genunchii indoiti. Cu toate acestea, las picioarele inferioare sa cada pe drum, pentru a-mi mentine spatele inferior neutru. Incearca.
+**Genunchii indoiti impotriva (vs) picioarelor drepte**. Tractiunile(pull-ups)facute cu picioarele drepte sunt mai bune deoarece va puteti mentine spate neutru mai usor. Dar putine sali de sport au bare de ridicare inalte/ridicate. Cele mai multe Power Rack-uri sunt prea mici pentru a face Pullups cu picioarele drepte, fara ca picioarele sa atinga podeaua. Acesta este motivul pentru care fac tractiuni(pull-ups) cu genunchii indoiti. Cu toate acestea, las picioarele inferioare sa cada pe drum, pentru a-mi mentine spatele inferior neutru. Incearca.
 
 ## Partea de jos a tractiunii(Bottom)<a id="partea-de-jos"></a>
 
