@@ -7,6 +7,7 @@ import { TagsBlock, Header, SEO } from 'components';
 import '../styles/prism';
 import FadeIn from '../elements/FadeIn';
 import Suggestions from '../elements/Suggestions';
+import TableOfContent from '../elements/TableOfContent';
 
 const Post = ({ data, pageContext }) => {
   console.log('Post -> pageContext', pageContext);
@@ -17,6 +18,7 @@ const Post = ({ data, pageContext }) => {
   const image = frontmatter.cover.childImageSharp.fluid;
   let regex = '<details(.|\n)*?</details>';
   const tableOfContent = html.match(regex);
+  console.log('Post -> tableOfContent', tableOfContent);
   return (
     <Layout>
       <SEO
@@ -27,7 +29,8 @@ const Post = ({ data, pageContext }) => {
         article
       />
       <Header title={title} date={date} cover={image} />
-      <Content input={tableOfContent} />
+
+      <TableOfContent input={tableOfContent} />
       <Content input={html} />
       <TagsBlock list={tags || []} />
       <Container>

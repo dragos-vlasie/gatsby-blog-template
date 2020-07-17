@@ -35,7 +35,7 @@ Este foarte usor sa gresiti exercitiul Barbell Row. Puteti ridica greutati mai m
 
 Acesta este ghidul complet pentru realizarea exercitiului Barbell Row.
 
-<details style="border:1px solid black;"><summary style="text-align:center">Cuprins</summary>
+<details style="border:1px solid black;" open><summary style="text-align:center">Cuprins</summary>
 
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">
