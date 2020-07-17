@@ -29,7 +29,7 @@ Presa deasupra capului este cel mai greu exercitiu de pe [Antrenamente 5x5](/pro
 
 Acesta este ghidul definitiv pentru forma corecta a exercitiului Presa deasupra capului.
 
-<details style="border:1px solid black;"><summary style="text-align:center">Cuprins</summary>
+<details style="border:1px solid black;" open><summary style="text-align:center">Cuprins</summary>
 
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">

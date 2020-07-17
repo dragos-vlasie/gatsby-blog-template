@@ -28,7 +28,7 @@ Tractiuni(pull-ups) nu fac parte din [Antrenamente 5x5](/program/full-body/5x5) 
 
 Acesta este ghidul definitiv pentru o forma corecta a tractiunilor(pull-ups). De asemenea, prezinta variatii, precum Chinups.
 
-<details style="border:1px solid black;"><summary style="text-align:center">Cuprins</summary>
+<details style="border:1px solid black;" open><summary style="text-align:center">Cuprins</summary>
 
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">

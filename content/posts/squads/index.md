@@ -30,7 +30,7 @@ Forma corecta de Squat este esentiala pentru a evita durerile de genunchi si spa
 
 Acesta este ghidul definitiv pentru o forma adecvata a exercitiului Squat. Acopera beneficiile Squat, tehnica Squat, muschii lucrati, problemele des intalnite si durerea ce poate aparea, precum si variatiile de Squat precum Squat Front si Squat Olympic.
 
-<details style="border:1px solid black;"><summary style="text-align:center;">Cuprins</summary>
+<details style="border:1px solid black;" open><summary style="text-align:center;">Cuprins</summary>
 
 <div class="contents" style="width: 100%; display: table;">
 
