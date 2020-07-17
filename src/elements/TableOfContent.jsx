@@ -33,20 +33,23 @@ export const TableOfContent = ({ input }) => {
   `;
 
   const Button = styled.div`
-    background-color: rgb(32, 35, 42);
-    bottom: 44px;
-    color: rgb(97, 218, 251);
-    display: ${props => (props.show ? 'none' : 'block')};
-    cursor: pointer;
-    position: fixed;
-    right: 20px;
-    z-index: 3;
-    box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 20px;
-    border-radius: 50%;
-    border-width: 1px;
-    border-style: solid;
-    border-color: rgba(255, 255, 255, 0.1);
-    border-image: initial;
+    display: none;
+    @media (max-width: ${props => props.theme.breakpoints.s}) {
+      background-color: rgb(32, 35, 42);
+      bottom: 44px;
+      color: rgb(97, 218, 251);
+      display: block;
+      cursor: pointer;
+      position: fixed;
+      right: 20px;
+      z-index: 3;
+      box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 20px;
+      border-radius: 50%;
+      border-width: 1px;
+      border-style: solid;
+      border-color: rgba(255, 255, 255, 0.1);
+      border-image: initial;
+    }
   `;
   const InnerButton = styled.div`
     padding-left: 20px;
