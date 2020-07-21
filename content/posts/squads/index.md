@@ -1,5 +1,5 @@
 ---
-path: '/genuflexiuni-cu-bara'
+path: '/genuflexiuni-cu-bara-(Squats)'
 cover: './blocks.jpg'
 date: '2020-02-15'
 title: 'Genuflexiuni cu bara (Squats)'
@@ -24,7 +24,7 @@ Iata cum sa faci genuflexiuni cu o forma adecvata, folosind o barila:
 Tineti greutatea o secunda in varf. Respira. Apoi inspirati puternic, tineti-o si faceti urmatoarea genuflexiune. Repetati pana cand ati facut cinci repetari pe [Antrenamente 5x5](/program/full-body/5x5) .
 Squats-ul iti lucreaza intregul corp. Picioarele se indoaie si se indreapta pentru a muta greutatea. Muschii abs si partea inferioara a spatelui va stabilizeaza trunchiul, in timp ce picioarele se misca. Partea superioara a spatelui, umerii si bratele echilibreaza bara din spate. Multi muschi functioneaza in acelasi timp, nu doar picioarele.
 
-Squat este regele tuturor exercitiilor. Lucreaza mai multi muschi, cu o greutate mai mare, decat exercitii mai populare precum [Bench Press](/exercitii/bench-press) . Prin urmare, este mai eficient sa obtii rapid forta generala si muschii . De aceea, faceti genuflexiuni(Squats) 3x / saptamana pe antrenamentul [Antrenamente 5x5](/program/full-body/5x5) .
+Squat este regele tuturor exercitiilor. Lucreaza mai multi muschi, cu o greutate mai mare, decat exercitii mai populare precum [Bench Press](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) . Prin urmare, este mai eficient sa obtii rapid forta generala si muschii . De aceea, faceti genuflexiuni(Squats) 3x / saptamana pe antrenamentul [Antrenamente 5x5](/program/full-body/5x5) .
 
 Forma corecta de Squat este esentiala pentru a evita durerile de genunchi si spate. Nu faceti genuflexiuni partiale(partial Squats), parcurgand doar jumatate din drum. Coborati in genuflexiune pana cand nivelul soldurilor este sub nivelul genunchilor. Faceti genuflexiunea astfel incat genunchii sa fie aliniati cu picioarele voastre. Tine-ti spatele inferior neutru, nu-l lasati sa se curbeze/cocoseze.
 
@@ -211,7 +211,7 @@ Constructia dvs. determina aspectul corespunzator pentru forma dvs.. Cu cat lati
 - **Soldurilor**. Flexati-va soldurile si genunchii in acelasi timp. Miscati-va soldurile spre exterior si in jos in timp ce impingeti genunchii in exterior.
 - **Partea inferioara a spatelui**. Fa genuflexiuni cu spatele drept, ca atunci cand stai in picioare.Fara sa indoiti spatele. Mentineti spatele neutru.
 - **Prindere**. Prindeti bara bine. Dar nu incercati sa sustineti greutati mari cu mainile. Lasa partea superioara a spatelui sa sustina bara.
-- **Latime de prindere** Folositi o prindere medie, mai ingusta decat atunci cand executati [Bench Press](/exercitii/bench-press). Mainile tale ar trebui sa fie in afara umerilor.
+- **Latime de prindere** Folositi o prindere medie, mai ingusta decat atunci cand executati [Bench Press](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press). Mainile tale ar trebui sa fie in afara umerilor.
 - **Pozitia barei**. Puneti bara intre muschii trapezului si adevaratii umeri(in cazul unei bari usoare) sau pe muschii trapezului(pentru o bara grea). Centrati bara.
 - **Incheieturi**. Incheieturile se vor indoi si te vor durea daca incercati sa sprijiniti bara cu mainile. Sustineti-o cu partea superioara a spatelui.
 - **Coate**. In spatele trunchiului in prima parte a genuflexiunii, nu vertical sau orizontal. Si pe aceeasi linie cu triunchiul,atunci cand sunteti jos .
@@ -369,14 +369,14 @@ _Faceti genuflexiuni(Squats) cu un arc natural al spatelui inferior. Fara exces 
 ![Genuflexiuni cu bara(Squat) Grip](<./assets/Genuflexiuni-cu-bara(Squats)-grip-width.jpg>)
 _Folositi o prindere medie Squat. Nu prea larg sau prea apropiata._
 
-- **Priza medie**. Apucati bara ca atunci cand faceti [Bench Press](/exercitii/bench-press) . Puneti-va degetul mic in interiorul inelelor marcate ale barei. Apoi strangeti omoplatul pentru a sprijini bara cu muschii din partea superioara a spatelui. Puteti strange bara mai larg daca umerii sunt mai ingusti, astfel incat sa puteti face genuflexiuni(Squats) fara durere. Dar partea superioara a spatelui va fi mai slaba,iar bara va poate afecta coloana vertebrala. Lucrati la flexibilitatea umarului, astfel incat sa puteti micsora distanta dintre brate pe bara, in timp.
+- **Priza medie**. Apucati bara ca atunci cand faceti [Bench Press](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) . Puneti-va degetul mic in interiorul inelelor marcate ale barei. Apoi strangeti omoplatul pentru a sprijini bara cu muschii din partea superioara a spatelui. Puteti strange bara mai larg daca umerii sunt mai ingusti, astfel incat sa puteti face genuflexiuni(Squats) fara durere. Dar partea superioara a spatelui va fi mai slaba,iar bara va poate afecta coloana vertebrala. Lucrati la flexibilitatea umarului, astfel incat sa puteti micsora distanta dintre brate pe bara, in timp.
 - **Strangeti bara**. Cu cat strangeti mai tare bara, cu atat bratele, umerii si muschii din spate se contracta mai mult. Acest lucru creste suportul pentru bara, probabilitatea de a se misca pe spate scade si creste astfel puterea. Apucati bara strans pentru genuflexiuni. Strangeti-o strans inainte de a desface bara. Strangeti-o tare ca sa nu se poata misca. Nu te relaxa si nu deschide mainile in timp ce faci genuflexiuni(Squats). Continua sat ii bara.
 
 ![Full vs thumbless grip](<./assets/Genuflexiuni-cu-bara(Squats)-grip.jpg>)
 _Apucarea barei cu sau fara degetul mare pentru genuflexiuni(Squats)_
 
 - **Prinderea cu sau fara degetul mare**. Strangerea completa( cu degetul mare) va permite sa strangeti bara mai tare, ceea ce adauga rezistenta. Iti ofera mai mult control asupra barei si te simti mai sigur. Dar incheieturile tale se vor indoi mai mult. Priza fara degetul mare iti mentine incheieturile mai dreapta. Dar se poate simti mai nesigur, nu puteti strange bara la fel de tare si incheieturile se pot indoi daca incercati sa tineti bara cu mainile. Incercati prinderea fara degetul mare daca va dor incheieturile / coatele.
-- **Nu sustine bara cu mainile**. Este vorba despre o genuflexiune, nu de un [Bench Press](/exercitii/bench-press) . Daca incercati sa tineti greutatea cu mainile, incheieturile si coatele te vor durea odata ce greutatea va fi grea. Trebuie sa sustineti bara cu muschii superiori ai spatelui. Tineti si strangeti bara. Dar lasati partea superioara a spatelui sa sprijine greutatea. Flexarea cu o prindere care nu include si degetul mare va poate invata sa sustineti bara cu partea superioara a spatelui.
+- **Nu sustine bara cu mainile**. Este vorba despre o genuflexiune, nu de un [Bench Press](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) . Daca incercati sa tineti greutatea cu mainile, incheieturile si coatele te vor durea odata ce greutatea va fi grea. Trebuie sa sustineti bara cu muschii superiori ai spatelui. Tineti si strangeti bara. Dar lasati partea superioara a spatelui sa sprijine greutatea. Flexarea cu o prindere care nu include si degetul mare va poate invata sa sustineti bara cu partea superioara a spatelui.
 
 ## Pozitia barei<a id="pozitia-barei"></a>
 
