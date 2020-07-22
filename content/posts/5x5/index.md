@@ -1,7 +1,7 @@
 ---
 path: '/5x5'
-cover: './blocks.jpg'
-date: '2020-02-15'
+cover: './5x5.jpg'
+date: '2020-07-22'
 title: '5x5'
 tags: ['program']
 subCategory: ['full-body']
@@ -96,7 +96,7 @@ Primele saptamani se vor simti usor. Dar greutatea va creste rapid. In patru sap
 
 Obiectivul tau este sa adaugi greutate la fiecare antrenament. Nu veti putea face asta pentru totdeauna. Pana la urma te vei lupta sa obtii cinci repetari si o sa esuezi (exista modalitati de a le ocoli). Dar majoritatea oamenilor sunt surprinsi de cat timp pot adauga greutate la fiecare antrenament cu un program atat de simplu.
 
-<details style="border:1px solid black;" open><summary style="text-align:center">Cuprins</summary>
+<details style="box-shadow: 0px 1px 2px 0px black;" open><summary style="text-align:center">Cuprins</summary>
 
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">
@@ -193,6 +193,8 @@ Obiectivul tau este sa adaugi greutate la fiecare antrenament. Nu veti putea fac
 </details>
 
 ## Prezentare generala<a id="prezentare-generala"></a>
+
+<br>
 
 ## Rezultate tipice
 
@@ -1306,7 +1308,7 @@ Daca ramai fara timp in sala, atunci schimbati-va programul. Nu va comprimati an
 
 Respecta-ti greutatile de incalzire. Nu sari peste ei. Nu va grabiti, gandindu-va doar ca seturile dvs. conteaza. Luati-le in serios, facand acelasi efort si concentrati-va. Ridicati greutatea usoara ca si cum ar fi fost grea. Acest lucru va va pregati mai bine corpul pentru greutatile mari si veti evita ranirile.
 
-### Mancand prea putin<a id="mancand-prea-putin<a"></a>
+### Mancand prea putin<a id="mancand-prea-putin"></a>
 
 Corpul tau trebuie sa isi revina din antrenamentele tale pentru a deveni mai puternic. Mancarea contine substantele necesare pentru a-ti reface muschii. Cand mancarea nu este prezenta, organismul tau foloseste substantele mai intai pentru sarcinile critice. Deci muschii nu se pot recupera bine pentru a deveni mai puternici. Aveti putina energie, nu va veti putea face toate repetarile si nu puteti adauga greutate.
 

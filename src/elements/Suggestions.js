@@ -140,7 +140,10 @@ const Suggestions = ({ left, right }) => (
   <StaticQuery
     query={graphql`
       query {
-        allMarkdownRemark(sort: { fields: [frontmatter___date], order: ASC }) {
+        allMarkdownRemark(
+          sort: { fields: [frontmatter___date], order: ASC }
+          filter: { frontmatter: { published: { eq: true } } }
+        ) {
           totalCount
           edges {
             node {
@@ -179,7 +182,6 @@ const Suggestions = ({ left, right }) => (
         data.allMarkdownRemark.edges.find(
           element => element.node.frontmatter.title === right.frontmatter.title
         );
-
       const subCategoryPathLeft =
         left && left.frontmatter.subCategory ? '/' + left.frontmatter.subCategory : '';
       const subCategoryPathRight =
@@ -205,7 +207,10 @@ const Suggestions = ({ left, right }) => (
           {right && (
             <Wrapper data-testid="suggestion-right">
               <Image>
-                <img src={rightData.node.frontmatter.cover.childImageSharp.fluid.src} alt="" />
+                <img
+                  src={rightData && rightData.node.frontmatter.cover.childImageSharp.fluid.src}
+                  alt=""
+                />
               </Image>
               <StyledLink
                 to={`/${right.frontmatter.tags[0]}${subCategoryPathRight}${right.frontmatter.path}`}

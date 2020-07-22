@@ -8,14 +8,12 @@ import Suggestions from '../elements/Suggestions';
 import TableOfContent from '../elements/TableOfContent';
 
 const Post = ({ data, pageContext }) => {
-  console.log('Post -> data', data);
   const { next, prev } = pageContext;
   const { html, frontmatter, excerpt } = data.markdownRemark;
-  console.log('Post -> excerpt', excerpt);
   const { date, title, tags, path, description } = frontmatter;
   const image = frontmatter.cover.childImageSharp.fluid;
   let regex = '<details(.|\n)*?</details>';
-  const tableOfContent = html.match(regex);
+  const tableOfContent = Array.isArray(html.match(regex)) ? html.match(regex)[0] : '';
 
   return (
     <Layout>

@@ -1,10 +1,10 @@
 ---
 path: '/intermittent-fasting'
 cover: './blocks.jpg'
-date: '2020-06-15'
+date: '2020-07-10'
 title: 'Postul intermitent (Intermittent Fasting) '
 tags: ['alimentatie']
-published: true
+published: false
 ---
 
 ## Postul intermitent si tari puternici 5 × 5

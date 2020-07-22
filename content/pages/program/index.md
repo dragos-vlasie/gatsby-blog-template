@@ -1,6 +1,6 @@
 ---
 path: ''
-cover: './blocks.jpg'
+cover: './program.jpg'
 title: 'Program'
 published: true
 ---

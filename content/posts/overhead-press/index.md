@@ -1,7 +1,7 @@
 ---
 path: '/presa-deasupra-capului-cu-haltera'
-cover: './blocks.jpg'
-date: '2020-02-15'
+cover: './presa-deasuprea-capului.jpg'
+date: '2020-07-01'
 title: 'Over Head Press - Presa deasupra capului cu bara'
 tags: ['exercitii']
 subCategory: ['umeri']
@@ -29,7 +29,7 @@ Presa deasupra capului este cel mai greu exercitiu de pe [Antrenamente 5x5](/pro
 
 Acesta este ghidul definitiv pentru forma corecta a exercitiului Presa deasupra capului.
 
-<details style="border:1px solid black;" open><summary style="text-align:center">Cuprins</summary>
+<details style="box-shadow: 0px 1px 2px 0px black;" open><summary style="text-align:center">Cuprins</summary>
 
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">

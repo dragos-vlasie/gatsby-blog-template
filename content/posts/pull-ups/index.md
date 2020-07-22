@@ -1,6 +1,6 @@
 ---
 path: '/tractiuni'
-cover: './blocks.jpg'
+cover: './tractiuni.jpg'
 date: '2020-07-07'
 title: 'Tractiuni(Pull ups)'
 tags: ['exercitii']
@@ -28,7 +28,7 @@ Tractiuni(pull-ups) nu fac parte din [Antrenamente 5x5](/program/full-body/5x5) 
 
 Acesta este ghidul definitiv pentru o forma corecta a tractiunilor(pull-ups). De asemenea, prezinta variatii, precum Chinups.
 
-<details style="border:1px solid black;" open><summary style="text-align:center">Cuprins</summary>
+<details style="box-shadow: 0px 1px 2px 0px black;" open><summary style="text-align:center">Cuprins</summary>
 
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">

@@ -1,7 +1,7 @@
 ---
 path: '/genuflexiuni-cu-bara-(Squats)'
-cover: './blocks.jpg'
-date: '2020-02-15'
+cover: './genuflexiuni.jpg'
+date: '2020-07-20'
 title: 'Genuflexiuni cu bara (Squats)'
 tags: ['exercitii']
 subCategory: ['picioare']
@@ -30,7 +30,7 @@ Forma corecta de Squat este esentiala pentru a evita durerile de genunchi si spa
 
 Acesta este ghidul definitiv pentru o forma adecvata a exercitiului Squat. Acopera beneficiile Squat, tehnica Squat, muschii lucrati, problemele des intalnite si durerea ce poate aparea, precum si variatiile de Squat precum Squat Front si Squat Olympic.
 
-<details style="border:1px solid black;" open><summary style="text-align:center;">Cuprins</summary>
+<details style="box-shadow: 0px 1px 2px 0px black;" open><summary style="text-align:center;">Cuprins</summary>
 
 <div class="contents" style="width: 100%; display: table;">
 

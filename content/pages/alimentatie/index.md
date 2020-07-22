@@ -1,6 +1,6 @@
 ---
 path: ''
-cover: './blocks.jpg'
+cover: './alimentatie.jpg'
 title: 'Alimentatie'
 published: true
 ---
@@ -18,7 +18,7 @@ Probabil ati auzit ca stilul de viata bate dietele pe termen lung. Acesta este d
 Asadar, sfatul dietei Antrenamente este sa va concentrati pe dezvoltarea unor obiceiuri alimentare simple pe care sa le puteti respecta pe termen lung.
 
 - [Reguli de nutritie simpla](/alimentatie/dieta-reguli-de-baza)
-- [Postul intermitent](/alimentatie/intermittent-fasting)
+  <!-- - [Postul intermitent](/alimentatie/intermittent-fasting) -->
 
 Nu aveti nevoie de suplimente pentru a va consolida si a dezvolta muschi. Puteti obtine rezultate fara a lua suplimente. Majoritatea suplimentelor nu functioneaza oricum, asa ca esti mai bine fara.
 

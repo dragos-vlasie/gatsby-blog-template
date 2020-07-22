@@ -1,7 +1,7 @@
 ---
 path: '/impinsul-cu-haltera-de-la-piept-bench-press'
-cover: './blocks.jpg'
-date: '2020-02-15'
+cover: './impins-cu-haltera-de-la-piept1.jpg'
+date: '2020-07-16'
 title: 'Impinsul cu haltera de la piept (Bench Press)'
 tags: ['exercitii']
 subCategory: ['piept']
@@ -33,7 +33,7 @@ Spre deosebire de [genuflexiuni(Squat)](</exercitii/picioare/genuflexiuni-cu-bar
 
 Acesta este ghidul definitiv pentru o forma corespunzatoare pe Impinsul cu haltera de la piept(Bench Press).
 
-<details style="border:1px solid black;" open><summary style="text-align:center">Cuprins</summary>
+<details style="box-shadow: 0px 1px 2px 0px black;" open><summary style="text-align:center">Cuprins</summary>
 
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">

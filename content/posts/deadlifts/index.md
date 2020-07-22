@@ -1,7 +1,7 @@
 ---
 path: '/indreptari-(deadlifts)'
 cover: './halfthor.jpg'
-date: '2020-08-07'
+date: '2020-07-21'
 title: 'Indreptari (Deadlifts)'
 tags: ['exercitii']
 subCategory: ['spate']

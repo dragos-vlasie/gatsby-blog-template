@@ -1,6 +1,6 @@
 ---
 path: ''
-cover: './blocks.jpg'
+cover: './exercitii.jpg'
 title: 'Exercitii'
 published: true
 ---

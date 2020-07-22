@@ -1,7 +1,7 @@
 ---
 path: '/dieta-reguli-de-baza'
-cover: './blocks.jpg'
-date: '2020-06-15'
+cover: './dieta.jpg'
+date: '2020-07-20'
 title: 'Dieta reguli de baza'
 tags: ['alimentatie']
 published: true
@@ -19,7 +19,7 @@ Dar aceasta este o problema destul de noua. De-a lungul istoriei umane, oamenii 
 
 Acest ghid este despre asta. Voi impartasi obiceiuri simple de nutritie pe care le urmaresc pentru a fi puternic in sala si pentru a mentine un fizic musculos si slab - fara sa petrec ore in bucatarie sau sa ma concentrez asupra a ceea ce mananc.
 
-<details style="border:1px solid black;" open><summary style="text-align:center">Cuprins</summary>
+<details style="box-shadow: 0px 1px 2px 0px black;" open><summary style="text-align:center">Cuprins</summary>
 
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">
@@ -194,7 +194,7 @@ Din nou, ceea ce conteaza cel mai mult este cat de multe calorii mananci si sa o
 
 ### Trebuie sa mananc o masa la fiecare 3 ore?<a name="trebuie-sa-mananc-o-masa-la-fiecare-3-ore?"></a>
 
-Nu. Este bine daca mananci micul dejun, pranzul si cina, cu o gustare poate dupa-amiaza. De asemenea, este in regula daca nu mananci micul dejun, dar faci [intermittent-fasting(postul intermitent)](https://stronglifts.com/intermittent-fasting/). Ceea ce conteaza cel mai mult este ca mananci suficiente calorii pe zi si sa iti iei proteine ​​zilnic.
+Nu. Este bine daca mananci micul dejun, pranzul si cina, cu o gustare poate dupa-amiaza. De asemenea, este in regula daca nu mananci micul dejun, dar faci [Postul intermitent](/alimentatie/intermittent-fasting). Ceea ce conteaza cel mai mult este ca mananci suficiente calorii pe zi si sa iti iei proteine ​​zilnic.
 
 ### Trebuie sa beau un shake de proteine ​​dupa antrenament?<a name="trebuie-sa-beau-un-shake-de-proteine-dupa-antrenament?"></a>
 
@@ -210,7 +210,7 @@ Acestea ar putea fi ceea ce ati manca in zilele de antrenament:
 - Post antrenament: ovaz, mar, lapte, iaurt
 - Cina: friptura, legumele, cartofii
 
-Zilele fara antrenament ar avea o masa mai putin. Daca va place [intermittent-fasting(postul intermitent)](https://stronglifts.com/intermittent-fasting/) ca mine, atunci sunt doar trei mese pe zi.
+Zilele fara antrenament ar avea o masa mai putin. Daca va place [Postul intermitent](/alimentatie/intermittent-fasting) ca mine, atunci sunt doar trei mese pe zi.
 
 Evident, aceasta dieta reprezinta unele dintre preferintele mele alimentare personale care sunt influentate de educatia mea. Intrucat cea mai buna dieta este cea pe care o poti urma, „planul tau de masa” ar trebui sa reflecte preferintele tale. Nu are sens sa mananci ca mine sau altcineva atunci cand nu iti place jumatatea mancarurilor pe care le mananca.
 

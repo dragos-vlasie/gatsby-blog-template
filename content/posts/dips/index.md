@@ -1,7 +1,7 @@
 ---
 path: '/flotari-la-paralele'
-cover: './blocks.jpg'
-date: '2020-02-15'
+cover: './street-workout.jpg'
+date: '2020-07-13'
 title: 'Flotari la paralele(dips)'
 tags: ['exercitii']
 subCategory: ['piept']
@@ -29,7 +29,7 @@ Dips-urile nu fac parte din [Antrenamente 5x5](/program/full-body/5x5) in mod im
 
 Acesta este ghidul definitiv pentru o forma corespunzatoare pe Dips. Acopera, de asemenea, variatii precum Dips(flotari la paralele) cu greutate(Weighted Dips).
 
-<details style="border:1px solid black;" open><summary style="text-align:center">Cuprins</summary>
+<details style="box-shadow: 0px 1px 2px 0px black;" open><summary style="text-align:center">Cuprins</summary>
 
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">

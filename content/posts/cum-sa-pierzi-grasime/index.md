@@ -1,7 +1,7 @@
 ---
 path: '/cum-sa-pierzi-grasmie'
 cover: './blocks.jpg'
-date: '2020-02-15'
+date: '2020-07-25'
 title: 'Cum sa pierzi grasime'
 tags: ['exercitii']
 published: false

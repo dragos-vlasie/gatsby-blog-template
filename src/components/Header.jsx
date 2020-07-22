@@ -18,7 +18,7 @@ const Wrapper = styled.header`
   position: relative;
   overflow: hidden;
   .gatsby-image-wrapper {
-    height: 650px;
+    height: 500px;
   }
   @media (max-width: ${props => props.theme.breakpoints.m}) {
     height: 500px;

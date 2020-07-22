@@ -13,7 +13,10 @@ exports.createPages = ({ graphql, actions }) => {
         `
           query {
             allMarkdownRemark(
-              filter: { fileAbsolutePath: { regex: "/posts/" } }
+              filter: {
+                fileAbsolutePath: { regex: "/posts/" }
+                frontmatter: { published: { eq: true } }
+              }
               sort: { order: ASC, fields: [frontmatter___date] }
             ) {
               edges {

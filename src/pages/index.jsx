@@ -95,7 +95,7 @@ Index.propTypes = {
 export const query = graphql`
   query {
     allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/posts/" } }
+      filter: { fileAbsolutePath: { regex: "/posts/" }, frontmatter: { published: { eq: true } } }
       limit: 3
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {

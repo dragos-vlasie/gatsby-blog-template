@@ -1,7 +1,7 @@
 ---
 path: '/ramat-cu-bara'
-cover: './blocks.jpg'
-date: '2020-02-15'
+cover: './ramat-cu-bara.jpg'
+date: '2020-07-15'
 title: 'Ramat cu bara(Barbell Row)'
 tags: ['exercitii']
 subCategory: ['spate']
@@ -35,7 +35,7 @@ Este foarte usor sa gresiti exercitiul Barbell Row. Puteti ridica greutati mai m
 
 Acesta este ghidul complet pentru realizarea exercitiului Barbell Row.
 
-<details style="border:1px solid black;" open><summary style="text-align:center">Cuprins</summary>
+<details style="box-shadow: 0px 1px 2px 0px black;" open><summary style="text-align:center">Cuprins</summary>
 
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">
@@ -91,14 +91,14 @@ Acesta este ghidul complet pentru realizarea exercitiului Barbell Row.
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#Barbell-Row-vs-Cleans-Power">5.0 Barbell Row vs Cleans Power</a>
+         <a style="font-size:16px;" href="#Barbell-Row-vs-Cleans-Power">5.0 Barbell Row vs Power Clean </a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Barbell-Row-sunt-mai-sigure-decar-Power-Cleans">5.1 Barbell Row sunt mai sigure decar Power Cleans</a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Forma-corecta-pe-Barbell-Rows-este-mai-usoara-decat-Power-Cleans">5.2 Forma corecta pe Barbell Rows este mai usoara decat Power Cleans</a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Cele-mai-multe-sali-de-sport-nu-au-echipament-pentru-Power-Clean">5.3 Cele mai multe sali de sport nu au echipament pentru Power Clean</a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Barbell-Rows-construiesc-mai-mult-muschiul-corpului-superior">5.4 Barbell Rows construiesc mai mult muschiul corpului superior</a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Exista-modalitati-mai-usoare-de-a-construi-explozivitate">5.5 Exista modalitati mai usoare de a construi explozivitate</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Power-Clean-ul-nu-va-va-imbunatati-Deadlifts-ul">5.6 Power Clean-ul nu va va imbunatati Deadlifts-ul</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Power-Clean-ul-nu-va-va-imbunatati-Deadlifts-ul">5.6 Power Clean-ul nu va va imbunatati Indreptarile</a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Atunci-fara-Power-Clean?">5.7 Atunci fara Power Clean?</a></li>
          </ul>
       </li>
@@ -476,23 +476,23 @@ Progresul este, de asemenea, mai putin vizibil cu Inverted Rows (inversate). Inc
 
 Inverted Rows sunt ca niste Dumbbell Rows: nu va antreneaza spatele, soldurile si picioarele. Nu iti antreneaza decat muschii din partea superioara a spatelui si a bratelor. Inverted Rows pot fi un exercitiu de substitutie temporara util daca unele leziuni la nivelul spatelui inferior va impiedica sa efectuati Barbell Rows. Dar, de asemenea, le face mai putin eficiente pentru castigarea fortei si a muschilor. Barbell Rows folosesc mai multi muschi, cu greutati mai mari. Acest lucru este intotdeauna mai eficient.
 
-## Barbell Row vs Cleans Power<a name="Barbell-Row-vs-Cleans-Power"></a>
+## Barbell Row vs Power Clean <a name="Barbell-Row-vs-Cleans-Power"></a>
 
-Barbell Rows sunt mai sigure decat Cleans Power. Multe persoane isi ranesc incheieturile, coatele si umerii facand Cleans Power, deoarece nu au flexibilitate. Power Cleans necesita mai mult timp si efort (si de multe ori un antrenor) pentru a stapani forma adecvata. Este mai usor sa inveti sa faci Barbell Rows si sa-ti construiesti muschii din corpul superior mai mult decat sa faci Power Cleans. Multe sali de gimnastica nu au echipament pentru a arunca bara in siguranta pe Power Cleans.
+Barbell Rows sunt mai sigure decat Power Clean . Multe persoane isi ranesc incheieturile, coatele si umerii facand Power Clean , deoarece nu au flexibilitate. Power Cleans necesita mai mult timp si efort (si de multe ori un antrenor) pentru a stapani forma adecvata. Este mai usor sa inveti sa faci Barbell Rows si sa-ti construiesti muschii din corpul superior mai mult decat sa faci Power Cleans. Multe sali de gimnastica nu au echipament pentru a arunca bara in siguranta pe Power Cleans.
 
-Power Cleans poate fi util sportivilor care trebuie sa fie explozivi pentru sport. Dar puteti dezvolta puterea mai rapid si mai usor prin imbunatatirea [Genoflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) si Deadlift. Cleans Powers sunt distractive daca ai petrecut timpul si efortul pentru a invata o forma adecvata. Dar daca doriti doar sa va consolidati si sa va construiti muschi, Barbell Rows sunt mai bune. Acesta este motivul pentru care Barbell Rows face parte din [Antrenamente 5x5](/program/full-body/5x5) .
+Power Cleans poate fi util sportivilor care trebuie sa fie explozivi pentru sport. Dar puteti dezvolta puterea mai rapid si mai usor prin imbunatatirea [Genoflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) si Deadlift. Power Clean s sunt distractive daca ai petrecut timpul si efortul pentru a invata o forma adecvata. Dar daca doriti doar sa va consolidati si sa va construiti muschi, Barbell Rows sunt mai bune. Acesta este motivul pentru care Barbell Rows face parte din [Antrenamente 5x5](/program/full-body/5x5) .
 
 ## Ramat cu bara(Barbell Row) sunt mai sigure decar Power Cleans<a name="Barbell-Row-sunt-mai-sigure-decar-Power-Cleans"></a>
 
 Power Cleans consta in a trage bara de la podea pe umeri. Pozitia superioara este ca un Front Squat cu bratele superioare orizontale. Dar aveti nevoie de incheieturi flexibile pentru a va mentine coatele ridicate. Daca incheieturile sunt apropiate, vor purta bara si se vor apleca sub greutate. Bara va va intinde si va va rani incheieturile si coatele. Greutatea barei va poate rani umerii daca aveti probleme existente, cum ar fi umarul afectat.
 
-Nu aveti nevoie de incheieturi flexibile si umeri sanatosi pentru a efectua Barbell Rows in siguranta, cu o forma adecvata. Soldurile dvs. trebuie sa fie flexibile pentru a va mentine spatele inferior neutru in timp ce va aplecati si ridicati greutatea. Dar puteti repara cu usurinta asta ridicand bara. Incarcati-o cu placi mari de 45cm / 17 ″ diametru. Sau puneti farfurii plate pe podea sub greutate. Te vei apleca mai putin si vei avea nevoie de mai putina flexibilitate. Cleans Power nu au solutii rapide.
+Nu aveti nevoie de incheieturi flexibile si umeri sanatosi pentru a efectua Barbell Rows in siguranta, cu o forma adecvata. Soldurile dvs. trebuie sa fie flexibile pentru a va mentine spatele inferior neutru in timp ce va aplecati si ridicati greutatea. Dar puteti repara cu usurinta asta ridicand bara. Incarcati-o cu placi mari de 45cm / 17 ″ diametru. Sau puneti farfurii plate pe podea sub greutate. Te vei apleca mai putin si vei avea nevoie de mai putina flexibilitate. Power Clean nu au solutii rapide.
 
-Leziunile la nivelul spatelui inferior sunt mai putin probabile la Barbell Rows. Miscarea este mai lenta. Acest lucru face mai usor sa ridicati cu o forma adecvata. Cleans Powersunt mai rapide. Multe persoane trag bara la umeri facand o ondulare inversa ( Reverse Curl) si aplecandu-se inapoi. Acest lucru streseaza discurile coloanei vertebrale si le poate rani. Puteti face si Barbell Rows gresit si sa va raniti spatele rotunjindu-l. Dar Barbell Rows sunt mai usor de facut, deoarece sunt mai lente.
+Leziunile la nivelul spatelui inferior sunt mai putin probabile la Barbell Rows. Miscarea este mai lenta. Acest lucru face mai usor sa ridicati cu o forma adecvata. Power Clean sunt mai rapide. Multe persoane trag bara la umeri facand o ondulare inversa ( Reverse Curl) si aplecandu-se inapoi. Acest lucru streseaza discurile coloanei vertebrale si le poate rani. Puteti face si Barbell Rows gresit si sa va raniti spatele rotunjindu-l. Dar Barbell Rows sunt mai usor de facut, deoarece sunt mai lente.
 
 Esecul la Barbell Rows este mai sigur decat la Power Cleans. Daca nu puteti ridica greutatea, coborati bara inapoi pe podea. Daca nu reusiti sa ridicati greutatea pe umeri cu ajutorul Power Cleans-urilor, va trebui sa renuntati la bara. Acesta va cadea dintr-o pozitie mai inalta decat la Barbell Rows. Va face mai mult zgomot, mai ales daca faceti Power Clean fara placi de protectie sau cu platforma. Iar bara iti poate lovi bratele si picioarele in coborare, ceea ce te va durea.
 
-Cleans Power sunt sigure daca esti flexibil, folosesti o forma adecvata si ai echipamentul potrivit. Puteti lucra la imbunatatirea flexibilitatii. Puteti petrece timp si efort stapanind o forma adecvata. Si puteti cumpara placi de protectie sau sa construiti o platforma pentru a renunta la bara. Sau poti doar sa faci Barbell Row. Au nevoie de mai putina flexibilitate, sunt mai usor de invatat si necesita acelasi echipament pe care il utilizati la Deadlift. Barbell Rows sunt mai sigure pentru majoritatea oamenilor.
+Power Clean sunt sigure daca esti flexibil, folosesti o forma adecvata si ai echipamentul potrivit. Puteti lucra la imbunatatirea flexibilitatii. Puteti petrece timp si efort stapanind o forma adecvata. Si puteti cumpara placi de protectie sau sa construiti o platforma pentru a renunta la bara. Sau poti doar sa faci Barbell Row. Au nevoie de mai putina flexibilitate, sunt mai usor de invatat si necesita acelasi echipament pe care il utilizati la Deadlift. Barbell Rows sunt mai sigure pentru majoritatea oamenilor.
 
 ## Forma corecta pe Barbell Rows este mai usoara decat Power Cleans<a name="Forma-corecta-pe-Barbell-Rows-este-mai-usoara-decat-Power-Cleans"></a>
 
@@ -532,7 +532,7 @@ Mare diferenta. Si pierdeti munca de biceps pe care o obtineti de la Barbell Row
 
 Power Cleans construieste explozivitate. Ele dezvolta abilitatea de a genera rapid forta. In fizica, Puterea este cata munca puteti face intr-un anumit timp (P = L / T). Ati lucrat daca ati aplicat forta pe bara si ati mutat (Munca = Forta x Distanta). Puteti muta acea bara lent sau rapid. Daca amandoi facem [Indreptari(Deadlift)](</exercitii/spate/indreptari-(deadlifts)>) cu 200 kg, suntem la fel de puternici. Dar daca v-a luat zece secunde sa ridicati, dar eu doar doua, am mai multa putere.
 
-Trebuie sa fii puternic si rapid pentru a avea succes la sport. Ai nevoie de forta pentru a aplica forta impotriva adversarilor. Gandeste-te sa te apuci de arte martiale sau sa impingi pe cineva departe in fotbal. Mai puternic este mai bun. Dar trebuie sa generezi acea forta repede. Trebuie sa fii rapid. Nu puteti face un Cleans Power lent. Singura modalitate de a trage bara pe umeri este daca esti rapid. Asa se face ca Power Cleans isi dezvolta puterea pentru sport.
+Trebuie sa fii puternic si rapid pentru a avea succes la sport. Ai nevoie de forta pentru a aplica forta impotriva adversarilor. Gandeste-te sa te apuci de arte martiale sau sa impingi pe cineva departe in fotbal. Mai puternic este mai bun. Dar trebuie sa generezi acea forta repede. Trebuie sa fii rapid. Nu puteti face un Power Clean lent. Singura modalitate de a trage bara pe umeri este daca esti rapid. Asa se face ca Power Cleans isi dezvolta puterea pentru sport.
 
 Dar cresterea puterii creste si puterea. Nu uitati, puterea este munca / timp. Va dublati Squat-ul si cresteti cata munca depuneti in aceeasi perioada de timp. Prin urmare, esti mai puternic. Este un mit ca ridicarea greutatilor te face incet pentru sport. Nu devii „legat de muschi” daca devii mai puternic. Si o privire rapida la fizica liceului de baza arata de ce. Mai multa putere este mai multa putere.
 
@@ -550,4 +550,4 @@ Specificitatea este esentiala pentru a deveni mai puternic. Pentru a te pricepe 
 
 ## Atunci fara Power Clean?<a name="Atunci-fara-Power-Clean?"></a>
 
-Desigur ca nu. Daca sunteti interesat de ridicarea olimpica, Cleans Power sunt o prezentare excelenta. De asemenea, Power Clean sunt singurele modalitati de a obtine bara de la podea pana la umeri pe presa, daca nu aveti Power Rack. Si Cleans Power sunt distractive daca stii cum sa le faci corect. Dar perioada de invatare este mai mare, aveti nevoie de bare de protectie si puteti deveni mai puternici fara Power Cleans. Majoritatea oamenilor ar trebui sa faca doar Barbell Row.
+Desigur ca nu. Daca sunteti interesat de ridicarea olimpica, Power Clean sunt o prezentare excelenta. De asemenea, Power Clean sunt singurele modalitati de a obtine bara de la podea pana la umeri pe presa, daca nu aveti Power Rack. Si Power Clean sunt distractive daca stii cum sa le faci corect. Dar perioada de invatare este mai mare, aveti nevoie de bare de protectie si puteti deveni mai puternici fara Power Cleans. Majoritatea oamenilor ar trebui sa faca doar Barbell Row.

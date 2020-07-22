@@ -6,6 +6,7 @@ const Wrapper = styled.div`
   background: white;
   padding: 25px;
   max-width: 50rem;
+  width: 100%;
   margin: auto;
   transition: opacity 0.5s ease 0s;
   @media (max-width: ${props => props.theme.breakpoints.s}) {
@@ -33,22 +34,20 @@ const FixedWrapper = styled.div`
 
 const Button = styled.div`
   display: none;
-  /* @media (max-width: ${props => props.theme.breakpoints.s}) { */
-    background-color: rgb(32, 35, 42);
-    bottom: 44px;
-    color: rgb(97, 218, 251);
-    display: block;
-    cursor: pointer;
-    position: fixed;
-    right: 20px;
-    z-index: 3001;
-    box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 20px;
-    border-radius: 50%;
-    border-width: 1px;
-    border-style: solid;
-    border-color: rgba(255, 255, 255, 0.1);
-    border-image: initial;
-  /* } */
+  background-color: rgb(32, 35, 42);
+  bottom: 44px;
+  color: rgb(97, 218, 251);
+  display: block;
+  cursor: pointer;
+  position: fixed;
+  right: 20px;
+  z-index: 3001;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 20px;
+  border-radius: 50%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.1);
+  border-image: initial;
 `;
 const InnerButton = styled.div`
   padding-left: 20px;
@@ -83,7 +82,7 @@ const ArrowDown = styled.svg`
 
 export const TableOfContent = ({ input }) => {
   const textInput = useRef(null);
-
+  const contentHtml = input;
   const [simpleButtonState, toggleSimpleButtonState] = useState(false);
   const handleSimpleButtonClick = () => {
     toggleSimpleButtonState(!simpleButtonState);
@@ -96,7 +95,7 @@ export const TableOfContent = ({ input }) => {
           <Wrapper
             onClick={handleSimpleButtonClick}
             ref={textInput}
-            dangerouslySetInnerHTML={{ __html: input[0] }}
+            dangerouslySetInnerHTML={{ __html: contentHtml }}
           />
         </FixedWrapper>
       </Wrapper>
