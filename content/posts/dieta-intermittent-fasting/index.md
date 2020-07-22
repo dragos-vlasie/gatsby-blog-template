@@ -23,17 +23,6 @@ Postul intermitent(Intermittent Fasting) mi-a economisit foarte mult timp si str
 
 Asadar, in acest ghid, voi impartasi lectiile pe care le-am invatat despre Intermittent Fasting(Postul intermitent) si cum sa faci Postul intermitent cu [Antrenamente 5x5](/program/full-body/5x5) .
 
-<div id = "toc_container" class = "no_bullets">
-
-Cuprins <span class = "toc_toggle"> [[ascunde](#)] </span>
-
-- [<span class = "toc_number toc_depth_1"> 1 </span> Cum am inceput cu Postul intermitent] (# How_I_started_with_Intermittent_Fasting)
-- [<span class = "toc_number toc_depth_1"> 2 </span> Intrebari frecvente] (# Frequently_Asked_Questions)
-  - [<span class = "toc_number toc_depth_2"> 2.1 </span> Nu micul dejun creste metabolismul?] (# Doesn8217t_breakfast_increase_metabolism)
-  - [<span class = "toc_number toc_depth_2"> 2.2 </span> Micul dejun nu opreste modul de infometare?] (# Doesn8217t_breakfast_stop_starvation_mode)
-
-</ Div>
-
 ## <span id = "How_I_started_with_Intermittent_Fasting"> Cum am inceput cu (Intermittent Fasting)Postul intermitent </span>
 
 Citeam aceasta carte in 2016 Rock Iron Steel de Steve Justa. El a mentionat postul acolo.

@@ -13,12 +13,11 @@ const Post = ({ data, pageContext }) => {
   console.log('Post -> pageContext', pageContext);
   const { next, prev } = pageContext;
   const { html, frontmatter, excerpt } = data.markdownRemark;
-  console.log('Post -> data.markdownRemark', data.markdownRemark);
   const { date, title, tags, path, description } = frontmatter;
   const image = frontmatter.cover.childImageSharp.fluid;
   let regex = '<details(.|\n)*?</details>';
   const tableOfContent = html.match(regex);
-  console.log('Post -> tableOfContent', tableOfContent);
+
   return (
     <Layout>
       <SEO

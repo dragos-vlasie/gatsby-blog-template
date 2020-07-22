@@ -315,7 +315,7 @@ Nu va mirati daca progresia dvs. este o la tractiuni(pull-ups), in ciuda faptulu
 
 Stai departe de aparate(Assisted Pullup Machine). Daca puteti face cel putin o tractiune(Pullup), “grease the groove”, si continuati. Obtineti o bara de tractiune pentru usa(doorway pullup bar) pentru acasa si faceti o tractiune de fiecare data cand treceti pe langa aceasta. Daca nu puteti face nicio repetare, faceti negative sau utilizati o banda de rezistenta. Banda de rezistenta va va ajuta doar in partea de jos, nu in partea de sus. Si te va forta sa te echilibrezi. Acest lucru va va face mai buni la tractiuni(pull-ups) mai repede decat folosind utilaje(Assisted Pullup Machine).
 
-## Lat pulldown<a id="lat-pulldown"></a>
+## Lat pulldown<a id="lat-pulldowns"></a>
 
 Lat Pulldown este un exercitiu de aparat ca o tractiune(Pullup). Apucati bara de cablu ca si cum tineti bara la tractiune(pull-ups). Stai pe banca cu coapsele blocate sub suport. Apoi trageti bara de cablu catre partea superioara a pieptului indoind bratele. Lat Pulldown-urile sunt mai usoare decat tractiunile (pull-ups),deoarece puteti pune mai putina greutate decat greutatea dumneavoastra. Tractiunile(pull-ups) va obliga sa va ridicati greutatea corpului, care este adesea prea grea la inceput.
 

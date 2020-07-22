@@ -30,7 +30,7 @@ const headroom = css`
     }
   }
   .headroom img {
-    max-height: 30px;
+    max-height: 45px;
     min-width: 50px;
   }
   .headroom--unfixed {

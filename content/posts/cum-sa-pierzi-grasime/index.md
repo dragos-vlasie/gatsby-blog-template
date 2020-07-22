@@ -7,7 +7,7 @@ tags: ['exercitii']
 published: false
 ---
 
-# Cum sa pierzi rapid grasimea (12lb in 90 de zile)
+## Cum sa pierzi rapid grasimea (12lb in 90 de zile)
 
 Pierderea grasimii poate fi frustranta atunci cand se pare ca nu pierdeti grasime, chiar daca nu mancati mult.
 

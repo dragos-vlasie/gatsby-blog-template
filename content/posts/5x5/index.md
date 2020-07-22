@@ -600,7 +600,7 @@ Iata cateva obiective solide si INTELIGENTE pe care ar trebui sa le stabilesti..
 
 |                                                                                                              | Beginner    | Intermediate I | Intermediate II | Advanced    |
 | ------------------------------------------------------------------------------------------------------------ | ----------- | -------------- | --------------- | ----------- |
-| [Genuflexiuni](/exercitii/picioare/genoflexiuni-cu-haltera)                                                  | 100kg/220lb | 140kg/300lb    | 160kg/350lb     | 180kg/400lb |
+| [Genuflexiuni](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>)                                          | 100kg/220lb | 140kg/300lb    | 160kg/350lb     | 180kg/400lb |
 | [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) | 80kg/175lb  | 100kg/220lb    | 110kg/240lb     | 120kg/265lb |
 | [Indreptari](</exercitii/spate/indreptari-(deadlifts)>)                                                      | 140kg/300lb | 180kg/400lb    | 200kg/440lb     | 225kg/500lb |
 | [Presa deasupra capului cu bara](/exercitii/umeri/presa-deasupra-capului-cu-haltera)                         | 45kg/100lb  | 60kg/135lb     | 70kg/155lb      | 80kg/175lb  |
@@ -916,7 +916,7 @@ Daca doriti sa lucrati bratele mai mult, adaugati Dips la antrenamentul A si Chi
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5                               | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5       | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5                               |
 | [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) 5x5 | [Presa deasupra capului cu bara](/exercitii/umeri/presa-deasupra-capului-cu-haltera) 5x5 | [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) 5x5 |
-| [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              | [Indreptari](exerciti/spate/indreptari) 1x5                                              | [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              |
+| [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              | [Indreptari](exercitii/spate/indreptari) 1x5                                             | [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              |
 | Dips 3x10                                                                                                        | Chinups 3x10                                                                             | Dips 3x10                                                                                                        |
 
 </div>	
@@ -938,7 +938,7 @@ Progresul va fi lent, deoarece acestea sunt exercitii de izolare si faceti repet
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5                               | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5       | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5                               |
 | [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) 5x5 | [Presa deasupra capului cu bara](/exercitii/umeri/presa-deasupra-capului-cu-haltera) 5x5 | [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) 5x5 |
-| [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              | [Indreptari](exerciti/spate/indreptari) 1x5                                              | [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              |
+| [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              | [Indreptari](<exerciti/spate/indreptari-(deadlifts)>) 1x5                                | [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              |
 | Weighted Dips 3x5                                                                                                | Weighted Dips 3x5                                                                        | Weighted Dips 3x5                                                                                                |
 | Skullcrushers 2x8                                                                                                | Barbell Curls 2x8                                                                        | Skullcrushers 2x8                                                                                                |
 
@@ -958,7 +958,7 @@ Antrenamente 5x5 cu Extra Arm Day
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------- |
 | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5                               | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5       | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5                               | Chinups 3x5       |
 | [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) 5x5 | [Presa deasupra capului cu bara](/exercitii/umeri/presa-deasupra-capului-cu-haltera) 5x5 | [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) 5x5 | Dips 3x5          |
-| [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              | [Indreptari](exerciti/spate/indreptari) 1x5                                              | [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              | Barbell Curls 2x8 |
+| [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              | [Indreptari](<exerciti/spate/indreptari-(deadlifts)>) 1x5                                | [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              | Barbell Curls 2x8 |
 |                                                                                                                  |                                                                                          |                                                                                                                  | Skullcrushers 2x8 |
 
 </div>
@@ -969,7 +969,7 @@ Doar exercitiile pentru brate(arm work) nu este suficienta pentru a obtine brate
 
 ## Muschii abdominali<a id="muschii-abdominali"></a>
 
-Principala functie a muschilor abdominali(abs) este sa va sprijiniti coloana vertebrala. Acestea se contracta pentru a mentine coloana vertebrala neutra atunci cand stai, te misti, [Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>), [Indreptari](exerciti/spate/indreptari) etc. Acest lucru determina cresterea muschilor tai abdominali.
+Principala functie a muschilor abdominali(abs) este sa va sprijiniti coloana vertebrala. Acestea se contracta pentru a mentine coloana vertebrala neutra atunci cand stai, te misti, [Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>), [Indreptari](<exerciti/spate/indreptari-(deadlifts)>) etc. Acest lucru determina cresterea muschilor tai abdominali.
 
 Abs-urile dvs. nu pot fi vizibile daca un strat de grasime le acopera. Majoritatea baietilor trebuie sa-si reduca grasimea din corp la 10% inainte de a-si putea vedea abs. Abdomenele interminabile nu ard grasimile locale. Trebuie sa scadeti grasimea totala a corpului pentru ca “patratelele” sa apara. Faceti acest lucru mai ales imbunatatindu-va alimentatia.
 
@@ -1029,7 +1029,7 @@ Cel mai bine este sa incepeti cu doua sesiuni cardio HIIT pe saptamana. Luni pen
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5                               | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5       | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5                               |
 | [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) 5x5 | [Presa deasupra capului cu bara](/exercitii/umeri/presa-deasupra-capului-cu-haltera) 5x5 | [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) 5x5 |
-| [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              | [Indreptari](exerciti/spate/indreptari) 1x5                                              | [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              |
+| [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              | [Indreptari](<exerciti/spate/indreptari-(deadlifts)>) 1x5                                | [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              |
 | HIIT Cardio                                                                                                      |                                                                                          | HIIT Cardio                                                                                                      |
 
 </div>	
@@ -1047,7 +1047,7 @@ Singura exceptie este sambata. Daca te antrenezi luni/miercuri/vineri, atunci HI
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------- |
 | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5                               | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5       | [Genuflexiuni cu haltera](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 5x5                               | HIIT Cardio |
 | [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) 5x5 | [Presa deasupra capului cu bara](/exercitii/umeri/presa-deasupra-capului-cu-haltera) 5x5 | [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) 5x5 |             |
-| [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              | [Indreptari](exerciti/spate/indreptari) 1x5                                              | [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              |             |
+| [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              | [Indreptari](<exerciti/spate/indreptari-(deadlifts)>) 1x5                                | [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 5x5                                              |             |
 |                                                                                                                  | HIIT Cardio                                                                              |                                                                                                                  |             |
 
 </div>	
@@ -1101,7 +1101,7 @@ Creta este pulbere alba care iti imbunatateste aderenta pentru ridicare. O pui p
 
 Creta scade, de asemenea, acumularea calusului de la ridicare. Creeaza o suprafata neteda pentru bara umpland pliurile pielii tale. Ca urmare, pielea este mai putin prinsa sub bara. Obtineti calusuri din ce in ce mai mici din ridicarea greutatilor. De asemenea, opriti ruperea calusurilor atunci cand va faceti grea.
 
-Puiul nu este creta. Acesta este talc si scade frecarea. Powerlifters pun puiul de copil pe picioare atunci cand au [Indreptari](exerciti/spate/indreptari), astfel incat bara sa urce mai repede. Dar nu l-au pus niciodata pe maini, deoarece acest lucru face ca bara sa fie mai dificila si mai greu de retinut. Babypowder iti agraveaza stransoarea in loc sa o imbunatateasca.
+Puiul nu este creta. Acesta este talc si scade frecarea. Powerlifters pun puiul de copil pe picioare atunci cand au [Indreptari](<exerciti/spate/indreptari-(deadlifts)>), astfel incat bara sa urce mai repede. Dar nu l-au pus niciodata pe maini, deoarece acest lucru face ca bara sa fie mai dificila si mai greu de retinut. Babypowder iti agraveaza stransoarea in loc sa o imbunatateasca.
 
 Creta de bord nu este la fel cu creta de sala. Creta de bord este fabricata din sulfat de calciu. Creta gimnastica este fabricata din carbonat de magneziu. Este acelasi care folosesc alpinistii de piatra alba si gimnaste. Puteti gasi creta in majoritatea magazinelor de alpinism. Sau il puteti comanda online, link-uri...
 
@@ -1166,6 +1166,8 @@ Puteti lua in considerare...
 - **Invelisurile incheieturilor**. Acestea le pot oferi incheieturilor mici un sprijin suplimentar (nu le-am folosit niciodata). Dar asigurati-va ca strangeti corect bara pe Squat(Genoflexiuni cu haltera) si apasati mai intai - incheieturile drepte, fara indoire.
 
 ## Greseli comune<a id="greseli-comune"></a>
+
+<br>
 
 ### Incepand cu prea multa greutate<a id="incepand-cu-prea-multa-greutate"></a>
 

@@ -251,7 +251,7 @@ Genuflexiunile(Squats) sunt mai mult decat un exercitiu de picioare. Picioarele 
 
 Genuflexiunile(Squats) lucreaza, de asemenea, muschiul care pompeaza sangele la picioarele tale: inima ta. Si intareste muschiul dintre urechi: mintea ta. Multi oameni urasc genoflexiunile(Squats) pentru ca sunt atat de greu de facut. Dar si de aceea sunt atat de eficiente pentru a castiga forta si muschi. Oamenii care au curajul sa faca genuflexiuni in fiecare saptamana, construiesc o disciplina care devine utila in alte parti ale vietii lor (cum ar fi respectarea alimentatiei sanatoase si a obiceiurilor de somn).
 
-Daca aveti timp doar pentru a face un singur exercitiu, atunci fa genuflexiuni(Squat). Genuflexiunile (Squats) lucreaza mai multi muschi, cu mai multa greutate, pe o distanta mai mare, decat orice alt exercitiu. Greutatea este mai grea decat pe o flexie a piciorului sau extensia picioarelor. Trebuie sa echilibrezi greutatea singur, spre deosebire de Leg Press, unde stai pe un aparat. Bara se misca de doua ori mai mult decat pe [Deadlifts](/exercitii/picioare/indreptari) . Nu exista niciun inlocuitor pentru genuflexiuni(Squats). Genuflexiunile (Squats) sunt cu adevarat cele mai bune.
+Daca aveti timp doar pentru a face un singur exercitiu, atunci fa genuflexiuni(Squat). Genuflexiunile (Squats) lucreaza mai multi muschi, cu mai multa greutate, pe o distanta mai mare, decat orice alt exercitiu. Greutatea este mai grea decat pe o flexie a piciorului sau extensia picioarelor. Trebuie sa echilibrezi greutatea singur, spre deosebire de Leg Press, unde stai pe un aparat. Bara se misca de doua ori mai mult decat pe [Deadlifts](</exercitii/spate/indreptari-(deadlifts)>) . Nu exista niciun inlocuitor pentru genuflexiuni(Squats). Genuflexiunile (Squats) sunt cu adevarat cele mai bune.
 
 ## Videoclipuri<a id="videoclipuri"></a>
 
@@ -747,7 +747,7 @@ Daca faci genuflexiunile “Ass-to-grass” sau ATG trebuie sa flexezi pana la c
 
 Iata un videoclip cu Weight Lifter-ul Dimitry Klokov, care face genuflexiuni “ass-to-grass”. El flexeaza pana la capat si chiar face o pauza. Bara se sprijina pe spate (bara inalta), care este singura cale de a face acest tip de genuflexiuni. Poarta wraps pentru genunchi, cel mai probabil sa absoarba o parte din greutate (verificati cat de indoiti sunt genunchii in partea de jos). Trunchiul sau este vertical in partea de jos, dar se apleaca inainte pe drum pentru a-si antrena soldurile puternice, in timp ce tine pieptul sus.
 
-<div class="videoWrapper" style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="1100" height="619" src="https://www.youtube.com/embed/4ZiYs8DRnEY?start=90&feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+<div class="videoWrapper" style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="1100" height="619" src="https://www.youtube.com/embed/i9j_B0XVAv4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
 Majoritatea oamenilor nu au flexibilitatea si structura soldului pentru genuflexiuni(squats) de tipul Ass-to-Grass cu o forma adecvata, cum o face Klokov. Partea inferioara a spatelui se va curba cel mai probabil in partea de jos (unii numesc asta „butt wink”). Rotunjirea coloanei vertebrale atunci cand inca susti o greutate, iti va apasa pe discurile inferioare ale spatelui si pot aparea hernii. Genunchii pot lua si o bataie cu ATG Squats daca cobori repede si va reculati articulatiile genunchiului in locul muschilor.
 
@@ -759,7 +759,7 @@ Genuflexiunile din fata sunt genuflexiunile(Squats) in care bara este pozitionat
 
 Iata Dmitry Klokov facand genuflexiuni(Squats) cu bara in fata cu 265 kg / 583lb. El foloseste o prindere curata. Mainile lui sunt deschise, astfel incat umerii lui sa sustina greutatea, nu mainile. El flexeaza pana cand partea superioara a soldului este sub partea superioara a genunchilor. Poarta benzi(wraps) pentru genunchi si incheieturi pentru a absorbi o parte din greutate (coatele sale sunt destul de scazute, cel mai probabil al tau s-ar accidenta daca incercati acest lucru fara wraps). Trunchiul lui ramane in pozitie verticala pentru a tine bara pe umeri.
 
-<div class="videoWrapper" style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="1100" height="619" src="https://www.youtube.com/embed/4ZiYs8DRnEY?start=90&amp;feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+<div class="videoWrapper" style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; margin-bottom: 20px;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="1100" height="619" src="https://www.youtube.com/embed/4ZiYs8DRnEY?start=90&feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
 Genuflexiunile cu bara in fata sunt mai grele pentru genunchi, coate si incheieturi decat genuflexiunile (Squats) cu bara in spate. Genunchii se misca mai inainte in partea de jos pentru a mentine bara echilibrata peste oasele metatarsiene.
 
@@ -812,7 +812,7 @@ _Genuflexiuni cu kettlebells (sau gantere): aderenta este factorul limitative_
 
 Genuflexiuni cu ganterele sunt genuflexiuni(Squats) cu gantere. Tine-le pe umerii din fata si flexeaza. Beneficiu: nu aveti nevoie de un Power Rack. Dezavantaj: nu poti lucra cu greutati mari. Tinand 50 kg pe fiecare umar este mai greu decat o bara de 100 kg pe spate. Si mai intai trebuie sa obtii acele gantere pe umeri. Progresia este si ea mai grea, deoarece majoritatea ganterelor cresc cu 2kg / 5lb. Acest lucru va obliga sa adaugati 4 kg / 10lb la fiecare antrenament fata de 2,5 kg / 5lb cu bara.
 
-Ai putea sa tii ganterele langa tine. Dar acest lucru transforma Genuflexiuni cu ganterele in Dumbbell [Deadlifts](/exercitii/picioare/indreptari). Pentru ca ganterele lovesc podeaua inainte de a putea rupe paralela(break parallel). Soldurile tale nu pot merge sub genunchi. Nu poti sa-ti lucrezi picioarele si corpul printr-o gama completa de miscare, spre deosebire de atunci cand flexezi cu o bara pe spate. In schimb, faci jumatate de genuflexiune (Squat). Iar priza dvs. va esua inaintea picioarelor,doar daca nu folositi curele.
+Ai putea sa tii ganterele langa tine. Dar acest lucru transforma Genuflexiuni cu ganterele in Dumbbell [Deadlifts](</exercitii/spate/indreptari-(deadlifts)>). Pentru ca ganterele lovesc podeaua inainte de a putea rupe paralela(break parallel). Soldurile tale nu pot merge sub genunchi. Nu poti sa-ti lucrezi picioarele si corpul printr-o gama completa de miscare, spre deosebire de atunci cand flexezi cu o bara pe spate. In schimb, faci jumatate de genuflexiune (Squat). Iar priza dvs. va esua inaintea picioarelor,doar daca nu folositi curele.
 
 Mai bine faci Genuflexiuni cu ganterele, decat sa nu faci nimic. Daca nu ai facut niciodata nicio activitate fizica in viata ta si esti in forma, acestea vor oferi corpului tau ceva de lucru. In sfarsit, ganterele devin usoare si pun in dificultate flexarea intense/grea. De aceea nu sunt inlocuitori ai genuflexiunilor cu halterele(barbell). Daca oricum faci genuflexiuni cu gantere, nu te astepta sa castigi forta si muschi si sa progresezi ca cineva care face genuflexiuni cu haltere grele.
 
@@ -857,7 +857,7 @@ Nu. Latimea soldului este determinata de structura oaselor. Nu exista prea multi
 ## Ce pot face in loc de genuflexiuni(Squats)?<a id="ce-pot-face-in-loc-de-squats?"></a>
 
 Puteti face genuflexiuni cu bara inalta(high bar), daca genuflexiunile cu bara joasa(low bar) va cauzeaza dureri in zona umeriilor.
-Dar exercitiile fizice nu iti lucreaza corpul prin aceeasi gama de miscare si cu greutati maxime precum genuflexiunile(Squats). Inlocuirea genufleinilor(Squats) va insemna intotdeauna sa lucrezi cu mai putina greutate (glute bridges, lunges, dumbbell Squat), o gama mai scurta de miscare ( [Deadlifts](/exercitii/picioare/indreptari) ) sau fara a fi nevoie de echilibru (Smith Squats, Leg Press).
+Dar exercitiile fizice nu iti lucreaza corpul prin aceeasi gama de miscare si cu greutati maxime precum genuflexiunile(Squats). Inlocuirea genufleinilor(Squats) va insemna intotdeauna sa lucrezi cu mai putina greutate (glute bridges, lunges, dumbbell Squat), o gama mai scurta de miscare ( [Deadlifts](</exercitii/spate/indreptari-(deadlifts)>) ) sau fara a fi nevoie de echilibru (Smith Squats, Leg Press).
 
 Nu exista niciun inlocuitor pentru genuflexiuni(Squats). De aceea, genuflexiunile(Squats) sunt rege pentru forta si dimensiune.
 

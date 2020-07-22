@@ -62,7 +62,9 @@ const Layout = ({ children }) => (
             columns: 2;
             list-style: none;
           }
-
+          details summary {
+            opacity: 0;
+          }
           @media (max-width: ${theme.breakpoints.s}) {
             .contents .contents-ul {
               column-count: 1;
@@ -81,7 +83,7 @@ const Layout = ({ children }) => (
             color: ${theme.colors.linkHover};
           }
           h1 {
-            font-size: 5rem;
+            font-size: 4rem;
             font-weight: bold;
             font-family: ${theme.fontFamily.heading};
           }

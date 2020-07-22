@@ -2,7 +2,7 @@
 path: '/impinsul-cu-haltera-de-la-piept-bench-press'
 cover: './blocks.jpg'
 date: '2020-02-15'
-title: 'Bench press'
+title: 'Impinsul cu haltera de la piept (Bench Press)'
 tags: ['exercitii']
 subCategory: ['piept']
 published: true
@@ -29,7 +29,7 @@ Impinsul cu haltera de la piept(Bench Press) este un exercitiu compus pentru int
 
 Pentru a evita durerile de umar, miscati-va coatele la 75 ° cand coborati bara. Nu incercati sa va intindeti (stretch) pieptul miscand coatele la 90 °. Va veti afecta umerii daca bratele superioare sunt perpendiculare cu trunchiul din partea de jos. Muta-ti coatele cu 75 ° pentru a te antrena fara dureri.
 
-Spre deosebire de [genuflexiuni(Squat)](/exercitii/picioare/squads) sau [Indreptari(Deadlift)](</exercitii/spate/indreptari-(deadlifts)>), bara nu se misca intr-o linie verticala atunci cand faceti Impinsul cu haltera de la piept(Bench Press) cu o forma corespunzatoare. Se misca in diagonala de la mijlocul pieptului peste umeri. Acesta este cel mai sigur mod de a face Impinsul cu haltera de la piept(Bench Press) pentru umeri. Este, de asemenea, cel mai eficient mod de face Impinsul cu haltera de la piept(Bench Press) cu o greutate mare.
+Spre deosebire de [genuflexiuni(Squat)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) sau [Indreptari(Deadlift)](</exercitii/spate/indreptari-(deadlifts)>), bara nu se misca intr-o linie verticala atunci cand faceti Impinsul cu haltera de la piept(Bench Press) cu o forma corespunzatoare. Se misca in diagonala de la mijlocul pieptului peste umeri. Acesta este cel mai sigur mod de a face Impinsul cu haltera de la piept(Bench Press) pentru umeri. Este, de asemenea, cel mai eficient mod de face Impinsul cu haltera de la piept(Bench Press) cu o greutate mare.
 
 Acesta este ghidul definitiv pentru o forma corespunzatoare pe Impinsul cu haltera de la piept(Bench Press).
 
@@ -411,13 +411,13 @@ _Nu va ridicati fundul de pe banca. Asa trisati. Arcuieste-ti spatele inferior, 
 ![Impinsul cu haltera de la piept Unracking](./assets/impinsul-cu-haltera-de-la-piept-unrack.jpg)
 _Apasati bara in sus pentru a o scoate din montanti(uprights). Apoi mutati-o inainte pe umeri. Nu coborati bara direct de pe montanti(uprights)._
 
-- **Ochii sub bara**. Intinde-te pe banca cu ochii sub bara. Acest lucru reduce distanta dintre Power Rack si umeri. Face greutatea mai usoara si mai sigura de deblocat. Daca va aflati mai jos, va trebui sa mutati bara mai departe pentru a ajunge la umeri. Aceasta risipeste puterea si este mai putin sigura. Este ca si cum ai face o [tractiune](/exercitii/pull-ups)(lat pullover) inaintea de Bench Press. Ai putea sa pierzi bara si sa-ti faci rau. Muta-te mai sus, astfel incat ochii sa fie sub bara.
+- **Ochii sub bara**. Intinde-te pe banca cu ochii sub bara. Acest lucru reduce distanta dintre Power Rack si umeri. Face greutatea mai usoara si mai sigura de deblocat. Daca va aflati mai jos, va trebui sa mutati bara mai departe pentru a ajunge la umeri. Aceasta risipeste puterea si este mai putin sigura. Este ca si cum ai face o [tractiune](/exercitii/spate/tractiuni)(lat pullover) inaintea de Bench Press. Ai putea sa pierzi bara si sa-ti faci rau. Muta-te mai sus, astfel incat ochii sa fie sub bara.
 
 - **Umerii inapoi**. Tine-ti umerii inapoi pe banca atunci cand descarci greutatea. Incepe cu omoplatele contractate si pieptul in sus. Stai incordat. Nu lasa umerii sa inainteze. Daca o fac, coborati montantii (uprights). Coatele trebuie sa fie indoite cand apucati bara. Deblocati-o, indreptandu-va bratele, nu ridicand din umeri. Acest lucru ii tine inapoi pe banca.
 
 - **Blocheaza-ti coatele**. Ridicati bara de pe montanti(uprights) blocand coatele. Tineti-le fixate in timp ce deplasati bara la umeri. Nu deblocati cu coatele indoite. Ai putea sa pierzi bara si sa-ti afectezi fata. Lasa-ti scheletul mai puternic sa poarte greutatea, nu muschii. Blocarea coatelor nu este rea atata timp cat nu le hiper-extindeti. Daca coatele sunt blocate inainte de a desface bara, coborati montantii(uprights).
 
-- **Bara pana la umerii, intai**. Muta bara de la Power Rack la umeri inainte sa o cobori. Echilibreaza-o mai intai peste umeri. Nu coborati bara de la montanti(uprights) la piept intr-o linie inclinata. Te situezi intr-o pozitie slaba daca cobori bara de deasupra fetei. Este ca si cum ai face Lat Pullups([tractiuni](/exercitii/pull-ups)). Bara iti poate cadea pe fata si poti muri. Deblocati bara, mutati-o la umerii si apoi coborati-o.
+- **Bara pana la umerii, intai**. Muta bara de la Power Rack la umeri inainte sa o cobori. Echilibreaza-o mai intai peste umeri. Nu coborati bara de la montanti(uprights) la piept intr-o linie inclinata. Te situezi intr-o pozitie slaba daca cobori bara de deasupra fetei. Este ca si cum ai face Lat Pullups([tractiuni](/exercitii/spate/tractiuni)). Bara iti poate cadea pe fata si poti muri. Deblocati bara, mutati-o la umerii si apoi coborati-o.
 
 ## Coborarea<a id="coborarea"></a>
 
@@ -461,7 +461,7 @@ _Impingeti bara departe de piept pana va trece de umeri. Tineti-va incheieturile
 ![Impinsul cu haltera de la piept Lockout](./assets/impinsul-cu-haltera-de-la-piept-lockout.jpg)
 _Tineti bara cu bratele drepte peste umeri. Nu o tine in spate sau in fata umerilor. Nu o tineti nici cu coatele deblocate, dar este nesigur._
 
-- **Bara peste umeri**. Bara este echilibrata atunci cand o tineti deasupra umerilor. Bara tinuta deasupra pieptului se simte mai grea. Este ca si cum ai face un front raise. Bara peste fata este, de asemenea, mai grea. Este ca o [tractiune](/exercitii/pull-ups). Testeaza: blocheaza o bara goala peste umeri. Mut-o pe pieptul tau. Apoi peste fata ta. Apoi inapoi peste umeri. Observati cum bara peste umeri este mai usoara. Acest lucru se datoreaza faptului ca este in punctul dvs. de echilibru. Intrerupeti fiecare repetare aici.
+- **Bara peste umeri**. Bara este echilibrata atunci cand o tineti deasupra umerilor. Bara tinuta deasupra pieptului se simte mai grea. Este ca si cum ai face un front raise. Bara peste fata este, de asemenea, mai grea. Este ca o [tractiune](/exercitii/spate/tractiuni). Testeaza: blocheaza o bara goala peste umeri. Mut-o pe pieptul tau. Apoi peste fata ta. Apoi inapoi peste umeri. Observati cum bara peste umeri este mai usoara. Acest lucru se datoreaza faptului ca este in punctul dvs. de echilibru. Intrerupeti fiecare repetare aici.
 
 - **Blocheaza-ti coatele**. Finalizati fiecare repetare blocand coatele. Nu le tine indoite pentru a mentine tensiunea sau pentru a va simti mai mult muschii. Ai putea sa scapi bara pe fata si sa mori. Blocheaza-ti coatele astfel incat scheletul tau, mai puternic, sa tina greutatea in varf, nu si muschii. Coatele vor fi in siguranta, atata timp cat nu-ti hiper-extindeti coatele. Blocati-le in partea de sus, dar nu treceti peste intervalul lor normal de miscare.
 
@@ -470,7 +470,7 @@ _Tineti bara cu bratele drepte peste umeri. Nu o tine in spate sau in fata umeri
 ![Impinsul cu haltera de la piept Racking](./assets/impinsul-cu-haltera-de-la-piept-racking.jpg)
 _Ridicati mai intai bara peste umeri. Apoi mutati-o inapoi pe Power Rack. Odata ce o atinge, indoaie-ti bratele pentru a fixa bara in montantii suportului(uprights)._
 
-- **Bara peste umeri, in primul rand**. Nu faceti Impinsul cu haltera de la piept direct pe montanti. Ii puteti rata apasand bara de sub ei. Daca nu nimeriti montantii(uprights), coatele vor fi indoite intr-o pozitie asemanatoare cu cea cand faceti [tractiuni](/exercitii/pull-ups). Va va fi greu sa tineti bara, o puteti scapa pe fata si puteti muri. Intotdeauna fixati bara peste umeri, mai intai. Nu va grabiti. Apoi mutati bara inapoi pe Power Rack. Indoiti-va bratele pentru a o cobori pe montanti(uprights).
+- **Bara peste umeri, in primul rand**. Nu faceti Impinsul cu haltera de la piept direct pe montanti. Ii puteti rata apasand bara de sub ei. Daca nu nimeriti montantii(uprights), coatele vor fi indoite intr-o pozitie asemanatoare cu cea cand faceti [tractiuni](/exercitii/spate/tractiuni). Va va fi greu sa tineti bara, o puteti scapa pe fata si puteti muri. Intotdeauna fixati bara peste umeri, mai intai. Nu va grabiti. Apoi mutati bara inapoi pe Power Rack. Indoiti-va bratele pentru a o cobori pe montanti(uprights).
 
 - **Blocheaza-ti coatele**. Coatele trebuie blocate inainte de a muta bara inapoi pentru a o ridica. Greutatea grea este mai greu de tinut cu coatele indoite. Greutatea cea mai grea de tinut este greutatea pe care o puteti scapa mai usor. Daca bara va cadea pe fata, te va rani sau te va ucide. Impingeti bara peste umeri si blocati coatele. Nu-i extindeti, blocati-i usor. Apoi mutati bara inapoi pe Power Rack cu bratele drepte.
 - **Tintiti Power Rack-ul**. Fixati(Rack) bara, mutand-o inapoi pe montantii(uprights) Power Rack-ului. Apoi coborati-o pe montanti(uprights) indoind bratele. Nu tintiti direct montantii(uprights), puteti sa nu nimeriti. Nu va intoarceti capul pentru a privi montantii(uprights), va poate rasuci gatul. Daca sunteti asezat corespunzator pe banca,ati setat in mod corect montantii)uprights, iar bara atinge Power Rack-ul, bara va fi peste montanti(uprights). Pur si simplu indoaie-ti bratele pentru a o fixa.
@@ -584,7 +584,7 @@ Este posibil sa fie nevoie sa descarcati bara pentru a o pune in montanti dupa u
 .
 Benching-ul fara spotter nu inseamna “hand-off”. Trebuie sa desprindeti singur bara de montanti (uprights). Umerii tai pot cobori de pe banca in timp ce faci asta. Acest lucru este mai putin eficient pentru rezistenta maxima, deoarece pierdeti etanseitatea. Acesta este motivul pentru care aproape toti powerlifters primesc “hand-off” de la un spotter atunci cand concureaza. Ii ajuta sa-si tina umerii in spate si incordati. Si economiseste energie pentru antrenamentul efectiv.
 
-Unii oameni considera ca Bench Pressing in Power Rack este o eticheta proasta pentru sala. Ei cred ca Power Racks-urile sunt doar pentru genuflexiuni(Squats). Nu este cazul. Curls din rack sunt proaste, deoarece nu aveti nevoie de carlige de siguranta. Ai nevoie de ele pentru Bench Press. Daca deranjezi un Squatter, spune-i lui sa faca [genuflexiuni(Squat))](/exercitii/picioare/squads) in timp ce te odihnesti. Scoate banca si ajuta-i pe toti sa incarce bara. S-ar putea sa va gasiti un partener de pregatire pentru a face [Antrenamente 5x5](/program/full-body/5x5) .
+Unii oameni considera ca Bench Pressing in Power Rack este o eticheta proasta pentru sala. Ei cred ca Power Racks-urile sunt doar pentru genuflexiuni(Squats). Nu este cazul. Curls din rack sunt proaste, deoarece nu aveti nevoie de carlige de siguranta. Ai nevoie de ele pentru Bench Press. Daca deranjezi un Squatter, spune-i lui sa faca [genuflexiuni(Squat))](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) in timp ce te odihnesti. Scoate banca si ajuta-i pe toti sa incarce bara. S-ar putea sa va gasiti un partener de pregatire pentru a face [Antrenamente 5x5](/program/full-body/5x5) .
 
 ## Cum sa esuezi in siguranta<a id="cum-sa-esuezi-in-siguranta"></a>
 
@@ -708,7 +708,7 @@ Blocarea coatelor este sigura pentru articulatii. Ceea ce este rau este sa-i for
 ![Impinsul cu haltera de la piept Racking](./assets/impinsul-cu-haltera-de-la-piept-racking.jpg)
 _Tineti bara cu bratele drepte peste umeri. Nu o tine in spatele sau in fata umerilor. Nu o tineti nici cu coatele deblocate, nu este sigur._
 
-Deblocati bara cu coatele blocate. Muta o deasupra umeri inainte sa cobori. Nu lasati bara de la montanti (uprights) la mijlocul pieptului. Bara trebuie sa porneasca de deasupra umerilor pentru a avea o rezistenta corespunzatoare si echilibru. Coborarea barei din spatele umerilor este nesigura. Face greutatea mai dificila de tinut, ca si cum ai face [tractiuni](/exercitii/pull-ups). Luati-va timp pentru a debloca(unrack) bara. Mutati bara peste umeri inainte de a o cobori. Acest lucru este mai sigur.
+Deblocati bara cu coatele blocate. Muta o deasupra umeri inainte sa cobori. Nu lasati bara de la montanti (uprights) la mijlocul pieptului. Bara trebuie sa porneasca de deasupra umerilor pentru a avea o rezistenta corespunzatoare si echilibru. Coborarea barei din spatele umerilor este nesigura. Face greutatea mai dificila de tinut, ca si cum ai face [tractiuni](/exercitii/spate/tractiuni). Luati-va timp pentru a debloca(unrack) bara. Mutati bara peste umeri inainte de a o cobori. Acest lucru este mai sigur.
 
 Duceti mai intai bara peste umeri. Apoi mutati-o inapoi pe Power Rack. Odata ce il atingeti, indoaie-ti bratele pentru a fixa bara pe montanti(uprights).
 
@@ -806,7 +806,7 @@ Nu faceti Bench Press cu greutati mari fara Power Rack sau spotter. Nu va antren
 ![Impinsul cu haltera de la piept Unracking](./assets/impinsul-cu-haltera-de-la-piept-unrack.jpg)
 _Impingeti bara in sus pentru a o scoate din montanti(uprights). Apoi mutati-o inainte pe umeri. Nu coborati bara direct de pe montanti(uprights)._
 
-Nu deblocati(unrack) bara de pe montanti(uprights) direct la piept. Aceasta lucru misca bara peste cap in loc de umeri. Face bara mai greu de tinut. Nu ai echilibru cu bara in spatele umerilor. Este ca si cum ai face [tractiuni](/exercitii/pull-ups)). Ai putea pierde bara si scapa-o pe fata. Deblocati (unrack) bara mutand-o mai intai peste umeri. Echilibrati-o. Apoi coborati bara pana la piept. Luati-va timp pentru a debloca(unrack) inainte de a face Bench Press.
+Nu deblocati(unrack) bara de pe montanti(uprights) direct la piept. Aceasta lucru misca bara peste cap in loc de umeri. Face bara mai greu de tinut. Nu ai echilibru cu bara in spatele umerilor. Este ca si cum ai face [tractiuni](/exercitii/spate/tractiuni)). Ai putea pierde bara si scapa-o pe fata. Deblocati (unrack) bara mutand-o mai intai peste umeri. Echilibrati-o. Apoi coborati bara pana la piept. Luati-va timp pentru a debloca(unrack) inainte de a face Bench Press.
 
 ![Impinsul cu haltera de la piept Racking](./assets/impinsul-cu-haltera-de-la-piept-racking.jpg)
 _Duceti mai intai bara peste umeri. Apoi mutati-o inapoi pe Power Rack. Odata ce-l atinge, indoaie-ti bratele pentru a fixa(rack) bara pe montanti (uprights)._
@@ -861,7 +861,7 @@ Este incorect sa faci Impinsul cu haltera de la piept cu picioarele in aer sau p
 
 Nu trebuie sa faceti Impinsul cu haltera de la piept cu picioarele in aer pentru a-ti simti mai mult muschii. Cand faceti Bench Press cu 100 kg pentru 5 × 5 veti simti acest lucru in muschii dumneavoastra. Iar cel mai rapid mod de a ajunge acolo este sa puneti picioarele pe podea, astfel incat sa va puteti utiliza picioarele. Ridicarea picioarelor este un truc pentru a-ti mentine pieptul si spatele plat. Ideea este sa va „izolati” pieptul. Intr-adevar, face ca Bench Press sa fie mai greu pe umeri, asa cum am explicat mai sus. Nu o face.
 
-Faceti Impinsul cu haltera de la piept cu picioarele pe podea. Tot piciorul trebuie sa fie plat pe podea, inclusiv calcaiele. Puneti-va picioarele la o distanta egala cu latimea umerilor ca atunci cand faceti [Genuflexiuni(Squat)](/exercitii/picioare/squads), astfel incat sa aveti un echilibru optim. Picioarele tale trebuie sa fie direct sub genunchi sau usor in spate. Nu faceti Impinsul cu haltera de la piept cu picioarele prea apropiate. Este mai putin stabil. Nu faceti Impinsul cu haltera de la piept cu picioarele in fata genunchilor. Nu puteti folosi picioarele daca picioarele sunt prea in fata.
+Faceti Impinsul cu haltera de la piept cu picioarele pe podea. Tot piciorul trebuie sa fie plat pe podea, inclusiv calcaiele. Puneti-va picioarele la o distanta egala cu latimea umerilor ca atunci cand faceti [Genuflexiuni(Squat)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>), astfel incat sa aveti un echilibru optim. Picioarele tale trebuie sa fie direct sub genunchi sau usor in spate. Nu faceti Impinsul cu haltera de la piept cu picioarele prea apropiate. Este mai putin stabil. Nu faceti Impinsul cu haltera de la piept cu picioarele in fata genunchilor. Nu puteti folosi picioarele daca picioarele sunt prea in fata.
 
 Daca spatele inferior doare cand picioarele sunt pe podea, verificati coloana vertebrala. Ar trebui sa aiba un arc natural ca atunci cand stai. Nu arcuiti partea inferioara a spatelui prea mult deoarece iti vei pune discurile coloanei vertebrale in pericol. Acest lucru va durea. Daca coloana vertebrala este neutra, dar continua sa doara, verificati inaltimea bancii. S-ar putea sa fie prea inalta pentru conformatia dvs. Daca picioarele tale sunt scurte, pune ceva sub ele pentru a te ridica. Acest lucru va va mentine spatele neutru.
 ul incheieturilor. Nu lasati incheieturile sa se indoaie. Greutatea ii va indoi peste nivelul lor normal de miscare, ceea ce le va afecta. Prindeti bara in maini, aproape de incheieturi, pentru a opri durerile incheieturilor. Acesta este cel mai sigur si mai eficient mod de a face Bench Press.
@@ -963,7 +963,7 @@ Acesta este si modul in care iti cresti „pieptul interior si exterior”. Ambe
 
 Declin Bench Press(declin) este un Impinsul cu haltera de la piept(Bench Press) declin in declin (done decline). Intindeti-va pe banca, cu soldurile mai sus decat capul. Aveti nevoie de o banca de declin cu atasamente pentru picioare, astfel incat sa nu alunecati in jos in timp ce faceti Bench Press cu greutatea. Deblocati bara, coborati-o la pieptul inferior si impingeti-o inapoi. Faceti Impinsul cu haltera de la piept(Bench Press) intr-un Power Rack sau cu un spotter pentru a nu te rani daca nu reusesti. Majoritatea oamenilor fac Bench Press Decline cu scopul de a-si viza „pieptul inferior”…
 
-Declin Bench Press este o pierdere de timp. Nu puteti izola pieptul inferior, asa cum am explicat mai sus, deoarece muschii pieptului se contracta in acelasi timp. Puteti sa-l vizati prin declin benching, dar raza de miscare este scurta, deoarece bratele sunt inclinate si aproape de trunchi. Aceasta este precum ai face jumatate de Genulfexiuni (Squats). Doar creste-ti Bench Press si pieptul inferior va creste automat. In cel mai rau caz adaugati [dips](/exercitii/piept/dips) pentru a va tinti pieptul inferior.
+Declin Bench Press este o pierdere de timp. Nu puteti izola pieptul inferior, asa cum am explicat mai sus, deoarece muschii pieptului se contracta in acelasi timp. Puteti sa-l vizati prin declin benching, dar raza de miscare este scurta, deoarece bratele sunt inclinate si aproape de trunchi. Aceasta este precum ai face jumatate de Genulfexiuni (Squats). Doar creste-ti Bench Press si pieptul inferior va creste automat. In cel mai rau caz adaugati [dips](<(/exercitii/piept/flotari-la-paralele)>) pentru a va tinti pieptul inferior.
 
 ## Bench Press cu gantere (Dumbbell Bench Press)<a id="bench-press-cu-gantere"></a>
 
@@ -991,7 +991,7 @@ Benching-ul greu cu aparate iti pune umerii in pericol. Nu o face. Nu folositi m
 
 Flotarile (Pushup) sunt un exercitiu compus, cu greutate corporala, care iti lucreaza pieptul, umerii, bratele, abdomenul si muschii spatelui inferior. Intindeti-va cu burta pe podea. Pune mainile sub umeri si indreapta-ti degetele in sus. Coatele ar trebui sa fie la aproximativ 75 ° (fara a va atinge trunchiul sau a fi perpendicular –flaring) ridicati-va de podea indreptandu-ti bratele. Blocati-va coatele in partea de sus.
 
-Flotarile (Pushups) sunt un exercitiu minunat, dar nu sunt un inlocuitor al Bench Press-ului. Flotarile (Pushups) lucreaza muschi similari. Dar este greu sa te antrenezi cu greutari mari. Nu puteti utiliza o centura dip, cum faceti la [dips](/exercitii/piept/dips) si Tullups. Puteti pune un disc pe spate, dar aveti nevoie de un spotter pentru asta si poate cadea. Puteti purta o vesta x, puneti lanturi in jurul gatului sau puteti folosi o banda de rezistenta. Dar este mai simplu sa faci doar cu bara si sa adaugi 2,5 kg / 5lb la fiecare antrenament.
+Flotarile (Pushups) sunt un exercitiu minunat, dar nu sunt un inlocuitor al Bench Press-ului. Flotarile (Pushups) lucreaza muschi similari. Dar este greu sa te antrenezi cu greutari mari. Nu puteti utiliza o centura dip, cum faceti la [dips](<(/exercitii/piept/flotari-la-paralele)>) si Tullups. Puteti pune un disc pe spate, dar aveti nevoie de un spotter pentru asta si poate cadea. Puteti purta o vesta x, puneti lanturi in jurul gatului sau puteti folosi o banda de rezistenta. Dar este mai simplu sa faci doar cu bara si sa adaugi 2,5 kg / 5lb la fiecare antrenament.
 
 Am facut flotari (Pushups) inainte de a incepe sa ridic greutati. Nu am putut face o repriza prima data pentru ca nu am facut sport pentru prima jumatate a vietii. Eram atat de slaba, incat am facut flotari (Pushups) in genunchi. Dar am continuat si, in cele din urma, puteam face 70 de flotari (Pushups) la rand pe coate. Au devenit mai usoare si mi-am dat seama dupa un timp ca nu ma simt mai puternic sau mai musculos. Construiam rezistenta. Asa ca m-am inscris la sala si am inceput sa ridic greutati.
 
@@ -1007,7 +1007,7 @@ Exercitiile de izolare si variatiile Bench Press va pot ajuta sa va mariti Bench
 
 Treceti de la Bench Press o data pe saptamana la de doua ori pe saptamana. Faceti Bench Press luni, odihniti-va, apoi faceti-o din nou vineri. Utilizati acelasi stil Bench Press in ambele zile, cel pe care doriti sa il imbunatatiti. Pentru majoritatea oamenilor asta inseamna Impinsul cu haltera de la piept(Bench Press) cu banca plata in ambele zile. Prin cresterea frecventei de antrenare, practicati mai multa miscarea. Forma ta se imbunatateste si devine mai eficienta. Acest lucru creste puterea de a face Bench Press.
 
-Majoritatea oamenilor va vor spune sa efectuati exercitiile fizice pentru a va mari Bench Press-ul. Pentru a face Pushups, Dumbbell Bench, Close Grip Bench Press, [dips](/exercitii/piept/dips) si asa mai departe. Dar acest lucru functioneaza rar. In timp ce aceste exercitii vor consolida muschii pe care ii utilizati pe Impinsul cu haltera de la piept(Bench Press), ei nu antreneaza miscarea/ deplasarea. Este ca si cum ai incerca sa devii mai bun la vioara, cantand la chitara. Nu conteaza daca sunt ambele instrumente cu coarde. Nu este la fel. Ai nevoie sa faci exercitii specifice.
+Majoritatea oamenilor va vor spune sa efectuati exercitiile fizice pentru a va mari Bench Press-ul. Pentru a face Pushups, Dumbbell Bench, Close Grip Bench Press, [dips](<(/exercitii/piept/flotari-la-paralele)>) si asa mai departe. Dar acest lucru functioneaza rar. In timp ce aceste exercitii vor consolida muschii pe care ii utilizati pe Impinsul cu haltera de la piept(Bench Press), ei nu antreneaza miscarea/ deplasarea. Este ca si cum ai incerca sa devii mai bun la vioara, cantand la chitara. Nu conteaza daca sunt ambele instrumente cu coarde. Nu este la fel. Ai nevoie sa faci exercitii specifice.
 
 Nu mai ganditi ca un culturist si incepeti sa ganditi ca un sportiv. Da, trebuie sa-ti consolidezi muschii. Dar trebuie sa exersezi si abilitatea de a face Bench Press. Si obtineti mai multa experienta prin Bench Pressing mai des. Mai multa experienta este echivalentul unei forme mai bune si o capacitatea de a face Impinsul cu haltera de la piept(Bench Press) mai mare. Treceti de la a face Bench Press o data pe saptamana la de doua ori pe saptamana. Verificati programul 5 × 5 Antrenamente: vei face Bench Press la fiecare antrenament
 
@@ -1034,7 +1034,7 @@ Indiferent de nivelul la care va aflati, exista intotdeauna loc pentru a imbunat
 
 ## Adaugati greutate pe bara<a id="adaugati-greutatea-pe-bara"></a>
 
-[Milo-Croton](./assets/milo-croton)
+[Milo-Croton](./assets/milo-croton.jpg)
 Legenda spune ca Milo din Croton si-a imbunatatit puterea, transportand un bou in fiecare zi. Adaugati greutate pentru a deveni mai puternic.
 
 Pentru a face Impinsul cu haltera de la piept greu, trebuie sa faceti Bench Press greu. Nu puteti construi puterea pentru a face Bench Press cu 100kg / 220lb daca va antrenati cu jumatate din greutate de fiecare data. Cu toate acestea, unii oameni se asteapta la asta. Ei fac Bench Press cu aceeasi greutate saptamana dupa saptamana, luna dupa luna, uneori an dupa an. Apoi se intreaba de ce Bench Press-ul lor nu creste niciodata, sau mai rau, scade. Se datoreaza faptului ca nu oferiti corpului niciun motiv pentru a deveni mai puternic.
