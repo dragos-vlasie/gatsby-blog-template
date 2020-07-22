@@ -7,7 +7,7 @@ published: true
 
 ## Nutritie pentru pregatirea fortei si ridicarea greutatilor
 
-Cea mai buna dieta este cea la pe care o poti urma.
+Cea mai buna dieta este cea pe care o poti urma.
 
 Nu trebuie sa incetati sa mancati carbohidrati sau grasimi. Nu trebuie sa mananci o cantitate imensa de proteine. Nu trebuie sa mananci la fiecare 3 ore.
 

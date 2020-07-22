@@ -24,14 +24,18 @@ const headroom = css`
       margin-bottom: 0;
     }
   }
+  .headroom img {
+    max-height: 45px;
+    min-width: 50px;
+  }
   @media (max-width: ${theme.breakpoints.s}) {
     .headroom {
       padding: 0.8rem 0.6rem;
     }
-  }
-  .headroom img {
-    max-height: 45px;
-    min-width: 50px;
+    .headroom img {
+      max-height: 30px;
+      min-width: 40px;
+    }
   }
   .headroom--unfixed {
     position: relative;

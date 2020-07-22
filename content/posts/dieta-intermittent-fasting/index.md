@@ -2,7 +2,7 @@
 path: '/intermittent-fasting'
 cover: './blocks.jpg'
 date: '2020-06-15'
-title: 'Dieta reguli de baza'
+title: 'Postul intermitent (Intermittent Fasting) '
 tags: ['alimentatie']
 published: true
 ---

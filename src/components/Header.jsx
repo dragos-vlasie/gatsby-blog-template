@@ -56,6 +56,24 @@ const Subtitle = styled(animated.p)`
   color: ${props => props.theme.colors.white.blue};
 `;
 
+const Date = styled(animated.p)`
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  margin-bottom: 1.45rem;
+  color: inherit;
+  font-family: 'Candal', -apple-system, 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica',
+    'Arial', sans-serif;
+  font-weight: 500;
+  text-rendering: optimizeLegibility;
+  font-size: 1.31951rem;
+  line-height: 1.1;
+`;
+
 const Header = ({ children, title, date, cover, big }) => {
   const titleProps = useSpring({
     from: { opacity: 0, transform: 'translate3d(0, -30px, 0)' },
@@ -75,9 +93,9 @@ const Header = ({ children, title, date, cover, big }) => {
         <animated.h1 data-testid="header-title" style={titleProps}>
           {title}
         </animated.h1>
-        <animated.h3 data-testid="header-title" style={subProps}>
+        <Date data-testid="header-title" style={subProps}>
           {date}
-        </animated.h3>
+        </Date>
 
         {children && <Subtitle style={subProps}>{children}</Subtitle>}
       </Text>

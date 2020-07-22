@@ -50,7 +50,7 @@ Post.propTypes = {
 
 export const query = graphql`
   query($pathSlug: String!) {
-    markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
+    markdownRemark(frontmatter: { path: { eq: $pathSlug }, published: { eq: true } }) {
       html
       excerpt
       frontmatter {
