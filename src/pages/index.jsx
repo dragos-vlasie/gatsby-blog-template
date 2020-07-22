@@ -46,7 +46,6 @@ const Index = ({ data }) => {
             const { id, excerpt, frontmatter } = node;
             const { cover, path, title, date, tags } = frontmatter;
             const subCategoryPath = frontmatter.subCategory ? '/' + frontmatter.subCategory : '';
-            console.log('Index -> subCategoryPath', subCategoryPath);
             return (
               <PostList
                 key={id}

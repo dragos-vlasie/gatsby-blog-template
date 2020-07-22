@@ -124,7 +124,7 @@ Obiectivul tau este sa adaugi greutate la fiecare antrenament. Nu veti putea fac
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#greutatea-cu-care-sa-incepi"> 2.10 Greutatea cu care sa incepi</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#incalzire"> 2.11 Incalzire</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pauzele"> 2.12 Pauzele</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Obiectivele de forta"> 2.13 Obiectivele de forta</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#obiectivele-de-forta"> 2.13 Obiectivele de forta</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
@@ -132,7 +132,7 @@ Obiectivul tau este sa adaugi greutate la fiecare antrenament. Nu veti putea fac
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#esecuri">3.1 Esecuri</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#faza-de-descarcare(deload)"> 3.2 Faza de descarcare(deload)</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#3x5/3x3/1x3"> 3.3 3x5/3x3/1x3</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#3x5"> 3.3 3x5/3x3/1x3</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#madcow"> 3.4 Madcow 5×5</a></li>
          </ul>
       </li>
@@ -141,7 +141,7 @@ Obiectivul tau este sa adaugi greutate la fiecare antrenament. Nu veti putea fac
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#febra-musclulara">4.1 Febra musclulara 
            </a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nutritie"> 4.2</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nutritie"> 4.2 Nutritia</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#proteina"> 4.3 Proteina</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#apa"> 4.4 Apa</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#odihna(somnul)"> 4.5 Odihna(somnul)</a></li>
@@ -581,7 +581,7 @@ Apropo - sarirea unui antrenament nu este o pauza. Pauze pe care le planuiesti i
 
 <!-- Retineti ca aplicatia Antrenamente va va spune cu ce greutate sa incepeti dupa pauza. Urmareste cat timp nu te-ai antrenat si recomanda reduceri de greutate adecvate. Acest lucru previne repetarile ratate si durerile de dupa pauza. Descarcati-l aici . -->
 
-## Obiectivele de forta<a id="obiective"></a>
+## Obiectivele de forta<a id="obiectivele-de-forta"></a>
 
 Obiectivele iti dau directie. Acestea va reamintesc ce trebuie sa faceti pentru a ajunge acolo unde doriti. Ele elimina distragerile, tinandu-va concentrat pe ceea ce conteaza. Stabiliti obiectivele de rezistenta SMART...
 
@@ -632,9 +632,12 @@ Impartiti-va obiectivele in mini-obiective. Inainte de a putea [Squat(Genoflexiu
 
 Va recomand sa setati obiectivul Intermediar I pana in ziua de anul viitor. Stabiliti obiectivele pentru incepator in urmatoarele sase luni. Stabiliti si obiectivele de coerenta. Acum imprimati acest lucru si agatati-l undeva unde va veti vedea obiectivele zilnic - pe frigider, baie, sala de gimnastica, orice. Apoi faceti treaba.
 
-## Esecuri<a id="esecuri"></a>
+## Esecuri<a id="plafoane"></a>
 
-Repetari esuate
+<br>
+
+## Repetari esuate
+
 Esecul face parte din joc. Nu puteti adauga greutate la fiecare antrenament pentru totdeauna. Toata lumea se plafoneaza in cele din urma, altfel acest lucru ar fi prea usor. Esecul repetarilor nu este sfarsitul lumii si nu va face un esec.
 
 Uneori “esuati” anumite exercitii pentru ca aveti o zi proasta. Nu ati dormit bine aseara. Nu ati mancat astazi. Ati avut o zi lunga la serviciu. Mintea ta este in alta parte. Te simti rau. Se intampla. Ceea ce conteaza este ca oricum continui. Faceti tot posibilul azi, veti face mai bine urmatorul antrenament.
@@ -708,7 +711,7 @@ Ceea ce descarcarea(deload) nu rezolva reprezinta antrenamentele esuate cauzate 
 
 Faceti antrenamentele si exercitiile in mod constant pentru a va declansa corpul pentru a deveni mai puternic. Ia mici salturi de greutate, astfel incat corpul tau sa poata face fata efortului. Si obtineti suficienta mancare si somn, astfel incat corpul dvs. sa se poata recupera din stresul respectiv. Daca nu, eliminarea nu va fi eficienta - vei continua sa esuezi.
 
-## 3x5/3x3/1x3<a id="3x3"></a>
+## 3x5/3x3/1x3<a id="3x5"></a>
 
 Treceti la trei seturi de cinci repetari (3×5) atunci cand progresul pe 5×5 se opreste. Treceti la trei seturi de trei repetari (3×3) atunci cand progresul pe 3×5 se opreste. Comutati la un set greu de trei repetari, urmat de doua seturi mai usoare de intoarcere (1x3) atunci cand progresul pe 3×3 stagneaza. Nu micsorati greutatea interminabile, astfel incat sa puteti ramane cu 5×5.
 
@@ -840,7 +843,7 @@ Imi incep zilele band doua pahare de apa. Imi iau mereu o sticla de apa cu mine 
 
 Este posibil sa aveti un moment dificil cu gustul apei, pentru ca sunteti obisnuiti sa beti sucuri. Beti in continuare pana va obisnuiti. Puteti adauga bucati de lamaie pentru a da gustul apei daca doriti.
 
-## Odihna(somnul)<a id="somnul"></a>
+## Odihna(somnul)<a id="odihna(somnul)"></a>
 
 Corpul tau elibereaza hormoni de constructie musculara precum testosteronul si hormonul de crestere atunci cand dormi. Te ajuta sa te recuperezi din antrenamentele tale. Dormi opt ore pe noapte pentru a maximiza recuperarea.
 

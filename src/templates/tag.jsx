@@ -28,10 +28,7 @@ const Information = styled.div`
 `;
 
 const Tag = ({ pageContext, data }) => {
-  console.log('Tag -> data', data);
-  console.log('Tag -> pageContext', pageContext);
   const { posts, upperTag } = pageContext;
-  console.log('Tag -> upperTag', upperTag);
   const { html, frontmatter } = data.markdownRemark;
   const image = frontmatter.cover.childImageSharp.fluid;
 

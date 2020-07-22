@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useRef } from 'react';
 import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
 
@@ -25,7 +25,6 @@ const FixedWrapper = styled.div`
     bottom: 0;
     right: 0;
     position: fixed;
-    background-color: rgb(255, 255, 255);
     height: 100vh;
     overflow-y: auto;
     pointer-events: ${props => (props.show ? 'auto' : 'none')};
@@ -81,17 +80,24 @@ const ArrowDown = styled.svg`
   transform: ${props => (props.show ? 'translate(2px, -8px) ' : 'translate(2px,4px)')};
   transition: transform 0.2s ease 0s;
 `;
+
 export const TableOfContent = ({ input }) => {
-  console.log('TableOfContent -> input', input);
+  const textInput = useRef(null);
 
   const [simpleButtonState, toggleSimpleButtonState] = useState(false);
-  const handleSimpleButtonClick = () => toggleSimpleButtonState(!simpleButtonState);
+  const handleSimpleButtonClick = () => {
+    toggleSimpleButtonState(!simpleButtonState);
+  };
 
   return (
     <>
       <Wrapper>
         <FixedWrapper show={simpleButtonState}>
-          <Wrapper dangerouslySetInnerHTML={{ __html: input }} />
+          <Wrapper
+            onClick={handleSimpleButtonClick}
+            ref={textInput}
+            dangerouslySetInnerHTML={{ __html: input[0] }}
+          />
         </FixedWrapper>
       </Wrapper>
       <Button onClick={handleSimpleButtonClick}>
@@ -119,7 +125,7 @@ export const TableOfContent = ({ input }) => {
                     -231.5279,231.248 -231.873,231.248 -0.3451,0 -104.688,
                     -104.0616 -231.873,-231.248 z
                     "
-                    fill="currentColor"
+                    fill="#3498db"
                   ></path>
                 </g>
               </ArrowUp>
@@ -144,7 +150,7 @@ export const TableOfContent = ({ input }) => {
                     -231.5279,231.248 -231.873,231.248 -0.3451,0 -104.688,
                     -104.0616 -231.873,-231.248 z
                     "
-                    fill="currentColor"
+                    fill="#3498db"
                   ></path>
                 </g>
               </ArrowDown>
