@@ -1,17 +1,17 @@
 import React from 'react';
 import { graphql, Link } from 'gatsby';
-import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
 import { Layout, Container, Content } from 'layouts';
 import { TagsBlock, Header, SEO } from 'components';
 import '../styles/prism';
-import FadeIn from '../elements/FadeIn';
 import Suggestions from '../elements/Suggestions';
 import TableOfContent from '../elements/TableOfContent';
 
 const Post = ({ data, pageContext }) => {
+  console.log('Post -> data', data);
   const { next, prev } = pageContext;
   const { html, frontmatter, excerpt } = data.markdownRemark;
+  console.log('Post -> excerpt', excerpt);
   const { date, title, tags, path, description } = frontmatter;
   const image = frontmatter.cover.childImageSharp.fluid;
   let regex = '<details(.|\n)*?</details>';
@@ -52,6 +52,7 @@ export const query = graphql`
   query($pathSlug: String!) {
     markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
       html
+      excerpt
       frontmatter {
         date
         title

@@ -16,7 +16,7 @@ const Wrapper = styled.div`
 const FixedWrapper = styled.div`
   /* display: none; */
   /* @media (max-width: ${props => props.theme.breakpoints.s}) { */
-    display: block;
+    display: flex;
     z-index: 3000;
     opacity: ${({ show }) => (show ? '1' : '0')};
     transition: opacity 0.5s ease 0s;

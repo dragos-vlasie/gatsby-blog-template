@@ -60,7 +60,7 @@ Acesta este ghidul definitiv pentru o forma corecta a tractiunilor(pull-ups). De
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#problume-comune"> 3 Probleme comune</a>
+         <a style="font-size:16px;" href="#probleme-comune"> 3 Probleme comune</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#a-trisa">3.1 A trisa(Cheating)</a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nu-pot-face-nicio-tractiune(pull-ups)"> 3.2 Nu pot face o singura tractiuni (pull-ups) </a></li>
@@ -220,6 +220,8 @@ _Trageti barbia peste bara, in partea de sus a tractiunii(pull-ups). Jumatate de
 - **Respirati in partea de jos**. Stati agatati de bara cu bratele drepte si picioarele dezlipite de pe podea. Respirati puternic, mentineti-o si trageti-va in sus. Du barbia peste bara. Apoi coborati pana jos, pana cand bratele sunt drepte. Expirati in partea de jos si lasati totul sa se intinda(stretch). Oferiti-va o secunda pentru a va aduna, apoi inspirati si trageti-va din nou in sus. Repetati pana cand setul dvs. s-a incheiat.
 
 ## Probleme comune<a id="probleme-comune"></a>
+
+<br>
 
 ## Cheating(A trisa)<a id="a-trisa"></a>
 

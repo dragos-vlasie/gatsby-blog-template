@@ -884,6 +884,8 @@ Cel mai bun mod de a va verifica pozitia ta este sa te filmezi. Obtineti un trep
 
 ## Probleme cu Indreptarile<a id="probleme-cu-indreptarile"></a>
 
+<br>
+
 ## Dureri ale spatelui inferior<a id="dureri-ale-spatelui-inferior"></a>
 
 ![Indreptari with a neutral spine to avoid lower back pain](./assets/indreptari-lower-back.jpg)

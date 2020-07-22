@@ -63,7 +63,11 @@ const Layout = ({ children }) => (
             list-style: none;
           }
           details summary {
-            opacity: 0;
+            pointer-events: none;
+          }
+          p em {
+            text-align: center;
+            display: block;
           }
           @media (max-width: ${theme.breakpoints.s}) {
             .contents .contents-ul {

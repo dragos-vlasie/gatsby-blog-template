@@ -9,7 +9,7 @@ published: true
 
 ## Reguli simple de nutritie pentru a deveni mai puternic si a dezvolta musculatura<a name="reguli-simple-de-nutritie-pentru-a-deveni-mai-puternic-si-a-dezvolta-musculatura"></a>
 
-## Nutritia poate fi atat de complicata.<a name="nutritia-poate-fi-atat-de-complicata."></a>
+## Nutritia poate fi atat de complicata<a name="nutritia-poate-fi-atat-de-complicata"></a>
 
 Cu cateva decenii in urma, grasimile erau rele. Apoi, carbohidratii au devenit rai. Acum glutenul este sursa raului. Carnea rosie a capatat si ea o reputatie proasta. Intre timp, culturistii iti spun sa mananci la fiecare 3 ore in timp ce intermittent fasting(postul intermitent) a devenit popular ...
 
@@ -26,9 +26,9 @@ Acest ghid este despre asta. Voi impartasi obiceiuri simple de nutritie pe care 
       <li style="list-style:none;">
          <a style="font-size:16px;" href="#reguli-simple-de-nutritie-pentru-a-deveni-mai-puternic-si-a-dezvolta-musculatura"> 1 Reguli simple de nutritie pentru a deveni mai puternic si a dezvolta musculatura</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nutritia-poate-fi-atat-de-confuza"> Nutritia poate fi atat de confuza.</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nutritia-poate-fi-atat-de-complicata"> Nutritia poate fi atat de complicata</a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#consuma-in-mare-parte-alimente-neprocesate"> Consuma in mare parte alimente neprocesate</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#mananca-proteine-cu-fiecare-masa-"> Mananca proteine cu fiecare masa </a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#mananca-proteine-cu-fiecare-masa"> Mananca proteine cu fiecare masa </a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#mananca-legume-cu-fiecare-masa"> Mananca legume cu fiecare masa</a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#limitati-raportul-de-carbohidrati"> Limitati raportul de carbohidrati</a></li>
             <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#mancati-grasimi-bune"> Mancati grasimi bune</a></li>
@@ -46,7 +46,6 @@ Acest ghid este despre asta. Voi impartasi obiceiuri simple de nutritie pe care 
               <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#care-este-un-exemplu-de-plan-de-masa?"> Care este un exemplu de plan de masa?</a></li>
               <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ar-trebui-sa-mananc-mai-putin-/-mai-mult-in-zilele-de-antrenament?"> Ar trebui sa mananc mai putin / mai mult in zilele de antrenament?</a></li>
               <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-ar-trebui-sa-arate-lista-mea-alimentara?"> Cum ar trebui sa arate lista mea alimentara?</a></li>
-              <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#consuma-in-mare-parte-alimente-neprocesate"> Consuma in mare parte alimente neprocesate</a></li>
          </ul>
       </li>
    </ul>
@@ -55,7 +54,7 @@ Acest ghid este despre asta. Voi impartasi obiceiuri simple de nutritie pe care 
 
 ## Consuma in mare parte alimente neprocesate<a name="consuma-in-mare-parte-alimente-neprocesate"></a>
 
-Alimentele neprocesate au fost nealterate - le puteti cumpara in starea lor naturala.
+Alimentele neprocesate nu au fost alterate - le puteti cumpara in starea lor naturala.
 
 Un exemplu de mancare neprocesata este un mar care tocmai a fost cules din copac. Singura prelucrare este sa speli marul, apoi il poti manca.
 
@@ -68,7 +67,7 @@ Principalul beneficiu al consumului de alimente neprocesate este faptul ca aveti
 
 Prima regula nutritionala este sa va concentrati pe consumul cat mai mult de alimente neprocesate. Este in regula sa mananci prajiturele din cand in cand. O fac. Dar majoritatea meselor pe care le consumi ar trebui sa fie din alimente neprocesate, astfel incat sa ai un control mai bun asupra cator calorii intra in sistemul tau.
 
-## Mananca proteine ​​cu fiecare masa <a name="mananca-proteine-​​cu-fiecare-masa "></a>
+## Mananca proteine ​​cu fiecare masa <a name="mananca-proteine-cu-fiecare-masa"></a>
 
 Proteinele sunt cruciale pentru obtinerea rezultatelor la ridicarea greutatilor. Fara suficienta proteina nu veti obtine recuperarea corespunzatoare si nu veti obtine progrese adecvate.
 
@@ -197,7 +196,7 @@ Din nou, ceea ce conteaza cel mai mult este cat de multe calorii mananci si sa o
 
 Nu. Este bine daca mananci micul dejun, pranzul si cina, cu o gustare poate dupa-amiaza. De asemenea, este in regula daca nu mananci micul dejun, dar faci [intermittent-fasting(postul intermitent)](https://stronglifts.com/intermittent-fasting/). Ceea ce conteaza cel mai mult este ca mananci suficiente calorii pe zi si sa iti iei proteine ​​zilnic.
 
-### Trebuie sa beau un shake de proteine ​​dupa antrenament?<a name="trebuie-sa-beau-un-shake-de-proteine-​​dupa-antrenament?"></a>
+### Trebuie sa beau un shake de proteine ​​dupa antrenament?<a name="trebuie-sa-beau-un-shake-de-proteine-dupa-antrenament?"></a>
 
 Nu. Nu exista nimic special in shake-urile proteice. Zerul este doar proteina din ​​lactate, similar cu ceea ce obtineti din consumul de branza / iaurt sau de a bea lapte. Nu aveti nevoie de antrenament dupa proteine ​​cu digerare rapida pentru o mai buna recuperare musculara. Puteti manca doar o masa obisnuita solida care consta din proteine ​​si carbohidrati (carne si orez cu legume, de exemplu). Singurul beneficiu al bauturilor de proteine ​​este ca acestea sunt usor de facut si portabile.
 
@@ -215,7 +214,7 @@ Zilele fara antrenament ar avea o masa mai putin. Daca va place [intermittent-fa
 
 Evident, aceasta dieta reprezinta unele dintre preferintele mele alimentare personale care sunt influentate de educatia mea. Intrucat cea mai buna dieta este cea pe care o poti urma, „planul tau de masa” ar trebui sa reflecte preferintele tale. Nu are sens sa mananci ca mine sau altcineva atunci cand nu iti place jumatatea mancarurilor pe care le mananca.
 
-### Ar trebui sa mananc mai putin / mai mult in zilele de antrenament?<a name="ar-trebui-sa-mananc-mai-putin-/-mai-mult-in-zilele-de-antrenament"></a>
+### Ar trebui sa mananc mai putin / mai mult in zilele de antrenament?<a name="ar-trebui-sa-mananc-mai-putin-/-mai-mult-in-zilele-de-antrenament?"></a>
 
 Eu o fac. Mananc mai putin in zilele in care nu ma antrenez decat in ​​zilele in care am antrenament. Pentru ca nu mananc o masa dupa-antrenament atunci cand nu fac antrenament. De asemenea, sunt arse mai putine calorii, deoarece nu a s-a facut niciun antrenament in acea zi.
 
