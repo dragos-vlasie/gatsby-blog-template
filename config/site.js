@@ -11,7 +11,7 @@ module.exports = {
   banner: 'static/logo/body-builder.png',
   // JSONLD / Manifest
   favicon: 'static/logo/favicon-body.png', // Used for manifest favicon generation
-  shortName: 'MuschiLG', // shortname for manifest. MUST be shorter than 12 characters
+  shortName: 'Antrenamente 5x5', // shortname for manifest. MUST be shorter than 12 characters
   author: 'Dragos', // Author for schemaORGJSONLD
   themeColor: '#3e7bf2',
   backgroundColor: '#d3e0ff',
