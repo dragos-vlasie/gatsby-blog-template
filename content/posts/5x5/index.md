@@ -106,7 +106,7 @@ Obiectivul tau este sa adaugi greutate la fiecare antrenament. Nu veti putea fac
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#prezentare-generala">1.1 Rezultate tipice</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#muschi-lucrati"> 1.2 Muschi lucrati</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#de-ce-functioneaza-acest-program?"> 1.3 De ce functioneaza acest program?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#istoria-antrenamente"> 1.4 Istoria Antrenamente de 5×5</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#istoria-antrenamente"> 1.4 Istoria Antrenamente 5×5</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
@@ -463,7 +463,7 @@ O tehnica avansata care functioneaza bine la Bench and [OverheadPress(Presa deas
 
 ## Zile de odihna<a id="zile-de-odihna"></a>
 
-Faceti trei antrenamente Antrenamente 5×5 pe saptamana. Asteptati cel putin o zi intre doua antrenamente. Daca ridicati Luni/Miercuri/Vineri, veti avea patru zile de odihna pe saptamana in zilele de mar, joi, sambata si duminica.
+Faceti trei sesiuni de Antrenamente 5×5 pe saptamana. Asteptati cel putin o zi intre doua antrenamente. Daca ridicati Luni/Miercuri/Vineri, veti avea patru zile de odihna pe saptamana in zilele de mar, joi, sambata si duminica.
 
 Zilele de odihna sunt cruciale pentru a obtine rezultate la acest program. Greutatea iti streseaza corpul la fiecare antrenament. Acest lucru il face sa devina mai puternic si sa creeze masa musculara, astfel incat sa poata face fata mai bine greutatii la urmatorul antrenament. Dar corpul tau are nevoie de timp pentru a se recupera, pentru a castiga forta si pentru a adauga muschi.
 
@@ -1134,9 +1134,9 @@ Cel mai bine este sa purtati pantofi cu talpa din plastic dur sau cauciuc dens. 
 
 Elevii olimpici folosesc pantofi de haltere. Au talpi din lemn sau plastic dur care nu se comprima. Tocurile ii ajuta sa ajunga paralel mai usor, punandu-si mai mult inclinatiile. Si curelele metatarsiene care strabat pantoful impiedica piciorul sa se miste.
 
-Unii powerlifters folosesc si incaltaminte pentru haltere. Am castigat cu castiguri necinstite o perioada, dar nu mi-au placut - m-au facut sa ma aplec. Prietenul meu Mike Tuschcherer, care [Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 700lb a pus talpi plate pe pantofii de haltere. Acest lucru ii confera stabilitatea curelei metatarsiene, dar fara calcaie.
+Unii powerlifters folosesc si incaltaminte pentru haltere. Am castigat cu castiguri necinstite o perioada, dar nu mi-au placut - m-au facut sa ma aplec. Mike Tuschcherer, care [Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 700lb a pus talpi plate pe pantofii de haltere. Acest lucru ii confera stabilitatea curelei metatarsiene, dar fara calcaie.
 
-Se pare ca construirea ta va determina daca pantofii de haltere functioneaza mai bine pentru tine. Insa pantofii de haltere sunt scumpi. Cel mai bine este sa incepeti mai intai cu un pantof simplu si sa-l luati de acolo.
+Se pare ca construcia ta va determina daca pantofii de haltere functioneaza mai bine pentru tine. Insa pantofii de haltere sunt scumpi. Cel mai bine este sa incepeti mai intai cu un pantof simplu si sa-l luati de acolo.
 
 ## Curea<a id="curea"></a>
 

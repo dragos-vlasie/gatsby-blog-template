@@ -1,5 +1,5 @@
 ---
-path: '/impinsul-cu-haltera-de-la-piept-bench-press'
+path: '/impinsul-cu-haltera-de-la-piept'
 cover: './impins-cu-haltera-de-la-piept1.jpg'
 date: '2020-07-16'
 title: 'Impinsul cu haltera de la piept (Bench Press)'

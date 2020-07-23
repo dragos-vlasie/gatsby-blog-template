@@ -1,5 +1,5 @@
 ---
-path: '/genuflexiuni-cu-bara-(Squats)'
+path: '/genuflexiuni-cu-bara'
 cover: './genuflexiuni.jpg'
 date: '2020-07-20'
 title: 'Genuflexiuni cu bara (Squats)'
@@ -253,11 +253,11 @@ Genuflexiunile(Squats) lucreaza, de asemenea, muschiul care pompeaza sangele la 
 
 Daca aveti timp doar pentru a face un singur exercitiu, atunci fa genuflexiuni(Squat). Genuflexiunile (Squats) lucreaza mai multi muschi, cu mai multa greutate, pe o distanta mai mare, decat orice alt exercitiu. Greutatea este mai grea decat pe o flexie a piciorului sau extensia picioarelor. Trebuie sa echilibrezi greutatea singur, spre deosebire de Leg Press, unde stai pe un aparat. Bara se misca de doua ori mai mult decat pe [Deadlifts](</exercitii/spate/indreptari-(deadlifts)>) . Nu exista niciun inlocuitor pentru genuflexiuni(Squats). Genuflexiunile (Squats) sunt cu adevarat cele mai bune.
 
-## Videoclipuri<a id="videoclipuri"></a>
+<!-- ## Videoclipuri<a id="videoclipuri"></a>
 
 Puteti sa ma vedeti facand genuflexiuni( Squats) cu o forma corecta si raspunzand la cele mai comune intrebari despre genuflexiuni(Squat), in general, din videoclipurile 5 × 5 Antrenamente . Videoclipul antrenamentului A 5 × 5 de la Antrenamente este mai jos. Puteti vedea videoclipul antrenamentului B Antrenamente in care fac, de asemenea, genuflexiuni aici. Retineti ca voi face genuflexiuni cu greutatea cu care veti lucra in saptamana 8/9 din [Antrenamente 5x5](/program/full-body/5x5) . Daca doriti sa vedeti cum fac genuflexiuni(Squat) cu o greutate mai mare, verificati in schimb acest videoclip .
 
-Iata un al doilea videoclip in care ma puteti vedea facand genuflexiuni(Squat) cu 170kg / 374lb pentru cinci repetari. Daca se pare ca ma aplec prea mult in fata, amintiti-va ca fac genuflexiuni cu bara joasa si am un trunchi scurt cu coapsele lungi. Acest lucru ma obliga sa ma aplec mai mult pentru a tine bara peste mijlocul piciorului. Daca as incerca sa fac genuflexiuni mai putin adanci, cu conformatia mea, si pozitia barei astfel,mi-as pierde echilibrul. Aceasta postura functioneaza pentru mine, iar spatele inferior este in siguranta, deoarece ramane neutru.
+Iata un al doilea videoclip in care ma puteti vedea facand genuflexiuni(Squat) cu 170kg / 374lb pentru cinci repetari. Daca se pare ca ma aplec prea mult in fata, amintiti-va ca fac genuflexiuni cu bara joasa si am un trunchi scurt cu coapsele lungi. Acest lucru ma obliga sa ma aplec mai mult pentru a tine bara peste mijlocul piciorului. Daca as incerca sa fac genuflexiuni mai putin adanci, cu conformatia mea, si pozitia barei astfel,mi-as pierde echilibrul. Aceasta postura functioneaza pentru mine, iar spatele inferior este in siguranta, deoarece ramane neutru. -->
 
 ## Protectia/Siguranta exercitiu<a id="protectia"></a>
 

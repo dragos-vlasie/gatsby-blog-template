@@ -1,5 +1,5 @@
 ---
-path: '/indreptari-(deadlifts)'
+path: '/indreptari'
 cover: './halfthor.jpg'
 date: '2020-07-21'
 title: 'Indreptari (Deadlifts)'
