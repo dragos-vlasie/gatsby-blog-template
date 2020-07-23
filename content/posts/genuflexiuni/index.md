@@ -127,8 +127,8 @@ Acesta este ghidul definitiv pentru o forma adecvata a exercitiului Squat. Acope
       <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#front-squat">8.3 Front Squat</a></li>
       <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#box-squat">8.4 Box Squat</a></li>
       <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#smith-squat">8.5 Smith Squat</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#leg-press">8.6 Leg Press</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#dumbbell-squat">8.7 Dumbbell Squat</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#leg-press">8.6 Presa pentru picioare</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#genuflexiuni-cu-ganterele">8.7 Genuflexiuni cu ganterele</a></li>
     </ul>
   </li>
   <li style="list-style:none;">
@@ -805,7 +805,7 @@ Poate vrei sa faci Smith Squats pentru ca esti intimidat de greutati libere. Smi
 
 Leg Press este o masina/un aparat in care indepartati greutatea cu picioarele. Unele masini Leg Press sunt inclinate cu 45 °, altele sunt orizontale. Dar nu vor inlocui niciodata genuflexiunile(Squats). Greutatea se misca, tu nu. Nu echilibrezi greutatea, masina/aparatul face asta. Mergeti prea adanc, iar spatele inferior se va rotunji in partea de jos si va preseaza discurile coloanei vertebrale. Cu exceptia cazului in care nu aveti brate pentru a tine bara pe spate, ramaneti la genuflexiunile libere.
 
-## Genuflexiuni cu ganterele<a id="dumbbell-quat"></a>
+## Genuflexiuni cu ganterele<a id="genuflexiuni-cu-ganterele"></aGenuflexiuni cu ganterele
 
 ![Genuflexiuni cu ganterele(Squats)](<./assets/dumbbell-Genuflexiuni-cu-bara(Squats).jpg>)
 _Genuflexiuni cu kettlebells (sau gantere): aderenta este factorul limitative_

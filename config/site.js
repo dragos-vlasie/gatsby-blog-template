@@ -8,6 +8,7 @@ module.exports = {
   siteUrl: 'https://blissful-stonebraker-79eda2.netlify.com',
   url: 'https://blissful-stonebraker-79eda2.netlify.com',
   logo: 'static/logo/body-builder', // Used for SEO
+  logoPWA: 'static/logo/maskable_icon.png', // Used for SEO
   banner: 'static/logo/body-builder.png',
   // JSONLD / Manifest
   favicon: 'static/logo/favicon-body.png', // Used for manifest favicon generation
