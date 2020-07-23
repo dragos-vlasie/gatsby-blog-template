@@ -22,7 +22,7 @@ const FixedWrapper = styled.div`
     opacity: ${({ show }) => (show ? '1' : '0')};
     transition: opacity 0.5s ease 0s;
     top: 0;
-    left: 0;
+    left: 16px;
     bottom: 0;
     right: 0;
     position: fixed;

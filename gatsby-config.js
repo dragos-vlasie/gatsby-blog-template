@@ -57,7 +57,12 @@ module.exports = {
         background_color: config.backgroundColor,
         theme_color: config.themeColor,
         display: 'standalone',
-        icon: config.favicon,
+        icon: {
+          src: `${__dirname}/static/maskable_icon`,
+          sizes: '97x97',
+          type: 'image/png',
+          purpose: 'any maskable',
+        },
       },
     },
     'gatsby-plugin-offline',
