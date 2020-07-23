@@ -26,7 +26,7 @@ In caz contrar, veti pierde timpul la antrenamente si exercitii aleatorii, in sp
 
 Asa ca va voi arata un program pe care mii de oameni l-au folosit pentru a-si creste rapid Genuflexiunile cu bara(Squat), Impins cu halterea de la piept(Bench Press) si Indreptari(Deadlift).
 
-De fapt, eu am folosit acest program ("[Antrenamente 5x5](/program/full-body/5x5)”) pentru a-mi creste Genuflexiunile cu bara(Squat) de la 90kg la 140kg, Impins cu halterea de la piept(Bench Press) la 120kg si Indreptari(Deadlift) la 180kg… in numai 6 luni.
+De fapt, eu am folosit acest program ("[Antrenamente 5x5](/program/5x5/)”) pentru a-mi creste Genuflexiunile cu bara(Squat) de la 90kg la 140kg, Impins cu halterea de la piept(Bench Press) la 120kg si Indreptari(Deadlift) la 180kg… in numai 6 luni.
 
 Am reusit sa ajung la Genuflexiuni cu bara(Squat) de 140kg dupa numai 6 luni
 
@@ -34,4 +34,4 @@ Cea mai buna parte? Sunt doar 3 exercitii, 3x / saptamana, 45min pe antrenament.
 
 Acest program este o munca grea. Dar este simplu, eficient si usor de urmat. Este, de asemenea, cel mai rapid mod pe care l-am descoperit pentru a mi creste rapid puterea.
 
-Daca doriti sa incercati antrenamentul [Antrenamente 5x5](/program/full-body/5x5) gratuit, da ti click pe butonul de mai jos pentru a avea acces instantaneu la programul meu de antrenament.
+Daca doriti sa incercati antrenamentul [Antrenamente 5x5](/program/5x5/) gratuit, da ti click pe butonul de mai jos pentru a avea acces instantaneu la programul meu de antrenament.

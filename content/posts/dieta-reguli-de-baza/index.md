@@ -148,7 +148,7 @@ Deshidratarea va provoca dureri de cap. Acelasi tip de dureri de cap pe care le 
 
 De cata apa aveti nevoie depinde de cat de mult transpirati, si asta depinde de anotimp si de unde traiti. Daca ma antrenez in Bangkok, Thailanda in timpul verii, voi transpira mai mult si pot bea cu usurinta 3-4 sticle de apa. Dar probabil ca beau doar 3 litri pe zi, cand este iarna in Romania.
 
-Nu aveti nevoie de toate aceste bauturi zaharoase. Acesta nu este un [antrenament](/program/full-body/5x5) de rezistenta lunga. Aici doar ridicati greutati. Antrenamentele sunt scurte si petreci cea mai mare parte a timpului intre seturi.
+Nu aveti nevoie de toate aceste bauturi zaharoase. Acesta nu este un [antrenament](/program/5x5/) de rezistenta lunga. Aici doar ridicati greutati. Antrenamentele sunt scurte si petreci cea mai mare parte a timpului intre seturi.
 
 Doar adu o sticla de apa la sala. Beti in timpul antrenamentului. De obicei, beau aproximativ 1,5 litri in timpul antrenamentului meu.
 

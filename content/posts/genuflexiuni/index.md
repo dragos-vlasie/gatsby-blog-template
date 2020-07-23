@@ -20,10 +20,10 @@ Iata cum sa faci genuflexiuni cu o forma adecvata, folosind o barila:
 4. Revino in pozitia initiala, mentinand genunchii in afara si pieptul sus
 5. Stai cu soldurile si genunchii blocati in partea de sus
 
-Tineti greutatea o secunda in varf. Respira. Apoi inspirati puternic, tineti-o si faceti urmatoarea genuflexiune. Repetati pana cand ati facut cinci repetari pe [Antrenamente 5x5](/program/full-body/5x5) .
+Tineti greutatea o secunda in varf. Respira. Apoi inspirati puternic, tineti-o si faceti urmatoarea genuflexiune. Repetati pana cand ati facut cinci repetari pe [Antrenamente 5x5](/program/5x5/) .
 Squats-ul iti lucreaza intregul corp. Picioarele se indoaie si se indreapta pentru a muta greutatea. Muschii abs si partea inferioara a spatelui va stabilizeaza trunchiul, in timp ce picioarele se misca. Partea superioara a spatelui, umerii si bratele echilibreaza bara din spate. Multi muschi functioneaza in acelasi timp, nu doar picioarele.
 
-Genuflexiuni cu bara este regele tuturor exercitiilor. Lucreaza mai multi muschi, cu o greutate mai mare, decat exercitii mai populare precum [Bench Press](/exercitii/piept/impinsul-cu-haltera-de-la-piept) . Prin urmare, este mai eficient sa obtii rapid forta generala si muschii . De aceea, faceti genuflexiuni(Squats) 3x / saptamana pe antrenamentul [Antrenamente 5x5](/program/full-body/5x5) .
+Genuflexiuni cu bara este regele tuturor exercitiilor. Lucreaza mai multi muschi, cu o greutate mai mare, decat exercitii mai populare precum [Bench Press](/exercitii/piept/impinsul-cu-haltera-de-la-piept/) . Prin urmare, este mai eficient sa obtii rapid forta generala si muschii . De aceea, faceti genuflexiuni(Squats) 3x / saptamana pe antrenamentul [Antrenamente 5x5](/program/5x5/) .
 
 Forma corecta pentru Genuflexiuni cu bara este esentiala pentru a evita durerile de genunchi si spate. Nu faceti genuflexiuni partiale(partial Squats), parcurgand doar jumatate din drum. Coborati in genuflexiune pana cand nivelul soldurilor este sub nivelul genunchilor. Faceti genuflexiunea astfel incat genunchii sa fie aliniati cu picioarele voastre. Tine-ti spatele inferior neutru, nu-l lasati sa se curbeze/cocoseze.
 
@@ -195,7 +195,7 @@ Faceti genuflexiuni in Power Rack pentru o siguranta maxima. Setati siguranta or
 4. **Infrange paralelismul**. Flexati genunchi pana cand soldurile sunt sub nivelul genunchilor. Coapsele paralele cu podeaua nu sunt suficient de scazute. Trebuie sa “infrangeti paralelismul”, si sa coborati mai mult.
 5. **Revenirea**. Dupa ce ati “infrant paralelismul”, reveniti in pozitia initiala. Tine-ti genunchii in spre exterior si pieptul in fata. Blocati soldurile si genunchii cand ajungeti in potizia initiala. Respira.
 
-Faceti cinci repetari pe [Antrenamente 5x5](/program/full-body/5x5) si apoi adaugati greutatea. Nu incercati sa faceti genuflexiuni cu bara direct pe montanti(uprights). Ai putea sa ratezi. Finalizati setul mai intai tinand bara cu soldurile si genunchii blocati cand sunteti in pozitia initiala. Apoi inaintati pana cand bara loveste partile verticale ale Power Rack-ului dvs. Picioarele tale vor fi chiar sub bara. Acum incepeti flexarea indoindu-va picioarele. Bara va ajunge in siguranta, pe montanti(uprights).
+Faceti cinci repetari pe [Antrenamente 5x5](/program/5x5/) si apoi adaugati greutatea. Nu incercati sa faceti genuflexiuni cu bara direct pe montanti(uprights). Ai putea sa ratezi. Finalizati setul mai intai tinand bara cu soldurile si genunchii blocati cand sunteti in pozitia initiala. Apoi inaintati pana cand bara loveste partile verticale ale Power Rack-ului dvs. Picioarele tale vor fi chiar sub bara. Acum incepeti flexarea indoindu-va picioarele. Bara va ajunge in siguranta, pe montanti(uprights).
 
 ## Genuflexiuni 101<a id="genuflexiuni-101"></a>
 
@@ -210,7 +210,7 @@ Constructia dvs. determina aspectul corespunzator pentru forma dvs.. Cu cat lati
 - **Soldurilor**. Flexati-va soldurile si genunchii in acelasi timp. Miscati-va soldurile spre exterior si in jos in timp ce impingeti genunchii in exterior.
 - **Partea inferioara a spatelui**. Fa genuflexiuni cu spatele drept, ca atunci cand stai in picioare.Fara sa indoiti spatele. Mentineti spatele neutru.
 - **Prindere**. Prindeti bara bine. Dar nu incercati sa sustineti greutati mari cu mainile. Lasa partea superioara a spatelui sa sustina bara.
-- **Latime de prindere** Folositi o prindere medie, mai ingusta decat atunci cand executati [Bench Press](/exercitii/piept/impinsul-cu-haltera-de-la-piept). Mainile tale ar trebui sa fie in afara umerilor.
+- **Latime de prindere** Folositi o prindere medie, mai ingusta decat atunci cand executati [Bench Press](/exercitii/piept/impinsul-cu-haltera-de-la-piept/). Mainile tale ar trebui sa fie in afara umerilor.
 - **Pozitia barei**. Puneti bara intre muschii trapezului si adevaratii umeri(in cazul unei bari usoare) sau pe muschii trapezului(pentru o bara grea). Centrati bara.
 - **Incheieturi**. Incheieturile se vor indoi si te vor durea daca incercati sa sprijiniti bara cu mainile. Sustineti-o cu partea superioara a spatelui.
 - **Coate**. In spatele trunchiului in prima parte a genuflexiunii, nu vertical sau orizontal. Si pe aceeasi linie cu triunchiul,atunci cand sunteti jos .
@@ -250,11 +250,11 @@ Genuflexiunile(Squats) sunt mai mult decat un exercitiu de picioare. Picioarele 
 
 Genuflexiunile(Squats) lucreaza, de asemenea, muschiul care pompeaza sangele la picioarele tale: inima ta. Si intareste muschiul dintre urechi: mintea ta. Multi oameni urasc genoflexiunile(Squats) pentru ca sunt atat de greu de facut. Dar si de aceea sunt atat de eficiente pentru a castiga forta si muschi. Oamenii care au curajul sa faca genuflexiuni in fiecare saptamana, construiesc o disciplina care devine utila in alte parti ale vietii lor (cum ar fi respectarea alimentatiei sanatoase si a obiceiurilor de somn).
 
-Daca aveti timp doar pentru a face un singur exercitiu, atunci fa genuflexiuni(Squat). Genuflexiunile (Squats) lucreaza mai multi muschi, cu mai multa greutate, pe o distanta mai mare, decat orice alt exercitiu. Greutatea este mai grea decat pe o flexie a piciorului sau extensia picioarelor. Trebuie sa echilibrezi greutatea singur, spre deosebire de Leg Press, unde stai pe un aparat. Bara se misca de doua ori mai mult decat pe [Deadlifts](/exercitii/spate/indreptari) . Nu exista niciun inlocuitor pentru genuflexiuni(Squats). Genuflexiunile (Squats) sunt cu adevarat cele mai bune.
+Daca aveti timp doar pentru a face un singur exercitiu, atunci fa genuflexiuni(Squat). Genuflexiunile (Squats) lucreaza mai multi muschi, cu mai multa greutate, pe o distanta mai mare, decat orice alt exercitiu. Greutatea este mai grea decat pe o flexie a piciorului sau extensia picioarelor. Trebuie sa echilibrezi greutatea singur, spre deosebire de Leg Press, unde stai pe un aparat. Bara se misca de doua ori mai mult decat pe [Deadlifts](/exercitii/spate/indreptari/) . Nu exista niciun inlocuitor pentru genuflexiuni(Squats). Genuflexiunile (Squats) sunt cu adevarat cele mai bune.
 
 <!-- ## Videoclipuri<a id="videoclipuri"></a>
 
-Puteti sa ma vedeti facand genuflexiuni( Squats) cu o forma corecta si raspunzand la cele mai comune intrebari despre genuflexiuni(Squat), in general, din videoclipurile 5 × 5 Antrenamente . Videoclipul antrenamentului A 5 × 5 de la Antrenamente este mai jos. Puteti vedea videoclipul antrenamentului B Antrenamente in care fac, de asemenea, genuflexiuni aici. Retineti ca voi face genuflexiuni cu greutatea cu care veti lucra in saptamana 8/9 din [Antrenamente 5x5](/program/full-body/5x5) . Daca doriti sa vedeti cum fac genuflexiuni(Squat) cu o greutate mai mare, verificati in schimb acest videoclip .
+Puteti sa ma vedeti facand genuflexiuni( Squats) cu o forma corecta si raspunzand la cele mai comune intrebari despre genuflexiuni(Squat), in general, din videoclipurile 5 × 5 Antrenamente . Videoclipul antrenamentului A 5 × 5 de la Antrenamente este mai jos. Puteti vedea videoclipul antrenamentului B Antrenamente in care fac, de asemenea, genuflexiuni aici. Retineti ca voi face genuflexiuni cu greutatea cu care veti lucra in saptamana 8/9 din [Antrenamente 5x5](/program/5x5/) . Daca doriti sa vedeti cum fac genuflexiuni(Squat) cu o greutate mai mare, verificati in schimb acest videoclip .
 
 Iata un al doilea videoclip in care ma puteti vedea facand genuflexiuni(Squat) cu 170kg / 374lb pentru cinci repetari. Daca se pare ca ma aplec prea mult in fata, amintiti-va ca fac genuflexiuni cu bara joasa si am un trunchi scurt cu coapsele lungi. Acest lucru ma obliga sa ma aplec mai mult pentru a tine bara peste mijlocul piciorului. Daca as incerca sa fac genuflexiuni mai putin adanci, cu conformatia mea, si pozitia barei astfel,mi-as pierde echilibrul. Aceasta postura functioneaza pentru mine, iar spatele inferior este in siguranta, deoarece ramane neutru. -->
 
@@ -368,14 +368,14 @@ _Faceti genuflexiuni(Squats) cu un arc natural al spatelui inferior. Fara exces 
 ![Genuflexiuni cu bara(Squat) Grip](<./assets/Genuflexiuni-cu-bara(Squats)-grip-width.jpg>)
 _Folositi o prindere medie Squat. Nu prea larg sau prea apropiata._
 
-- **Priza medie**. Apucati bara ca atunci cand faceti [Bench Press](/exercitii/piept/impinsul-cu-haltera-de-la-piept) . Puneti-va degetul mic in interiorul inelelor marcate ale barei. Apoi strangeti omoplatul pentru a sprijini bara cu muschii din partea superioara a spatelui. Puteti strange bara mai larg daca umerii sunt mai ingusti, astfel incat sa puteti face genuflexiuni(Squats) fara durere. Dar partea superioara a spatelui va fi mai slaba,iar bara va poate afecta coloana vertebrala. Lucrati la flexibilitatea umarului, astfel incat sa puteti micsora distanta dintre brate pe bara, in timp.
+- **Priza medie**. Apucati bara ca atunci cand faceti [Bench Press](/exercitii/piept/impinsul-cu-haltera-de-la-piept/) . Puneti-va degetul mic in interiorul inelelor marcate ale barei. Apoi strangeti omoplatul pentru a sprijini bara cu muschii din partea superioara a spatelui. Puteti strange bara mai larg daca umerii sunt mai ingusti, astfel incat sa puteti face genuflexiuni(Squats) fara durere. Dar partea superioara a spatelui va fi mai slaba,iar bara va poate afecta coloana vertebrala. Lucrati la flexibilitatea umarului, astfel incat sa puteti micsora distanta dintre brate pe bara, in timp.
 - **Strangeti bara**. Cu cat strangeti mai tare bara, cu atat bratele, umerii si muschii din spate se contracta mai mult. Acest lucru creste suportul pentru bara, probabilitatea de a se misca pe spate scade si creste astfel puterea. Apucati bara strans pentru genuflexiuni. Strangeti-o strans inainte de a desface bara. Strangeti-o tare ca sa nu se poata misca. Nu te relaxa si nu deschide mainile in timp ce faci genuflexiuni(Squats). Continua sat ii bara.
 
 ![Full vs thumbless grip](<./assets/Genuflexiuni-cu-bara(Squats)-grip.jpg>)
 _Apucarea barei cu sau fara degetul mare pentru genuflexiuni(Squats)_
 
 - **Prinderea cu sau fara degetul mare**. Strangerea completa( cu degetul mare) va permite sa strangeti bara mai tare, ceea ce adauga rezistenta. Iti ofera mai mult control asupra barei si te simti mai sigur. Dar incheieturile tale se vor indoi mai mult. Priza fara degetul mare iti mentine incheieturile mai dreapta. Dar se poate simti mai nesigur, nu puteti strange bara la fel de tare si incheieturile se pot indoi daca incercati sa tineti bara cu mainile. Incercati prinderea fara degetul mare daca va dor incheieturile / coatele.
-- **Nu sustine bara cu mainile**. Este vorba despre o genuflexiune, nu de un [Bench Press](/exercitii/piept/impinsul-cu-haltera-de-la-piept) . Daca incercati sa tineti greutatea cu mainile, incheieturile si coatele te vor durea odata ce greutatea va fi grea. Trebuie sa sustineti bara cu muschii superiori ai spatelui. Tineti si strangeti bara. Dar lasati partea superioara a spatelui sa sprijine greutatea. Flexarea cu o prindere care nu include si degetul mare va poate invata sa sustineti bara cu partea superioara a spatelui.
+- **Nu sustine bara cu mainile**. Este vorba despre o genuflexiune, nu de un [Bench Press](/exercitii/piept/impinsul-cu-haltera-de-la-piept/) . Daca incercati sa tineti greutatea cu mainile, incheieturile si coatele te vor durea odata ce greutatea va fi grea. Trebuie sa sustineti bara cu muschii superiori ai spatelui. Tineti si strangeti bara. Dar lasati partea superioara a spatelui sa sprijine greutatea. Flexarea cu o prindere care nu include si degetul mare va poate invata sa sustineti bara cu partea superioara a spatelui.
 
 ## Pozitia barei<a id="pozitia-barei"></a>
 
@@ -586,7 +586,7 @@ Durerea de cot este intalnita de obicei impreuna cu durerea de la incheietura ma
 
 Coatele trebuie sa fie in spatele trunchiului din partea de sus a genuflexiunii. Antebratele nu pot fi verticale sau bara va apasa in jos pe maini, va indoi incheieturile si va strange coatele. Impingeti coatele inapoi in varf, astfel incat antebratele dvs. sa fie inclinate . Mentineti-va antebratele inclinate si paralele cu trunchiul in partea de jos a genuflexiunilor. Nu impingeti coatele inainte sau va veti rasuci si strange articulatiile cotului.
 
-Antebratele inguste pot provoca, de asemenea, dureri de cot. Veti strange/apuca tare la toate exercitiile [Antrenamente 5x5](/program/full-body/5x5) .De asemenea, s-ar putea sa te lucrezi foarte mult la locul de munca sau sa faci si alte sporturi precum alpinismul sau grappling-ul. Toate acele strangeri pot incorda muschii antebratului si pot provoca dureri la nivelul cotului. Incercati sa va intindeti(stretching) extensorii incheieturii. Stai pe toti patru cu degetele indreptate spre genunchi. Blocheaza-ti coatele, intindeti-va degetele si lasati-l sa se intinda. Fii delicat!
+Antebratele inguste pot provoca, de asemenea, dureri de cot. Veti strange/apuca tare la toate exercitiile [Antrenamente 5x5](/program/5x5/) .De asemenea, s-ar putea sa te lucrezi foarte mult la locul de munca sau sa faci si alte sporturi precum alpinismul sau grappling-ul. Toate acele strangeri pot incorda muschii antebratului si pot provoca dureri la nivelul cotului. Incercati sa va intindeti(stretching) extensorii incheieturii. Stai pe toti patru cu degetele indreptate spre genunchi. Blocheaza-ti coatele, intindeti-va degetele si lasati-l sa se intinda. Fii delicat!
 
 ## Durere in zona genunchilor<a id="durerea-in-zona-genunchilor"></a>
 
@@ -648,7 +648,7 @@ Toata lumea ar trebui sa poata face Squat Toddler timp de 10 minute. Amintiti-va
 
 Avertisment rapid: daca aveti antecedente de dureri la genunchi: luati-o incet. The Toddler Squat va va intinde articulatia genunchiului. Acest lucru poate fi destul de greu pentru genunchi. Sa nu cazi direct, controleaza-l. Nu va lasati pe genunchi pentru a cobori mai jos. Mentineti calcaiele pe podea si genunchii in linie cu picioarele. Cel mai important, lasati durerea sa va fie ghidul. Un anumit disconfort este bine, te intinzi. Dar daca articulatiile tale te omoara, opreste-te.
 
-Dupa ce ati crescut flexibilitatea soldului cu ajutorul Toddler Squat, il puteti mentine cu usurinta prin flexarea de mai multe ori pe saptamana, cum ar fi pe [Antrenamente 5x5](/program/full-body/5x5) . Genuflexiunile (Squats) lucreaza picioarele printr-o gama completa de miscare atunci cand rupeti paralela(break parallel). Ele va intind si va intaresc soldurile. Acestea reprezinta antrenamentul tau saptamanal, astfel incat sa mentineti flexibilitatea soldului. Genuflexiunile(Squats) nu te fac inflexibil pentru ca trebuie sa fii flexibil ca sa faci genuflexiuni(Squat).
+Dupa ce ati crescut flexibilitatea soldului cu ajutorul Toddler Squat, il puteti mentine cu usurinta prin flexarea de mai multe ori pe saptamana, cum ar fi pe [Antrenamente 5x5](/program/5x5/) . Genuflexiunile (Squats) lucreaza picioarele printr-o gama completa de miscare atunci cand rupeti paralela(break parallel). Ele va intind si va intaresc soldurile. Acestea reprezinta antrenamentul tau saptamanal, astfel incat sa mentineti flexibilitatea soldului. Genuflexiunile(Squats) nu te fac inflexibil pentru ca trebuie sa fii flexibil ca sa faci genuflexiuni(Squat).
 
 ## Flexibilitate umerilor<a id="flexibilitate-umerilor"></a>
 
@@ -709,7 +709,7 @@ Multe sali de sport au bare ieftine, deoarece cele de calitate sunt scumpe. Bare
 
 Barele de calitate fac diferenta. Se simt mai in siguranta. Nu se apleaca la fel de repede. Nu va streseaza articulatiile. Nu te fac sa te intrebi la mijloc, daca bara se va rupe in doua in timp ce te antrenezi. Aveti o postura mai buna, deoarece bara nu se misca. Ai mai multa incredere pentru ca te simti in siguranta cu privire la echipamentul tau. Genuflexiunile(Squats) sunt intimidante. Nu doriti sa inrautatiti folosind echipamente ieftine care par nesigure.
 
-Barele de calitate sunt scumpe. Dar dureaza o viata. Prima bara pe care am cumparat-o, am folosit-o timp de zece ani intr-un garaj unde ingheata si devine umed. Bara a rezistat bine. I-am dat aceasta bara fratelui meu pentru sala de sport. O poate folosi inca 10 ani. Cumparati o bara de calitate si va trebui sa cumparati una singura toata viata. O veti folosi la fiecare antrenament [Antrenamente 5x5](/program/full-body/5x5) , pentru fiecare exercitiu, deci nu fiti zgarciti. Verificati aceste bare(Barbells)...
+Barele de calitate sunt scumpe. Dar dureaza o viata. Prima bara pe care am cumparat-o, am folosit-o timp de zece ani intr-un garaj unde ingheata si devine umed. Bara a rezistat bine. I-am dat aceasta bara fratelui meu pentru sala de sport. O poate folosi inca 10 ani. Cumparati o bara de calitate si va trebui sa cumparati una singura toata viata. O veti folosi la fiecare antrenament [Antrenamente 5x5](/program/5x5/) , pentru fiecare exercitiu, deci nu fiti zgarciti. Verificati aceste bare(Barbells)...
 
 - **Rogue Power Bar**. De inalta calitate, cea mai buna dintre cele mai bune.
 - **Troy Texas Power Bar**. Sustine 1500lb, knurling central.
@@ -776,7 +776,7 @@ Genuflexiunile cu bara in spate(Back Squats) nu se vor imbunatati daca faceti do
 
 Unii oameni fac genuflexiunile cu bara in fata (Front Squats) pentru ca nu au un Power Rack. Trag bara de la podea pe umerii lor din fata si apoi incep sa flexeza. Acest lucru functioneaza dar doar pentru o perioada. In cele din urma, greutatea devine prea grea pentru a o ridica pe umeri. Curatul limiteaza cat de greu iti poti lucra muschii facand genuflexiuni. Nu iti poti atinge potentialul. Chiar daca puteti curata totul, veti face intotdeauna Back Squats mai bine cu un Power Rack.
 
-Genuflexiunile cu bara in fata (Front Squats) nu sunt inlocuitori pentru Squats Back(genuflexiuni cu bara in spate). Back Squats trebuie sa fie coloana vertebrala a antrenamentului dvs. (cfr [Antrenamente 5x5](/program/full-body/5x5) ). Concentrati-va pe Back Squats pana cand puteti face 140 kg / 300lb. Nu alternati cu Front Squats, forma este diferita si iti vei strica postura. Daca curatati bara pana la genuflexiuni, obtineti un Power Rack, astfel incat sa puteti face genuflexiuni cu bara in spate(Back Squat) grele si sa va atingeti potentialul. Dupa ce sunteti puternic la Back Squats, puteti adauga genuflexiunile cu bara in fata (Front Squats) pentru varietate.
+Genuflexiunile cu bara in fata (Front Squats) nu sunt inlocuitori pentru Squats Back(genuflexiuni cu bara in spate). Back Squats trebuie sa fie coloana vertebrala a antrenamentului dvs. (cfr [Antrenamente 5x5](/program/5x5/) ). Concentrati-va pe Back Squats pana cand puteti face 140 kg / 300lb. Nu alternati cu Front Squats, forma este diferita si iti vei strica postura. Daca curatati bara pana la genuflexiuni, obtineti un Power Rack, astfel incat sa puteti face genuflexiuni cu bara in spate(Back Squat) grele si sa va atingeti potentialul. Dupa ce sunteti puternic la Back Squats, puteti adauga genuflexiunile cu bara in fata (Front Squats) pentru varietate.
 
 ## Box Squat<a id="box-squat"></a>
 
@@ -811,7 +811,7 @@ _Genuflexiuni cu kettlebells (sau gantere): aderenta este factorul limitative_
 
 Genuflexiuni cu ganterele sunt genuflexiuni(Squats) cu gantere. Tine-le pe umerii din fata si flexeaza. Beneficiu: nu aveti nevoie de un Power Rack. Dezavantaj: nu poti lucra cu greutati mari. Tinand 50 kg pe fiecare umar este mai greu decat o bara de 100 kg pe spate. Si mai intai trebuie sa obtii acele gantere pe umeri. Progresia este si ea mai grea, deoarece majoritatea ganterelor cresc cu 2kg / 5lb. Acest lucru va obliga sa adaugati 4 kg / 10lb la fiecare antrenament fata de 2,5 kg / 5lb cu bara.
 
-Ai putea sa tii ganterele langa tine. Dar acest lucru transforma Genuflexiuni cu ganterele in Dumbbell [Deadlifts](/exercitii/spate/indreptari). Pentru ca ganterele lovesc podeaua inainte de a putea rupe paralela(break parallel). Soldurile tale nu pot merge sub genunchi. Nu poti sa-ti lucrezi picioarele si corpul printr-o gama completa de miscare, spre deosebire de atunci cand flexezi cu o bara pe spate. In schimb, faci jumatate de genuflexiune (Squat). Iar priza dvs. va esua inaintea picioarelor,doar daca nu folositi curele.
+Ai putea sa tii ganterele langa tine. Dar acest lucru transforma Genuflexiuni cu ganterele in Dumbbell [Deadlifts](/exercitii/spate/indreptari/). Pentru ca ganterele lovesc podeaua inainte de a putea rupe paralela(break parallel). Soldurile tale nu pot merge sub genunchi. Nu poti sa-ti lucrezi picioarele si corpul printr-o gama completa de miscare, spre deosebire de atunci cand flexezi cu o bara pe spate. In schimb, faci jumatate de genuflexiune (Squat). Iar priza dvs. va esua inaintea picioarelor,doar daca nu folositi curele.
 
 Mai bine faci Genuflexiuni cu ganterele, decat sa nu faci nimic. Daca nu ai facut niciodata nicio activitate fizica in viata ta si esti in forma, acestea vor oferi corpului tau ceva de lucru. In sfarsit, ganterele devin usoare si pun in dificultate flexarea intense/grea. De aceea nu sunt inlocuitori ai genuflexiunilor cu halterele(barbell). Daca oricum faci genuflexiuni cu gantere, nu te astepta sa castigi forta si muschi si sa progresezi ca cineva care face genuflexiuni cu haltere grele.
 
@@ -839,7 +839,7 @@ Cel putin de doua ori pe saptamana, ideal de doua ori. O singura data nu este su
 
 ## Cate repetari ar trebui sa fac?<a id="cate-repetari-ar-trebui-sa-fac?"></a>
 
-Incepatorii care fac genuflexiuni cu mai putin de 140kg / 300lb si doresc sa obtina un ritm mai puternic, ar trebui sa se axeze pe flexarea(Squatting) in mare parte seturi de cinci repetari. Verifica un antrenament [Antrenamente 5x5](/program/full-body/5x5) ,pentru un exemplu.
+Incepatorii care fac genuflexiuni cu mai putin de 140kg / 300lb si doresc sa obtina un ritm mai puternic, ar trebui sa se axeze pe flexarea(Squatting) in mare parte seturi de cinci repetari. Verifica un antrenament [Antrenamente 5x5](/program/5x5/) ,pentru un exemplu.
 
 ## Cum obtin forma/postura perfecta?<a id="cum-obtin-forma-perfecta?"></a>
 
@@ -856,13 +856,13 @@ Nu. Latimea soldului este determinata de structura oaselor. Nu exista prea multi
 ## Ce pot face in loc de genuflexiuni(Squats)?<a id="ce-pot-face-in-loc-de-squats?"></a>
 
 Puteti face genuflexiuni cu bara inalta(high bar), daca genuflexiunile cu bara joasa(low bar) va cauzeaza dureri in zona umeriilor.
-Dar exercitiile fizice nu iti lucreaza corpul prin aceeasi gama de miscare si cu greutati maxime precum genuflexiunile(Squats). Inlocuirea genufleinilor(Squats) va insemna intotdeauna sa lucrezi cu mai putina greutate (glute bridges, lunges, dumbbell Squat), o gama mai scurta de miscare ( [Deadlifts](/exercitii/spate/indreptari) ) sau fara a fi nevoie de echilibru (Smith Squats, Leg Press).
+Dar exercitiile fizice nu iti lucreaza corpul prin aceeasi gama de miscare si cu greutati maxime precum genuflexiunile(Squats). Inlocuirea genufleinilor(Squats) va insemna intotdeauna sa lucrezi cu mai putina greutate (glute bridges, lunges, dumbbell Squat), o gama mai scurta de miscare ( [Deadlifts](/exercitii/spate/indreptari/) ) sau fara a fi nevoie de echilibru (Smith Squats, Leg Press).
 
 Nu exista niciun inlocuitor pentru genuflexiuni(Squats). De aceea, genuflexiunile(Squats) sunt rege pentru forta si dimensiune.
 
 ## Pot face genuflexiuni(Squats) daca ai genunchii slabi?<a id="poti-face-squats-daca-ai-genunchii-nu-tocmai-intr-o-forma-buna-?"></a>
 
-Multi tipi cu genunchii slabi mi-au spus ca genunchii lor se simt mai bine de cand au inceput sa faca genuflexiuni. Acest lucru se datoreaza faptului ca genuflexiunile(Squats) consolideaza muschii picioarelor, ceea ce ofera articulatiei genunchiului mai mult sprijin. Cheia este sa porniti usor, sa folositi o forma adecvata si sa progresati incet (verificati [Antrenamente 5x5](/program/full-body/5x5) ). Atata timp cat genunchii se simt bine, continuati.
+Multi tipi cu genunchii slabi mi-au spus ca genunchii lor se simt mai bine de cand au inceput sa faca genuflexiuni. Acest lucru se datoreaza faptului ca genuflexiunile(Squats) consolideaza muschii picioarelor, ceea ce ofera articulatiei genunchiului mai mult sprijin. Cheia este sa porniti usor, sa folositi o forma adecvata si sa progresati incet (verificati [Antrenamente 5x5](/program/5x5/) ). Atata timp cat genunchii se simt bine, continuati.
 
 Purtarea de mansoane pentru genunchi pentru genuflexiuni (Squats) va poate ajuta daca aveti genunchi slabi. Mansoanele va vor mentine articulatia genunchiului calda si il va lubrifia. Mansoanelepot actiona, de asemenea, ca suport mental, facandu-va mai increzator.
 

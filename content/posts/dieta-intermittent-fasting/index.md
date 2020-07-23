@@ -21,7 +21,7 @@ Am descoperit Postul intermitent(Intermittent Fasting). Am incetat sa mananc mic
 
 Postul intermitent(Intermittent Fasting) mi-a economisit foarte mult timp si stres.
 
-Asadar, in acest ghid, voi impartasi lectiile pe care le-am invatat despre Intermittent Fasting(Postul intermitent) si cum sa faci Postul intermitent cu [Antrenamente 5x5](/program/full-body/5x5) .
+Asadar, in acest ghid, voi impartasi lectiile pe care le-am invatat despre Intermittent Fasting(Postul intermitent) si cum sa faci Postul intermitent cu [Antrenamente 5x5](/program/5x5/) .
 
 ## <span id = "How_I_started_with_Intermittent_Fasting"> Cum am inceput cu (Intermittent Fasting)Postul intermitent </span>
 
@@ -55,7 +55,7 @@ Cel mai mare beneficiu al Postului intermitent pentru mine?
 - Economisirea timpului: nu trebuie sa gatesc sau sa mananc sau altceva dimineata. Doar doar, iau o cafea si imi pot incepe ziua. Acest lucru este important pentru munca mea, deoarece obtii cel mai mult dimineata cand puterea de vointa este mare. Vreau sa maximizez acest timp.
 - Controlul greutatii. Daca va limitati fereastra de mancare la opt ore pe zi, este mai greu sa atingeti un surplus caloric. Nu ma intereseaza sa castig mai mult in acest moment. Sunt multumit de greutatea mea actuala si vreau sa devin cat mai puternic la aceasta greutate, pastrand in acelasi timp corpul puternic. Postul intermitent imi permite sa fac acest lucru.
 
-Nu recomand pregatirea in stare de post pe [Antrenamente 5x5](/program/full-body/5x5) . Acest lucru poate functiona in primele saptamani cand greutatile sunt usoare. Dar nu va functiona odata ce greutatile vor fi mai grele. Vei fi mai slab, lupta-te sa-ti termini seturile si sa incepi sa ratezi repetitii. Progresul tau va stagna. Si veti avea descompunere musculara.
+Nu recomand pregatirea in stare de post pe [Antrenamente 5x5](/program/5x5/) . Acest lucru poate functiona in primele saptamani cand greutatile sunt usoare. Dar nu va functiona odata ce greutatile vor fi mai grele. Vei fi mai slab, lupta-te sa-ti termini seturile si sa incepi sa ratezi repetitii. Progresul tau va stagna. Si veti avea descompunere musculara.
 
 Nu exista niciun avantaj in antrenamentul cu post. Uita sa folosesti grasime pentru energie si toate prostiile astea. Intensitatea ta va fi mai mica, greutatile tale vor fi mai mici, progresul tau va fi inferior. Gandeste-te la imaginea de ansamblu.
 
