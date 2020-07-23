@@ -138,7 +138,6 @@ Acesta este ghidul complet pentru o forma corespunzatoare pentru Deadlift(indrep
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#care-este-o-intindere-buna-a-spatelui-jos?">8.9 Care este o intindere buna a spatelui jos?</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ar-trebui-sa-mi-genuflexiuni-deadlift-urile?">8.10 Ar trebui sa fiu in pozitia de Genuflexiuni pt Deadlift-urile?</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#daca-inapoi-rotunjite-deadlift-urile-sunt-rele">8.11 Daca inapoi rotunjite Deadlift-urile sunt rele</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#de-ce-o-fac-unii-powerlifters?">8.12 de ce o fac unii powerlifters?</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-imi-pot-creste-deadlift-ul?">8.13 Cum imi pot creste Deadlift-ul?</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-imi-pot-imbunatati-forma?">8.14 Cum imi pot imbunatati forma?</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cat-ar-trebui-sa-pot-sa-deadlift?">8.15 Cat ar trebui sa pot sa Deadlift?</a></li>
@@ -1107,7 +1106,7 @@ Ce poti si trebuie sa faci este sa impiedici formarea de calusuri mari. Haltera 
 
 Pentru a preveni formarea de calusuri mari, apucati bara corect. Nici palma mijlocie, nici pielea ta nu se va plia sub bara. Tine-l jos in palma, aproape de degete. Apoi, folositi creta pe seturile grele pentru a umple mai mult pliurile pielii si pentru a crea o suprafata neteda pentru bara. Acest lucru limiteaza plierea pielii.
 
-## De ce ma dor bratele dupa Indreptari?<a id="de-ce-ma-dor-bratele-dupa-Indreptari?"></a>
+## De ce ma dor bratele dupa Indreptari?<a id="de-ce-ma-dor-bratele-dupa-indreptari?"></a>
 
 Inca nu aveti calusuri. Nu folositi manusi, continuati asa pentru cateva antrenamente. Durerea va disparea odata ce calusurile se vor forma pe mainile tale. Asigurati-va ca strangeti corect bara pentru a evita plierea excesiva a pielii, ceea ce poate provoca dureri inutile la maini. Tine bara joasa, aproape de degete.
 
@@ -1118,7 +1117,7 @@ Retineti ca va pierdeti calusurile atunci cand incetati ridicarea. Le pierzi ca 
 Calusurile dureroase de pe degete sunt mai greu de remediat. Am unul pe mijlocul degetului drept. Bara pare sa prinda calusul, oricat de tare il prind si in ciuda folosirii cretei. Singurul lucru care functioneaza este sa infasor banda atletica in jurul mijlocului degetului pentru a acoperi calusul. Incearca si tu asta
 !
 
-## Cum pot elimina calusurile de pe mainile mele?<a id="cum-pot-elimina-calusurile-de-pe-mainile mele?"></a>
+## Cum pot elimina calusurile de pe mainile mele?<a id="cum-pot-elimina-calusurile-de-pe-mainile-mele?"></a>
 
 Nu doriti sa va eliminati calusele. Ai nevoie de ele pentru a-ti proteja mainile atunci cand faci Indreptari(Deadlifts). Daca va indepartati calusurile, mainile va vor rani. Nu veti putea tine bara si Deadlift grele. Acest lucru va limiteaza forta si castigurile musculare . Nu incercati sa eliminati calusele!
 
@@ -1195,7 +1194,7 @@ Dar, in afara de asta, partea inferioara a spatelui nu primeste atata durere de 
 
 Daca spatele te doare dupa scurgeri, probabil ca faci ceva gresit. Verificati pozitia ta. Asigurati-va ca spatele inferior nu se rotunjeste si asigurati-va ca ridicati greutatea cu picioarele nu cu spatele. Doar ridica-te cu greutatea pana cand soldurile si genunchii sunt blocate. Nu este nevoie sa trageti inapoi.
 
-## Ce se intampla daca imi doare spatele Deadlifting?<a id="ce-se-intampla-daca-imi-doare-spatele-Deadlifting?"></a>
+## Ce se intampla daca imi doare spatele Deadlifting?<a id="ce-se-intampla-daca-imi-doare-spatele-deadlifting?"></a>
 
 Cel mai bun lucru este sa te misti. Reveniti la sala imediat ce puteti, dar ridicati greutati usoare. Cel putin de mers pe jos. Nu face altceva decat sa stai toata ziua, iti va dura spatele mai mult pentru a te recupera.
 
@@ -1240,11 +1239,11 @@ Daca incercati sa starniti mai intai si apoi sa va ridicati soldurile, probabil 
 
 Nu te complica. Incepeti cu bara peste piciorul mijlociu, omoplati peste bara si tibia impotriva barei. Cand puteti Deadlift patru discuri, atunci puteti incerca sa fiti in postura pentru Genuflexiuni mai intai. EU nu o fac.
 
-## Daca inapoi rotunjite Deadlift-urile sunt rele, de ce o fac unii powerlifters?<a id="daca inapoi rotunjite deadlift-urile sunt rele, de ce o fac unii powerlifters?"></a>
+## Daca Deadlift-urile cu spatele rotunjit sunt rele, de ce o fac unii powerlifters?<a id="daca-inapoi-rotunjite-deadlift-urile-sunt-rele"></a>
 
-Powerlifters competitivi Deadlift pentru a castiga. Ei folosesc tehnica care ii ajuta la Deadlift la cea mai mare greutate posibila. Este posibil ca aceasta tehnica sa nu fie sanatoasa pentru partea inferioara a spatelui. Dar sportivii prioritizeaza adesea castigarea asupra sanatatii pe termen lung. Abuzul de droguri ilustreaza acest lucru cel mai bine.
+Powerlifters competitivi fac Indreptari rotunjite pentru a castiga. Ei folosesc tehnica care ii ajuta la Indreptari la cea mai mare greutate posibila. Este posibil ca aceasta tehnica sa nu fie sanatoasa pentru partea inferioara a spatelui. Dar sportivii prioritizeaza adesea castigarea asupra sanatatii pe termen lung. Abuzul de droguri ilustreaza acest lucru cel mai bine.
 
-In plus, recordurile mondiale nu reflecta intotdeauna modul in care sunt Deadlift de cele mai multe ori. Incercare Max sa para urat. Este mai greu sa mentineti o forma adecvata. S-ar putea sa se intoarca cu spatele mai mult atunci cand incearca PR-uri in competitii. Poate ca trag cu un spate mai neutru restul anului in antrenamente.
+In plus, recordurile mondiale nu reflecta intotdeauna modul in care sunt Indreptarile(Deadlift) de cele mai multe ori. Incercare Max sa para urat. Este mai greu sa mentineti o forma adecvata. S-ar putea sa se intoarca cu spatele mai mult atunci cand incearca PR-uri in competitii. Poate ca trag cu un spate mai neutru restul anului in antrenamente.
 
 Si s-ar putea sa se rotunjeasca mai putin decat credeti. Deadlifters puternici pot avea muschi uriasi ai spatelui care se revarsa. Acest lucru poate crea un aspect mai rotunjit al coloanei vertebrale superioare. Partea inferioara a spatelui poate parea mai uniforma, daca muschii spatelui mai mari umplu curba interioara normala a coloanei vertebrale.
 
@@ -1271,7 +1270,7 @@ Dar este coloana vertebrala, astfel incat sa puteti Deadlift oricat doriti. Mi-a
 
 ## Cum imi pot creste Deadlift-ul?<a id="cum-imi-pot-creste-deadlift-ul?"></a>
 
-Deadlift mai mult. Acesta este cel mai bun mod de a ajunge la patru farfurii (180 kg/400lb). Acest lucru functioneaza pentru ca cu cat Deadlift este mai mare, cu atat puteti exersa o forma adecvata. Acest lucru rafineaza si iti perfectioneaza tehnica in timp. Eficienta de ridicare se imbunatateste, ceea ce creste cat de mult poti Deadlift.
+Faceti Indreptari(Deadlift) mai mult. Acesta este cel mai bun mod de a ajunge la patru discuri (180 kg/400lb). Acest lucru functioneaza pentru ca cu cat Indreptarile sunt mai mari, cu atat puteti exersa o forma adecvata. Acest lucru rafineaza si iti perfectioneaza tehnica in timp. Eficienta de ridicare se imbunatateste, ceea ce creste cat de mult poti Deadlift.
 
 Acest lucru nu inseamna ca ar trebui sa Deadlift zilnic. Inseamna ca cresterea Deadlift-urilor fara Deadlifting nu functioneaza. Tragerea de sumo in schimb nu functioneaza nici ea. Vrei sa te perfectionezi la pian, trebuie sa canti la pian - nu la chitara. Acelasi lucru este aici: trebuie sa Deadlift pentru a va mari Deadlift.
 
@@ -1296,6 +1295,7 @@ Iata care sunt principalele lucruri de cautat. Ia - astea dreapta, si tu esti de
 - **Pozitia de inceput corecta** - bara peste mijlocul piciorului, omoplati peste bara, tibia impotriva barei
 - **Coloanei vertebrale neutre** - cap neutru, piept in sus, arcul normal al spatelui inferior
 - **Calea verticala a barelor** - repetare, coborare si coborare
+
   Daca observati ca pozitia ta Deadlift este oprit, nu incercati sa remediati totul simultan. Veti fi coplesit daca trebuie sa va ganditi la prea multe lucruri in timp ce trageti. In schimb, alege un lucru pe care sa te concentrezi in setul urmator. Daca o intelegeti corect, atunci alegeti urmatorul lucru de rezolvat pe setul urmator.
 
   Stapanirea formei corecte va va duce prin cele patru etape ale competentei . La inceput nu stii ca tragi gresit. Dar va inregistrati si observati erorile. Asa ca va concentrati sa faceti acest lucru chiar atunci cand faceti Deadlift. Pana la urma te opresti sa te gandesti la asta - devine doar firesc.  
@@ -1303,7 +1303,7 @@ Iata care sunt principalele lucruri de cautat. Ia - astea dreapta, si tu esti de
 
   Tehnica dvs. va fi mai consecventa daca ceea ce faceti inainte de dvs. Deadlift greutatea este consecventa. Asa ca incepeti-va in acelasi mod de fiecare data . Mergeti la bar in acelasi fel, puneti acelasi picior sub el in primul rand, apucati-l mai intai cu aceeasi mana etc.
 
-## Cat ar trebui sa pot sa Deadlift?<a id="cat-ar-trebui-sa-pot-sa-Deadlift?"></a>
+## Cat ar trebui sa pot sa fac Indreptari?<a id="cat-ar-trebui-sa-pot-sa-Deadlift?"></a>
 
 Tipul obisnuit care cantareste 75 kg/165lb ar trebui sa poata Deadlift 60 kg/135lb fara antrenament. Cu o pregatire adecvata, ar trebui sa poti sa Deadlift acest ...
 • 140 kg/300lb dupa 3-9 luni (incepator)
@@ -1311,9 +1311,9 @@ Tipul obisnuit care cantareste 75 kg/165lb ar trebui sa poata Deadlift 60 kg/135
 • 225kg/500lb dupa +2 ani de pregatire (avansat)
 Daca nu puteti Deadlift asta, ceva nu este in regula cu programul dvs. de antrenament, tehnica Deadlift, nutritia sau consecventa.
 
-## Deadlift este bun pentru tine?<a id="deadlift-este-bun-pentru-tine?"></a>
+## Indreptarile sunt bune pentru tine?<a id="deadlift-este-bun-pentru-tine?"></a>
 
-Termenele limita sunt bune pentru dvs. daca utilizati o forma corecta. Iti vor intari spatele, picioarele si bratele. Iti vor creste masa musculara si nivelul de testosteron. Cu toate acestea, daca ai Deadlift cu o forma proasta, te poti rani. Incepeti lumina, concentrati-va pe o forma adecvata, iar Deadlifts va fi bine pentru dvs.
+Indreptarile sunt bune pentru dvs. daca utilizati o forma corecta. Iti vor intari spatele, picioarele si bratele. Iti vor creste masa musculara si nivelul de testosteron. Cu toate acestea, daca ai Deadlift cu o forma proasta, te poti rani. Incepeti lumina, concentrati-va pe o forma adecvata, iar Deadlifts va fi bine pentru dvs.
 
 ## De cate ori pe saptamana trebuie sa fac Deadlifts?<a id="de-cate-ori-pe-saptamana-trebuie-sa-fac-Deadlifts?"></a>
 

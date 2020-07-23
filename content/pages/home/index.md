@@ -18,7 +18,7 @@ Dar asta functioneaza rar...
 
 Baietii mari de obicei se antreneaza de ani buni (si deseori folosesc droguri). Acestia pot suporta o sarcini de munca mai mare decat majoritatea celor ce sunt naturali.
 
-Copierea antrenamentelor lor este ca si cum ai incerca sa alergi un maraton atunci cand nu poti nici sa parcurgi 6 km. Vei face febra musculara, probabil te vei acidenta si, in cele din urma, vei fi descurajat si _vei renunta_.
+Copierea antrenamentelor lor este ca si cum ai incerca sa alergi un maraton atunci cand nu poti nici sa parcurgi 6 km. Vei face febra musculara, probabil te vei acidenta si, in cele din urma, vei fi descurajat si **vei renunta**.
 
 Daca sunteti determinati si vreti sa fiti puternici, trebuie sa stapaniti mai intai elementele de baza. Aveti nevoie de un plan, cu o progresie logica, care sa se concentreze pe exercitiile de baza.
 
