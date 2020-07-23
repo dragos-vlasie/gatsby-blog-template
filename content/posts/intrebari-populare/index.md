@@ -16,7 +16,7 @@ A functionat pentru mine si cei doi frati ai mei. A functionat pentru mai multi 
 Deci, sunt sigur ca Antrenamente 5×5 va functiona si pentru tine. Va functiona foarte bine daca...
 
 - Nu ai intrat niciodata intr-o sala de sport. Esti intimidat de gantere,speriat de rani sau pur si simplu slab. Acest program incepe usor si se concentreaza pe forma. Incet va faceti confortabil cu greutatile evitand in acelasi timp riscul de a te rani. Forta si increderea ta cresc odata cu cresterea greutatii.
-- Nu ai folosit niciodata ganterele. Ati mai mers la sala inainte, dar doar masini ati folosit. Poate ca te-ai descurcat cu ganterele, dar nu ai facut niciodata Genoflexiuni cu haltera, [Indreptari(Deadlifts)](</exercitii/spate/indreptari-(deadlifts)>) si OHPress. Veti invata sa ridicati greutati daca incepeti usor, facandu-le mult si adaugand greutate la fiecare antrenament.
+- Nu ai folosit niciodata ganterele. Ati mai mers la sala inainte, dar doar masini ati folosit. Poate ca te-ai descurcat cu ganterele, dar nu ai facut niciodata Genoflexiuni cu haltera, [Indreptari(Deadlifts)](/exercitii/spate/indreptari) si OHPress. Veti invata sa ridicati greutati daca incepeti usor, facandu-le mult si adaugand greutate la fiecare antrenament.
 - Ati relua antrenamentele dupa o pauza. Ai facut aceste exercitii inainte. Dar ai renuntat la ele vara trecuta. Sau nu ai mai ridicat greutati din liceu. Acest program va va readuce in forma rapid. Veti obtine o forma si mai buna daca nu ati folosit niciodata acest tip de program de instruire structurat.
 
 Nu am vazut niciodata ca Antrenamente 5×5 nu functioneaza. Am vazut povesti pe internet care spun ca acest program nu functioneaza pentru ei.
@@ -76,7 +76,7 @@ Da. Puteti obtine 12kg de muschi in primul an daca nu ati facut niciodata un pro
 
 Iata cum functioneaza: muschii scheletici sunt atasati de oase de catre tendoane. Cand face genuflexiuni (Genoflexiuni cu haltera) articulatiile soldului si genunchiului se indoaie. Cand revi in pozitie initiala, se indreapta. Aceasta miscare este alimentata de muschii dvs. care se contracta pentru a indoi si indrepta picioarele contra greutatii.
 
-Cu cat este mai grea greutatea pe spate, cu atat muschii trebuie sa se contracte mai tare pentru a [Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) cu greutatea. Cu atat mai greu trebuie sa munceasca pentru a rezista gravitatiei in coborare, de asemenea. Acest efort declanseaza muschii picioarelor pentru a deveni mai puternici si mai mari pentru a face fata mai bine acelei greutati la antrenament.
+Cu cat este mai grea greutatea pe spate, cu atat muschii trebuie sa se contracte mai tare pentru a [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-bara) cu greutatea. Cu atat mai greu trebuie sa munceasca pentru a rezista gravitatiei in coborare, de asemenea. Acest efort declanseaza muschii picioarelor pentru a deveni mai puternici si mai mari pentru a face fata mai bine acelei greutati la antrenament.
 
 Majoritatea oamenilor sunt confuzi, deoarece vad doar cinci exercitii compuse. Nu exista exercitii de izolare pentru a lucra muschii direct. Dar acesta este motivul pentru care acest program functioneaza mai bine pentru a construi muschi - faci cinci mari exercitii care iti lucreaza intregul corp cu greutati mai grele.
 
@@ -130,9 +130,9 @@ Oamenii mai in varsta imi spun ca Antrenamente 5×5 a fost ca o fantana a tinere
 
 Cata forta si muschi poti acumula? Mai mult decat crezi. Mergeti la o competitie de ridicat greutati (powelifting). Exista categorii de varsta pentru baietii din anii 40, 50, 50, 60 si chiar 70. Batranii de 40 de ani ridica adesea mai mult decat baietii mai tineri, deoarece puterea construirii necesita timp. Te vor inspira.
 
-Cu cat esti mai inactiv, cu atat mai usoare sunt greutatile cu care va trebui sa incepi pentru a evita febra musculara. Daca bara goala este prea grea, incepeti cu o bara mai usoara de 5kg/10lb. Daca este inca prea greu pentru [Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>). faceti Squat(Genoflexiuni cu haltera) cu greutate corporala pentru cateva antrenamente. Mutati-va la bara odata ce sunteti mai puternic.
+Cu cat esti mai inactiv, cu atat mai usoare sunt greutatile cu care va trebui sa incepi pentru a evita febra musculara. Daca bara goala este prea grea, incepeti cu o bara mai usoara de 5kg/10lb. Daca este inca prea greu pentru [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-bara). faceti Squat(Genoflexiuni cu haltera) cu greutate corporala pentru cateva antrenamente. Mutati-va la bara odata ce sunteti mai puternic.
 
-De asemenea, bara goala poate fi prea grea pentru ridicarea deasupra capului. Incercati cu o bara mai usoara de 5kg/10lb. Daca aceasta este inca prea grea, inlocuiti OHPress cu [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press). Bench la fiecare antrenament timp de trei-patru saptamani pentru a creste rezistenta corpului superior. Apoi adaugati [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului-cu-haltera) inapoi.
+De asemenea, bara goala poate fi prea grea pentru ridicarea deasupra capului. Incercati cu o bara mai usoara de 5kg/10lb. Daca aceasta este inca prea grea, inlocuiti OHPress cu [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept). Bench la fiecare antrenament timp de trei-patru saptamani pentru a creste rezistenta corpului superior. Apoi adaugati [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului-cu-haltera) inapoi.
 
 Adaugati greutatea incet. Maxim 2,5kg/5lb pe antrenament. 1kg/2lb este si mai bine, si o necesitate pentru Banca si OHPress. Folositi o forma adecvata pentru a evita sa te ranesti. Programul va va face mai puternic la fel ca in cazul baietilor mai tineri. Dar va trebui sa modificati Antrenamente 5×5 mai devreme pentru a continua progresul.
 
@@ -147,8 +147,8 @@ Mai bine este sa te antrenezi pur si simplu de doua ori pe saptamana, de exemplu
 Antrenamente 5x5 pentru barbatii invarsta
 
 Luni - antrenament A Joi - antrenament B
-[Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 3x5 [Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 3x5
-[Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) 3x5 [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului-cu-haltera) 3x5
+[Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-bara) 3x5 [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-bara) 3x5
+[Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept) 3x5 [OverheadPress(Presa deasuprea capului cu bara)](/exercitii/umeri/presa-deasupra-capului-cu-haltera) 3x5
 [Barbell Row(ramat cu haltera)](/exercitii/spate/ramat-cu-bara) 3x5 Indreptari 1x5
 
 Veti face progrese pentru mai multe antrenamente pana cand veti incepe sa va luptati pentru a obtine din nou repetari. Puteti trece apoi la 3×3 si 1x3 pentru a va imbunatati recuperarea. Sau puteti comuta Madcow 5×5 pentru a va oferi o pauza de la adaugarea de greutate la fiecare antrenament si treceti la cresteri mai lente saptamanale.
@@ -171,7 +171,7 @@ Acest program va va face tonifiat in schimb. Acest termen este adesea utilizat g
 
 Tonul muscular inseamna intr-adevar tensiunea muschiului tau in repaus. Cand stai, muschii se contracta partial pentru a mentine postura. Muschii tonifiati par mai puternici in repaus. Dar ridicarea greutatilor usoare nu creeaza muschii duri. Adaugi muschi slabi. Ridicarea cu greutati mari construieste muschii puternici si astfel tonifiaza.
 
-Oricum, daca bara goala este prea grea, incepeti cu una mai usoara de 5kg/10lb. Daca nu ai una, Goblet [Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) pana cand nu esti suficient de puternica pentru face enoflexiuni(Genoflexiuni cu haltera) cu haltera. Daca nu puteti ridica bara deasupra capului, faceti [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) in schimb pentru a creste rezistenta corpului superior. Daca nu poti ridica bara, incearca mai intai ganterele.
+Oricum, daca bara goala este prea grea, incepeti cu una mai usoara de 5kg/10lb. Daca nu ai una, Goblet [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-bara) pana cand nu esti suficient de puternica pentru face enoflexiuni(Genoflexiuni cu haltera) cu haltera. Daca nu puteti ridica bara deasupra capului, faceti [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept) in schimb pentru a creste rezistenta corpului superior. Daca nu poti ridica bara, incearca mai intai ganterele.
 
 Am vazut fete care ar putea face Bench Press(Impinsul cu haltera de la piept) cu haltera goala pentru 5×5 la primul antrenament, chiar daca cantaresc doar 45kg/100lb. Am vazut fete care nu puteau nici macar sa ridice bara nici macar pentru o singura repetare. Dar castigurile incepatorilor sunt cu tine. Vei putea face pentru 5×5 in cateva antrenamente daca te tii de program.
 
@@ -205,7 +205,7 @@ Cel mai important, nu-l forta pe copil. Imi place sa ridic greutati, poate si lu
 
 Da. Antrenamente 5×5 functioneaza in special pentru persoanele cu genetica proasta, pentru care nu a functionat niciodata nimic. Acest lucru se datoreaza faptului ca majoritatea oamenilor cu genetica proasta au imitat rutine de la oameni cu o genetica buna - de obicei, un muschi pe zi izolati, despicaturi de rutina. Asta functioneaza rar pentru oamenii obisnuiti, in special pentru cei cu genetica proasta.
 
-Va sugerez sa nu va mai faceti griji pentru genetica voastra. Am ceea ce oamenii considera „genetica proasta” - incheieturi subtiri, glezne subtiri, umeri mici, subtire in mod natural (ectomorf). In ciuda acestui fapt, am reusit sa acumulez 43lb de muschi, [Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) 419lb, Indreptari 500lb. Nu voi inregistra recordurile mondiale, dar am atins un nivel avansat, facandu-ma mai puternic decat media de gimnastica.
+Va sugerez sa nu va mai faceti griji pentru genetica voastra. Am ceea ce oamenii considera „genetica proasta” - incheieturi subtiri, glezne subtiri, umeri mici, subtire in mod natural (ectomorf). In ciuda acestui fapt, am reusit sa acumulez 43lb de muschi, [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-bara) 419lb, Indreptari 500lb. Nu voi inregistra recordurile mondiale, dar am atins un nivel avansat, facandu-ma mai puternic decat media de gimnastica.
 
 Ideea mea este ca genetica proasta nu inseamna ca nu te poti imbunatati. Trebuie sa insemne ca nu veti deveni la fel de puternic si musculos ca si cel mai bun dintre cei mai buni, iar rezultatele vor dura mai mult. Dar majoritatea oamenilor nu concureaza si nu au termene limite. Puteti deveni mult mai puternic decat persoana obisnuita si aveti timp. Deci nu conteaza.
 
@@ -241,7 +241,7 @@ Poti face orice doresti. Intrebarea pe care trebuie sa o puneti este daca asta v
 
 In primul rand, exista o suprapunere mare in muschii folositi pentru cele 5 exercitii principale. Deadlift-urile sunt ca jumatate Genoflexiuni cu haltera. Rows iti intaresc spatele. Presses intaresc bratele. Intregul corp devine puternic. Deci Deadlift-ul tau creste bine cu doar un set greu de cinci. Nu ai nevoie de mai mult. Acest lucru a fost dovedit.
 
-In al doilea rand, puteti ridica greutati mai grele pe [Indreptari(Deadlifts)](</exercitii/spate/indreptari-(deadlifts)>) decat orice alt exercitiu. Si fiecare repetare porneste de la un punt mort. De aceea, Indreptari(Deadlifts) sunt mai solicitante. 5×5 Deadlift-urile sunt mai greu de recuperat decat 5×5 Genoflexiuni cu haltera. Daca nu va recuperati in totalitate, nu puteti deveni mai puternic. Nu reusiti si va plafonati.
+In al doilea rand, puteti ridica greutati mai grele pe [Indreptari(Deadlifts)](/exercitii/spate/indreptari) decat orice alt exercitiu. Si fiecare repetare porneste de la un punt mort. De aceea, Indreptari(Deadlifts) sunt mai solicitante. 5×5 Deadlift-urile sunt mai greu de recuperat decat 5×5 Genoflexiuni cu haltera. Daca nu va recuperati in totalitate, nu puteti deveni mai puternic. Nu reusiti si va plafonati.
 
 In al treilea rand, iti lipseste experienta. Oamenii care fac deadlifturi 5×5 ajung mereu sa inteleaga, mai tarziu. Cand trebuie sa lupti pentru a obtine 5×5 Squat(Genoflexiuni cu haltera) si sa lupti pentru a obtine 5×5 Presses, nu vrei sa inchei antrenamentul cu un 5×5 Deadlift. Esti fericit sa termini cu un set greu de cinci.
 
@@ -255,7 +255,7 @@ Chiar daca aveti gantere cu cresteri mai mici, tot nu puteti sa faci genofleiuni
 
 Ideea este ca este mai usor sa ridici greutati mai grele cu halterele decat cu ganterele. De aceea veti obtine cele mai bune rezultate facand principalele exercitii compuse cu halterele. De asemenea, va va oferi cea mai buna progresie, deoarece puteti utiliza cresteri mai mici.
 
-Aceasta nu inseamna ca ganterele sunt inutile. Imi plac exercitiile cu gantere si le fac. Dar eu folosesc gantere doar pentru exercitii de izolare - cum ar fi presa cu gantere cu ridicari inalta la sfarsitul antrenamentului, dupa ce am facut prima dara, Barbell Bench Press(Impinsul cu haltera de la piept) cu greutati mari. Nu inlocuiesc Bench Press cu haltere cu [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) cu gantere.
+Aceasta nu inseamna ca ganterele sunt inutile. Imi plac exercitiile cu gantere si le fac. Dar eu folosesc gantere doar pentru exercitii de izolare - cum ar fi presa cu gantere cu ridicari inalta la sfarsitul antrenamentului, dupa ce am facut prima dara, Barbell Bench Press(Impinsul cu haltera de la piept) cu greutati mari. Nu inlocuiesc Bench Press cu haltere cu [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept) cu gantere.
 
 Daca aveti doar gantere sau doriti doar sa utilizati gantere, va rugam sa faceti un program specific cu gantere.
 
@@ -320,7 +320,7 @@ Nu. Am ridicat greutati fara sa ma supravegheze cineva (spotter) in mare parte i
 
 Spotterii nu sunt o garantie pentru siguranta. Majoritatea oamenilor nu stiu sa localizeze corect. Sau este posibil sa nu acorde atentie si sa nu observe cand sariti peste repetari. Chiar daca aveti un supraveghetor excelent, este posibil ca nu intotdeauna sa va puteti antrena din cauza diferentei de program.
 
-Power Racks sunt intotdeauna disponibile, si mai fiabile pentru Squat(Genoflexiuni cu haltera) si [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) . Pur si simplu setati ace de siguranta la inaltimea corespunzatoare, astfel incat sa poata prinde greutatea atunci cand esuati. Gata.
+Power Racks sunt intotdeauna disponibile, si mai fiabile pentru Squat(Genoflexiuni cu haltera) si [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept) . Pur si simplu setati ace de siguranta la inaltimea corespunzatoare, astfel incat sa poata prinde greutatea atunci cand esuati. Gata.
 
 Pentru Indreptari si Rows nu aveti nevoie de un spotter, deoarece nu va puteti bloca sub bara. Daca nu o puteti ridica, puneti greutatea pe podea.
 
@@ -382,7 +382,7 @@ Daca iti lipseste motivatia pe perioade indelungate de timp (saptamana, luni), p
 
 ### Ce se intampla daca imi este rusine sa merg la sala?
 
-Nimanui nu-i pasa de cat ridici. Am fost slab, acum sunt mai puternic, nu face mare diferenta. Majoritatea oamenilor se gandesc la propriul antrenament si o multime de oameni nu inteleg ce este oricum un [Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) de 400lb. Am un prieten care face genuflexiuni de peste 700lb si nimeni nu trage cu ochii atunci cand se antreneaza in salile de gimnastica obisnuite.
+Nimanui nu-i pasa de cat ridici. Am fost slab, acum sunt mai puternic, nu face mare diferenta. Majoritatea oamenilor se gandesc la propriul antrenament si o multime de oameni nu inteleg ce este oricum un [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-bara) de 400lb. Am un prieten care face genuflexiuni de peste 700lb si nimeni nu trage cu ochii atunci cand se antreneaza in salile de gimnastica obisnuite.
 
 Acum poate exista un magar ocazional care poate sa va dea un priviri ciudate sau sa rada din colt. Da-l dracului. Veti trece de la bara goala la 100kg/220lb Squat(Genoflexiuni cu haltera) in 3 luni. O sa sfarsesti cu o forma mai buna decat el. Lasa-l sa rada si sper sa isi aminteasca de tine. Tu vei rade la urma, in trei luni.
 
@@ -417,7 +417,7 @@ Daca doriti cu adevarat sa adaugati exercitii suplimentare pentru brate/abdomen,
 Depinde ce fel de erori tehnice faceai. In general:
 
 - Gama de erori de miscare - cum ai face o jumatate de Squat(Genoflexiuni cu haltera) in loc sa ridici paralel. Corectarea inseamna ca aceeasi greutate va fi mai grea. Pentru ca acum vei parcurge o distanta mai lunga. In aceste cazuri, a incepe cu aproximativ o treime din ceea ce faceai inainte este probabil cel mai bun (aproximativ 70kg daca faceai 100kg).
-- Forma necorespunzatoare - genunchii care sunt prea apropiati cand faci Squat(Genoflexiuni cu haltera) sau spatele prea cocosat pe [Indreptari(Deadlifts)](</exercitii/spate/indreptari-(deadlifts)>) sau pozitia mainilo, pe bara, prea apropiata/departata pe [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press)/Oh Press. Uneori le puteti rezolva pe acestea fara a micsora greutatile. Incearca. Daca nu puteti, atunci micsorati greutatea cu 20% si cresteti incet din nou.
+- Forma necorespunzatoare - genunchii care sunt prea apropiati cand faci Squat(Genoflexiuni cu haltera) sau spatele prea cocosat pe [Indreptari(Deadlifts)](/exercitii/spate/indreptari) sau pozitia mainilo, pe bara, prea apropiata/departata pe [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept)/Oh Press. Uneori le puteti rezolva pe acestea fara a micsora greutatile. Incearca. Daca nu puteti, atunci micsorati greutatea cu 20% si cresteti incet din nou.
 
 Nu trebuie sa incepi de la zero cu haltera goala! (cu exceptie, in cazului in care v-ati dat seama ca aveti o forma proasta la doar 2-3 saptamani de la inceperea antrenamentului, si astfel greutatile dvs. sunt inca usoare). Reduceti greutatea doar atat cat aveti nevoie pentru a putea efectua si mentine o forma adecvata.
 
@@ -429,13 +429,13 @@ Daca nu vei faci genuflexiunile pana jos, va fi mai usor sa le faci, deoarece pa
 
 Nu trebuie sa coborati pana cand soldurile va ating gleznele (ass-to-grass). Daca faceti asta, incetati sa o faceti si progresul va fi mai usor pentru cateva antrenamente. Dar probabil ca va trebui sa va reglati putin forma, deoarece se va simti diferit.
 
-Ceea ce nu faci este sa transformi forma ta corecta, Genoflexiuni cu haltera-urile paralele in jumatate de genuflexiune (Genoflexiuni cu haltera). Nici sa nu incepeti sa faceti jumatate de [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) atunci cand devin grele, continuati sa va atingeti pieptul la fiecare repetare si sa va blocati coatele in partea de sus. Utilizati acelasi interval de miscare tot timpul.
+Ceea ce nu faci este sa transformi forma ta corecta, Genoflexiuni cu haltera-urile paralele in jumatate de genuflexiune (Genoflexiuni cu haltera). Nici sa nu incepeti sa faceti jumatate de [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept) atunci cand devin grele, continuati sa va atingeti pieptul la fiecare repetare si sa va blocati coatele in partea de sus. Utilizati acelasi interval de miscare tot timpul.
 
 Daca credeti ca va veti opri si va este teama ca nu reusiti repetari, atunci considerati-l un esec, micsorati-va greutatile si munciti ca aveti o conditie fizica mai buna.
 
 ### Cum trebuie sa ma antrenez daca calatoresc cu munca si am acces doar la salile de hotel?
 
-Majoritatea salilor de gimnastica ale hotelului nu au haltere si Power racks. De obicei, au doar gantere usoare si tone de echipamente cardio. Antrenamente 5×5 nu functioneaza cu ganterele asa cum s-a discutat deja - a face cu gantere, Squat(Genoflexiuni cu haltera) and [Indreptari(Deadlifts)](</exercitii/spate/indreptari-(deadlifts)>) este o pierdere de timp. Urasc sa-mi pierd timpul cu lucruri mai putin eficiente, asa ca as prefera sa nu fac nimic decat asta.
+Majoritatea salilor de gimnastica ale hotelului nu au haltere si Power racks. De obicei, au doar gantere usoare si tone de echipamente cardio. Antrenamente 5×5 nu functioneaza cu ganterele asa cum s-a discutat deja - a face cu gantere, Squat(Genoflexiuni cu haltera) and [Indreptari(Deadlifts)](/exercitii/spate/indreptari) este o pierdere de timp. Urasc sa-mi pierd timpul cu lucruri mai putin eficiente, asa ca as prefera sa nu fac nimic decat asta.
 
 Acum calatoresc mult, dar nu ma antrenez niciodata in hoteluri. Ceea ce fac este sa merg la Crossfit-ul local. Cele mai multe orase mari au unul. Crossfitters Squat(Genoflexiuni cu haltera) si Indreptari ca noi. Salile lor sunt imense si au haltere/rows pentru Squat(Genoflexiuni cu haltera)/Indreptari grele. Asa ca merg la crossfit-ul local si ma antrenez acolo.
 
@@ -453,9 +453,9 @@ Urati acest exercitiu, deoarece nu ii puteti da de cap, forma lui este prima dvs
 
 ### Cum va asteptati sa treceti peste plafonarile viitoare cand renuntati la primul?
 
-Slabiciunea si forma proasta sunt lucruri de care trebuie sa-ti dai seama. Nu vei ajunge nicaieri daca nu-ti dai seama cum sa faci un [Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>). Nu exista niciun inlocuitor pentru acest exercitiu. Fie va dati seama cum sa o faceti, fie va pierdeti timpul cu exercitii inferioare, cum ar fi o apasare a picioarelor sau o fandare.
+Slabiciunea si forma proasta sunt lucruri de care trebuie sa-ti dai seama. Nu vei ajunge nicaieri daca nu-ti dai seama cum sa faci un [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-bara). Nu exista niciun inlocuitor pentru acest exercitiu. Fie va dati seama cum sa o faceti, fie va pierdeti timpul cu exercitii inferioare, cum ar fi o apasare a picioarelor sau o fandare.
 
-Desigur, daca [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) continua sa va raneasca umerii, atunci faceti in schimb Grip Bench Press(Impinsul cu haltera de la piept). Incercati insa cel putin sa va dati seama de ce doare. In multe cazuri, problema este postura proasta. Majoritatea oamenilor nu se adreseaza niciodata acelei forme proaste, ci merg direct pentru inlocuire. Este lenes.
+Desigur, daca [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept) continua sa va raneasca umerii, atunci faceti in schimb Grip Bench Press(Impinsul cu haltera de la piept). Incercati insa cel putin sa va dati seama de ce doare. In multe cazuri, problema este postura proasta. Majoritatea oamenilor nu se adreseaza niciodata acelei forme proaste, ci merg direct pentru inlocuire. Este lenes.
 
 ### Fumatul imi va impiedica castigurile pe Antrenamente 5×5?
 
@@ -498,7 +498,7 @@ Daca ati fost sedentar ani de zile, ar putea fi necesar sa va intindeti. Ceea ce
 - Soldurile rigide impiedica genunchii sa ramana afara cand faci genuflexiuni. Acest lucru cauzeaza rotunjirea spatelui in partea inferioara cand faceti genuflexiuni( Genoflexiuni cu haltera) - care provoaca dureri de spate. Stretching-ul(intinderea) va poate ajuta sa va mentineti genunchii in afara, astfel incat coloana vertebrala sa ramana neutra. De asemenea, ajuta la ruperea pozitiei initiale mai usor.
 - Umerii ingusti/rigizi va impiedica sa blocati bara deasupra umerilor, OverheadPress. Trebuie sa stea in fata, ceea ce este mai greu. Coloana vertebrala poate compensa prin arcuire pentru a obtine bara echilibrata peste umeri. Acest lucru poate provoca dureri ale spate in partea inferioare.
 
-Stretching-ul va poate ajuta sa redobanditi mobilitatea pierduta. Iti poate imbunatati tehnica in cazul in care miscare limitata v-a afectat postura/forma. Acest lucru poate elimina durerile si va poate ajuta sa ridicati greutati mai grele. Dupa aceea, efectuarea de exercitii precum [Squat(Genoflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) cu o forma adecvata va ajuta sa mentineti aceasta flexibilitate.
+Stretching-ul va poate ajuta sa redobanditi mobilitatea pierduta. Iti poate imbunatati tehnica in cazul in care miscare limitata v-a afectat postura/forma. Acest lucru poate elimina durerile si va poate ajuta sa ridicati greutati mai grele. Dupa aceea, efectuarea de exercitii precum [Squat(Genoflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-bara) cu o forma adecvata va ajuta sa mentineti aceasta flexibilitate.
 
 Dar stretching-ul nu este intotdeauna Solutia in cazul unei forme proasta. Aveti nevoie de mobilitate adecvata pentru a face genuflexiuni(Genoflexiuni cu haltera) cu genunchii in afara. Dar, de asemenea, trebuie sa va controlati muschii in timp ce va deplasati, astfel incat sa obtineti o forma adecvata. Acest control necesita un efort constient din partea ta, precum si forta.
 

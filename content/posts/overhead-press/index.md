@@ -4,7 +4,6 @@ cover: './presa-deasuprea-capului.jpg'
 date: '2020-07-01'
 title: 'Over Head Press - Presa deasupra capului cu bara'
 tags: ['exercitii']
-subCategory: ['umeri']
 published: true
 ---
 
@@ -27,7 +26,7 @@ Pentru a evita durerile de umar, faceti Presa deasupra capului(Overhead Press) c
 
 Presa deasupra capului este cel mai greu exercitiu de pe [Antrenamente 5x5](/program/full-body/5x5) . Vei lucra cu o greutate mai mica decat la alte exercitii, deoarece foloseste muschi mici. Va veti lupta sa adaugati greutate inainte de a face alte exercitii. Cu cat forma ta este mai rea, cu atat vei lupta mai mult. Prin urmare, o forma corecta este cruciala.
 
-Acesta este ghidul definitiv pentru forma corecta a exercitiului Presa deasupra capului.
+Acesta este ghidul complet pentru forma corecta a exercitiului Presa deasupra capului.
 
 <details style="box-shadow: 0px 1px 2px 0px black;" open><summary style="text-align:center">Cuprins</summary>
 

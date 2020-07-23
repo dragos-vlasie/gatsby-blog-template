@@ -4,7 +4,6 @@ cover: './tractiuni.jpg'
 date: '2020-07-07'
 title: 'Tractiuni(Pull ups)'
 tags: ['exercitii']
-subCategory: ['spate']
 published: true
 ---
 
@@ -26,7 +25,7 @@ Daca nu puteti face nici macar o tractiune(Pullup), incercati Chinups. Prindeti 
 
 Tractiuni(pull-ups) nu fac parte din [Antrenamente 5x5](/program/full-body/5x5) in mod implicit. Nu aveti nevoie de ele pentru a obtine rezultate. Unii oameni doresc sa-si sublinieze bratele si au timp pentru o munca suplimentara. Daca da, adaugati Chinups la sfarsitul antrenamentului B. Dar ramai concentrat pe cresterea genuflexiunilor (Squats) tale. Conteaza cel mai mult pentru obtinerea unor rezultate.
 
-Acesta este ghidul definitiv pentru o forma corecta a tractiunilor(pull-ups). De asemenea, prezinta variatii, precum Chinups.
+Acesta este ghidul complet pentru o forma corecta a tractiunilor(pull-ups). De asemenea, prezinta variatii, precum Chinups.
 
 <details style="box-shadow: 0px 1px 2px 0px black;" open><summary style="text-align:center">Cuprins</summary>
 
@@ -120,7 +119,7 @@ Constructia dvs. determina distanta dintre maini(priza). Cu cat umerii sunt mai 
 
 ## Muschii antrenati<a id="muschii-lucrati"></a>
 
-Tractiunile(pull-ups) sunt in mare parte un exercitiu pentru partea superioara a spatelui si brate, precum [Ramat cu haltera(Barbell Row)](/exercitii/spate/ramat-cu-bara). Dar va antreneaza altfel spatele. Tractiunile(pull-ups) sunt o miscare verticala ca [Presa deasuprea capului cu bara(Overhead Press)](/exercitii/umeri/presa-deasupra-capului-cu-haltera). Barbell Rows este o miscare orizontala precum [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press). Tractiunile(pull-ups) antreneaza mai putin muschi decat Barbell Rows, deoarece picioarele si soldurile nu fac altceva decat sa atarne.
+Tractiunile(pull-ups) sunt in mare parte un exercitiu pentru partea superioara a spatelui si brate, precum [Ramat cu haltera(Barbell Row)](/exercitii/spate/ramat-cu-bara). Dar va antreneaza altfel spatele. Tractiunile(pull-ups) sunt o miscare verticala ca [Presa deasuprea capului cu bara(Overhead Press)](/exercitii/umeri/presa-deasupra-capului-cu-haltera). Barbell Rows este o miscare orizontala precum [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept). Tractiunile(pull-ups) antreneaza mai putin muschi decat Barbell Rows, deoarece picioarele si soldurile nu fac altceva decat sa atarne.
 Tractiunile (pull-ups) sunt, asadar, mai putin potrivite pentru tot corpul si mai mult focalizate pe partea superioara. Iata muschii pe care acestea ii lucreaza…
 
 - **Spatele superior**. “Latissimus dorsi”, numiti si “Lats” sau dorsul mare, trage bratele superioare in jos pentru a se te ridica pe tine. Muschiul dorsal mare este cel mai mare muschi al spatelui care creeaza un aspect „in forma de v”. Tractiunile(pull-ups) iti lucreaza trapezul, umerii din spate si diversi muschi mici din partea superioara a spatelui.
@@ -151,7 +150,7 @@ _Folositi o prindere completa pentru rezistenta maxima la tractiuni(pull-ups)._
 
 Priza completa. Pune-ti degetele in jurul barei. Strangeti bara tare, astfel incat sa nu se poata misca si astfel nu puteti aluneca. Cu cat strangeti mai tare bara, cu atat bratele si umerile se contract mai mult. Cu cat se contracta mai tare, cu atat vei avea mai multa forta si cu atat mai usor devin tractiunile (pull-ups). Prinderea ce nu implica degetul mare va poate ajuta sa va simtiti mai bine exercitiul. Dar vei fi mai puternic cu prinderea completa, deoarece poti strange bara mai tare. Mergeti cu prindere deplina.
 
-Grip The Bar Low. Tineti bara sus in maini, strangeti-va degetele. Bara trebuie sa se sprijine in topul calusurilor principale. Aceasta este aceeasi strangere pe care ar trebui sa o utilizati la [Indreptari(Deadlifts)](</exercitii/spate/indreptari-(deadlifts)>)s. Bara va prinde mai putin din piele atunci cand o tineti aproape de degete. Acest lucru impiedica mainile sa se raneasca si reduce numarul de calusuri obtinute de la tractiuni(pull-ups). Nu strangeti bara cu mijlocul palmei. Tine-o mai sus, intre palma si degete.
+Grip The Bar Low. Tineti bara sus in maini, strangeti-va degetele. Bara trebuie sa se sprijine in topul calusurilor principale. Aceasta este aceeasi strangere pe care ar trebui sa o utilizati la [Indreptari(Deadlifts)](/exercitii/spate/indreptari)s. Bara va prinde mai putin din piele atunci cand o tineti aproape de degete. Acest lucru impiedica mainile sa se raneasca si reduce numarul de calusuri obtinute de la tractiuni(pull-ups). Nu strangeti bara cu mijlocul palmei. Tine-o mai sus, intre palma si degete.
 
 Double Overhand. Tineti bara cu palmele orientate in sus pentru tractiuni (pull-ups). Aceasta este prinderea in jos care vizeaza partea superioara a spatelui si a dorsului mare. De asemenea, puteti strange bara cu palmele in jos si faceti Chinups. Aceasta priza cu palmele in sus iti lucreaza partea superioara a spatelui si ataca si muschii, dar iti foloseste mai mult bicepsul. Daca doriti sa va accentuati bratele sau nu puteti face o singura repetare, faceti Chinups. Sunt mai usoare. In caz contrar, continuati cu tractiunile(pull-ups).
 
@@ -227,7 +226,7 @@ _Trageti barbia peste bara, in partea de sus a tractiunii(pull-ups). Jumatate de
 
 A trisa cand faci tractiuni(pull-ups) inseamna sa scurtezi intervalul de miscare facand jumatate de repetare. Fiecare repetare trebuie sa inceapa cu bratele drept, in partea de jos(bottom). Si fiecare repetare trebuie sa se termine cu barbia peste bara, in varf(top). Acest lucru lucreaza muschii spatelui si bratelor printr-o gama completa de miscare. Construieste cea mai mare cantitate de forta si muschi. Jumatatile de tractiuni(pull-ups) sunt mai usoare, asa cum sunt si jumatatile de genuflexiuni(Squats). Dar si de aceea sunt mai putin eficiente.
 
-Primul mod de a face jumatate de repetare este pornind fiecare repetare cu coatele indoite. Acest lucru scurteaza intervalul de miscare. Iti micsoreaza efortul depus de muschii spatelui. Si construieste obiceiuri periculoase pentru [Indreptari(Deadlifts)](</exercitii/spate/indreptari-(deadlifts)>), unde fiecare repetare trebuie sa inceapa cu coatele blocate pentru a evita ranile bicepsului. Coborati-va pana la capat:pana cand coatele sunt blocate/fixate. Lasa-ti spatele sa se intinda. Ridica din umeri. Apoi trageti-va in sus, de la o pozitie moarta.
+Primul mod de a face jumatate de repetare este pornind fiecare repetare cu coatele indoite. Acest lucru scurteaza intervalul de miscare. Iti micsoreaza efortul depus de muschii spatelui. Si construieste obiceiuri periculoase pentru [Indreptari(Deadlifts)](/exercitii/spate/indreptari), unde fiecare repetare trebuie sa inceapa cu coatele blocate pentru a evita ranile bicepsului. Coborati-va pana la capat:pana cand coatele sunt blocate/fixate. Lasa-ti spatele sa se intinda. Ridica din umeri. Apoi trageti-va in sus, de la o pozitie moarta.
 
 Al doilea mod de a face jumatate de repetare este prin faptul ca nu reusesti sa-ti treci barbia peste bara. Fruntea sau nasul trecute de bara nu se pune. Ambele scurteaza intervalul de miscare in partea de sus. Scade din efortul muschilor bratului tau. Bicepsul dvs. nu se contracta complet. Nu va fi mai mare in acest fel. Ideal este sa iti iei pieptul superior (clavicula) in fata barei. Minimul este sa-ti treci barbia peste bara. Aceasta este forma de tractiune corespunzatoare.
 
@@ -240,7 +239,7 @@ Cealalta modalitate de a trisa la tractiuni(pull-ups) este folosirea soldurilor.
 ![Tractiuni negative](./assets/tractiuni-negatives-1.jpg)
 _Faceti exercitii negative daca nu puteti face nicio tractiune._
 
-Tractiunile(pull-ups)sunt grele, deoarece te obliga sa-ti ridici greutatea corpului din prima zi. Exercitiile de tip Barbell precum genuflexiunile(Squats) sunt mai usor de urcat. Daca nu puteti face [Squat(Genuflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>)) cu o greutate care sa fie egala cu greutatea corpului, eliminati pur si simplu placile din bara. In cel mai rau caz incepeti cu bara goala. Dar singura modalitate de a reduce rezistenta la exercitii de greutate corporala precum tractiunile(pull-ups) este sa slabesti. Acest lucru nu este practic. Deci, aveti nevoie de alte modalitati de a face tractiuni(pull-ups) mai usor.
+Tractiunile(pull-ups)sunt grele, deoarece te obliga sa-ti ridici greutatea corpului din prima zi. Exercitiile de tip Barbell precum genuflexiunile(Squats) sunt mai usor de urcat. Daca nu puteti face [Squat(Genuflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-bara)) cu o greutate care sa fie egala cu greutatea corpului, eliminati pur si simplu placile din bara. In cel mai rau caz incepeti cu bara goala. Dar singura modalitate de a reduce rezistenta la exercitii de greutate corporala precum tractiunile(pull-ups) este sa slabesti. Acest lucru nu este practic. Deci, aveti nevoie de alte modalitati de a face tractiuni(pull-ups) mai usor.
 
 Incercati mai intai Chinups daca nu puteti face nicio tractiune. Chinup-urile sunt mai usoare decat tractiunile(pull-ups), deoarece folosesc mai mult bratele. Prinde bara cu palmele indreptate spre tine si incearca sa te ridici. Daca nu o puteti face, este in regula, treceti la paragraful urmator. Daca o puteti face, ramaneti cu Chinups. Faceti trei seturi pentru cat mai multe repetari, cu o forma adecvata. Incercati sa faceti cu o repetare mai mult la fiecare antrenament. Cand puteti face cinci Chinup-uri, puteti face o singura tractiune( Pullup).
 
@@ -297,7 +296,7 @@ Cea mai usoara modalitate de a adauga greutate pentru tractiuni(pull-ups) este f
 ![Dip Belt Chinups](./assets/antrenamente-weighted-tractiuni.jpg)
 _Utilizati o curea speciala pentru a adauga greutate pe Chinups si Pullups._
 
-Curele pentru tractiuni de calitate pot sustine cu usurinta 80kg / 150lb si mai mult. Nu recomand sa puneti un lant pe centura pe care o utilizati pentru [Squat(Genuflexiuni cu haltera)](</exercitii/picioare/genuflexiuni-cu-bara-(Squats)>) and [Indreptari(Deadlifts)](</exercitii/spate/indreptari-(deadlifts)>)s, aceasta o va deteriora. Obtineti in schimb o curea speciala pentru tractiuni. Sugestii:
+Curele pentru tractiuni de calitate pot sustine cu usurinta 80kg / 150lb si mai mult. Nu recomand sa puneti un lant pe centura pe care o utilizati pentru [Squat(Genuflexiuni cu haltera)](/exercitii/picioare/genuflexiuni-cu-bara) and [Indreptari(Deadlifts)](/exercitii/spate/indreptari)s, aceasta o va deteriora. Obtineti in schimb o curea speciala pentru tractiuni. Sugestii:
 
 - **Curea Dip Polypro**
 - **Curea Brute**
@@ -305,7 +304,7 @@ Curele pentru tractiuni de calitate pot sustine cu usurinta 80kg / 150lb si mai 
 
 De asemenea, nu recomand sa tii o gantera intre picioare. Acest lucru functioneaza numai cu greutati usoare. Greutatea grea iti va cadea dintre picioare. Chiar daca o puteti tine, functioneaza doar daca bara de tractiune este ridicata, astfel incat picioarele dvs. nu ating podeaua. Nu puteti tine gantera intre picioare cu genunchii indoiti. Si nu puteti indrepta picioarele daca faceti tractiuni(pull-ups) intr-un Power Rack redus ca al meu. Acesta este motivul pentru care folosesc o curea speciala pentru tractiuni.
 
-Treceti la tractiuni(pull-ups) ponderate odata ce puteti face 10 repetari cu o forma buna. Incepeti usor si adaugati greutate la fiecare antrenament. Tractiunile(pull-ups) folosesc muschi mici, asa cum o fac [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept-bench-press) si Overhead. Adaugand 1kg / 2lb la fiecare antrenament lucreaza, prin urmare, mai mult decat 2,5 kg / 5lb. Imi place sa fac doua seturi de cinci Chinups ponderati la sfarsitul antrenamentului meu. Apoi, imi place sa continui cu un set de Chinups fara greutati pentru cat mai multe repetari.
+Treceti la tractiuni(pull-ups) ponderate odata ce puteti face 10 repetari cu o forma buna. Incepeti usor si adaugati greutate la fiecare antrenament. Tractiunile(pull-ups) folosesc muschi mici, asa cum o fac [Bench Press(Impinsul cu haltera de la piept)](/exercitii/piept/impinsul-cu-haltera-de-la-piept) si Overhead. Adaugand 1kg / 2lb la fiecare antrenament lucreaza, prin urmare, mai mult decat 2,5 kg / 5lb. Imi place sa fac doua seturi de cinci Chinups ponderati la sfarsitul antrenamentului meu. Apoi, imi place sa continui cu un set de Chinups fara greutati pentru cat mai multe repetari.
 
 ## Assisted Pullup Machine<a id="assisted-pullup-machine"></a>
 
