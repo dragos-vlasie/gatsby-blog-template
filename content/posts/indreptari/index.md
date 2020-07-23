@@ -354,7 +354,7 @@ Aveti grija cu persoanele care va revizuiesc Deadlift-ul ca [Genoflexiuni cu hal
 ## Omoplati<a id="omoplati"></a>
 
 ![Indreptari shoulder-blades position](./assets/andy-benedikt-indreptari.jpg)
-_fiecare Deadlifter puternic are omoplatii peste bara cand bara iese pe podea._
+_Fiecare Deadlifter puternic are omoplatii peste bara cand bara iese pe podea._
 Omoplatii trebuie sa fie deasupra talpilor in pozitia de inceput. Fiecare Deadlifter puternic de la Andy Bolton la Benedikt Magnusson pana la Mike Tuchscherer are omoplatii deasupra barei cand greutatea paraseste podeaua. Este cel mai eficient mod de a ridica multa greutate la Indreptarti(Deadlift).
 
 Iata de ce: omoplatii transfera forta generata de picioarele tale in spatele asfel tragand bara. Ridici bara intr - o linie verticala deasupra punctului tau de echilibru – mijlocul piciorului(talpii). Gravitatea trage bara in jos pe o linie verticala. Deci, omoplatii trebuie sa fie deasupra barei pentru a trage impotriva gravitatii.
@@ -366,7 +366,7 @@ Nu va strangeti omoplatii pe Indreptari(Deadlifts), precum pe [Genoflexiuni cu h
 ## Umerii<a id="umerii"></a>
 
 ![Indreptari shoulder-blades and shoulder position](./assets/indreptari-shoulders.jpg)
-_stanga: umerii deasupra barei iti pun soldurile prea jos. Dreapta: incepeti cu omoplatii peste bara._
+_Stanga: umerii deasupra barei iti pun soldurile prea jos. Dreapta: incepeti cu omoplatii peste bara._
 
 Umerii trebuie sa fie in fata barei atunci cand incepeti Indreptarile. Acest lucru pune omoplatii deasupra barei si este cel mai eficient mod de a dace Indreptari asa cum am discutat mai sus.
 
@@ -612,7 +612,7 @@ De asemenea, puteti mentine mainile inchise mai mult timp cu priza normala. Grav
 ## Priza mixta<a id="priza-mixta"></a>
 
 ![Indreptari Mixed Grip](./assets/indreptari-mixed-grip.jpg)
-_faceti Indreptari/Deadlift cu priza mixta atunci cand nu puteti tine bara cu prinderea normala. O mana in sus, una in jos._
+_Faceti Indreptari/Deadlift cu priza mixta atunci cand nu puteti tine bara cu prinderea normala. O mana in sus, una in jos._
 
 Priza mixta tine bara cu o mana in sus, cu una in jos (ca o bata de baseball). Acest lucru mareste rezistenta la prindere punand degetele de o parte si de alta a barei. Prinderea normala pune degetele doar pe o parte.
 

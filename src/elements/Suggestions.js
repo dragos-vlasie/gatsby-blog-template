@@ -129,7 +129,7 @@ const Image = styled.div`
   }
 `;
 
-const Title = styled.h4`
+const Title = styled.p`
   color: ${props => props.theme.colors.white.base};
   text-align: center;
   margin-bottom: 0;

@@ -50,7 +50,7 @@ const Index = ({ data }) => {
               <PostList
                 key={id}
                 cover={cover.childImageSharp.fluid}
-                path={`/${tags}${subCategoryPath}${path}`}
+                path={`/${tags}${subCategoryPath}${path}/`}
                 title={title}
                 date={date}
                 excerpt={excerpt}
