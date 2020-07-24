@@ -269,7 +269,7 @@ Majoritatea oamenilor care vor sa piarda grasime, fac cardio. Au lovit banda de 
 
 Ridicarea greutatilor este mai distractiva. Construieste muschi. Iti creste metabolismul, spre deosebire de cardio, la majoritatea oamenilor. Ceea ce inseamna ca veti arde mai multe calorii de la ridicarea greutatilor si dupa antrenament.
 
-Pentru cele mai bune rezultate, trebuie sa faceti greutate gratuita, exercitii compuse. Asta inseamna [Genuflexiuni cu haltera(Squats)](/exercitii/picioare/fenuflexiuni-cu-haltera) si [Deadlifts](</indreptari(deadlifts)>). Daca nu ati ridicat niciodata greutati inainte, incepeti cu bara goala pentru a va concentra pe formular. Verifica programul meu [ [Antrenamente 5x5](/program/5x5/) ](program/full-body/5x5/), dureaza doar de trei ori pe saptamana.
+Pentru cele mai bune rezultate, trebuie sa faceti greutate gratuita, exercitii compuse. Asta inseamna [Genuflexiuni cu haltera(Squats)](/exercitii/picioare/fenuflexiuni-cu-haltera) si [Deadlifts](</indreptari(deadlifts)>). Daca nu ati ridicat niciodata greutati inainte, incepeti cu bara goala pentru a va concentra pe formular. Verifica programul meu [ [Antrenamente 5x5](/5x5/) ](program/full-body/5x5/), dureaza doar de trei ori pe saptamana.
 
 <!--
 ## <span id = "Frecvent_Asked_Questions"> Intrebari frecvente </span>

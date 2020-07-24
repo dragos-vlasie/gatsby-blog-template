@@ -188,7 +188,7 @@ Cea mai buna modalitate de a preveni ranirea la nivelul spatelui este de a antre
 
 Aici este un video in care puteti vedea cum se realizeza Barbell Row in mod corect.
 
-<div class="videoWrapper"><iframe width="1100" height="825" src="https://www.youtube.com/embed/RQU8wZPbioA?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+<div class="videoWrapper"><iframe title="Ramat cu bara forma corespunzatoare" width="1100" height="825" src="https://www.youtube.com/embed/RQU8wZPbioA?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
 ## Tehnica Ramat cu bara(Barbell Row)<a name="Tehnica-Barbell-Row"></a>
 
@@ -387,11 +387,11 @@ Folosirea genunchilor este a treia cale de a trisa. Incepi cu genunchii indoiti 
 
 Exemplu: acest tip face Barbell Rows cu 135kg / 295lb folosind o forma excelenta in general, dar cu unele moment de trisare. Isi indoaie genunchii pentru a ridica greutatea. De asemenea, coboara pieptul pentru a termina fiecare repetare. Acum, el face Deadlifts cu 272kg / 600lb, asa ca sunt sigur ca stie ce face. Trisarea are avantaje pentru elevii avansati, puteti folosi greutati mai grele pentru a sparge platourile. Dar majoritatea oamenilor nu ar trebui sa triseze pentru ca este o panta alunecoasa care creeaza obiceiuri proaste si poate cauza vatamari.
 
-<div class="videoWrapper"><iframe width="1100" height="825" src="https://www.youtube.com/embed/EJLNavhqJwk?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+<div class="videoWrapper"><iframe title="trisarea barbell row" width="1100" height="825" src="https://www.youtube.com/embed/EJLNavhqJwk?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
 Cata trisare este prea multa? Puristii spun ca doar bratele tale trebuie sa se miste. Elevii de ego spun ca orice conteaza atata timp cat te lovesti in piept. Spun ca trunchiul tau se poate ridica, dar nu mai mult de 15 °. Aceasta este problema cu Barbell Rows: unele sunt mai stricte decat altele, ceea ce face ca comparatia sa fie grea (nu ca ar trebui sa faci asta…). Acesta este motivul pentru care este un exercitiu de asistenta, si de ce oamenilor le pasa foarte rar de cat de mult poti face Barbell Row.
 
-Ceea ce conteaza este tehnica de Barbell Row consistenta. Nu va ridicati trunchiul la fiecare antrenament [Antrenamente 5x5](/program/5x5/) , astfel incat sa puteti continua sa adaugati greutate. Daca puteti face Barbell Rows cu o greutate mai mare de doua ori decat cea cu care ai inceput, 12 saptamani mai tarziu, dar trunchiul dvs. este acum la 45 °, ati devenit mai puternic? Nu. Ati scurtat raza de miscare si ati folosit mai mult solduri. Este ca si cum ai transforma Genuflexiunile (Squats) in jumatate de genuflexiuni (Squats): puterea si jumatate din castiguri vor fi false. Folositi o forma constanta si considerati ca abaterile sunt esecuri.
+Ceea ce conteaza este tehnica de Barbell Row consistenta. Nu va ridicati trunchiul la fiecare antrenament [Antrenamente 5x5](/5x5/) , astfel incat sa puteti continua sa adaugati greutate. Daca puteti face Barbell Rows cu o greutate mai mare de doua ori decat cea cu care ai inceput, 12 saptamani mai tarziu, dar trunchiul dvs. este acum la 45 °, ati devenit mai puternic? Nu. Ati scurtat raza de miscare si ati folosit mai mult solduri. Este ca si cum ai transforma Genuflexiunile (Squats) in jumatate de genuflexiuni (Squats): puterea si jumatate din castiguri vor fi false. Folositi o forma constanta si considerati ca abaterile sunt esecuri.
 
 ## Variatii Barbell Row<a name="Variatii-Barbell-Row"></a>
 
@@ -401,11 +401,11 @@ Antrenorul Glenn Pendlay a fost primul care a recomandat Barbell Rows cu un trun
 
 Diferenta dintre Pendlay Rows si Barbell Row pe care le vedeti de obicei in salile de sport este ca bara incepe de pe podea la fiecare repetare. Nu tineti bara in aer intre repetari. Trunchiul dvs. nu se ridica nici cu 45 °. sta aproape de orizontala cu podeaua. Acest lucru face din Pendlay Row un exercitiu mai exploziv. Si iti lucreaza partea superioara a spatelui, muschiul dorsal si muschii spatelui mai tare decat Barbell Rows in stil culturism.
 
-Forma Ramat cu bara(Barbell Row) descrisa in acest ghid pe care il cititi este, prin urmare, cea de la Pendlay Rows. Este forma/ postura pe care o folosesc si o recomand pe [Antrenamente 5x5](/program/5x5/) . Trunchiul tau nu trebuie sa se ridice niciodata mai mult de 15 °, ci sa stea aproape de orizontala. Si bara trebuie sa inceapa si sa se intoarca la podea la fiecare repetare, ca in Deadlifts. Acest lucru este mai sigur pentru partea inferioara a spatelui, deoarece il puteti seta neutru intre repetari atunci cand bara este pe podea.
+Forma Ramat cu bara(Barbell Row) descrisa in acest ghid pe care il cititi este, prin urmare, cea de la Pendlay Rows. Este forma/ postura pe care o folosesc si o recomand pe [Antrenamente 5x5](/5x5/) . Trunchiul tau nu trebuie sa se ridice niciodata mai mult de 15 °, ci sa stea aproape de orizontala. Si bara trebuie sa inceapa si sa se intoarca la podea la fiecare repetare, ca in Deadlifts. Acest lucru este mai sigur pentru partea inferioara a spatelui, deoarece il puteti seta neutru intre repetari atunci cand bara este pe podea.
 
-Va prezentam video-ul de la antrenorul Glenn Pendlay care arata cum sa faci Pendlay Row cu o forma adecvata. Observati ca bara incepe de pe podea la fiecare repetare, spre deosebire de Barbell Rows in stilul culturismului. Trunchiul ramane paralel cu podeaua si nu creste mai mult de 15 °. Partea inferioara a spatelui si a capului raman neutre, linie dreapta de la solduri la cap. Pieptul ramane ridicat, in timp ce coatele se duc in spate si in spatele trunchiului din varf.
+Va prezint video-ul de la antrenorul Glenn Pendlay care arata cum sa faci Pendlay Row cu o forma adecvata. Observati ca bara incepe de pe podea la fiecare repetare, spre deosebire de Barbell Rows in stilul culturismului. Trunchiul ramane paralel cu podeaua si nu creste mai mult de 15 °. Partea inferioara a spatelui si a capului raman neutre, linie dreapta de la solduri la cap. Pieptul ramane ridicat, in timp ce coatele se duc in spate si in spatele trunchiului din varf.
 
-<div class="videoWrapper"><iframe width="1100" height="825" src="https://www.youtube.com/embed/ZlRrIsoDpKg?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+<div class="videoWrapper"><iframe title="Pendlay Row" width="1100" height="825" src="https://www.youtube.com/embed/ZlRrIsoDpKg?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
 ## Yates Rows<a name="Yates-Rows"></a>
 
@@ -415,7 +415,7 @@ Yates Rows este numit dupa campionul culturist Dorian Yates. El a castigat dl Ol
 
 Nu recomand Yates Rows. Dorian Yates a fost un culturist uimitor. Imi amintesc ca i-am urmarit videoclipurile de antrenament cand am inceput sa ridic, ce intensitate! Dar Dorian Yates a recunoscut ca a folosit steroizi timp de 12 ani. Il respect, as dori ca mai multi oameni sa fie sinceri in acest sens. Pentru ca ceea ce a functionat pentru el nu va fi pentru oameni care se antreneaza in mod natural ca noi. Vom obtine rezultate mai bune cu Barbell Rows decat Yates Rows. Iata de ce…
 
-<div class="videoWrapper"><iframe width="1100" height="619" src="https://www.youtube.com/embed/rNjwZ1fxtCQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+<div class="videoWrapper"><iframe title="Yates rows" width="1100" height="619" src="https://www.youtube.com/embed/rNjwZ1fxtCQ?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
 Focusarea pe muschiul dorsal mare este o pierdere de timp. Muschiul dorsal este un muschi care iti merge de la brat la partea inferioara a spatelui. Cat de scazut se ataseaza coloanei vertebrale depinde de genetica ta. Spatele cu muschiul dorsal pozitionat mai sus pare mai mic, la fel cum gamba mele inalte par mai mici. Yates Rows nu va pot transforma atasamentele muschiului dorsal. Yates Rows nu pot transforma tendoanele in muschi. Singurul lucru pe care il puteti face este sa cresteti dimensiunea muschilor dorsali.
 
@@ -460,7 +460,7 @@ Dumbbell Row sunt Barbell Row cu un singur brat folosind gantere. Modul obisnuit
 
 Dumbbell Rows (cu gantere ) subliniaza partea superioara a spatelui, asa cum o fac Machine Rows (utilizand aparate). Intervalul de miscare este mai lung, obtineti o intindere mai mare in partea de jos. Dar soldurile, muschii inferiori ai spatelui si ai abdomenului nu trebuie sa va echilibreze si greutatea ca la Barbell Rows. Dumbbell Rows (cu gantere) te pot ajuta sa te antrenezi in jurul unei leziuni inferioare a spatelui. Dar pentru a castiga forta si muschi in general, Barbell Rows sunt mai eficiente, deoarece lucreaza mai multi muschi cu mai multa greutate.
 
-Progresarea este, de asemenea, mai grea daca utilizati gantere (dumbbell). Trebuie sa adaugati greutate la fiecare antrenament pentru a obtine rezultate cu [Antrenamente 5x5](/program/5x5/) . Cresteri mici functioneaza mai mult decat cele mari. Dar ganterele cresc de obicei cu 2kg / 5lb. Putine sali de sport au gantere cu cresteri mai mici sau cu reglabile. Trebuie sa adaugati 4 kg / 10lb fiecare antrenament in loc de 2,5 kg / 5lb sau mai putin cu Barbell Rows. Te vei plafona mai rapid pe [Antrenamente 5x5](/program/5x5/) daca folosesti gantere.
+Progresarea este, de asemenea, mai grea daca utilizati gantere (dumbbell). Trebuie sa adaugati greutate la fiecare antrenament pentru a obtine rezultate cu [Antrenamente 5x5](/5x5/) . Cresteri mici functioneaza mai mult decat cele mari. Dar ganterele cresc de obicei cu 2kg / 5lb. Putine sali de sport au gantere cu cresteri mai mici sau cu reglabile. Trebuie sa adaugati 4 kg / 10lb fiecare antrenament in loc de 2,5 kg / 5lb sau mai putin cu Barbell Rows. Te vei plafona mai rapid pe [Antrenamente 5x5](/5x5/) daca folosesti gantere.
 
 ## Inverted Rows (inversate)<a name="Inverted-Rows-(inversate)"></a>
 
@@ -479,7 +479,7 @@ Inverted Rows sunt ca niste Dumbbell Rows: nu va antreneaza spatele, soldurile s
 
 Barbell Rows sunt mai sigure decat Power Clean . Multe persoane isi ranesc incheieturile, coatele si umerii facand Power Clean , deoarece nu au flexibilitate. Power Cleans necesita mai mult timp si efort (si de multe ori un antrenor) pentru a stapani forma adecvata. Este mai usor sa inveti sa faci Barbell Rows si sa-ti construiesti muschii din corpul superior mai mult decat sa faci Power Cleans. Multe sali de gimnastica nu au echipament pentru a arunca bara in siguranta pe Power Cleans.
 
-Power Cleans poate fi util sportivilor care trebuie sa fie explozivi pentru sport. Dar puteti dezvolta puterea mai rapid si mai usor prin imbunatatirea [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/) si Deadlift. Power Clean s sunt distractive daca ai petrecut timpul si efortul pentru a invata o forma adecvata. Dar daca doriti doar sa va consolidati si sa va construiti muschi, Barbell Rows sunt mai bune. Acesta este motivul pentru care Barbell Rows face parte din [Antrenamente 5x5](/program/5x5/) .
+Power Cleans poate fi util sportivilor care trebuie sa fie explozivi pentru sport. Dar puteti dezvolta puterea mai rapid si mai usor prin imbunatatirea [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/) si Deadlift. Power Clean s sunt distractive daca ai petrecut timpul si efortul pentru a invata o forma adecvata. Dar daca doriti doar sa va consolidati si sa va construiti muschi, Barbell Rows sunt mai bune. Acesta este motivul pentru care Barbell Rows face parte din [Antrenamente 5x5](/5x5/) .
 
 ## Ramat cu bara(Barbell Row) sunt mai sigure decar Power Cleans<a name="Barbell-Row-sunt-mai-sigure-decar-Power-Cleans"></a>
 
@@ -517,13 +517,13 @@ Power Cleans sunt in mare parte o miscare a soldului. Partea de jos este ca un D
 
 Barbell Rows iti lucreaza mai ales corpul superior. Muschiul dorsal,trapezul, umerii din spate si restul din partea superioara a spatelui te trag cu omoplatele inapoi pentru a ridica bara la piept. Bratele tale lucreaza pentru a indoi coatele in spatele trunchiului. Puteti folosi soldurile pentru a ridica mai usor bara de pe podea si pentru a ridica mai multa greutate. Dar trunchiul tau nu ar trebui sa se ridice mai mult de 15 °. Corpul tau superior suporta cel mai mult efort la Barbell Rows.
 
-- [Antrenamente 5x5](/program/5x5/) cu Power Cleans in loc de Barbell Rows face ca programul sa fie dezechilibrat. Adauga mai multe exercitii pentru corpul tau inferior. Te poate transforma intr-o broasca cu picioare mari, dar cu brate mici. Iata o comparatie rapida a volumului saptamanal pe care corpul il obtine cu Power Cleans si Barbell Rows:
+- [Antrenamente 5x5](/5x5/) cu Power Cleans in loc de Barbell Rows face ca programul sa fie dezechilibrat. Adauga mai multe exercitii pentru corpul tau inferior. Te poate transforma intr-o broasca cu picioare mari, dar cu brate mici. Iata o comparatie rapida a volumului saptamanal pe care corpul il obtine cu Power Cleans si Barbell Rows:
 
-- [Antrenamente 5x5](/program/5x5/) cu Barbell Rows: 80-85 repetari pentru corpul inferior (Squat, Deadlift) 100-125 repetari pentru partea superioara a corpului (Bench, Press, Row).
+- [Antrenamente 5x5](/5x5/) cu Barbell Rows: 80-85 repetari pentru corpul inferior (Squat, Deadlift) 100-125 repetari pentru partea superioara a corpului (Bench, Press, Row).
 
-- [Antrenamente 5x5](/program/5x5/) cu Power Clean: 110-130 repetari pentru corpul inferior (Squat, Deadlift, Power Clean), 75 repetari pentru partea superioara a corpului (Bench,Press)
+- [Antrenamente 5x5](/5x5/) cu Power Clean: 110-130 repetari pentru corpul inferior (Squat, Deadlift, Power Clean), 75 repetari pentru partea superioara a corpului (Bench,Press)
 
-- [Antrenamente 5x5](/program/5x5/) cu Power Cleans lucreaza cu 50% mai putin volumul corpului superior in fiecare luna.
+- [Antrenamente 5x5](/5x5/) cu Power Cleans lucreaza cu 50% mai putin volumul corpului superior in fiecare luna.
 
 Mare diferenta. Si pierdeti munca de biceps pe care o obtineti de la Barbell Rows (prin indoirea coatelor inapoi pe fiecare repetare). Cu exceptia cazului in care nu va pasa de bratele mai mari, va trebui sa adaugati Barbell Rows sau Chinups deasupra Power Cleans pentru a va folosi bratele. Dar acest lucru creste cat timp petreci la sala. Este mai simplu sa ramai doar cu Barbell Rows.
 

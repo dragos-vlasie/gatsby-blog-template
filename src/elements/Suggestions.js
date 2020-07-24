@@ -1,6 +1,7 @@
 import React from 'react';
 import { StaticQuery, graphql } from 'gatsby';
 import { Link } from 'gatsby';
+import Img from 'gatsby-image';
 import styled from '@emotion/styled';
 import PropTypes, { element } from 'prop-types';
 
@@ -152,15 +153,8 @@ const Suggestions = ({ left, right }) => (
                 date
                 cover {
                   childImageSharp {
-                    fluid(
-                      maxWidth: 1920
-                      quality: 90
-                      duotone: { highlight: "#386eee", shadow: "#2323be", opacity: 60 }
-                    ) {
-                      ...GatsbyImageSharpFluid_withWebp
-                    }
-                    resize(width: 1200, quality: 90) {
-                      src
+                    fluid(maxWidth: 1000, quality: 85, traceSVG: { color: "#2B4B2F" }) {
+                      ...GatsbyImageSharpFluid_withWebp_tracedSVG
                     }
                   }
                 }
@@ -171,6 +165,8 @@ const Suggestions = ({ left, right }) => (
       }
     `}
     render={data => {
+      console.log('left', left);
+
       const leftData =
         left &&
         data.allMarkdownRemark.edges.find(
@@ -187,15 +183,25 @@ const Suggestions = ({ left, right }) => (
       const subCategoryPathRight =
         right && right.frontmatter.subCategory ? '/' + right.frontmatter.subCategory : '';
 
+      const tagsLeft =
+        left && left.frontmatter.tags && left.frontmatter.tags[0]
+          ? '/' + left.frontmatter.tags[0]
+          : '';
+      console.log('left', left);
+      const tagsRight =
+        right && right.frontmatter.tags && right.frontmatter.tags[0]
+          ? '/' + right.frontmatter.tags[0]
+          : '';
+      console.log('right', right);
       return (
         <Row>
           {left && (
             <Wrapper data-testid="suggestion-left">
               <Image>
-                <img src={leftData.node.frontmatter.cover.childImageSharp.fluid.src} alt="" />
+                <Img fluid={leftData.node.frontmatter.cover.childImageSharp.fluid} alt="" />
               </Image>
               <StyledLink
-                to={`/${left.frontmatter.tags[0]}${subCategoryPathLeft}${left.frontmatter.path}`}
+                to={`${tagsLeft}${subCategoryPathLeft}${left.frontmatter.path}`}
                 cardstyle={'cardstyle'}
               >
                 <Title>{left.frontmatter.title}</Title>
@@ -207,13 +213,10 @@ const Suggestions = ({ left, right }) => (
           {right && (
             <Wrapper data-testid="suggestion-right">
               <Image>
-                <img
-                  src={rightData && rightData.node.frontmatter.cover.childImageSharp.fluid.src}
-                  alt=""
-                />
+                <Img fluid={rightData && rightData.node.frontmatter.cover.childImageSharp.fluid} />
               </Image>
               <StyledLink
-                to={`/${right.frontmatter.tags[0]}${subCategoryPathRight}${right.frontmatter.path}`}
+                to={`${tagsRight}${subCategoryPathRight}${right.frontmatter.path}`}
                 cardstyle={'cardstyle'}
               >
                 <Title>{right.frontmatter.title}</Title>

@@ -3,7 +3,6 @@ path: '/5x5'
 cover: './5x5.jpg'
 date: '2020-07-22'
 title: '5x5'
-tags: ['program']
 published: true
 ---
 
@@ -21,7 +20,7 @@ Majoritatea oamenilor se antreneaza luni, miercuri si vineri. Asta va ofera o zi
 
 Incepeti Antrenamente 5×5 facand antrenamentul A. Mergeti acasa, mancati si dormiti. Doua zile mai tarziu, faceti antrenament B. Alte doua zile mai tarziu faceti antrenament A. Prima saptamana va arata asa daca va antrenati Luni/Miercuri/Vineri...
 
-#### Antrenamente 5x5 Saptamana 1
+**Antrenamente 5x5 Saptamana 1**
 
 <div style="overflow-x: auto;">
 
@@ -35,7 +34,7 @@ Incepeti Antrenamente 5×5 facand antrenamentul A. Mergeti acasa, mancati si dor
 
 Incepeti saptamana a doua cu antrenamentul B, deoarece ati terminat saptamana unu cu antrenamentul A. Apoi continuati sa alternati antrenamentele de fiecare data cand mergeti la sala. A doua saptamana va arata asa, daca te duci la sala luni, miercuri si vineri ca majoritatea oamenilor...
 
-#### Antrenamente 5x5 Saptamana 2
+**Antrenamente 5x5 Saptamana 2**
 
 <div style="overflow-x: auto;">
 
@@ -65,7 +64,7 @@ Daca doriti sa faceti mai mult de 1x5 Indreptari(Deadlifts), mai bine este sa va
 
 Mariti greutatea la fiecare antrenament nou(fie A sau B) la fiecare exercitiu in care ati completat cinci repetari pe fiecare set. Adaugati 2,5kg/5lb pe acele exercitii. Pe Indreptari adaugati 5kg/10lb. Asadar, daca sunteti nou la ridicare si ati inceput cu greutatile de pornire recomandate, primele doua saptamani vor arata astfel...
 
-#### Antrenamente 5x5 Saptamana 1
+**Antrenamente 5x5 Saptamana 1**
 
 <div style="overflow-x: auto;">
 
@@ -77,7 +76,7 @@ Mariti greutatea la fiecare antrenament nou(fie A sau B) la fiecare exercitiu in
 
 </div>
 
-#### Antrenamente 5x5 Saptamana 2
+**Antrenamente 5x5 Saptamana 2**
 
 <div style="overflow-x: auto;">
 
@@ -595,7 +594,7 @@ Obiectivele iti dau directie. Acestea va reamintesc ce trebuie sa faceti pentru 
 
 Iata cateva obiective solide si INTELIGENTE pe care ar trebui sa le stabilesti...
 
-#### Antrenamente 5x5 Saptamana 1
+**Antrenamente 5x5 Saptamana 1**
 
 <div style="overflow-x: auto;">
 
@@ -912,7 +911,7 @@ Gropile(Dips) sunt cele mai bune exercitii de izolare pentru tricepsul tau. Indr
 
 Daca doriti sa lucrati bratele mai mult, adaugati Dips la antrenamentul A si Chinups la antrenamentul B. Trei seturi sunt suficiente, deoarece exercitiile principale functioneaza deja cu bratele. Programul tau va arata astfel...
 
-#### Antrenamente 5x5 Saptamana 1
+**Antrenamente 5x5 Saptamana 1**
 
 <div style="overflow-x: auto;">
 
@@ -934,7 +933,7 @@ Doua seturi sunt suficiente pe langa toate exercitiile pe care le ai deja pentru
 
 Progresul va fi lent, deoarece acestea sunt exercitii de izolare si faceti repetari mari. Doar concentrati-va sa faceti exercitiul corect, cu o forma adecvata, sa va deplasati muschii pe intreaga gama de miscare. Bratele drepte in partea de jos a ridicarii, atingeti-va nasul cu haltera in partea de sus. Simte muschiul.
 
-#### Antrenamente 5x5 cu mai multe exercitii pentru brate
+**Antrenamente 5x5 cu mai multe exercitii pentru brate**
 
 <div style="overflow-x: auto;">
 
@@ -954,7 +953,7 @@ Singura zi de odihna pe care ai putea-o dedica exercitiilor pentru brate este sa
 
 Antrenamente 5x5 cu Extra Arm Day
 
-#### Antrenamente 5x5 Saptamana 1
+**Antrenamente 5x5 Saptamana 1**
 
 <div style="overflow-x: auto;">
 
@@ -1043,7 +1042,7 @@ Cardio in zilele tale de odihna este o idee groaznica. Cand se recupereaza corpu
 
 Singura exceptie este sambata. Daca te antrenezi luni/miercuri/vineri, atunci HIIT cardio sambata functioneaza. Duminica trebuie sa va recuperati inainte de urmatorul antrenament de luni. Puteti adauga cea de-a doua sesiune cardio HIIT miercuri, astfel incat acestea sa fie raspandite. Asa…
 
-#### Antrenamente 5x5 - Ziua Cardio
+**Antrenamente 5x5 - Ziua Cardio**
 
 <div style="overflow-x: auto;">
 

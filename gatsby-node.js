@@ -86,9 +86,10 @@ exports.createPages = ({ graphql, actions }) => {
           // const subCategoryPath = node.frontmatter.subCategory
           //   ? '/' + node.frontmatter.subCategory
           //   : '';
+          const tags = node.frontmatter.tags ? '/' + node.frontmatter.tags : '';
 
           createPage({
-            path: `/${node.frontmatter.tags}${path}/`,
+            path: `${tags}${path}/`,
             component: postTemplate,
             context: {
               pathSlug: path,

@@ -23,7 +23,7 @@ Iata cum puteti face tractiuni(pull-ups) cu o forma adecvata:
 Tractiunile(pull-ups) sunt un exercitiu compus al corpului superior. Spatele si bratele iti trag corpul in sus, in timp ce abs-urile impiedica arcuirea spatelui inferior. Va puteti accentua bratele prinzand bara cu palmele orientate in sus. Acestea sunt Chinup-uri si sunt eficiente pentru dezvoltarea muschilor bratelor.
 Daca nu puteti face nici macar o tractiune(Pullup), incercati Chinups. Prindeti bara cu palmele orientate in sus, acest lucru este mai usor. Daca nu puteti face niciun chinup, faceti repetari negative. Sari peste bara si coboara incet. Puteti utiliza, de asemenea, o banda de rezistenta sau un spotter pentru a va ajuta la urcare. Dar nu folositi aparate.
 
-Tractiuni(pull-ups) nu fac parte din [Antrenamente 5x5](/program/5x5/) in mod implicit. Nu aveti nevoie de ele pentru a obtine rezultate. Unii oameni doresc sa-si sublinieze bratele si au timp pentru o munca suplimentara. Daca da, adaugati Chinups la sfarsitul antrenamentului B. Dar ramai concentrat pe cresterea genuflexiunilor (Squats) tale. Conteaza cel mai mult pentru obtinerea unor rezultate.
+Tractiuni(pull-ups) nu fac parte din [Antrenamente 5x5](/5x5/) in mod implicit. Nu aveti nevoie de ele pentru a obtine rezultate. Unii oameni doresc sa-si sublinieze bratele si au timp pentru o munca suplimentara. Daca da, adaugati Chinups la sfarsitul antrenamentului B. Dar ramai concentrat pe cresterea genuflexiunilor (Squats) tale. Conteaza cel mai mult pentru obtinerea unor rezultate.
 
 Acesta este ghidul complet pentru o forma corecta a tractiunilor(pull-ups). De asemenea, prezinta variatii, precum Chinups.
 
@@ -126,7 +126,7 @@ Tractiunile (pull-ups) sunt, asadar, mai putin potrivite pentru tot corpul si ma
 - **Bratele**. Bicepsul iti indoaie coatele pentru a te ridica. Bicepsul tau lucreaza cel mai mult atunci cand faci Chinups cu palmele in sus. Muschii de la antebrate lucreaza, de asemenea, pentru a va indoi cotul si pentru a va tine de bara. Tricepsul iti trage coatele inapoi spre trunchi.
 - **Abdomenul**. Muschii abdominal impiedica spatele inferior sa se arcuiasca in timp ce faci tractiuni. Ei mentin o linie dreapta: de la umeri pana la genunchi. Acest lucru lucreaza muschiul „6 pack” care iti trece peste burta, rectus abdominus. Mancati corect si vor aparea.
 
-Puteti adauga tractiuni(pull-ups) ca exercitiu de izolare la [Antrenamente 5x5](/program/5x5/) . Pentru mai multe informatii, cititi aici.
+Puteti adauga tractiuni(pull-ups) ca exercitiu de izolare la [Antrenamente 5x5](/5x5/) . Pentru mai multe informatii, cititi aici.
 
 ## Tractiunile(pull-ups) vs Chinups<a id="tractiunile-vs-chinups"></a>
 
@@ -139,7 +139,7 @@ Insa diferenta de priza schimba propotia de “munca” a fiecarui muschi. Chinu
 
 Chinups este mai bun decat Biceps Curl pentru a construi brate mai mari. Chinup-urile te obliga sa ridici mai multa greutate. Te obliga sa-ti ridici propria greutate corporala. Un tip care cantareste 85 kg ca mine poate construi cu usurinta puterea daca face un Chinup. Pot face Chinup-uri cu un disc de 20 kg pentru multe repetari. In total 95 kg. Incercati sa faceti Biceps Curl cu 95 kg sau chiar 75 kg. Mai multa greutate este intotdeauna mai buna pentru a castiga muschi. Daca doriti brate mai mari, faceti Chinups in loc de Biceps Curl
 
-Puteti adauga Chinups ca exercitiu de izolare la [Antrenamente 5x5](/program/5x5/) . Pentru mai multe informatii, cititi aici.
+Puteti adauga Chinups ca exercitiu de izolare la [Antrenamente 5x5](/5x5/) . Pentru mai multe informatii, cititi aici.
 
 ## Tehnica tractiuni<a id="tehnica-tractiuni"></a>
 

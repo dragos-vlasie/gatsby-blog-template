@@ -24,7 +24,7 @@ Dips(flotari la paralele) sunt un exercitiu compus, cu greutate corporala. Faci 
 
 Forma corecta a Dip-ul este esentiala pentru a evita durerile de umar si piept. Nu lasa umerii sa se rasuceasca inainte. Nu ridica din umeri. Tine-ti umerii inapoi si in jos. Coborati-va pana cand umerii va sunt sub coate, dar nu mai mult. Faceti flotari pe bare paralele fixe si evitati flotaril la inele.
 
-Dips-urile nu fac parte din [Antrenamente 5x5](/program/5x5/) in mod implicit. Nu aveti nevoie de ele pentru a castiga forta si muschi. Daca doriti sa va accentuati bratele si aveti timp pentru a face mai mult, puteti adauga Dips(flotari la paralele) la antrenamentul A. Dar ramaneti concentrat pe imbunatatirea genuflexiunilor(Squats). Conteaza cel mai mult pentru castigarea fortei si a muschilor.
+Dips-urile nu fac parte din [Antrenamente 5x5](/5x5/) in mod implicit. Nu aveti nevoie de ele pentru a castiga forta si muschi. Daca doriti sa va accentuati bratele si aveti timp pentru a face mai mult, puteti adauga Dips(flotari la paralele) la antrenamentul A. Dar ramaneti concentrat pe imbunatatirea genuflexiunilor(Squats). Conteaza cel mai mult pentru castigarea fortei si a muschilor.
 
 Acesta este ghidul complet pentru o forma corespunzatoare pentru flotari la paralele. Acopera, de asemenea, variatii precum Dips(flotari la paralele) cu greutate(Weighted Dips).
 
@@ -219,7 +219,7 @@ Flotarile la paralele sunt mai grele atunci cand utilizati o gama completa de mi
 
 ## Nu pot face niciun dip<a id="nu-pot-face-niciun-dips"></a>
 
-Flotarile la paralele te obliga sa-ti ridici greutatea. Acest lucru este adesea prea greu atunci cand sunteti la inceput. Este motivul pentru care prefer barele: sunt mai usor de adaptat/reglat. Sa presupunem ca cantaresti 75 kg ca mine, nu pornesti [Antrenamente 5x5](/program/5x5/) cu 75 kg la genuflexiuni( Squats). Incepi cu bara goala de 20 kg. Dar nu puteti incepe mai usor cu Dips. Puteti slabi, dar acest lucru necesita timp si nu veti ajunge la 20 kg. Flotarile la paralele(Dips) sunt mai grele, deoarece trebuie sa incepi intens.
+Flotarile la paralele te obliga sa-ti ridici greutatea. Acest lucru este adesea prea greu atunci cand sunteti la inceput. Este motivul pentru care prefer barele: sunt mai usor de adaptat/reglat. Sa presupunem ca cantaresti 75 kg ca mine, nu pornesti [Antrenamente 5x5](/5x5/) cu 75 kg la genuflexiuni( Squats). Incepi cu bara goala de 20 kg. Dar nu puteti incepe mai usor cu Dips. Puteti slabi, dar acest lucru necesita timp si nu veti ajunge la 20 kg. Flotarile la paralele(Dips) sunt mai grele, deoarece trebuie sa incepi intens.
 
 Cel mai bun mod de a face Dips-ul mai usor daca nu puteti face nicio repetare este sa faceti exercitii negative. Concentrati-va sa faceti doar drumul in jos, adica negative. Coborati incet pana cand umerii va sunt sub coate. Apoi puneti-va picioarele pe podea si sariti inapoi pe barele pentru flotarile la paralele cu bratele drepte. Esti mai puternic in coborare decat in urcare, pentru a putea face acest lucru. Dupa ce puteti face zece negative cu o forma adecvata, puteti face un singur dip.
 
