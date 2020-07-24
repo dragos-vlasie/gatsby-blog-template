@@ -65,6 +65,16 @@ const Layout = ({ children }) => (
           details summary {
             pointer-events: none;
           }
+          .overlay a {
+            display: inline-block;
+            padding: 13px 0;
+          }
+          details {
+            display: none;
+          }
+          .overlay details {
+            display: block;
+          }
           p em {
             text-align: center;
             display: block;

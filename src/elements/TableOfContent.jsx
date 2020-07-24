@@ -90,7 +90,7 @@ export const TableOfContent = ({ input }) => {
 
   return (
     <>
-      <Wrapper>
+      <Wrapper className="overlay">
         <FixedWrapper show={simpleButtonState}>
           <Wrapper
             onClick={handleSimpleButtonClick}

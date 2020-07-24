@@ -58,7 +58,6 @@ const headroom = css`
     box-shadow: 0 5px 30px rgba(0, 0, 0, 0.2);
     nav {
       a {
-        padding: 6px 0;
         color: ${theme.colors.black.base};
         &:hover {
           border-color: ${theme.colors.black.base};
