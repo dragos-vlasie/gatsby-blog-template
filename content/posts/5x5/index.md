@@ -263,7 +263,7 @@ Cheia este sa-ti cresti puterea. Nu va asteptati sa aveti pieptul atat de dezvol
 
 ## De ce functioneaza acest program?<a id="de-ce-functioneaza-acest-program?"></a>
 
-![Milo de la Croton](milo-croton.webp)
+![Milo de la Croton](milo-croton.jpg)
 
 Conform legendei, Milo de la Croton s-a antrenat pentru Jocurile Olimpice purtand un vitel in fiecare zi. Vitelul a devenit mai mare ceea ce a crescut greutatea pe care o transporta. Acest lucru a determinat corpul sau sa castige forta si muschi. L-a transformat in cel mai bun luptator al timpului sau. Milo a castigat Jocurile Olimpice 6x.
 
@@ -441,7 +441,7 @@ Ridicarea rapida nu inseamna ca bara se va misca rapid. Greutatile de incalzire 
 
 Fa-ti timp intre repetari. Odihneste-te o secunda inainte de a face urmatoarea reputatie, astfel incat sa poti fi cat mai incordat(abdomenul strans) si sa iei o gura mare de aer. Acest lucru va va oferi, de asemenea, o recuperare. Nu va grabiti repetitiile sau veti pierde concentrarea si va veti ridiica cu o forma proasta. Dar nu asteptati prea mult, sau setul urmator va fi si mai greu.
 
-## Respiratie<a id="respiratia"></a>
+## Respiratie<a id="respiratie"></a>
 
 Regula generala este sa luati o gura mare de aer inainte de a face repetarea, tineti aerul in piept - concentrati-va pe abdomen si fi-ti sigur ca suntetii incordat, expirati cand ati terminat repetarea.
 
