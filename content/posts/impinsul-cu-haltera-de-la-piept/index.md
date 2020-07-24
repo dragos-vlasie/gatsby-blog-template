@@ -283,7 +283,7 @@ In niciun caz o prindere ce nu implica degetul mare!(thumbless grip= degetul mar
 
 ## Prinderea tip Bulldog<a id="priza-tip-buldog"></a>
 
-![Impinsul cu haltera de la piept bulldog Grip](./assets/bench-bulldog-grip.jpg)
+![Impinsul cu haltera de la piept bulldog Grip](./assets/impinsul-cu-haltera-de-la-piept-bulldog-grip.jpg)
 _Stanga: apucand bara la mijlocul palmei, incheietura se va indoi. Stanga: folositi prinderea de tip Bulldog rotind mainile in interior, inainte sa inchideti palmele. Incheietura nu se va indoi._
 
 Prinderea in partea de jos a palmei. Tineti bara in baza palmei, aproape de incheieturi. Nu o tineti aproape de degete ca pe [Indreptari(Deadlift)](/exercitii/indreptari/), deoarece [incheieturi](#incheieturile) se vor indoi. Incheietura indoite vor durea. Incheieturile indoite ingreuneaza greutatea, deoarece bara este mai departe de incheietura mainii. Acesta este un efect de parghie si un transfer de putere proaste. Strangeti bara in partea de jos a palmei, astfel incat sa se sprijine peste incheieturi si coate. Vei lucra cu o greutate mai mare fara dureri la incheietura mainii.
@@ -780,7 +780,7 @@ Incheietura va vor durea daca faceti Impinsul cu haltera de la piept cu incheiet
 
 Bench Pressing cu incheieturile indoite fac greutatea mai greu de impins. Iti pune bara in spatele antebratelor, in loc sa o pozitioneze in fata. Forta pe care o generati cu pieptul, umerii si muschii bratului superior nu poate merge direct in bara. Cel mai eficient mod de a transfera forta in bara este atunci cand se sprijina direct peste oasele antebratului. Aceasta inseamna ca bara trebuie sa fie aliniata vertical cu incheieturile si coatele.
 
-![Impinsul cu haltera de la piept bulldog Grip](./assets/bench-bulldog-grip.jpg)
+![Impinsul cu haltera de la piept bulldog Grip](./assets/impinsul-cu-haltera-de-la-piept-bulldog-grip.jpg)
 _Stanga: pozitionati bara la mijlocul palmei, incheietura se va indoi. Stanga: folositi prinderea Bulldog rotind mainile inainte sa inchideti mainile. Incheietura nu se va indoi._
 
 Faceti Impinsul cu haltera de la piept cu incheieturile drepte. Strangeti bara mai jos in palme, aproape de incheieturi. Utilizati prinderea Bulldog pentru a roti mainile in timp ce apucati bara. Tineti bara la baza palmelor, chiar peste oasele antebratului. Apoi strangeti bara pentru a nu se putea misca in maini. Incheietura va ramane dreapta cand faceti Bench Press. Durerile la nivelul incheieturii mainii se va opri si greutatea va fi mai usoara la Bench Press.
@@ -882,14 +882,14 @@ Incheieturile se vor indoi daca prindeti bara gresit. Majoritatea oamenilor o ti
 
 ## Utilizati prinderea/ priza Bulldog<a id="utilizati-priza-bulldog"></a>
 
-![Impinsul cu haltera de la piept bulldog Grip](./assets/bench-bulldog-grip.jpg)
+![Impinsul cu haltera de la piept bulldog Grip](./assets/impinsul-cu-haltera-de-la-piept-bulldog-grip.jpg)
 _Stanga: tinand bara la mijlocul palmei, incheieturile se vor indoi si se vor rani. Mijloc: bara in partea de jos a palmei, la baza, incheietura nu se indoaie. Corect: tineti bara la baza maini._
 
 Faceti Impinsul cu haltera de la piept(Bench Press) cu bara peste baza mainilor. Tineti-o aproape de incheieturile mainilor, la baza degetelor, peste oasele antebratului. Scopul este sa ai incheieturile drepte: incheieturile si coatele trebuie sa fie aliniate cu bara, astfel incat antebratele dvs. sunt perpendiculare pe podea. Prindeti bara mai jos si apoi pozitionati-va degetele in jurul barei folosind o priza/ prindere completa. Prindeti bara, astfel incat sa nu se poata misca in maini inapoi intr-o pozitie proasta.
 
 Cel mai simplu mod de a prinde corect bara este folosind prinderea Bulldog. Imaginati-va cum un Bulldog isi pozitioneaza labele. Prindeti bara cu degetele mari si aratator. Apoi rotiti-va mainile in asa fel incat degetele mari sa fie orientate spre podea. Bara trebuie sa se sprijine pe diagonala in mainile tale, intre baza degetelor si a palmelor. Inchideti mainile punand degetele pe bara. Strangeti varful degetelor in bara, astfel incat sa nu se poata misca.
 
-![Impinsul cu haltera de la piept bulldog Grip](./assets/bench-bulldog-grip.jpg)
+![Impinsul cu haltera de la piept bulldog Grip](./assets/impinsul-cu-haltera-de-la-piept-bulldog-grip.jpg)
 _Stanga: pozitionand bara la mijlocul palmei, incheietura se va indoi. Stanga: folositi prinderea Bulldog rotind mainile inainte sa le inchideti. Incheietura nu se va indoi._
 
 Prinderea/ Priza Bulldog poate fi incomoda la inceput. S-ar putea sa credeti ca este mai putin sigura decat sa pozitionati bara la mijlocul palmei. Cu toate acestea, nu este asa. Degetele tale sunt in jurul barei. Acestea impiedica bara sa va alunece din maini. Daca sunteti mai slabi cu prinderea Bulldog, din cauza ca nu v-ati obisnuit. Transferul de putere este mai mare cu aceasta prindere. Fiti perseverent si aveti rabdare. Bench Press-ul va creste fara a aparea durerea.
@@ -962,7 +962,7 @@ Acesta este si modul in care iti cresti „pieptul interior si exterior”. Ambe
 
 Declin Bench Press(declin) este un Impinsul cu haltera de la piept(Bench Press) declin in declin (done decline). Intindeti-va pe banca, cu soldurile mai sus decat capul. Aveti nevoie de o banca de declin cu atasamente pentru picioare, astfel incat sa nu alunecati in jos in timp ce faceti Bench Press cu greutatea. Deblocati bara, coborati-o la pieptul inferior si impingeti-o inapoi. Faceti Impinsul cu haltera de la piept(Bench Press) intr-un Power Rack sau cu un spotter pentru a nu te rani daca nu reusesti. Majoritatea oamenilor fac Bench Press Decline cu scopul de a-si viza „pieptul inferior”…
 
-Declin Bench Press este o pierdere de timp. Nu puteti izola pieptul inferior, asa cum am explicat mai sus, deoarece muschii pieptului se contracta in acelasi timp. Puteti sa-l vizati prin declin benching, dar raza de miscare este scurta, deoarece bratele sunt inclinate si aproape de trunchi. Aceasta este precum ai face jumatate de Genulfexiuni (Squats). Doar creste-ti Bench Press si pieptul inferior va creste automat. In cel mai rau caz adaugati [dips](<(/exercitii/flotari-la-paralele/)>) pentru a va tinti pieptul inferior.
+Declin Bench Press este o pierdere de timp. Nu puteti izola pieptul inferior, asa cum am explicat mai sus, deoarece muschii pieptului se contracta in acelasi timp. Puteti sa-l vizati prin declin benching, dar raza de miscare este scurta, deoarece bratele sunt inclinate si aproape de trunchi. Aceasta este precum ai face jumatate de Genulfexiuni (Squats). Doar creste-ti Bench Press si pieptul inferior va creste automat. In cel mai rau caz adaugati [flotarile la paralele](/exercitii/flotari-la-paralele/) pentru a va tinti pieptul inferior.
 
 ## Bench Press cu gantere (Dumbbell Bench Press)<a id="bench-press-cu-gantere"></a>
 
@@ -990,7 +990,7 @@ Benching-ul greu cu aparate iti pune umerii in pericol. Nu o face. Nu folositi m
 
 Flotarile (Pushup) sunt un exercitiu compus, cu greutate corporala, care iti lucreaza pieptul, umerii, bratele, abdomenul si muschii spatelui inferior. Intindeti-va cu burta pe podea. Pune mainile sub umeri si indreapta-ti degetele in sus. Coatele ar trebui sa fie la aproximativ 75 ° (fara a va atinge trunchiul sau a fi perpendicular –flaring) ridicati-va de podea indreptandu-ti bratele. Blocati-va coatele in partea de sus.
 
-Flotarile (Pushups) sunt un exercitiu minunat, dar nu sunt un inlocuitor al Bench Press-ului. Flotarile (Pushups) lucreaza muschi similari. Dar este greu sa te antrenezi cu greutari mari. Nu puteti utiliza o centura dip, cum faceti la [dips](<(/exercitii/flotari-la-paralele/)>) si Tullups. Puteti pune un disc pe spate, dar aveti nevoie de un spotter pentru asta si poate cadea. Puteti purta o vesta x, puneti lanturi in jurul gatului sau puteti folosi o banda de rezistenta. Dar este mai simplu sa faci doar cu bara si sa adaugi 2,5 kg / 5lb la fiecare antrenament.
+Flotarile (Pushups) sunt un exercitiu minunat, dar nu sunt un inlocuitor al Bench Press-ului. Flotarile (Pushups) lucreaza muschi similari. Dar este greu sa te antrenezi cu greutari mari. Nu puteti utiliza o centura dip, cum faceti la [dips](/exercitii/flotari-la-paralele/) si Tullups. Puteti pune un disc pe spate, dar aveti nevoie de un spotter pentru asta si poate cadea. Puteti purta o vesta x, puneti lanturi in jurul gatului sau puteti folosi o banda de rezistenta. Dar este mai simplu sa faci doar cu bara si sa adaugi 2,5 kg / 5lb la fiecare antrenament.
 
 Am facut flotari (Pushups) inainte de a incepe sa ridic greutati. Nu am putut face o repriza prima data pentru ca nu am facut sport pentru prima jumatate a vietii. Eram atat de slaba, incat am facut flotari (Pushups) in genunchi. Dar am continuat si, in cele din urma, puteam face 70 de flotari (Pushups) la rand pe coate. Au devenit mai usoare si mi-am dat seama dupa un timp ca nu ma simt mai puternic sau mai musculos. Construiam rezistenta. Asa ca m-am inscris la sala si am inceput sa ridic greutati.
 
@@ -1006,7 +1006,7 @@ Exercitiile de izolare si variatiile Bench Press va pot ajuta sa va mariti Bench
 
 Treceti de la Bench Press o data pe saptamana la de doua ori pe saptamana. Faceti Bench Press luni, odihniti-va, apoi faceti-o din nou vineri. Utilizati acelasi stil Bench Press in ambele zile, cel pe care doriti sa il imbunatatiti. Pentru majoritatea oamenilor asta inseamna Impinsul cu haltera de la piept(Bench Press) cu banca plata in ambele zile. Prin cresterea frecventei de antrenare, practicati mai multa miscarea. Forma ta se imbunatateste si devine mai eficienta. Acest lucru creste puterea de a face Bench Press.
 
-Majoritatea oamenilor va vor spune sa efectuati exercitiile fizice pentru a va mari Bench Press-ul. Pentru a face Pushups, Dumbbell Bench, Close Grip Bench Press, [dips](<(/exercitii/flotari-la-paralele/)>) si asa mai departe. Dar acest lucru functioneaza rar. In timp ce aceste exercitii vor consolida muschii pe care ii utilizati pe Impinsul cu haltera de la piept(Bench Press), ei nu antreneaza miscarea/ deplasarea. Este ca si cum ai incerca sa devii mai bun la vioara, cantand la chitara. Nu conteaza daca sunt ambele instrumente cu coarde. Nu este la fel. Ai nevoie sa faci exercitii specifice.
+Majoritatea oamenilor va vor spune sa efectuati exercitiile fizice pentru a va mari Bench Press-ul. Pentru a face Pushups, Dumbbell Bench, Close Grip Bench Press, [dips](/exercitii/flotari-la-paralele/) si asa mai departe. Dar acest lucru functioneaza rar. In timp ce aceste exercitii vor consolida muschii pe care ii utilizati pe Impinsul cu haltera de la piept(Bench Press), ei nu antreneaza miscarea/ deplasarea. Este ca si cum ai incerca sa devii mai bun la vioara, cantand la chitara. Nu conteaza daca sunt ambele instrumente cu coarde. Nu este la fel. Ai nevoie sa faci exercitii specifice.
 
 Nu mai ganditi ca un culturist si incepeti sa ganditi ca un sportiv. Da, trebuie sa-ti consolidezi muschii. Dar trebuie sa exersezi si abilitatea de a face Bench Press. Si obtineti mai multa experienta prin Bench Pressing mai des. Mai multa experienta este echivalentul unei forme mai bune si o capacitatea de a face Impinsul cu haltera de la piept(Bench Press) mai mare. Treceti de la a face Bench Press o data pe saptamana la de doua ori pe saptamana. Verificati programul 5 × 5 Antrenamente: vei face Bench Press la fiecare antrenament
 
@@ -1132,7 +1132,7 @@ Pe [Antrenamente 5x5](/program/5x5/) , puteti face Paused Bench Press la finalul
 
 ## Fii rabdator<a id="fii-rabdator"></a>
 
-Bench Press-ul va creste mai lent decat [genuflexiunile (Squat)](/exercitii/picioare/squat) and [Indreptari(Deadlift)](/exercitii/indreptari/). Vei esua mai devreme. Si vei face Bench Press cu greutate mai mica decat la genuflexiuni (Squat) sau [Indreptari(Deadlift)](/exercitii/indreptari/). Bench Press lucreaza muschii mai mici. Muschii mai mici nu pot sustine la fel de mari ca cei mari. Acesta este motivul pentru care recordurile la Raw, Squat sunt mai mari decat la Bench Press. Acesta este si motivul pentru care genuflexarea (Squatting) 140kg / 300lb este mai usoara decat Benching cu aceeasi greutate. De aceea rabdarea este esentiala.
+Bench Press-ul va creste mai lent decat [Genuflexiunile (Squat)](/exercitii/genuflexiuni-cu-bara) and [Indreptari(Deadlift)](/exercitii/indreptari/). Vei esua mai devreme. Si vei face Bench Press cu greutate mai mica decat la genuflexiuni (Squat) sau [Indreptari(Deadlift)](/exercitii/indreptari/). Bench Press lucreaza muschii mai mici. Muschii mai mici nu pot sustine la fel de mari ca cei mari. Acesta este motivul pentru care recordurile la Raw, Squat sunt mai mari decat la Bench Press. Acesta este si motivul pentru care genuflexarea (Squatting) 140kg / 300lb este mai usoara decat Benching cu aceeasi greutate. De aceea rabdarea este esentiala.
 
 Resetati-va asteptarile. Nu te poti astepta la PR-uri de 10kg / 20lb pe Bench Press. Adaugarea la 100 kg / 220lb este o imbunatatire de 10%. Este ca Bench Presser de 180kg / 400lb sa loveasca un PR de 18kg / 40lb peste noapte. Rareori auzi asta. De obicei auziti ca au lovit un mic PR de numai 2,5 kg / 5lb. Este o imbunatatire de 1,25%. Este ca si cum ai adauga 1kg / 2.5lb la un Bench Press de 100kg / 220lb. Acesta este modul in care ar trebui sa va asteptati ca Bench Press-ul dvs. sa creasca.
 Faceti un mare lucru din PR-urile mici. Nu suna impresionant sa accesati PR-uri de 1kg / 2lb pe Bench Press. Dar adauga. Mareste-ti Bench Pressul cu 1kg / 2lb in fiecare saptamana si vei obtine cu 52 kg / 104lb mai mult intr-un an. Acel Bench Press de 60kg / 135lb se transforma in 112kg / 249lb. Acesta greutate este mai mare decat cea cu care majoritatea baietilor din salile de sport se antreneaza. Nu trebuie decat sa lucrati cu pasi mici. Ai rabdare, iar Bench Press-ul va creste.

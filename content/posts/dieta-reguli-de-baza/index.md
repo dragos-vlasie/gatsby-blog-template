@@ -194,7 +194,7 @@ Din nou, ceea ce conteaza cel mai mult este cat de multe calorii mananci si sa o
 
 ### Trebuie sa mananc o masa la fiecare 3 ore?<a name="trebuie-sa-mananc-o-masa-la-fiecare-3-ore?"></a>
 
-Nu. Este bine daca mananci micul dejun, pranzul si cina, cu o gustare poate dupa-amiaza. De asemenea, este in regula daca nu mananci micul dejun, dar faci [Postul intermitent](/alimentatie/intermittent-fasting). Ceea ce conteaza cel mai mult este ca mananci suficiente calorii pe zi si sa iti iei proteine ​​zilnic.
+Nu. Este bine daca mananci micul dejun, pranzul si cina, cu o gustare poate dupa-amiaza. De asemenea, este in regula daca nu mananci micul dejun, dar faci Postul intermitent. Ceea ce conteaza cel mai mult este ca mananci suficiente calorii pe zi si sa iti iei proteine ​​zilnic.
 
 ### Trebuie sa beau un shake de proteine ​​dupa antrenament?<a name="trebuie-sa-beau-un-shake-de-proteine-dupa-antrenament?"></a>
 
@@ -210,7 +210,7 @@ Acestea ar putea fi ceea ce ati manca in zilele de antrenament:
 - Post antrenament: ovaz, mar, lapte, iaurt
 - Cina: friptura, legumele, cartofii
 
-Zilele fara antrenament ar avea o masa mai putin. Daca va place [Postul intermitent](/alimentatie/intermittent-fasting) ca mine, atunci sunt doar trei mese pe zi.
+Zilele fara antrenament ar avea o masa mai putin. Daca va place Postul intermitent ca mine, atunci sunt doar trei mese pe zi.
 
 Evident, aceasta dieta reprezinta unele dintre preferintele mele alimentare personale care sunt influentate de educatia mea. Intrucat cea mai buna dieta este cea pe care o poti urma, „planul tau de masa” ar trebui sa reflecte preferintele tale. Nu are sens sa mananci ca mine sau altcineva atunci cand nu iti place jumatatea mancarurilor pe care le mananca.
 

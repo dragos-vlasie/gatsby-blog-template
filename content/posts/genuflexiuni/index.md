@@ -680,7 +680,7 @@ Nu aveti nevoie de un spotter daca faceti genuflexiuni in Power Rack. Chiar daca
 
 - **Atlas Power Rack**. Transport ieftin, dar fara transport gratuit. Recenzii de 4,8 stele pe Amazon.
 - **Fitness Rep Power Rack cu pret bun - se ocupa de 700lb si vine cu doua bare de tragere, banca plata si atasamente Dips**. 4,9 stele (au si un Rack Squat care ocupa mai putin spatiu - link ).
-- **PowerLine PPR200X**. Sustine 600lb, montanti in afara, pini/carlige de siguranta, bara pentru pullup. Dar prea scurt pentru [Overhead Press](/exercitii/over-head-press). 4,6 stele. Transport gratuit.
+- **PowerLine PPR200X**. Sustine 600lb, montanti in afara, pini/carlige de siguranta, bara pentru pullup. Dar prea scurt pentru [Overhead Press](/presa-deasupra-capului-cu-haltera/). 4,6 stele. Transport gratuit.
 - **Pro-corp solid**. Sustine 1000lb, bara de extragere, dar costa mai mult decat PowerLine PPR200X . Rack similar cu al meu.
 - **Titan Power Rack**. Sustine 700lb, 28 gauri, bara pentru chin-up/ bara pentru tractiuni, mai putin de 300\$.
 - **Rogue R3**. Calitate inalta cu bara pentru pullup. Dar scump si trebuie sa-l ansamblezi.
@@ -804,7 +804,7 @@ Poate vrei sa faci Smith Squats pentru ca esti intimidat de greutati libere. Smi
 
 Leg Press este o masina/un aparat in care indepartati greutatea cu picioarele. Unele masini Leg Press sunt inclinate cu 45 °, altele sunt orizontale. Dar nu vor inlocui niciodata genuflexiunile(Squats). Greutatea se misca, tu nu. Nu echilibrezi greutatea, masina/aparatul face asta. Mergeti prea adanc, iar spatele inferior se va rotunji in partea de jos si va preseaza discurile coloanei vertebrale. Cu exceptia cazului in care nu aveti brate pentru a tine bara pe spate, ramaneti la genuflexiunile libere.
 
-## Genuflexiuni cu ganterele<a id="genuflexiuni-cu-ganterele"></aGenuflexiuni cu ganterele
+## Genuflexiuni cu ganterele<a id="genuflexiuni-cu-ganterele"></a>
 
 ![Genuflexiuni cu ganterele(Squats)](<./assets/dumbbell-Genuflexiuni-cu-bara(Squats).jpg>)
 _Genuflexiuni cu kettlebells (sau gantere): aderenta este factorul limitative_
