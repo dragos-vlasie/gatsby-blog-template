@@ -52,9 +52,12 @@ const Footer = () => (
     <Wave orientation={'top'} />
     <FlexContainer>
       <Text>
-        <TextLine>Copyright © 2019. Dragos Vlasie. All rights reserved.</TextLine>
+        <TextLine>Copyright © 2020. Dragos Vlasie.</TextLine>
       </Text>
       <Text>
+        <TextLine>
+          <Link to="/articole">Toate articolele</Link>
+        </TextLine>
         <TextLine>
           <Link to="/exercitii">Politica de confidentialitate</Link>
         </TextLine>

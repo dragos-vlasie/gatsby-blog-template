@@ -45,12 +45,13 @@ const Index = ({ data }) => {
           {edges.map(({ node }) => {
             const { id, excerpt, frontmatter } = node;
             const { cover, path, title, date, tags } = frontmatter;
+            const tagsPath = tags ? '/' + tags : '';
             const subCategoryPath = frontmatter.subCategory ? '/' + frontmatter.subCategory : '';
             return (
               <PostList
                 key={id}
                 cover={cover.childImageSharp.fluid}
-                path={`/${tags}${subCategoryPath}${path}/`}
+                path={`/${tagsPath}${subCategoryPath}${path}/`}
                 title={title}
                 date={date}
                 excerpt={excerpt}

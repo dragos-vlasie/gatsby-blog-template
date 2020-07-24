@@ -16,26 +16,29 @@ const Base = styled.div`
 `;
 
 const Blog = ({ data }) => {
-  const tags = node.frontmatter.tags ? '/' + node.frontmatter.tags : '';
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Blog Page'} />
-      <Header title="Blog Page"> Gatsby Blog Template</Header>
+      <Helmet title={'Toate articolele'} />
+      <Header title="Toate articolele">Aici puteti gasi toate postarile mele</Header>
       <FadeIn>
         <Container>
           <Base>
-            {edges.map(({ node }) => (
-              <BlogList
-                key={node.id}
-                cover={node.frontmatter.cover.childImageSharp.fluid}
-                path={`${tags}${node.frontmatter.path}/`}
-                title={node.frontmatter.title}
-                date={node.frontmatter.date}
-                tags={node.frontmatter.tags}
-                excerpt={node.excerpt}
-              />
-            ))}
+            {edges.map(({ node }) => {
+              const tags = node.frontmatter.tags ? '/' + node.frontmatter.tags : '';
+
+              return (
+                <BlogList
+                  key={node.id}
+                  cover={node.frontmatter.cover.childImageSharp.fluid}
+                  path={`${tags}${node.frontmatter.path}/`}
+                  title={node.frontmatter.title}
+                  date={node.frontmatter.date}
+                  tags={node.frontmatter.tags}
+                  excerpt={node.excerpt}
+                />
+              );
+            })}
           </Base>
         </Container>
       </FadeIn>
@@ -69,7 +72,7 @@ Blog.propTypes = {
 export const query = graphql`
   query {
     allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/posts/" } }
+      filter: { fileAbsolutePath: { regex: "/posts/" }, frontmatter: { published: { eq: true } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
