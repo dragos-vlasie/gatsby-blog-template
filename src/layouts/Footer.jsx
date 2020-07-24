@@ -33,7 +33,7 @@ const FlexContainer = styled.div`
   justify-content: space-between;
   padding: 0 2rem;
   @media (max-width: ${props => props.theme.breakpoints.s}) {
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
 `;
 
@@ -59,10 +59,10 @@ const Footer = () => (
           <Link to="/articole">Toate articolele</Link>
         </TextLine>
         <TextLine>
-          <Link to="/exercitii">Politica de confidentialitate</Link>
+          <Link to="/politica-de-confidentialitate">Politica de confidentialitate</Link>
         </TextLine>
         <TextLine>
-          <Link to="/exercitii">Termeni si conditii</Link>
+          <Link to="/termeni-si-conditii">Termeni si conditii</Link>
         </TextLine>
       </Text>
     </FlexContainer>

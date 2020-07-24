@@ -31,14 +31,16 @@ const PageTemplate = ({ pageContext, data }) => {
   const { posts, title } = pageContext;
   const { html, frontmatter } = data.markdownRemark;
   const image = frontmatter.cover ? frontmatter.cover.childImageSharp.fluid : '';
+  const subTitle = frontmatter.subTitle ? frontmatter.subTitle : '';
 
   return (
     <Layout>
       <Helmet title={`${title} | ${config.title}`} />
       <Header title={title} cover={image}>
+        {subTitle}
         {/* <StyledLink to="/tags">All Tags</StyledLink> */}
       </Header>
-      <Container>
+      <Container type={'article'}>
         <Content input={html} />
         {/* <Information>
           {posts.map((post, index) => (
@@ -72,6 +74,7 @@ export const query = graphql`
         date
         title
         tags
+        subTitle
         cover {
           childImageSharp {
             fluid(
