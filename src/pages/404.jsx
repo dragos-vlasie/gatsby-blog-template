@@ -9,7 +9,7 @@ const ErrorPage = center => (
   <Layout>
     <Helmet title={'404'} />
     <Header title="404" />
-    <Container center={center} type={'base'}>
+    <Container className={'flex-center-column'}>
       <h1>Woops, ceva nu e bine.</h1>
       <h3>Aceasta pagina nu mai exista sau nu mai poate fi acesata.</h3>
       <h3>

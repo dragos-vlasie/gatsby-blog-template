@@ -47,11 +47,13 @@ const Index = ({ data }) => {
             const { cover, path, title, date, tags } = frontmatter;
             const tagsPath = tags ? '/' + tags : '';
             const subCategoryPath = frontmatter.subCategory ? '/' + frontmatter.subCategory : '';
+            const fullPath = `${tagsPath}${subCategoryPath}${path}/`;
+            console.log('Index -> fullPath', fullPath);
             return (
               <PostList
                 key={id}
                 cover={cover.childImageSharp.fluid}
-                path={`/${tagsPath}${subCategoryPath}${path}/`}
+                path={fullPath}
                 title={title}
                 date={date}
                 excerpt={excerpt}

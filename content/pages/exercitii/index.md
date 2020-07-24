@@ -1,5 +1,5 @@
 ---
-path: ''
+path: '/exercitii'
 cover: './exercitii.jpg'
 title: 'Exercitii'
 published: true

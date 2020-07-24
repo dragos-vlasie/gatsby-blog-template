@@ -1,5 +1,5 @@
 ---
-path: ''
+path: '/alimentatie'
 cover: './alimentatie.jpg'
 title: 'Alimentatie'
 published: true

@@ -27,15 +27,15 @@ const Information = styled.div`
   }
 `;
 
-const Tag = ({ pageContext, data }) => {
-  const { posts, upperTag } = pageContext;
+const PageTemplate = ({ pageContext, data }) => {
+  const { posts, title } = pageContext;
   const { html, frontmatter } = data.markdownRemark;
-  const image = frontmatter.cover.childImageSharp.fluid;
+  const image = frontmatter.cover ? frontmatter.cover.childImageSharp.fluid : '';
 
   return (
     <Layout>
-      <Helmet title={`${upperTag} | ${config.title}`} />
-      <Header title={upperTag} cover={image}>
+      <Helmet title={`${title} | ${config.title}`} />
+      <Header title={title} cover={image}>
         {/* <StyledLink to="/tags">All Tags</StyledLink> */}
       </Header>
       <Container>
@@ -55,18 +55,18 @@ const Tag = ({ pageContext, data }) => {
   );
 };
 
-export default Tag;
+export default PageTemplate;
 
-Tag.propTypes = {
+PageTemplate.propTypes = {
   pageContext: PropTypes.shape({
     posts: PropTypes.array,
-    upperTag: PropTypes.string,
+    title: PropTypes.string,
   }),
 };
 
 export const query = graphql`
-  query($upperTag: String!) {
-    markdownRemark(frontmatter: { title: { eq: $upperTag } }) {
+  query($title: String!) {
+    markdownRemark(frontmatter: { title: { eq: $title } }) {
       html
       frontmatter {
         date

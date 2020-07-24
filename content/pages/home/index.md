@@ -1,9 +1,9 @@
 ---
-path: ''
+path: '/'
 cover: './blocks.jpg'
 title: 'Forta si putere'
 subTitle: 'Fi-i mai puternic decat scuzele tale'
-published: true
+published: false
 ---
 
 ## Cum mi-am marit squat-ul de la 90kg la 140kg in 7 luni

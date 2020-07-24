@@ -1,5 +1,5 @@
 ---
-path: ''
+path: '/termeni-si-conditii'
 cover: './program.jpg'
 title: 'Termeni si Conditii'
 published: true

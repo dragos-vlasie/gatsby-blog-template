@@ -13,10 +13,7 @@ exports.createPages = ({ graphql, actions }) => {
         `
           query {
             allMarkdownRemark(
-              filter: {
-                fileAbsolutePath: { regex: "/posts/" }
-                frontmatter: { published: { eq: true } }
-              }
+              filter: { frontmatter: { published: { eq: true } } }
               sort: { order: ASC, fields: [frontmatter___date] }
             ) {
               edges {
@@ -36,8 +33,8 @@ exports.createPages = ({ graphql, actions }) => {
         if (result.errors) {
           return reject(result.errors);
         }
-
-        const posts = result.data.allMarkdownRemark.edges;
+        const posts = result.data.allMarkdownRemark.edges.slice(0, 9); // take only the posts out
+        const pages = result.data.allMarkdownRemark.edges.slice(9); // take only the pages out
 
         const postsByTag = {};
         // create tags page
@@ -64,20 +61,33 @@ exports.createPages = ({ graphql, actions }) => {
         // });
 
         //create tags
-        tags.forEach(tagName => {
-          const posts = postsByTag[tagName];
-          const kebabcase = tagName.split(' ').join('-');
-          const upperTag = tagName.charAt(0).toUpperCase() + tagName.slice(1);
+        // tags.forEach(tagName => {
+        //   const posts = postsByTag[tagName];
+        //   const kebabcase = tagName.split(' ').join('-');
+        //   const upperTag = tagName.charAt(0).toUpperCase() + tagName.slice(1);
+        //   createPage({
+        //     path: `/${kebabcase}/`,
+        //     component: tagPosts,
+        //     context: {
+        //       posts,
+        //       upperTag,
+        //     },
+        //   });
+        // });
+
+        //create pages
+        pages.forEach(({ node }) => {
+          const path = node.frontmatter.path;
+          const title = node.frontmatter.title;
+
           createPage({
-            path: `/${kebabcase}/`,
+            path: `${path}/`,
             component: tagPosts,
             context: {
-              posts,
-              upperTag,
+              title: title,
             },
           });
         });
-
         //create posts
         posts.forEach(({ node }, index) => {
           const path = node.frontmatter.path;
