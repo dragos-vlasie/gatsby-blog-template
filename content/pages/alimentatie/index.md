@@ -1,6 +1,7 @@
 ---
 path: '/alimentatie'
 cover: './alimentatie.jpg'
+description: 'Cea mai buna dieta este cea pe care o poti urma. Nu trebuie sa incetati sa mancati carbohidrati sau grasimi. Nu trebuie sa mananci o cantitate imensa de proteine. Nu trebuie sa mananci la fiecare 3 ore. Trebuie doar sa va controlati raportul de calorii. Puteti face acest lucru numarand calorii direct. Sau puteti face acest lucru prin a dezvolta niste obiceiuri alimentare simple.'
 title: 'Alimentatie'
 published: true
 ---

@@ -4,7 +4,7 @@ import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { Layout, Container } from 'layouts';
-import { Header } from 'components';
+import { Header, SEO } from 'components';
 import config from '../../config/site';
 import Content from '../layouts/Content';
 
@@ -29,12 +29,14 @@ const Information = styled.div`
 
 const PageTemplate = ({ pageContext, data }) => {
   const { posts, title } = pageContext;
-  const { html, frontmatter } = data.markdownRemark;
+  const { html, frontmatter, excerpt } = data.markdownRemark;
   const image = frontmatter.cover ? frontmatter.cover.childImageSharp.fluid : '';
   const subTitle = frontmatter.subTitle ? frontmatter.subTitle : '';
-
+  const { description } = frontmatter;
+  console.log('PageTemplate -> description', description);
   return (
     <Layout>
+      <SEO title={title} description={description || excerpt || ' '} banner={image} page />
       <Helmet title={`${title} | ${config.title}`} />
       <Header title={title} cover={image}>
         {subTitle}
@@ -70,11 +72,13 @@ export const query = graphql`
   query($title: String!) {
     markdownRemark(frontmatter: { title: { eq: $title } }) {
       html
+      excerpt
       frontmatter {
         date
         title
         tags
         subTitle
+        description
         cover {
           childImageSharp {
             fluid(

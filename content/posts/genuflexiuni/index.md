@@ -2,6 +2,7 @@
 path: '/genuflexiuni-cu-bara'
 cover: './genuflexiuni.jpg'
 date: '2020-07-20'
+description: 'Tineti greutatea o secunda in varf. Respira. Apoi inspirati puternic, tineti-o si faceti urmatoarea genuflexiune. Repetati pana cand ati facut cinci repetari pe [Antrenamente 5x5](/5x5/). Squats-ul iti lucreaza intregul corp. Picioarele se indoaie si se indreapta pentru a muta greutatea. Muschii abs si partea inferioara a spatelui va stabilizeaza trunchiul, in timp ce picioarele se misca. Partea superioara a spatelui, umerii si bratele echilibreaza bara din spate. Multi muschi functioneaza in acelasi timp, nu doar picioarele.'
 title: 'Genuflexiuni cu bara (Squats)'
 tags: ['exercitii']
 published: true

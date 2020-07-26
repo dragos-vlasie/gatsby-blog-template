@@ -2,6 +2,7 @@
 path: '/ramat-cu-bara'
 cover: './ramat-cu-bara.jpg'
 date: '2020-07-15'
+description: 'Exercitiul compus Ramat cu bara(Barbell Row) antreneaza intreg corpul. Lucreaza atat partea superioara, cat si cea inferioara a spatelui, soldurile si bratele. Formeaza un spate mai puternic si musculos, dar si bicepsi mai mari. Ramat cu bara(Barbell Row)este unul dintre cele mai eficiente exercitii pe care le puteti face ca sa va imbunatatiti genoflexiunile, ridicatul de greutati pe banca si cel din picioare.'
 title: 'Ramat cu bara(Barbell Row)'
 tags: ['exercitii']
 published: true

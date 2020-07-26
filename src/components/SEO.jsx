@@ -26,7 +26,7 @@ const SEO = ({ title, description, banner, pathname, article }) => (
     }) => {
       const seo = {
         title: title || defaultTitle,
-        description: defaultDescription || description,
+        description: description || defaultDescription,
         image: `${siteUrl}${banner || defaultBanner}`,
         url: `${siteUrl}${pathname || '/'}`,
       };
@@ -78,17 +78,17 @@ const SEO = ({ title, description, banner, pathname, article }) => (
           },
         ];
       }
+      console.log('description', description);
       return (
         <>
           <Helmet title={seo.title}>
             <html lang={siteLanguage} />
             <meta name="description" content={seo.description} />
             <meta name="image" content={seo.image} />
+            {console.log('seo.description', seo.description)}
             <meta name="apple-mobile-web-app-title" content={shortName} />
             <meta name="application-name" content={shortName} />
-            <script type="application/ld+json">
-              {JSON.stringify(schemaOrgJSONLD)}
-            </script>
+            <script type="application/ld+json">{JSON.stringify(schemaOrgJSONLD)}</script>
 
             {/* OpenGraph  */}
             <meta property="og:url" content={seo.url} />

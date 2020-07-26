@@ -2,6 +2,8 @@
 path: '/indreptari'
 cover: './halfthor.jpg'
 date: '2020-07-21'
+description: '
+Cel mai rapid mod de a-ti imbunatati Indreptarile(Deadlift) este sa-ti imbunatatesti forma. Tragand mai eficient, puteti utiliza mai multi muschi si greutati mai grele. Acest lucru duce la cresterea fortei si a castigurilor musculare. Cel mai bun mod de a-ti imbunatati forma/pozitia este practicand Indreptarile cu o forma adecvata.'
 title: 'Indreptari (Deadlifts)'
 tags: ['exercitii']
 published: true
