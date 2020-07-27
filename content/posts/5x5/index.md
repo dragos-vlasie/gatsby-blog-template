@@ -1068,9 +1068,9 @@ Ridicarea greutatilor este buna pentru inima ta. Iti scade ritmul cardiac si ten
 
 Antrenamente 5×5 nu este o rutina obisnuita in care faci exercitii de izolare precum ridicarea de jos in sus cu greutati usoare. Persoanele care fac astfel de rutina trebuie sa adauge cardio. Facem exercitii compuse care ne lucreaza intregul corp. Crestem greutatea progresiv. Si atingem intensitati de pregatire ridicate.
 
-De fapt facem cardio daca va ganditi la asta.Faci genuflexiuni (Squat) intens pentru un set de cinci repetari - dureaza aproximativ 20 de secunde. Frecventa cardiaca creste si iesi din respiratie. Dupa ce te odihnesti trei minute, iti faci urmatorul set. Acest lucru este ca un interval de intensitate mare de cardio - iti antreneaza inima si plamanii.
+De fapt facem cardio daca va ganditi la asta.Faci Genuflexiuni (Squat) intens pentru un set de cinci repetari - dureaza aproximativ 20 de secunde. Frecventa cardiaca creste si iesi din respiratie. Dupa ce te odihnesti trei minute, iti faci urmatorul set. Acest lucru este ca un interval de intensitate mare de cardio - iti antreneaza inima si plamanii.
 
-Totul sub bara devine mai puternic atunci cand faci genuflexiuni (Squat) - muschii, articulatiile, oasele. Inima ta este un muschi. Devine mai puternic ca orice alt muschi. Trebuie sa poata pompa sange catre muschii tai si restul corpului cand ridici greutati mari. Acest lucru va intari muschiul inimii.
+Totul sub bara devine mai puternic atunci cand faci Genuflexiuni (Squat) - muschii, articulatiile, oasele. Inima ta este un muschi. Devine mai puternic ca orice alt muschi. Trebuie sa poata pompa sange catre muschii tai si restul corpului cand ridici greutati mari. Acest lucru va intari muschiul inimii.
 
 Functioneaza astfel: muschii se contracta cand ridici greutati. Acestea va comprima vasele de sange, ceea ce va creste tensiunea arteriala. Inima ta trebuie sa pompeze mai tare impotriva acestei rezistente pentru a elibera sange. Acest lucru il consolideaza - ventriculul stang creste forta si dimensiunea musculara.
 
@@ -1276,7 +1276,7 @@ Greselile de 20% mai mici, incercati sa remediati in timp ce adaugati greutate. 
 
 In cele din urma, din cand in cand, exista un tip care renunta la program, pentru ca nu adaugat masa muscular/muschi. Privind mai aproape, de obicei, se dovedeste ca el nu a facut programul mai mult de cateva saptamani... si niciodata nu si-a ridicat puterea de ridicare dincolo de 80kg/175lb [Squat (Gennoflexiuni cu haltera)](/exercitii/genuflexiuni-cu-bara/). 60kg/135lb Bench si 100kg/220 Indreptari...
 
-Ar trebui sa fie evident ca nu puteti avea picioarele unei pesoane care face genuflexiuni (Gennoflexiuni cu haltera) cu 140kg/300lb daca ridicati jumatate. Nu poti avea pieptul unei persoane care ridica la piept 100kg/220lb daca ai pus pe bara jumatate. Si nu poti avea spate dezvoltat precum al cuiva care [Indreptari (Deadlifts)](/exercitii/indreptari/) 180kg/400lb daca ridici jumatate. Duh.
+Ar trebui sa fie evident ca nu puteti avea picioarele unei pesoane care face Genuflexiuni (Gennoflexiuni cu haltera) cu 140kg/300lb daca ridicati jumatate. Nu poti avea pieptul unei persoane care ridica la piept 100kg/220lb daca ai pus pe bara jumatate. Si nu poti avea spate dezvoltat precum al cuiva care [Indreptari (Deadlifts)](/exercitii/indreptari/) 180kg/400lb daca ridici jumatate. Duh.
 
 Nu este vina programului daca nu ridici destul de mult si nu ti se dezvolta muschii. Asta este normal. Trebuie sa ridici greutati mari pentru a castiga dimensiunea musculara . Deci, fa-ti antrenamentele corespunzator.
 

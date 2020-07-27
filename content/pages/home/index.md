@@ -22,7 +22,7 @@ Copierea antrenamentelor lor este ca si cum ai incerca sa alergi un maraton atun
 
 Daca sunteti determinati si vreti sa fiti puternici, trebuie sa stapaniti mai intai elementele de baza. Aveti nevoie de un plan, cu o progresie logica, care sa se concentreze pe exercitiile de baza.
 
-In caz contrar, veti pierde timpul la antrenamente si exercitii aleatorii, in speranta ca veti deveni puternici, dar va alegeti doar cu febra musculara(sau mai rau, acidentari).
+In caz contrar, veti pierde timpul la antrenamente si exercitii aleatorii, in speranta ca veti deveni puternici, dar va alegeti doar cu febra musculara (sau mai rau, acidentari).
 
 Asa ca va voi arata un program pe care mii de oameni l-au folosit pentru a-si creste rapid Genuflexiunile cu bara (Squat), Impins cu halterea de la piept (Bench Press) si Indreptari (Deadlift).
 

@@ -193,7 +193,7 @@ Utilizati aceste indicii in schimb si veti face Indreptari (Deadlift) cu o forma
 - **Umerii**: in fata barei din vedere laterala, relaxati-va umerii si trapezul
 - **Omoplati**: peste mijlocul piciorului cand privesti din lateral
 - **Cap**: aliniat cu restul coloanei vertebrale, nu va uitati in sus, nici nu va uitati la picioare
-- **Solduri**: pozitia arata ca o jumatate [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/), soldurile mai largi decat paralele. Nu-ti faceti genuflexiuni nu este aceeasi pozitie
+- **Solduri**: pozitia arata ca o jumatate [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/), soldurile mai largi decat paralele. Nu-ti faceti Genuflexiuni nu este aceeasi pozitie
   !
 - **Pozita de inceput**: bara peste mijlocul piciorului, omoplati peste bara, linie dreapta de la cap pana jos in spate
 - **Respiratie**: respirati in partea de jos, tineti-o in partea de sus, expirati in partea de jos, repetati
@@ -481,7 +481,7 @@ Incercati sa impingeti picioarele prin podea in loc sa trageti greutatea inapoi.
 
 Nu trebuie sa existe nicio miscare orizontala a barelor atunci cand faceti Deadlift. Una, aceasta mareste distanta pe care trebuie sa o parcurga bara pentru a ajunge la pozitia finala. Doi, ingreuneaza greutatea pe partea inferioara a spatelui. Daca bara se misca pe orizontala (ca intr-o curba J), nu a inceput deasupra mijlocului picioarelor. Remediati pozitia de pozitia de inceput.
 
-In cazul in care bara nu doreste sa paraseasca podeaua, forta antebratelor tale ar putea fi prea slaba(priza). Puneti creta si incercati din nou cu o prindere mixta. Vei avea o prindere mai buna si ar trebui sa poti ridica greutatea acum. Nu renunta prea repede, continua sa tragi. Daca bara inca nu se misca, este doar prea grea.
+In cazul in care bara nu doreste sa paraseasca podeaua, forta antebratelor tale ar putea fi prea slaba (priza). Puneti creta si incercati din nou cu o prindere mixta. Vei avea o prindere mai buna si ar trebui sa poti ridica greutatea acum. Nu renunta prea repede, continua sa tragi. Daca bara inca nu se misca, este doar prea grea.
 
 ## Pana jos<a id="pana-jos"></a>
 
@@ -490,7 +490,7 @@ _Miscati-va soldurile inapoi, astfel incat sa nu va loviti de genunchi in jos._
 
 Drumul de jos trebuie sa fie o oglinda a urcarii. Bara trebuie sa se deplaseze in jos pe o linie verticala, deoarece aceasta este cea mai scurta distanta pana la podea. Trebuie sa ramana in contact cu picioarele pentru a reduce stresul pe spate . Si trebuie sa aterizeze peste mijlocul picioarelort gata pentru urmatoarea repetare. Coloana vertebrala trebuie sa ramana neutra.
 
-Din pozitia de sus deblocheaza(indoaie) soldurile si genunchii. Apoi coborati greutatea miscand soldurile inapoi. Mentineti picioarele aproape drepte in timp ce va deplasati mai ales din solduri. Obiectivul este sa va mentineti genunchii inapoi si sa iesiti din calea halterei. In acest fel o puteti cobori intr-o linie verticala pana la mijlocul piciorului.
+Din pozitia de sus deblocheaza (indoaie) soldurile si genunchii. Apoi coborati greutatea miscand soldurile inapoi. Mentineti picioarele aproape drepte in timp ce va deplasati mai ales din solduri. Obiectivul este sa va mentineti genunchii inapoi si sa iesiti din calea halterei. In acest fel o puteti cobori intr-o linie verticala pana la mijlocul piciorului.
 
 Nu coborati greutatea doar prin indoirea genunchilor. Vor veni prea departe inainte si vor bloca bara. Vei lovi apoi genunchii, ceea ce doare . Bara va trebui sa se miste loveasca genunchii pentru a ajunge pe podea. Va ateriza deasupra piciorului tau, care este o pozitie ineficienta din care sa-ti tragi urmatoarea repetitie.
 
@@ -705,7 +705,7 @@ Deadlift cu acesti pantofi in schimb ...
 
 Curelele iti maresc Deadlift-ul oferindu-i abdomenul-ului ceva in care sa se impinga. Abdomenul-ul tau se contracta mai tare, ceea ce creste presiunea in trunchiul tau. Acest lucru ofera un sprijin suplimentar in partea inferioara a spatelui si imbunatateste transferul de putere. Puteti creste cu usurinta Deadlift cu 15kg folosind o centura.
 
-Deadlifting/Indreptarile cu o centura nu inseamna ca trisezi. Federatia Internationala de Powerlifting (IPF) permite centurile. Ii interzic curelele pentru priza(chingi), deoarece iti fac muschii antebratului sa lucreze mai putin. Dar abdomenul nu functioneaza mai putin atunci cand porti o centura. Lucreaza MAI MULT pentru ca au ceva de impins.
+Deadlifting/Indreptarile cu o centura nu inseamna ca trisezi. Federatia Internationala de Powerlifting (IPF) permite centurile. Ii interzic curelele pentru priza (chingi), deoarece iti fac muschii antebratului sa lucreze mai putin. Dar abdomenul nu functioneaza mai putin atunci cand porti o centura. Lucreaza MAI MULT pentru ca au ceva de impins.
 
 Acest lucru este similar cu modul in care creta permite muschilor antebratului sa lucreze mai mult. Creta creste frecarea si va ajuta sa va mentineti mai bine pe bara. Deci, muschii tai de prindere sunt expusi la greutati mai mari decat daca nu ati folosi creta. La fel si cu centura: abdomenul se pote contracta mai tare si pot ridica mai multa greutate.
 
@@ -784,7 +784,7 @@ Apararea inseamna caderea rapida a barei si utilizarea reculului placilor pe pod
 
 Folosirea reculului placilor de pe podea te face sa crezi ca ridici mai mult. Nu tragi greutatea de pe podea pana la genunchi. Recul o face. Deci nu intariti muschii care ar trebui sa faca asta. Ii slabesti.
 
-Acest lucru devine clar atunci cand testati repetitia maxima pe Deadlifts(One rep max). Nu poti folosesti reculul la acea repetare, deoarece greutatea este (Dead)moarta pe podea(punct mort). Nu fiti surprinsi daca abia puteti face o Indreptare pentru o repetare, desi puteti face aceeasi greutate pentru cinci. Este pentru ca nu ai tras niciodata cinci repetari. Ai tras unul. Celelalte patru erau partiale.
+Acest lucru devine clar atunci cand testati repetitia maxima pe Deadlifts(One rep max). Nu poti folosesti reculul la acea repetare, deoarece greutatea este (Dead)moarta pe podea (punct mort). Nu fiti surprinsi daca abia puteti face o Indreptare pentru o repetare, desi puteti face aceeasi greutate pentru cinci. Este pentru ca nu ai tras niciodata cinci repetari. Ai tras unul. Celelalte patru erau partiale.
 
 Folosindu-va de recul creste, de asemenea, riscul de ranire. Lasati bara prea repede ca sa o controlati. Va sari in mod imprevizibil de pe podea. Acesta poate sari in fata si departe de picioare, ceea ce va va stresa mai mult spatele inferior. Sau poate sari inapoi in tibia ta, ceea ce va poate acidenta.
 

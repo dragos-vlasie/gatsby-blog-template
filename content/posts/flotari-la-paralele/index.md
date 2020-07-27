@@ -253,7 +253,7 @@ Cea mai usoara modalitate de a face Weighted Dips(flotari la paralele) este folo
 ![Weighted flotari la paralele ](./assets/weighted-flotari-la-paralele-belt.jpg)
 _Utilizati o curea pentru flotari la paralele pentru a adauga greutate._
 
-Nu puneti un lant pe centura pe care o utilizati pentru genuflexiuni (Squats) and Deadlifts. O veti deteriora. Obtineti in schimb o curea speciala pentru dips. Iata cateva pe care le recomand...
+Nu puneti un lant pe centura pe care o utilizati pentru Genuflexiuni (Squats) and Deadlifts. O veti deteriora. Obtineti in schimb o curea speciala pentru dips. Iata cateva pe care le recomand...
 
 - **Curea** Dip Polypro
 - **Curea** Brute

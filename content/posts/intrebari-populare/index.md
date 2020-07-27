@@ -22,7 +22,7 @@ Deci, sunt sigur ca Antrenamente 5×5 va functiona si pentru tine. Va functiona 
 Nu am vazut niciodata ca Antrenamente 5×5 nu functioneaza. Am vazut povesti pe internet care spun ca acest program nu functioneaza pentru ei.
 Dar este de obicei pentru ca...
 
-- Acest antrenament NU este pentru cei cu experienta. Nu faceti acest lucru daca puteti face genuflexiuni (Squat) cu 150kg si Indreptari 200kg chiar acum. Nu puteti adauga greutate la fiecare antrenament cu aceste greutati. De aceea nu mai fac Antrenamente 5×5 - greutatile mele sunt prea grele. Faceti Madcow 5×5 in schimb.
+- Acest antrenament NU este pentru cei cu experienta. Nu faceti acest lucru daca puteti face Genuflexiuni (Squat) cu 150kg si Indreptari 200kg chiar acum. Nu puteti adauga greutate la fiecare antrenament cu aceste greutati. De aceea nu mai fac Antrenamente 5×5 - greutatile mele sunt prea grele. Faceti Madcow 5×5 in schimb.
 - Acest antrenament NU este pentru cei ce “stiu totul”. Trebuie sa faceti programul asa cum este stabilit pentru ca acesta sa functioneze. Daca o faci in felul tau schimband lucrurile, nu va functiona. Trebuie sa fii antrenabil. Si ar trebui sa cititi acest ghid la fiecare doua saptamani pentru a vedea lucruri care v-au omis prima data.
 - Acest antrenament NU este pentru o persoana delasatoare. Acest program nu va functiona daca sariti antrenamentele. Nu functioneaza daca sariti Genoflexiuni cu haltera. Nu functioneaza daca nu iti maresti greutatea pe care o ridici. Nu vei deveni puternic si mare decat daca ridici greutati mari. Acest lucru necesita multa munca.
 
@@ -30,7 +30,7 @@ Deci, daca ai 60kg/135lb la 1m82/6'2 ″... abia mananci pentru a evita cresteri
 
 ### Cat dureaza pentru a vedea rezultatele?
 
-Castigurile de forta sunt aproape imediate. Veti vedea ca greutatea pe bar creste la fiecare antrenament. Daca incepeti cu haltera, nu ratati un antrenament si obtineti repetari de fiecare data, veti face genuflexiuni (Gennoflexiuni cu haltera) cu 100kg/220lb in 12 saptamani si 130kg/265lb in 16 saptamani. Vei fi mai puternic decat majoritatea baietilor.
+Castigurile de forta sunt aproape imediate. Veti vedea ca greutatea pe bar creste la fiecare antrenament. Daca incepeti cu haltera, nu ratati un antrenament si obtineti repetari de fiecare data, veti face Genuflexiuni (Gennoflexiuni cu haltera) cu 100kg/220lb in 12 saptamani si 130kg/265lb in 16 saptamani. Vei fi mai puternic decat majoritatea baietilor.
 
 Cantitatea maxima de muschi slabi pe care o puteti castiga in mod natural este de 1kg pe luna . Deci, daca nu ati ridicat niciodata, puteti castiga 5 masa musculara slaba in 20 de saptamani si 10kg pana anul viitor. Retineti ca acestia sunt muschi SLABI - cresterea in greutate poate fi mai mare datorita cresterii retentiei de apa.
 
@@ -74,7 +74,7 @@ Verificati cartile recomandate daca doriti sa invatati mai mult.
 
 Da. Puteti obtine 12kg de muschi in primul an daca nu ati facut niciodata un program de antrenament ca acesta. Asta doar prin antrenament de trei ori pe saptamana si fara a utiliza suplimente sau medicamente.
 
-Iata cum functioneaza: muschii scheletici sunt atasati de oase de catre tendoane. Cand face genuflexiuni (Gennoflexiuni cu haltera) articulatiile soldului si genunchiului se indoaie. Cand revi in pozitie initiala, se indreapta. Aceasta miscare este alimentata de muschii dvs. care se contracta pentru a indoi si indrepta picioarele contra greutatii.
+Iata cum functioneaza: muschii scheletici sunt atasati de oase de catre tendoane. Cand face Genuflexiuni (Gennoflexiuni cu haltera) articulatiile soldului si genunchiului se indoaie. Cand revi in pozitie initiala, se indreapta. Aceasta miscare este alimentata de muschii dvs. care se contracta pentru a indoi si indrepta picioarele contra greutatii.
 
 Cu cat este mai grea greutatea pe spate, cu atat muschii trebuie sa se contracte mai tare pentru a [Squat (Gennoflexiuni cu haltera)](/exercitii/genuflexiuni-cu-bara/) cu greutatea. Cu atat mai greu trebuie sa munceasca pentru a rezista gravitatiei in coborare, de asemenea. Acest efort declanseaza muschii picioarelor pentru a deveni mai puternici si mai mari pentru a face fata mai bine acelei greutati la antrenament.
 
@@ -114,7 +114,7 @@ Daca nu sunteti obezi, cu cat scadeti grasimea corpului, cu atat mai greu va fi 
 
 Prin urmare, sa faceti Antrenamente 5×5 pe un deficit caloric pentru a pierde grasime este o idee proasta. Va functiona primele cateva saptamani cand greutatile sunt usoare. Dar nu atunci cand greutatile devin mai grele. Ar trebui sa mananci cel putin calorii de intretinere, apoi sa adaugi niste cardio pentru a ajuta la pierderea de grasime.
 
-Amintiti-va ca un nivel scazut de grasime este inutil daca nu aveti muschi pentru care sa va prezentati. Si puteti pierde cu usurinta 1lb de grasime pe saptamana mai tarziu, dar acum puteti castiga doar 0,5lb pe saptamana. Asa ca castiga mai intai muschi. Ajungeti sa faceti genuflexiuni (Gennoflexiuni cu haltera) cu 140kg/300lb. Dupa aceea, va puteti concentra pe reducerea grasimilor din corp, daca mai este nevoie.
+Amintiti-va ca un nivel scazut de grasime este inutil daca nu aveti muschi pentru care sa va prezentati. Si puteti pierde cu usurinta 1lb de grasime pe saptamana mai tarziu, dar acum puteti castiga doar 0,5lb pe saptamana. Asa ca castiga mai intai muschi. Ajungeti sa faceti Genuflexiuni (Gennoflexiuni cu haltera) cu 140kg/300lb. Dupa aceea, va puteti concentra pe reducerea grasimilor din corp, daca mai este nevoie.
 
 Cititi ghidul despre cum puteti pierde grasime.
 
@@ -155,7 +155,7 @@ Veti face progrese pentru mai multe antrenamente pana cand veti incepe sa va lup
 
 Progresul tau va fi mai lent, comparativ cu cei care se antreneaza de trei ori pe saptamana. Dar probabil ca nu va mai grabiti. Prioritatea dvs. este mai probabil sa fiti sanatosi. Incetinirea progresului va va mentine sanatos imbunatatindu-va recuperarea. Vei evita febra musculara, durerile si ranile.
 
-Retineti ca impliniti 40 de ani nu inseamna ca trebuie sa faceti aceste schimbari. Un barbat in varsta de 72 de ani are nevoie de aceste schimbari mai mult decat unul de 57 de ani, iar el are nevoie de mai mult decat de unul de 40 de ani. Am 36 de ani si totusi fac genuflexiuni (Squat) de trei ori pe saptamana. Sunt doar mai atent sa nu ma ranesc. Uita-te la progresul tau pentru a decide ce sa faci.
+Retineti ca impliniti 40 de ani nu inseamna ca trebuie sa faceti aceste schimbari. Un barbat in varsta de 72 de ani are nevoie de aceste schimbari mai mult decat unul de 57 de ani, iar el are nevoie de mai mult decat de unul de 40 de ani. Am 36 de ani si totusi fac Genuflexiuni (Squat) de trei ori pe saptamana. Sunt doar mai atent sa nu ma ranesc. Uita-te la progresul tau pentru a decide ce sa faci.
 
 ### Antrenamente 5×5 functioneaza pentru femei?
 
@@ -219,7 +219,7 @@ Puteti obtine rezultate in ciuda geneticii dumneavoastra. Faci asta concentrandu
 
 Nu. Te vei deveni mai rapid, mai puternic si mai exploziv. Cele cinci exercitii mari iti intaresc intregul corp, inclusiv picioarele. Picioarele mai puternice, rezista mai mult, deoarece fiecare pas necesita mai putin efort. Ei pot lucre mai mult intr-un timp dat. In fizica numim aceasta putere (P = w/t),numita si explozivitate.
 
-Ce zici de volumul suplimentar? Dublarea numarului de genuflexiuni (Gennoflexiuni cu haltera) iti va creste masa musculara . Dar volumul adaugat nu este suficient pentru a va incetini. Castigarea fortei si a muschilor este ca si cum ai pune un motor mai mare in masina. Cantareste mai mult, dar tot mergi mai repede. Pentru ca esti mai eficient si mai puternic.
+Ce zici de volumul suplimentar? Dublarea numarului de Genuflexiuni (Gennoflexiuni cu haltera) iti va creste masa musculara . Dar volumul adaugat nu este suficient pentru a va incetini. Castigarea fortei si a muschilor este ca si cum ai pune un motor mai mare in masina. Cantareste mai mult, dar tot mergi mai repede. Pentru ca esti mai eficient si mai puternic.
 
 Au disparut zilele in care sportivii si-ar practica doar sportul. Ronaldo si Nadal ridica greutati. Tiger Woods ridica 300lb. Fiecare sportiv si echipa are acum o FORMA si antrenor de conditionare. Forta imbunatateste echilibrul si coordonarea, reduce leziunile si te face mai dinamic.
 
@@ -227,11 +227,11 @@ Daca faci sport, dar nu ridici greutati, te dezavantajezi in 2017.
 
 ### Nu este prea mult Squatting 3x/saptamana?
 
-Daca incepeti cu cele cinci repetari maxime la primul antrenament. Veti avea febra musculara si nu veti mai putea sa faceti genuflexiuni (Gennoflexiuni cu haltera) din nou doua zile mai tarziu. Acest program va parea imposibil de facut, deoarece ai inceput prea greu. Trucul este sa pornesti usor pentru a-ti lasa corpul sa se obisnuiasca cu genuflexiunile (Gennoflexiuni cu haltera) de trei ori pe saptamana.
+Daca incepeti cu cele cinci repetari maxime la primul antrenament. Veti avea febra musculara si nu veti mai putea sa faceti Genuflexiuni (Gennoflexiuni cu haltera) din nou doua zile mai tarziu. Acest program va parea imposibil de facut, deoarece ai inceput prea greu. Trucul este sa pornesti usor pentru a-ti lasa corpul sa se obisnuiasca cu genuflexiunile (Gennoflexiuni cu haltera) de trei ori pe saptamana.
 
-Obisnuiam sa ma lovesc la picioare in fiecare luni facand o duzina de exercitii pentru a ridica cat mai sus. Am avut adesea febra musculara pentru o saptamana. Asadar, cand am descoperit antrenamentul 5×5 in 2003 nu am inteles cum ar putea cineva sa faca genuflexiuni (Squat) de doua ori in aceeasi saptamana. Stiu acum - incetati sa va antrenati ca sa esuati.
+Obisnuiam sa ma lovesc la picioare in fiecare luni facand o duzina de exercitii pentru a ridica cat mai sus. Am avut adesea febra musculara pentru o saptamana. Asadar, cand am descoperit antrenamentul 5×5 in 2003 nu am inteles cum ar putea cineva sa faca Genuflexiuni (Squat) de doua ori in aceeasi saptamana. Stiu acum - incetati sa va antrenati ca sa esuati.
 
-Majoritatea persoanelor care ridica greutai fac genuflexiuni (Squat) de mai multe ori pe saptamana. Am facut genuflexiuni (Squat) o data in fiecare zi timp de 50 de zile. De obicei, sprint de mai multe ori pe saptamana. Alergat de mai multe ori pe saptamana. Ciclistii merg cu bicicleta de mai multe ori pe saptamana. Doar in culturism trebuie sa antrenati picioarele doar o data pe saptamana. Este BS.
+Majoritatea persoanelor care ridica greutai fac Genuflexiuni (Squat) de mai multe ori pe saptamana. Am facut Genuflexiuni (Squat) o data in fiecare zi timp de 50 de zile. De obicei, sprint de mai multe ori pe saptamana. Alergat de mai multe ori pe saptamana. Ciclistii merg cu bicicleta de mai multe ori pe saptamana. Doar in culturism trebuie sa antrenati picioarele doar o data pe saptamana. Este BS.
 
 Daca nu poti face genofleiuni de trei ori pe saptamana, nu esti suprasolicitat. Esti ingrijit . Esti intr-o forma proasta, de aceea nu poti face asta. Incepeti usor, lasati-va corpul sa se obisnuiasca cu antrenamentul si veti putea sa-l faceti si voi.
 
@@ -251,7 +251,7 @@ Daca va plac Indreptari (Deadlifts) incalziti-va cu seturi de cinci. Acest lucru
 
 Antrenamente 5×5 este un program cu haltere. Ideea principala este sa adaugati 2,5kg/5lb la fiecare antrenament. Nu poti face acest lucru cu ganterele, deoarece acestea cresc de obicei cu 2kg/5lb. Acest lucru va obliga sa adaugati 4kg/10lb pentru fiecare antrenament, ceea ce este prea mult. Vei esua reputatiile, sau vei trece peste ele, vei deveni frustrat si nu vei reusi sa progresezi.
 
-Chiar daca aveti gantere cu cresteri mai mici, tot nu puteti sa faci genofleiuni (Squat) c u greutati mari. Cea mai grea parte este de a tine ganterele, nu de a face exercitiul propriu-zis. Sa zicem ca esti atat de puternic incat poti sa faci genuflexiuni (Gennoflexiuni cu haltera) cu 100lb in fiecare mana. In continuare, sunt doar 200lb care iti solicita picioarele. Am facut genuflexiuni (Gennoflexiuni cu haltera) cu dublu utilizand bara.
+Chiar daca aveti gantere cu cresteri mai mici, tot nu puteti sa faci genofleiuni (Squat) c u greutati mari. Cea mai grea parte este de a tine ganterele, nu de a face exercitiul propriu-zis. Sa zicem ca esti atat de puternic incat poti sa faci Genuflexiuni (Gennoflexiuni cu haltera) cu 100lb in fiecare mana. In continuare, sunt doar 200lb care iti solicita picioarele. Am facut Genuflexiuni (Gennoflexiuni cu haltera) cu dublu utilizand bara.
 
 Ideea este ca este mai usor sa ridici greutati mai grele cu halterele decat cu ganterele. De aceea veti obtine cele mai bune rezultate facand principalele exercitii compuse cu halterele. De asemenea, va va oferi cea mai buna progresie, deoarece puteti utiliza cresteri mai mici.
 
@@ -267,7 +267,7 @@ Principalul beneficiu al utilizarii halterelor, si nu a aparatelor este:
 
 Halterele te obliga sa echilibrezi singur greutatea.Aparatele echilibreaza greutatea pentru tine. Aparatul Smith, de exemplu, are bara atasata la sine. Nu trebuie sa-l echilibrezi tu, aparatul face asta. Asta inseamna ca aparatul reduce efortul facut de muschii tai. Vrei ca muschii tai sa faca toata munca cand ridici greutati. Pentru ca cu cat lucrezi mai multi muschi, si mai intens, cu atat vei fi mai puternic si mai musculos.
 Halterele va permit sa folositi miscari naturale. Deoarece bara nu este atasata de sine, puteti decide unde se duce bara. Cu ajutorul aparatului Smith si a altora, aparatul decide unde se duce bara. Acest lucru va poate forta corpul in miscari nefiresti care va pot afecta articulatiile si coborarea spatelui - mai ales odata ce incepeti sa ridicati greutati mari.
-In 2014, cand am inceput sa ridic, m-am antrenat cu ajutorul aparatelor pentru primii ani. Am facut o multime de genuflexiuni cu aparatul Smith si presa la piept si toate astea. Intr-o zi aparatul Smith era ocupat, am decis sa fac genuflexiuni (Squat) libere si, spre surprinderea mea, nu am putut ridica ce as putea ridica cu ajutorul aparatului. Nu puteam echilibra greutatea, era mai grea.
+In 2014, cand am inceput sa ridic, m-am antrenat cu ajutorul aparatelor pentru primii ani. Am facut o multime de Genuflexiuni cu aparatul Smith si presa la piept si toate astea. Intr-o zi aparatul Smith era ocupat, am decis sa fac Genuflexiuni (Squat) libere si, spre surprinderea mea, nu am putut ridica ce as putea ridica cu ajutorul aparatului. Nu puteam echilibra greutatea, era mai grea.
 
 Am trecut la greutati libere dupa aceea. Pentru ca aceasta experienta m-a facut sa inteleg ca hanterele sunt superioare aparatelor, deoarece miscarea este mai solicitanta. Este mai greu, deoarece mai multi muschi trebuie sa lucreze pentru a echilibra si ridica greutatea, deoarece niciun aparat nu va ajuta.
 
@@ -279,7 +279,7 @@ Unii oameni nu le pasa de antrenament eficient, nu le pasa de obtinerea fortei s
 
 Ce as face este sa nu mai merg la acea sala si sa merg la o sala adevarata. Antrenamente 5×5 este un program gratuit de pregatire pentru greutate. Foloseste haltere, deoarece acesta este cel mai eficient mod de a deveni mai puternic. Aparatele, ganterele, aparatele Smith, cablurile nu sunt la fel de eficiente si, prin urmare, progresul este incetinit.
 
-Puteti fi incapatanat si sa folositi oricum echipamente inferioare. Dar nu aceasta este solutia cea mai buna: nu veti putea progresa ca oamenii care folosesc halterele. Vei esua repetarile mai devreme, mai ales daca folosesti gantere. Vei avea febra muscular daca folosesti aparatele, pentru ca vei lupta sa faci genuflexiuni si sa te lasi cu o forma adecvata.
+Puteti fi incapatanat si sa folositi oricum echipamente inferioare. Dar nu aceasta este solutia cea mai buna: nu veti putea progresa ca oamenii care folosesc halterele. Vei esua repetarile mai devreme, mai ales daca folosesti gantere. Vei avea febra muscular daca folosesti aparatele, pentru ca vei lupta sa faci Genuflexiuni si sa te lasi cu o forma adecvata.
 
 Multi oameni s-au incapatanat inaintea ta, si vin mai tarziu. Cand va apropiati si decideti sa folositi greutatea libera/haltere, va trebui sa incepeti de la zero. Pentru ca forma este diferita atunci cand trebuie sa echilibrezi singur bara. Asa ca va trebui sa porniti din nou usor pentru a invata cum sa faceti exercitiile corect.
 
@@ -342,7 +342,7 @@ Antrenamentul dimineata este cel mai bun daca aveti ore de lucru imprevizibile. 
 
 Nu este insa usor. Trebuie sa te trezesti mai devreme. Sala de gimnastica trebuie sa fie suficient de devreme deschisa, astfel incat sa iti poti face antrenamentul inainte de munca. Sala de sport nu va fi aglomerata, dar asta inseamna, de asemenea, mai putini sau deloc supraveghetori(spotter). Si daca ati avut un antrenament greu dimineata, va puteti simti obosit dupa aceea si aveti nevoie de un pui de somn.
 
-Unii oameni se simt mai slabi dimineata. Acest lucru este fie de la faptul ca nu dormi corect in noaptea precedenta, fie pentru ca nu-i acorzi suficient timp corpului sa se adapteze. O data am facut genuflexiuni (Gennoflexiuni cu haltera) cu in jur de 400lb pentru 50 de dimineata la rand. Desi par mai puternic dupa-amiaza/seara, nu sunt cu mult. Poti sa o faci.
+Unii oameni se simt mai slabi dimineata. Acest lucru este fie de la faptul ca nu dormi corect in noaptea precedenta, fie pentru ca nu-i acorzi suficient timp corpului sa se adapteze. O data am facut Genuflexiuni (Gennoflexiuni cu haltera) cu in jur de 400lb pentru 50 de dimineata la rand. Desi par mai puternic dupa-amiaza/seara, nu sunt cu mult. Poti sa o faci.
 
 Mancati inainte de antrenamentul de dimineata, astfel incat sa va puteti antrena mai mult. Nu mancati mult ca sa nu va simtiti rau in timp ce va antrenati. Mancati cu cel putin 45 de minute inainte de a merge la sala, primul lucru la trezire, astfel incat sa se poata linisti. Daca nu aveti timp, faceti un shake proteic in schimb - alimentele lichide sunt digerate mai repede.
 
@@ -382,7 +382,7 @@ Daca iti lipseste motivatia pe perioade indelungate de timp (saptamana, luni), p
 
 ### Ce se intampla daca imi este rusine sa merg la sala?
 
-Nimanui nu-i pasa de cat ridici. Am fost slab, acum sunt mai puternic, nu face mare diferenta. Majoritatea oamenilor se gandesc la propriul antrenament si o multime de oameni nu inteleg ce este oricum un [Squat (Gennoflexiuni cu haltera)](/exercitii/genuflexiuni-cu-bara/) de 400lb. Am un prieten care face genuflexiuni de peste 700lb si nimeni nu trage cu ochii atunci cand se antreneaza in salile de gimnastica obisnuite.
+Nimanui nu-i pasa de cat ridici. Am fost slab, acum sunt mai puternic, nu face mare diferenta. Majoritatea oamenilor se gandesc la propriul antrenament si o multime de oameni nu inteleg ce este oricum un [Squat (Gennoflexiuni cu haltera)](/exercitii/genuflexiuni-cu-bara/) de 400lb. Am un prieten care face Genuflexiuni de peste 700lb si nimeni nu trage cu ochii atunci cand se antreneaza in salile de gimnastica obisnuite.
 
 Acum poate exista un magar ocazional care poate sa va dea un priviri ciudate sau sa rada din colt. Da-l dracului. Veti trece de la bara goala la 100kg/220lb Squat (Gennoflexiuni cu haltera) in 3 luni. O sa sfarsesti cu o forma mai buna decat el. Lasa-l sa rada si sper sa isi aminteasca de tine. Tu vei rade la urma, in trei luni.
 
@@ -421,7 +421,7 @@ Depinde ce fel de erori tehnice faceai. In general:
 
 Nu trebuie sa incepi de la zero cu haltera goala! (cu exceptie, in cazului in care v-ati dat seama ca aveti o forma proasta la doar 2-3 saptamani de la inceperea antrenamentului, si astfel greutatile dvs. sunt inca usoare). Reduceti greutatea doar atat cat aveti nevoie pentru a putea efectua si mentine o forma adecvata.
 
-### Pot sa fac genuflexiuni mai putin intense daca ma gandesc ca ma blochez?
+### Pot sa fac Genuflexiuni mai putin intense daca ma gandesc ca ma blochez?
 
 Nu. Gama de miscare trebuie sa fie aceeasi pe fiecare repetare, fiecare set, fiecare antrenament. In caz contrar, nu stiti daca puteti ridica mai multa greutate pentru ca sunteti mai puternici sau pentru ca utilizati o gama diferita de miscare.
 
@@ -479,7 +479,7 @@ Daca aveti bautura ocazionala aici sau acolo, alcoolul nu este o problema. Rar b
 
 ### Cum sa-mi conving prietenul sa faca Antrenamente 5×5?
 
-Lasa rezultatele tale sa vorbeasca. Cand puteti sa faceti genuflexiuni (Squat) + 100kg/220lb si ati castigat cateva kilograme de muschi, ii veti atrage atentia. Va dori sa stie ce faceti si sa incercati sa nu fie „lasat pe dinafara”.
+Lasa rezultatele tale sa vorbeasca. Cand puteti sa faceti Genuflexiuni (Squat) + 100kg/220lb si ati castigat cateva kilograme de muschi, ii veti atrage atentia. Va dori sa stie ce faceti si sa incercati sa nu fie „lasat pe dinafara”.
 
 De asemenea, ii puteti trimite linkul catre acest ghid, pentru a-l putea citi el insusi.
 
@@ -491,7 +491,7 @@ Se pare ca unii tipi cred ca sunt prea batrani pentru a face acest lucru. Cred c
 
 ### Ce zici de stretching?
 
-Ridicarea greutatilor nu scade flexibilitatea. Acesta este un mit raspandit de oameni care fac mai ales exercitii de izolare. Cei care ridica greutati si cei olimpici trebuie sa fie flexibili, altfel nu-si pot aduce soldurile sub genunchi atunci cand fac genuflexiuni (Gennoflexiuni cu haltera.) A face regulat genuflexiuni (Gennoflexiuni cu haltera) mentine de fapt flexibilitate.
+Ridicarea greutatilor nu scade flexibilitatea. Acesta este un mit raspandit de oameni care fac mai ales exercitii de izolare. Cei care ridica greutati si cei olimpici trebuie sa fie flexibili, altfel nu-si pot aduce soldurile sub genunchi atunci cand fac Genuflexiuni (Gennoflexiuni cu haltera.) A face regulat Genuflexiuni (Gennoflexiuni cu haltera) mentine de fapt flexibilitate.
 
 Daca ati fost sedentar ani de zile, ar putea fi necesar sa va intindeti. Ceea ce nu folosesti, pierzi. Daca nu va miscati niciodata muschii printr-o gama completa de miscare, acestea se strang. Deci pierdeti capacitatea de a va deplasa corect, ceea ce poate provoca o forma proasta. Exemple obisnuite includ...
 
@@ -500,9 +500,9 @@ Daca ati fost sedentar ani de zile, ar putea fi necesar sa va intindeti. Ceea ce
 
 Stretching-ul va poate ajuta sa redobanditi mobilitatea pierduta. Iti poate imbunatati tehnica in cazul in care miscare limitata v-a afectat postura/forma. Acest lucru poate elimina durerile si va poate ajuta sa ridicati greutati mai grele. Dupa aceea, efectuarea de exercitii precum [Squat (Gennoflexiuni cu haltera)](/exercitii/genuflexiuni-cu-bara/) cu o forma adecvata va ajuta sa mentineti aceasta flexibilitate.
 
-Dar stretching-ul nu este intotdeauna Solutia in cazul unei forme proasta. Aveti nevoie de mobilitate adecvata pentru a face genuflexiuni (Gennoflexiuni cu haltera) cu genunchii in afara. Dar, de asemenea, trebuie sa va controlati muschii in timp ce va deplasati, astfel incat sa obtineti o forma adecvata. Acest control necesita un efort constient din partea ta, precum si forta.
+Dar stretching-ul nu este intotdeauna Solutia in cazul unei forme proasta. Aveti nevoie de mobilitate adecvata pentru a face Genuflexiuni (Gennoflexiuni cu haltera) cu genunchii in afara. Dar, de asemenea, trebuie sa va controlati muschii in timp ce va deplasati, astfel incat sa obtineti o forma adecvata. Acest control necesita un efort constient din partea ta, precum si forta.
 
-Stretching nu te invata sa ramai intr-o forma buna. Nu generezi forta ca atunci cand faci Squat (Gennoflexiuni cu haltera). Te relaxezi. Asadar, nu te mira daca Squat-ul tau nu se imbunatateste, in ciuda inceperii exercitiilor de yoga. S-ar putea sa recastigi mobilitatea pierduta, dar mai trebuie sa faceti genuflexiuni (Squat) pentru a va imbunatati tehnica Squat (Gennoflexiuni cu haltera).
+Stretching nu te invata sa ramai intr-o forma buna. Nu generezi forta ca atunci cand faci Squat (Gennoflexiuni cu haltera). Te relaxezi. Asadar, nu te mira daca Squat-ul tau nu se imbunatateste, in ciuda inceperii exercitiilor de yoga. S-ar putea sa recastigi mobilitatea pierduta, dar mai trebuie sa faceti Genuflexiuni (Squat) pentru a va imbunatati tehnica Squat (Gennoflexiuni cu haltera).
 
 Exercitii Stretching, nu pentru muschi. Exercitiile compuse lucreaza mai multi muschi in acelasi timp. Prin urmare, nu are sens sa faceti stretching precum atingerea degetelor de la picioare. Acesta este echivalentul unui exercitiu de izolare. Efectuati stretching care lucreaza mai multi muschi in acelasi timp, cum ar fi genuflexiunile( Genoflexiuni cu haltera) .
 
