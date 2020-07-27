@@ -10,7 +10,7 @@ published: true
 
 Putem actualiza Termenii și Condițiile noastre din când în când. Astfel, vi se recomandă să consultați periodic această pagină pentru orice modificări. Vă vom anunța orice modificare prin publicarea noilor Termeni și condiții pe această pagină. Aceste modificări sunt eficiente imediat după ce sunt postate pe această pagină.
 
-Dacă aveți întrebări sau sugestii cu privire la Termenii și condițiile noastre, vă rugăm să ne contactați prin e-mail la support@stronglifts.com.
+Dacă aveți întrebări sau sugestii cu privire la Termenii și condițiile noastre, vă rugăm să ne contactați prin e-mail la support@muschilagreu.ro.
 
 ## Termeni si Conditii de Folosire
 

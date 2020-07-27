@@ -48,7 +48,6 @@ const Index = ({ data }) => {
             const tagsPath = tags ? '/' + tags : '';
             const subCategoryPath = frontmatter.subCategory ? '/' + frontmatter.subCategory : '';
             const fullPath = `${tagsPath}${subCategoryPath}${path}/`;
-            console.log('Index -> fullPath', fullPath);
             return (
               <PostList
                 key={id}

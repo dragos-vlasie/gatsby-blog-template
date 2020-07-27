@@ -165,8 +165,6 @@ const Suggestions = ({ left, right }) => (
       }
     `}
     render={data => {
-      console.log('left', left);
-
       const leftData =
         left &&
         data.allMarkdownRemark.edges.find(
@@ -187,7 +185,6 @@ const Suggestions = ({ left, right }) => (
         left && left.frontmatter.tags && left.frontmatter.tags[0]
           ? '/' + left.frontmatter.tags[0]
           : '';
-      console.log('left', left);
       const tagsRight =
         right && right.frontmatter.tags && right.frontmatter.tags[0]
           ? '/' + right.frontmatter.tags[0]
