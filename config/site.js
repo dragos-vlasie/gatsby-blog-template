@@ -8,6 +8,7 @@ module.exports = {
   siteUrl: 'http://muschilagreu.ro/',
   url: 'http://muschilagreu.ro/',
   logo: 'static/logo/body-builder', // Used for SEO
+  searchConsole: 'CNJqBp9LqMoY0qQoy9nwR1MNp6b9a7XyIla7vVvQ2Vs', // Used for SEO
   banner: 'static/logo/body-builder.png',
   // JSONLD / Manifest
   favicon: 'static/logo/favicon-body.png', // Used for manifest favicon generation
