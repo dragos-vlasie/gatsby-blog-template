@@ -2,6 +2,7 @@
 path: '/politica-de-confidentialitate'
 cover: ''
 title: 'Politica de confidentialitate'
+serpTitle: 'Politica de confidentialitate'
 subTitle: '(Privacy Policy)'
 published: true
 ---

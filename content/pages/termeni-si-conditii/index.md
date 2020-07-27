@@ -2,6 +2,7 @@
 path: '/termeni-si-conditii'
 cover: './program.jpg'
 title: 'Termeni si Conditii'
+serpTitle: 'Termeni si Conditii'
 published: true
 ---
 

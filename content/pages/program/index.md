@@ -2,7 +2,7 @@
 path: '/program'
 cover: './program.jpg'
 title: 'Program'
-serpTitle: 'Program de forta si giduri de instruire'
+serpTitle: 'Program de forta si ghiduri de instruire'
 description: 'Cel mai important lucru pentru a deveni mai puternic este sa ridici mai multa greutate. Ridicati cel putin 1kg mai mult decat data trecuta si puterea ta va creste.'
 published: true
 ---
