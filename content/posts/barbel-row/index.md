@@ -9,10 +9,10 @@ tags: ['exercitii']
 published: true
 ---
 
-## Cum sa faci „Barbell Row”(Ramat cu bara) corect: Ghidul complet<a name="Cum sa faci „Barbell Row”(Ramat cu bara) corect: Ghidul complet"></a>
+## Cum sa faci „Barbell Row” (Ramat cu bara) corect: Ghidul complet<a name="Cum sa faci „Barbell Row” (Ramat cu bara) corect: Ghidul complet"></a>
 
 ![How to Barbell Row](<./assets/ramat-cu-bara(barbell-row).jpg>)
-_Cum sa faci Barbell Row(Ramat cu bara) corect: ridicati bara de pe jos pana la piept, in timp ce sunteti aplecati_
+_Cum sa faci Barbell Row (Ramat cu bara) corect: ridicati bara de pe jos pana la piept, in timp ce sunteti aplecati_
 
 Iata cum sa faceti Ramat cu bara in mod adecvat
 
@@ -216,7 +216,7 @@ _Stanga prindere pe sub mana – periculoasa Mijloc prindere fara degetul mare �
 
 **Prinderea completa.** Infasurati-va degetele mari in jurul barei. Puteti strange bara mai tare cand folositi prinderea completa. Cu cat strangeti bara mai tare, cu atat se poate misca mai putin in palmele voastre. Strangerea barei ajuta, de asemenea, la contractarea mai puternica a braelor si umerilor. Include mai multi muschi. Face ca greutatea sa fie ridicata mai usor prin Ramat cu bara(Barbell Row). Prinderea fara degetul mare te poate face sa ”simti” mai bine exercitiul. Dar nu e eficienta pentru a exersa cu greutati mari.
 
-**Prindere dubla**. Apucati bara cu ambele palme indreptate spre voi. Nu o prindeti cu palmele indreptate spre tavan. Realizarea Barbell Row cu palmele in sus lucreaza mai mult bicepsii. O face, insa, prin punerea incheieturilor si a coatelor intr-o pozitie ciudata. Puteti avea cu usurinta dureri de incheieturi sau coate, mai ales daca prindeti bara departat ca la [Bench Press(Impinsul cu haltera de la piept)](/exercitii/impinsul-cu-haltera-de-la-piept/), dar cu palmele in sus. Prindeti bara ca la Deadlifts, cu ambele palme in jos.
+**Prindere dubla**. Apucati bara cu ambele palme indreptate spre voi. Nu o prindeti cu palmele indreptate spre tavan. Realizarea Barbell Row cu palmele in sus lucreaza mai mult bicepsii. O face, insa, prin punerea incheieturilor si a coatelor intr-o pozitie ciudata. Puteti avea cu usurinta dureri de incheieturi sau coate, mai ales daca prindeti bara departat ca la [Bench Press (Impinsul cu haltera de la piept)](/exercitii/impinsul-cu-haltera-de-la-piept/), dar cu palmele in sus. Prindeti bara ca la Deadlifts, cu ambele palme in jos.
 
 **Tineti bara jos**. Apucati bara aproape de degete, deasupra bataturilor principale. Nu o tineti in centrul palmei. Pielea mainilor se va strange intre bara si degetele voastre. Asta va durea mai tare si va provoca bataturi mai mari care se pot rupe. Tineti bara cat mai aproape de degete. Strangeti-o ca sa nu se poata misca. Aceasta modalitate poate parea mai slaba decat a tine bara in mijlocul palmei. Dati-i timp, nu va veti razgandi.
 
@@ -227,7 +227,7 @@ _Stanga prindere pe sub mana – periculoasa Mijloc prindere fara degetul mare �
 ![Barbell Row Grip Width](<./assets/ramat-cu-bara(barbell-row)-grip-width.jpg>)
 _Prindeere ingusta vs larga, cu cat prinderea este mai lata, cu atat mai mult trunchiul coboara. Cu cat este mai ingusta, cu atat este mai mare posibilitatea de miscare._
 
-**Prinderea medie**. Faceti Ramat cu bara(Barbell Row) cu o prindere mai ingusta decat la [Bench Press(Impinsul cu haltera de la piept)](/exercitii/impinsul-cu-haltera-de-la-piept/), dar mai lata decat la Deadlifts. Apucand bara mai larg decat la Bench Press face ca greutatea sa fie mai usoara pentru Barbell Row. O prindere mai lata micsoreaza posibilitatea de miscare, prin inclinarea bratelor. De asemenea, coboara trunchiul si il poate pune mai jos decat linia orizontala fata de podea. Daca aveti brate scurte, o prindere larga poate cauza ca spatele sa se arcuiasca cind realizati Barbell Row.
+**Prinderea medie**. Faceti Ramat cu bara(Barbell Row) cu o prindere mai ingusta decat la [Bench Press (Impinsul cu haltera de la piept)](/exercitii/impinsul-cu-haltera-de-la-piept/), dar mai lata decat la Deadlifts. Apucand bara mai larg decat la Bench Press face ca greutatea sa fie mai usoara pentru Barbell Row. O prindere mai lata micsoreaza posibilitatea de miscare, prin inclinarea bratelor. De asemenea, coboara trunchiul si il poate pune mai jos decat linia orizontala fata de podea. Daca aveti brate scurte, o prindere larga poate cauza ca spatele sa se arcuiasca cind realizati Barbell Row.
 
 **Prinde ingust daca spatele se arcuieste**. Daca spatele vi se arcuieste, micsorati-va prinderea cand faceti Ramat cu bara(Barbell Row). Asta va pune bratele vertical fata de podea. Va ridica trunchiul si il pastreaza orizontal cu podeaua. Greutatea va fi mai mare pentru Barbell Row deoarece posibilitatea de miscare este mai mare. Insa spatele va fi in siguranta. Micsorati-va, de asemenea, postura astfel incat picioarele sa nu impinga bratele cand ridicati greutatea de pe podea.
 
@@ -251,7 +251,7 @@ _Stanga: cotul prea ridicat, bara atinge pieptul prea sus. Mijlociu: coatele pre
 
 **Trage cu coatele**. Barbell Rows nu sunt Reverse Curls. Greutatea este mai grea si bratele nu sunt suficient de puternice pentru a o ridica singura. Trebuie sa folositi muschii spatelui care sunt mai puternici. Nu incercati sa reduceti greutatea. Incepeti cu coatele drepte. Scoateti slack-ul din bara ridicand de ea pana atinge partea superioara a orificiilor placii. Ridicati bara indoindu-va coatele si conducandu-le spre tavan. Trebuie sa ajunga in spatele trunchiului tau, in partea de sus.
 
-**Trage-ti coatele**. Pastrati coatele la 75 ° in varf, ca atunci cand faceti [Bench Press(Impinsul cu haltera de la piept)](/exercitii/impinsul-cu-haltera-de-la-piept/). Unghiul exact va depinde de constructie, de unghiul din spate, de prindere etc. Dar coatele nu pot fi perpendiculare pe trunchiul tau. Asta misca bara peste varful picioarelor si in afara echilibrului. Coatele nu-ti pot atinge trunchiul, deoarece asta misca bara prea aproape de picioare (le vei lovi). Deplasati bara peste mijlocul piciorului, impingandu-va coatele.
+**Trage-ti coatele**. Pastrati coatele la 75 ° in varf, ca atunci cand faceti [Bench Press (Impinsul cu haltera de la piept)](/exercitii/impinsul-cu-haltera-de-la-piept/). Unghiul exact va depinde de constructie, de unghiul din spate, de prindere etc. Dar coatele nu pot fi perpendiculare pe trunchiul tau. Asta misca bara peste varful picioarelor si in afara echilibrului. Coatele nu-ti pot atinge trunchiul, deoarece asta misca bara prea aproape de picioare (le vei lovi). Deplasati bara peste mijlocul piciorului, impingandu-va coatele.
 
 ## Trunchi<a name="Trunchi"></a>
 
@@ -447,7 +447,7 @@ Barbell Rows sunt mai usor de facut decat T-Bar Rows. Nu aveti nevoie de o masin
 
 ## Machine Rows<a name="Machine-Rows"></a>
 
-Machine Rows sunt Barbell Rows care folosesc o masina/ un aparat. Te asezi in pozitie verticala pe o banca cu pieptul pe un suport vertical si indrepti greutatea catre tine. Sau stai inclinat pe o masina T-Bar cu sprijin la piept in timp ce ridici greutatea. Sau ridicati banca pe care o utilizati pentru [Bench Press(Impinsul cu haltera de la piept)](/exercitii/impinsul-cu-haltera-de-la-piept/) si trageti bara de dedesubt la piept. Machine Rows iti subliniaza muschii din partea superioara a spatelui si a bratului.
+Machine Rows sunt Barbell Rows care folosesc o masina/ un aparat. Te asezi in pozitie verticala pe o banca cu pieptul pe un suport vertical si indrepti greutatea catre tine. Sau stai inclinat pe o masina T-Bar cu sprijin la piept in timp ce ridici greutatea. Sau ridicati banca pe care o utilizati pentru [Bench Press (Impinsul cu haltera de la piept)](/exercitii/impinsul-cu-haltera-de-la-piept/) si trageti bara de dedesubt la piept. Machine Rows iti subliniaza muschii din partea superioara a spatelui si a bratului.
 
 Machine Rows lucreaza mai putin muschii decat Barbell Rows. Spatele inferior, soldurile si picioarele nu fac nimic. Nu trebuie sa echilibrezi greutatea, masina o face. Nu trebuie sa va echilibrati, stai. Cu Barbell Rows, spatele si abdomenul inferior trebuie sa va mentina coloana vertebrala neutra. Soldurile si picioarele trebuie sa va mentina echilibrul. Barbell Rows lucreaza mai mult muschii. Acesta este motivul pentru care sunt mai eficienti pentru a castiga forta si muschi.
 
@@ -501,7 +501,7 @@ Barbell Rows necesita o miscare mai lenta decat Power Cleans. Nu puteti face Pow
 
 Multi oameni spun ca ai nevoie de un antrenor care sa te invete cum sa faci Power Clean. Este adevarat daca doriti sa deveniti un halterofil. Este fals daca vrei doar sa devii mai puternic. Nu trebuie decat sa va intindeti, sa inregistrati imagini video, sa vizionati videoclipurile, sa comparati forma dvs. cu ele si o tona de practica. Asa am facut-o. Cu toate acestea, majoritatea oamenilor nu au timp. Vor rezultate rapide. Barbell Rows ofera rezultate mai rapide, deoarece sunt mai usor de invatat.
 
-Nu faceti Power Clean daca sunteti incepator la ridicarea greutatilor. Invata mai intai sa faci genuflexiuni [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/), [Indreptari(Deadlift)](/exercitii/indreptari/) si Ramat cu bara(Barbell Row) cu o forma corespunzatoare. Aceste miscari sunt mai lente si mai usor de invatat. Va vor invata sa va miscati soldurile in mod corespunzator si sa va pastrati spatele neutru. Dupa trei pana la sase luni, cand puteti face genuflexiuni (Squats) cu 100kg / 220lb si [Indreptari(Deadlift)](/exercitii/indreptari/) cu 140kg / 300lb, puteti incerca Power Cleans. Construiti mai intai o baza de forta si tehnica.
+Nu faceti Power Clean daca sunteti incepator la ridicarea greutatilor. Invata mai intai sa faci genuflexiuni [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/), [Indreptari (Deadlift)](/exercitii/indreptari/) si Ramat cu bara(Barbell Row) cu o forma corespunzatoare. Aceste miscari sunt mai lente si mai usor de invatat. Va vor invata sa va miscati soldurile in mod corespunzator si sa va pastrati spatele neutru. Dupa trei pana la sase luni, cand puteti face genuflexiuni (Squats) cu 100kg / 220lb si [Indreptari (Deadlift)](/exercitii/indreptari/) cu 140kg / 300lb, puteti incerca Power Cleans. Construiti mai intai o baza de forta si tehnica.
 
 ## Cele mai multe sali de sport nu au echipament pentru Power Clean<a name="Cele-mai-multe-sali-de-sport-nu-au-echipament-pentru-Power-Clean"></a>
 
@@ -531,7 +531,7 @@ Mare diferenta. Si pierdeti munca de biceps pe care o obtineti de la Barbell Row
 
 ## Exista modalitati mai usoare de a construi explozivitate<a name="Exista-modalitati-mai-usoare-de-a-construi-explozivitate"></a>
 
-Power Cleans construieste explozivitate. Ele dezvolta abilitatea de a genera rapid forta. In fizica, Puterea este cata munca puteti face intr-un anumit timp (P = L / T). Ati lucrat daca ati aplicat forta pe bara si ati mutat (Munca = Forta x Distanta). Puteti muta acea bara lent sau rapid. Daca amandoi facem [Indreptari(Deadlift)](/exercitii/indreptari/) cu 200 kg, suntem la fel de puternici. Dar daca v-a luat zece secunde sa ridicati, dar eu doar doua, am mai multa putere.
+Power Cleans construieste explozivitate. Ele dezvolta abilitatea de a genera rapid forta. In fizica, Puterea este cata munca puteti face intr-un anumit timp (P = L / T). Ati lucrat daca ati aplicat forta pe bara si ati mutat (Munca = Forta x Distanta). Puteti muta acea bara lent sau rapid. Daca amandoi facem [Indreptari (Deadlift)](/exercitii/indreptari/) cu 200 kg, suntem la fel de puternici. Dar daca v-a luat zece secunde sa ridicati, dar eu doar doua, am mai multa putere.
 
 Trebuie sa fii puternic si rapid pentru a avea succes la sport. Ai nevoie de forta pentru a aplica forta impotriva adversarilor. Gandeste-te sa te apuci de arte martiale sau sa impingi pe cineva departe in fotbal. Mai puternic este mai bun. Dar trebuie sa generezi acea forta repede. Trebuie sa fii rapid. Nu puteti face un Power Clean lent. Singura modalitate de a trage bara pe umeri este daca esti rapid. Asa se face ca Power Cleans isi dezvolta puterea pentru sport.
 
@@ -547,7 +547,7 @@ Unii oameni fac Power Clean pentru a-si creste Deadlift-ul. Exista programe olds
 
 Dar nu merge. Cel mai bun mod de a-ti creste Deadlift-ul este sa faci Deadlift. La fel cum cea mai buna modalitate de a fi mai bun la chitarei este cantand chitara. Nu te pricepi la chitara cantand la vioara. Nu conteaza daca sunt ambele instrumente cu coarde, nu sunt aceleasi lucru. Da, Deadlifts si Power Cleans sunt ambele exercitii cu haltera (barbell). Ambele exercitii implica ridicarea greutatii de pe podea. Arata la fel. Dar nu sunt aceleasi miscari.
 
-Specificitatea este esentiala pentru a deveni mai puternic. Pentru a te pricepe la ceva, trebuie sa exersezi. Tehnica pe Deadlifts este diferita de cea pe Power Cleans. Miscarea este mai scurta si greutatea mai grea. Deadlifters puternici au intotdeauna o tehnica excelenta, deoarece aceasta creste eficienta. Singura modalitate de a va imbunatati tehnica la [Indreptari(Deadlift)](/exercitii/indreptari/) este sa practicati Deadlifting. Nu se va imbunatati daca nu veti face niciodata Deadlift, ci Power Clean.
+Specificitatea este esentiala pentru a deveni mai puternic. Pentru a te pricepe la ceva, trebuie sa exersezi. Tehnica pe Deadlifts este diferita de cea pe Power Cleans. Miscarea este mai scurta si greutatea mai grea. Deadlifters puternici au intotdeauna o tehnica excelenta, deoarece aceasta creste eficienta. Singura modalitate de a va imbunatati tehnica la [Indreptari (Deadlift)](/exercitii/indreptari/) este sa practicati Deadlifting. Nu se va imbunatati daca nu veti face niciodata Deadlift, ci Power Clean.
 
 ## Atunci fara Power Clean?<a name="Atunci-fara-Power-Clean?"></a>
 

@@ -9,22 +9,22 @@ serpTitle: 'Cum sa ridici mai mult la Presa desasupra capului'
 published: true
 ---
 
-## Cum sa faceti Presa deasupra capului(Overhead Press) cu forma corecta: Ghidul complet<a id="cum sa faceti Presa deasupra capului(Overhead Press) cu forma corecta: Ghidul complet"></a>
+## Cum sa faceti Presa deasupra capului (Overhead Press) cu forma corecta: Ghidul complet<a id="cum sa faceti Presa deasupra capului  (Overhead Press) cu forma corecta: Ghidul complet"></a>
 
 ![How to Overhead Press](./assets/cum-sa-Presa-deasupra-capului-cu-bara.jpg)
-_Cum sa faceti Presa deasupra capului(Overhead Press): impingeti bara de pe umeri peste cap, tinand picioarele drepte._
+_Cum sa faceti Presa deasupra capului (Overhead Press): impingeti bara de pe umeri peste cap, tinand picioarele drepte._
 
-Iata cum sa faceti Presa deasupra capului(Overhead Press) cu forma corecta...
+Iata cum sa faceti Presa deasupra capului (Overhead Press) cu forma corecta...
 
 1. Stai cu bara pe umerii din fata si cu mainile langa umeri
 2. Impingeti bara deasupra capului, pana cand este in echilibru peste umeri si pe directia oaselor metatarsiene
 3. Blocheaza-ti coatele in varf si ridica din umeri spre tavan.
 
-Tineti bara o secunda in varf. Apoi coborati-o inapoi pe umerii din fata si repetati. Nu-ti folosi picioarele, tine-le drepte. Faceti Presa deasupra capului(Overhead Press) cinci seturi de cate cinci la fiecare [Antrenamente 5x5](/5x5/) antrenament B.
+Tineti bara o secunda in varf. Apoi coborati-o inapoi pe umerii din fata si repetati. Nu-ti folosi picioarele, tine-le drepte. Faceti Presa deasupra capului (Overhead Press) cinci seturi de cate cinci la fiecare [Antrenamente 5x5](/5x5/) antrenament B.
 
-Presa deasupra capului(Overhead Press) lucreaza tot corpul, fiind un exercitiu compus. Umerii si bratele imping greutatea peste cap, in timp ce picioarele, partea inferioara a spatelui si abdomenul asigura echilibrul. Presa deasupra capului(Overhead Press) este unul dintre cele mai bune exercitii pentru a construi umeri puternici, musculosi si sanatosi cu brate mai mari.
+Presa deasupra capului (Overhead Press) lucreaza tot corpul, fiind un exercitiu compus. Umerii si bratele imping greutatea peste cap, in timp ce picioarele, partea inferioara a spatelui si abdomenul asigura echilibrul. Presa deasupra capului (Overhead Press) este unul dintre cele mai bune exercitii pentru a construi umeri puternici, musculosi si sanatosi cu brate mai mari.
 
-Pentru a evita durerile de umar, faceti Presa deasupra capului(Overhead Press) cu o prindere ingusta, astfel incat sa nu va lasati coatele. Apoi ridica din umeri in varf. Impingeti bara peste cap, blocati coatele si ridicati din umeri spre tavan. Acest lucru va lucreaza si muschiul trapez si previne afectarea umarului.
+Pentru a evita durerile de umar, faceti Presa deasupra capului (Overhead Press) cu o prindere ingusta, astfel incat sa nu va lasati coatele. Apoi ridica din umeri in varf. Impingeti bara peste cap, blocati coatele si ridicati din umeri spre tavan. Acest lucru va lucreaza si muschiul trapez si previne afectarea umarului.
 
 Presa deasupra capului este cel mai greu exercitiu de pe [Antrenamente 5x5](/5x5/) . Vei lucra cu o greutate mai mica decat la alte exercitii, deoarece foloseste muschi mici. Va veti lupta sa adaugati greutate inainte de a face alte exercitii. Cu cat forma ta este mai rea, cu atat vei lupta mai mult. Prin urmare, o forma corecta este cruciala.
 
@@ -46,7 +46,7 @@ Acesta este ghidul complet pentru forma corecta a exercitiului Presa deasupra ca
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:18px;" href="#tehnica-presa-deasupra-capului-(Overhead-Press)"> 2. Tehnica</a>
+         <a style="font-size:18px;" href="#tehnica-presa-deasupra-capului-  (Overhead-Press)"> 2. Tehnica</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#postura">2.1. Postura</a></li>
            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#picioare"> 2.2. Picioare</a></li>
@@ -106,12 +106,12 @@ Acesta este ghidul complet pentru forma corecta a exercitiului Presa deasupra ca
 
 ## Introducere<a id="introducere"></a>
 
-## Cum sa faceti Presa deasupra capului(Overhead Press)<a id="#cum-sa-faci-overhead-press"></a>
+## Cum sa faceti Presa deasupra capului (Overhead Press)<a id="#cum-sa-faci-overhead-press"></a>
 
 ![Cum sa faceti Presa deasupra capului cu bara](./assets/cum-sa-Presa-deasupra-capului-cu-bara.jpg)
-_Cum sa faceti Presa deasupra capului(Overhead Press) cu o forma adecvata. Impingeti bara intr-o linie verticala de pe umeri pana cand coatele sunt blocate. Ridica din umeri deasupra capului._
+_Cum sa faceti Presa deasupra capului (Overhead Press) cu o forma adecvata. Impingeti bara intr-o linie verticala de pe umeri pana cand coatele sunt blocate. Ridica din umeri deasupra capului._
 
-Faceti Overhead Press(Presa deasupra capului) in Power Rack, daca este suficient de inalt. Daca este prea mic, setati bara in montantii (uprights) exteriori ai Power Rack-ului dvs. si deblocati-o (unrack). Daca Power Rack-ul dvs. nu are montanti (uprights) exteriori sau nu aveti Power Rack, trageti bara de la podea pe umeri (Power Clean). Dupa ce bara este pe umerii dvs. din fata, urmati acesti cinci pasi simpli pentru a face Overhead Press cu o forma corecta...
+Faceti Overhead Press (Presa deasupra capului) in Power Rack, daca este suficient de inalt. Daca este prea mic, setati bara in montantii (uprights) exteriori ai Power Rack-ului dvs. si deblocati-o (unrack). Daca Power Rack-ul dvs. nu are montanti (uprights) exteriori sau nu aveti Power Rack, trageti bara de la podea pe umeri (Power Clean). Dupa ce bara este pe umerii dvs. din fata, urmati acesti cinci pasi simpli pentru a face Overhead Press cu o forma corecta...
 
 - **Pregatirea (Setup)**.Stai cu bara pe umerii din fata. Prindere ingusta, incheieturi drepte, antebrate verticale. Cu genunchii si soldurile fixate.
 - **Ridica-ti pieptul**.Ridicati-va pieptul spre tavan arcuindu-va partea superioara a spatelui. Incercati sa va atingeti barbia cu pieptul superior.
@@ -121,12 +121,12 @@ Faceti Overhead Press(Presa deasupra capului) in Power Rack, daca este suficient
 
 Intoarceti bara inapoi pe umeri dupa fiecare repetare. Expirati, ridicati-va pieptul si fixati-va antebrate vertical. Respirati puternic si incepeti urmatoarea repetare. Nu va indoiti picioarele. Acest lucru micsoreaza efortul supus de muschii umarului, folosind muschii picioarelor mai puternice. Mentineti soldurile si genunchii fixati de la inceput pana la sfarsit. Daca nu puteti, greutatea este prea mare. Micsorati-o, astfel incat umerii sa faca cea mai mare parte a muncii cand faceti Overhead Press.
 
-## Overhead Press(Presa deasupra capului) forma corecta<a id="presa-deasuprea-capului-forma-corecta"></a>
+## Overhead Press (Presa deasupra capului) forma corecta<a id="presa-deasuprea-capului-forma-corecta"></a>
 
 ![Presa-deasupra-capului-cu-bara 101](./assets/Presa-deasupra-capului-cu-bara-101.jpg)
 _Prindeti bara cu o priza ingusta pentru a pastra, in partea de jos a Overhead Press-ului,antebratele verticale . Blocati coatele si ridicati-va muschiul trapez, in varf._
 
-Conformatia dvs. determina forma dvs. ideal pentru Presa deasupra capului. Daca ai umeri mai lati decat ai mei, ar trebui sa strangi bara mai larg decat mine. Daca aveti antebrate lungi ca mine, incheieturile se pot indoi daca incercati sa va sprijiniti bara pe umeri. Nu copiati forma de Presa deasupra capului a cuiva, cu exceptia cazului in care aveti aceeasi conformatie. Urmati aceste instructiuni generale pentru Overhead Press(Presa deasupra capului) si schimbati-va forma pe masura ce obtineti experienta.
+Conformatia dvs. determina forma dvs. ideal pentru Presa deasupra capului. Daca ai umeri mai lati decat ai mei, ar trebui sa strangi bara mai larg decat mine. Daca aveti antebrate lungi ca mine, incheieturile se pot indoi daca incercati sa va sprijiniti bara pe umeri. Nu copiati forma de Presa deasupra capului a cuiva, cu exceptia cazului in care aveti aceeasi conformatie. Urmati aceste instructiuni generale pentru Overhead Press (Presa deasupra capului) si schimbati-va forma pe masura ce obtineti experienta.
 
 - **Pozitia**.Calcaiele departate cu o distanta egala cu latimea soldului. Picioarele plate pe podea. Indreptate usor in exterior.
 - **Picioare**.Mentineti-va genunchii si soldurile blocate de la inceput pana la sfarsit. Indoirea este considerate trisare.
@@ -135,7 +135,7 @@ Conformatia dvs. determina forma dvs. ideal pentru Presa deasupra capului. Daca 
 - **Incheieturi**.Se va forma o linie dreapta de la bara la incheietura mainii pana la cot. Nu lasati incheieturile sa se indoaie sau o sa va doara.
 - **Coate**.Aproape sub bara din vedere laterala. In jur de 45 ° din fata. Fara flaring.
 - **Antebratelor**.Perpendiculare pe podea din toate unghiurile: perpendiculare din lateral si din fata.
-- **Partea superioara a bratelor**.Nu paralele cu podeaua. Acesta nu este o genuflexiune (squats) frontala. Antebratele tale trebuie sa fie verticale.
+- **Partea superioara a bratelor**.Nu paralele cu podeaua. Acesta nu este o genuflexiune (Squats) frontala. Antebratele tale trebuie sa fie verticale.
 - **Umerii**.Tineti bara pe muschii umerilor din fata. Ridica umerii spre tavan.
 - **Piept**.Ridicati pieptul arcuindu-va partea superioara a spatelui. Incercati sa va atingeti barbia cu pieptul superior.
 - **Partea superioara a spatelui**.Arcuti partea superioara a spatelui pentru a ridica pieptul in sus. Nu va incordati omoplatele.
@@ -152,7 +152,7 @@ Conformatia dvs. determina forma dvs. ideal pentru Presa deasupra capului. Daca 
 
 ## Muschii lucrati<a id="muschii-lucrati"></a>
 
-Presa deasupra capului iti lucreaza intregul corp. Umerii si bratele dvs. sunt primele motoare pentru a impinge greutatea peste cap. Dar totul dintre podea si umeri trebuie sa ramana incordat pentru a fi in echilibru. Acest lucru face ca Presa deasupra capului sa fie un exercitiu pentru tot corpului, care lucreaza mai multi muschi in acelasi timp, cu greutati mari. Iata toti muschii pe care Overhead Press(Presa deasupra capului) ii lucreaza:
+Presa deasupra capului iti lucreaza intregul corp. Umerii si bratele dvs. sunt primele motoare pentru a impinge greutatea peste cap. Dar totul dintre podea si umeri trebuie sa ramana incordat pentru a fi in echilibru. Acest lucru face ca Presa deasupra capului sa fie un exercitiu pentru tot corpului, care lucreaza mai multi muschi in acelasi timp, cu greutati mari. Iata toti muschii pe care Overhead Press (Presa deasupra capului) ii lucreaza:
 
 - **Umerii**.Trebuie sa ridicati bratele superioare pentru a ridica bara atunci cand impingeti deasupra capului (Overhead Press). Acest lucru lucreaza muschii umarului: deltoidul din fata, lateral si spate. Acesta antreneaza aceste trei capete musculare uniform cu greutati mari, astfel incat sa construiti umeri mari care sa va “umple camasile”.
 - **Arme**.Trebuie sa va indreptati coatele pentru a impinge greutatea deasupra capului. Acest lucru lucreaza muschii din spatele bratelor si tricepsul. Masa lor musculara este mult mai mare decat cea a bicepsul. Tricepsii mai mari construiesc brate mai mari. Muschii . antebratului dvs lucreaza de asemenea pentru a tine bara.
@@ -161,14 +161,14 @@ Presa deasupra capului iti lucreaza intregul corp. Umerii si bratele dvs. sunt p
 - **Abdomen**.Muschii de baza iti stabilizeaza corpul in timp ce umerii si bratele imping greutatea deasupra capului (Overhead Press). Te impiedica sa te prabusesti sub bara. Acest lucru va consolideaza muschii abdominali, oblicii si partea inferioara a spatelui. Abdomenul mai puternic este mai musculos. Mananca corect pentru a fi vizibil.
 - **Picioare**.Picioarele iti echilibreaza corpul in timp ce umerii si bratele sustin greutatea. Acest lucru iti lucreaza soldurile, coapsele, gambele si gleznele. Overhead Press nu ii va supune unui efort ca atunci cand faci genuflexiuni (Squats), deoarece picioarele nu se misca. Ele stau drepte. Dar trebuie sa faca o munca izometrica.
 
-Nu trebuie sa faci tone de exercitii de izolare pentru umeri. Presa deasupra capului iti antreneaza intregul umar. Lucreaza uniform si cu greutati mai mari. Majoritatea baietilor isi pot creste cu usurinta Overhead Press-ul pana la 50 kg / 110lb. Incercati sa ridicati atat. Acesta este motivul pentru care Presa deasupra capului(Overhead Press) este mai eficient pentru a construi umeri mai puternici si mai mari. De asemenea, economiseste timp muncind cele trei capete ale umerilor in acelasi timp.
+Nu trebuie sa faci tone de exercitii de izolare pentru umeri. Presa deasupra capului iti antreneaza intregul umar. Lucreaza uniform si cu greutati mai mari. Majoritatea baietilor isi pot creste cu usurinta Overhead Press-ul pana la 50 kg / 110lb. Incercati sa ridicati atat. Acesta este motivul pentru care Presa deasupra capului (Overhead Press) este mai eficient pentru a construi umeri mai puternici si mai mari. De asemenea, economiseste timp muncind cele trei capete ale umerilor in acelasi timp.
 
 Overhead Press este, de asemenea, eficienta pentru a preveni si repara ranile la umar. Iti intareste coafele rotatorilor. Ii consolideaza cu mai multa greutate decat exercitiile de rotatie interna si externa cu gantere roz. Si spre deosebire de Bench Press, intareste spatele umerilor. Nu doar partea din fata. Cheia este sa va antrenati cu o forma corespunzatoare. Ridicati-va umerii in varf. Si asigurati-va ca incepeti usor.
 
 ## Repetari nereusite<a id="repetari-esuate"></a>
 
 ![Presa-deasupra-capului-cu-bara Fail](./assets/Presa-deasupra-capului-cu-bara-fail.jpg)
-_A esua la Presa deasupra capului(Overhead Press) este usor: coborati bara inapoi pe umeri. Nu va poate cadea pe cap, deoarece trebuie sa treaca mai intai deasupra lui._
+_A esua la Presa deasupra capului (Overhead Press) este usor: coborati bara inapoi pe umeri. Nu va poate cadea pe cap, deoarece trebuie sa treaca mai intai deasupra lui._
 
 Overhead Press pare un exercitiu periculos, deoarece impinge greutatea peste cap. Insa este mai sigur decat genuflexiuni (Squat) sau Bench press. Nu puteti ramane niciodata blocat sub bara cand faceti Bench Press. Daca nu reusiti sa impingeti greutatea, puteti sa o coborati pe umeri pur si simplu. Apoi pe Power Rack-ul sau inapoi pe podea. Puteti renunta chiar la bara daca folositi placi de protectie. Dar niciodata nu ramai blocat sub bara.
 
@@ -176,7 +176,7 @@ Teama de a impinge bara peste cap este comuna daca nu ati mai facut niciodata Ov
 
 Exista doar doua moduri de a va scapa bara pe cap. In primul rand, faceti Presa deasupra capului cu o prindere de tip thumbless (degetul mare se afla sub bara). Bara iti poate aluneca din maini daca nu iti pozitionezi degetele mari in jurul barei. Impigeti cu o priza/ prindere completa. In al doilea rand, nu va blocati coatele in partea de sus. Acest lucru forteaza muschii sa sustina greutatea deasupra capului. Daca sunt obositi, puteti pierde bara si va puteti rani. Blocati coatele in partea de sus, astfel incat scheletul dvs. sa poata tine greutatea.
 
-Nu este necesar sa faceti Overhead Press(Presa deasupra capului) in interiorul Power rack-ului, pentru siguranta,. Pur si simplu puteti cobori bara pana la umeri atunci cand nu reusiti o repetare. Daca va simtiti mai increzator facand in Power Rack cu carlige de siguranta (safety pins) fixate, faceti-o. Intotdeauna fac Overhead Press inafara Power Rack-ului, deoarece este prea mic/ scund pentru a ma antrena in interior. Ma antrenez astfel de mai bine de 10 ani si niciodata nu mi-a picat bara pe cap. Este putin probabil sa se intample vreodata.
+Nu este necesar sa faceti Overhead Press (Presa deasupra capului) in interiorul Power rack-ului, pentru siguranta,. Pur si simplu puteti cobori bara pana la umeri atunci cand nu reusiti o repetare. Daca va simtiti mai increzator facand in Power Rack cu carlige de siguranta (safety pins) fixate, faceti-o. Intotdeauna fac Overhead Press inafara Power Rack-ului, deoarece este prea mic/ scund pentru a ma antrena in interior. Ma antrenez astfel de mai bine de 10 ani si niciodata nu mi-a picat bara pe cap. Este putin probabil sa se intample vreodata.
 
 ## Siguranta umerilor<a id="siguranta-umerilor"></a>
 
@@ -189,30 +189,30 @@ Ridicati trapezul in partea de sus a fiecarei repetari. Nu tineti bara deasupra.
 
 Indreptarea, in varf, este cruciala. Acest lucru iti activeaza muschii trapezului. Roteste omoplatul si pune procesul osos mai vertical. Acest lucru creeaza spatiu intre partea superioara a osului bratului superior (humerus) si acromionul tau. Creeaza spatiu pentru tesuturile rotatorilor ale coafelor rotatorilor. Daca nu va ridicati umerii, tesuturile nu au spatiu. Ei sunt zdrobiti la fiecare repetare. Aceasta provoaca inflamatie si durere (afectarea umarului).
 
-Nu este vina ciocanului daca iti lovesti degetul mare in loc de unghie. Dar este mai usor sa invinovati un exercitiu decat o forma proasta. Presa deasupra capului(Overhead Press) va va ucide umerii daca o faceti gresit. La fel cum jumatate de repetare de genuflexiune (Squats) iti distruge genunchii, Deadlifting cu spatele rotunjit iti afecteaza coloana vertebrala si Benching-ul cu coatele prea mult in exterior iti afecteaza umerii. Forma corecta conteaza. Ridica umerii in partea de sus a Overhead Press si vei fi in siguranta.
+Nu este vina ciocanului daca iti lovesti degetul mare in loc de unghie. Dar este mai usor sa invinovati un exercitiu decat o forma proasta. Presa deasupra capului (Overhead Press) va va ucide umerii daca o faceti gresit. La fel cum jumatate de repetare de genuflexiune (Squats) iti distruge genunchii, Deadlifting cu spatele rotunjit iti afecteaza coloana vertebrala si Benching-ul cu coatele prea mult in exterior iti afecteaza umerii. Forma corecta conteaza. Ridica umerii in partea de sus a Overhead Press si vei fi in siguranta.
 
 <!-- ## Videoclipuri<a id="videoclipuri"></a>
 
-Iata un videoclip in care ma puteti vedea facand Presa deasupra capului(Overhead Press), cu o forma corespunzatoare, ca parte a antrenamentului [Antrenamente 5x5](/5x5/) B. In acelasi timp, de asemenea, raspund la cele mai comune intrebari despre Overhead Press. Urmariti de la 18:34 pentru sfaturi pentru Overhead Press. -->
+Iata un videoclip in care ma puteti vedea facand Presa deasupra capului  (Overhead Press), cu o forma corespunzatoare, ca parte a antrenamentului [Antrenamente 5x5](/5x5/) B. In acelasi timp, de asemenea, raspund la cele mai comune intrebari despre Overhead Press. Urmariti de la 18:34 pentru sfaturi pentru Overhead Press. -->
 
-## Tehnica - Presa deasupra capului (Overhead Press)<a id="tehnica-presa-deasupra-capului-(Overhead-Press)"></a>
+## Tehnica - Presa deasupra capului (Overhead Press)<a id="tehnica-presa-deasupra-capului-  (Overhead-Press)"></a>
 
 ## Postura<a id="postura"></a>
 
 ![Presa-deasupra-capului-cu-bara Stance](./assets/Presa-deasupra-capului-cu-bara-stance.jpg)
 _Stai cu calcaiele la nivelul soldurilor. Pozitia pe care o folosesti la genuflexiuni (Squats) este prea larga. Va fi mai greu sa iti pastrezi echilibrul daca calcaiele sunt prea apropiate, lipite. Pozitia staggered (un picior este mai in fata, si unu mai in spate) este daunatoare pentru spatele tau._
 
-- **Latimea soldului**.Faceti Presa deasupra capului(Overhead Press) cu calcaiele la acelasi nivel cu solduri. Cu cat soldurile sunt mai inguste, cu atat mai ingusta ar trebui sa fie pozitia ta. Dar calcaiele tale nu ar trebui sa se atinga. Aceasta este Military Press si este mai dificil sa iti menti echilibrul si sa impinfi bara grea. Calcaiele tale nu ar trebui sa fie la acelasi nivel de umeri ca la genuflexiuni (Squats). Nici nu se simte corect. Trebuie sa ai o pozitie mai ingusta fata de atunci cand faci genuflexiuni (Squats), similar cu modul in care faci Deadlift.
-- **Picioarele plate pe podea**.Ai un echilibru mai bun atunci cand piciorul tau este plat pe podea. Creste suprafata de contact cu podeaua. Un echilibru mai bun este egal cu mai multa siguranta, un control mai mare al barelor si o forma mai buna. Acest lucru creste capacitatea ta de a face Presa deasupra capului(Overhead Press). Nu va ridicati degetele de la picioare. Nu va ridicati calcaiele si varful degetelor. Aceasta este considerate trisare. Tineti-va degetele de la picioare, picioarele anteriore si calcaiele pe podea cand faceti Presa deasupra capului.
-- **Picioare paralele**.Nu folositi o pozitie staggered punand un picior in fata. Acest lucru va poate oferi un echilibru si o stabilitate mai bune atunci cand faceti Overhead Press. Dar pune o presiune inegala asupra coloanei vertebrale inferioare si a soldurilor. Poate provoca dureri de spate inferioare. Faceti Presa deasupra capului(Overhead Press) cu picioarele paralele. Le puteti intoarce cu 15 °. Dar ar trebui sa fie aliniate orizontal atunci cand priviti in jos. Nu lasati niciun picior sa fie mai inainte decat celalalt.
+- **Latimea soldului**.Faceti Presa deasupra capului (Overhead Press) cu calcaiele la acelasi nivel cu solduri. Cu cat soldurile sunt mai inguste, cu atat mai ingusta ar trebui sa fie pozitia ta. Dar calcaiele tale nu ar trebui sa se atinga. Aceasta este Military Press si este mai dificil sa iti menti echilibrul si sa impinfi bara grea. Calcaiele tale nu ar trebui sa fie la acelasi nivel de umeri ca la genuflexiuni (Squats). Nici nu se simte corect. Trebuie sa ai o pozitie mai ingusta fata de atunci cand faci genuflexiuni (Squats), similar cu modul in care faci Deadlift.
+- **Picioarele plate pe podea**.Ai un echilibru mai bun atunci cand piciorul tau este plat pe podea. Creste suprafata de contact cu podeaua. Un echilibru mai bun este egal cu mai multa siguranta, un control mai mare al barelor si o forma mai buna. Acest lucru creste capacitatea ta de a face Presa deasupra capului (Overhead Press). Nu va ridicati degetele de la picioare. Nu va ridicati calcaiele si varful degetelor. Aceasta este considerate trisare. Tineti-va degetele de la picioare, picioarele anteriore si calcaiele pe podea cand faceti Presa deasupra capului.
+- **Picioare paralele**.Nu folositi o pozitie staggered punand un picior in fata. Acest lucru va poate oferi un echilibru si o stabilitate mai bune atunci cand faceti Overhead Press. Dar pune o presiune inegala asupra coloanei vertebrale inferioare si a soldurilor. Poate provoca dureri de spate inferioare. Faceti Presa deasupra capului (Overhead Press) cu picioarele paralele. Le puteti intoarce cu 15 °. Dar ar trebui sa fie aliniate orizontal atunci cand priviti in jos. Nu lasati niciun picior sa fie mai inainte decat celalalt.
 
 ## Picioare<a id="picioare"></a>
 
 ![Presa-deasupra-capului-cu-bara vs. Push Press](./assets/Presa-deasupra-capului-cu-bara-legs.jpg)
-_Tineti-va picioarele drepte cand faceti Presa deasupra capului(Overhead Press). Nu va indoiti genunchii, acesta este un Push Press._
+_Tineti-va picioarele drepte cand faceti Presa deasupra capului (Overhead Press). Nu va indoiti genunchii, acesta este un Push Press._
 
 - **Genunchi blocati**.Muschii umerilor si bratului imping greutatea deasupra capului, nu picioarele. Orice indoire a genunchiului este considerata trisare. Acest lucru iti miscorea efortul la care sunt supusi muschii umerilor. Pastreaza-ti picioarele drepte blocandu-ti genunchii si incordati-va cvadripcesul. Daca te dor genunchii, iti treci articulatiile peste limita normala de miscare. Nu hiper-extinde. Blocati usor. Daca nu puteti tine genunchii blocati, greutatea este prea grea.
-- **Solduri blocate**.Indoirea soldurilor este un Push Press. Acesta este un exercitiu diferit care va foloseste muschii mai puternici ai soldului pentru a impinge bara de pe umeri. Acest lucru va permite sa lucrati cu greutati mai mari. Dar nu iti lucraza umerii asa cum o face un Overhead - Press strict. Indoirea soldurilor cand faci Presa deasupra capului(Overhead Press) este considerata cu trisare/ inseleciune. Tineti-va soldurile blocate.Incordati-va fesele daca este nevoie. Picioarele tale ar trebui sa te echilibreze, dar sa nu se miste.
+- **Solduri blocate**.Indoirea soldurilor este un Push Press. Acesta este un exercitiu diferit care va foloseste muschii mai puternici ai soldului pentru a impinge bara de pe umeri. Acest lucru va permite sa lucrati cu greutati mai mari. Dar nu iti lucraza umerii asa cum o face un Overhead - Press strict. Indoirea soldurilor cand faci Presa deasupra capului (Overhead Press) este considerata cu trisare/ inseleciune. Tineti-va soldurile blocate.Incordati-va fesele daca este nevoie. Picioarele tale ar trebui sa te echilibreze, dar sa nu se miste.
 
 ## Prinderea/ Priza<a id="priza"></a>
 
@@ -220,7 +220,7 @@ _Tineti-va picioarele drepte cand faceti Presa deasupra capului(Overhead Press).
 _Tineti bara la baza mainii, aproape de incheieturi. Aceasta mentine incheieturile drepte, impiedica aparitia durerilor si face greutatea mai usoara la sustinut atunci cand faci Overhead Press._
 
 - **Priza completa**.Pozitionati-va degetele mari in jurul barei. Acest lucru face ca Presa deasupra capului sa fie mai sigur. Bara nu va poate aluneca din maini si nu va va cadea pe cap. De asemenea, te face mai puternic, deoarece poti strange mai tare bara. Aceasta implica mai mult bratele, umerii si muschii pieptului. Bara nu se poate misca in maini si nu poate cauza o forma proasta. Puteti face Presa deasupra capului cu mai multa greutate, mult mai in siguranta, cu o prindere completa decat cu prinderea thumbless.
-- **Priza cu bara la baza palmei**.Bara trebuie sa se sprijine pe regiunea palmara, aproape de incheietura mainii. Acest lucru permite antebratelor tale sa impinga direct in bara folosind forta pe care o genereaza umerii, bratele si muschii pieptului. Nu pozitionati bara la mijlocul palmei deoarece incheieturile se vor indoi. Acest lucru pune bara in spatele oaselor antebratului in loc de deasupra lor. Ingreuneaza greutatea la Overhead Press(Presa deasupra capului) si te vor durea incheieturile mainilor. Pozitionati bara la baza palmei.
+- **Priza cu bara la baza palmei**.Bara trebuie sa se sprijine pe regiunea palmara, aproape de incheietura mainii. Acest lucru permite antebratelor tale sa impinga direct in bara folosind forta pe care o genereaza umerii, bratele si muschii pieptului. Nu pozitionati bara la mijlocul palmei deoarece incheieturile se vor indoi. Acest lucru pune bara in spatele oaselor antebratului in loc de deasupra lor. Ingreuneaza greutatea la Overhead Press (Presa deasupra capului) si te vor durea incheieturile mainilor. Pozitionati bara la baza palmei.
 - **Priza Bulldog**.Prinde bara asa cum un Bulldog isi pozitioneaza labele. Pune mainile pe bara chiar in spatele umerilor. Apoi rotiti-va mainile pentru a pune bara la baza palmelor. Inchideti mainile si strangeti bara, astfel incat sa nu se poata misca. Acesta prindere/ priza se va simti ciudat la inceput. Se poate simti mai putin in siguranta. Dar degetele dvs. sunt in jurul barului, asa ca esti in siguranta. Si bara este mai jos in palma, astfel incat sa fie mai eficient. Exersati, o sa va obisnuiti cu ea.
 
 ## Latimea de prindere<a id="latimea-de-prindere"></a>
@@ -233,7 +233,7 @@ _Nu folositi aceeasi prindere pe care o folositi la Bench Press atunci cand face
 
 Ingusteaza astfel incat antebratele tale sa fie verticale.
 
-Nu folositi aceeasi priza ca la Bench Press. O priza mai larga pe care o utilizati pe Bench Press nu functioneaza si la Overhead Press(Presa deasupra capului). In primul rand, iti pune antebratele inclinate in partea de jos. Acest lucru face ca greutatea sa fie mai greu de sustinut pentru Overhead Press. In al doilea rand, face ca ale tale coate sa fie prea in exterior, evazate (flared). Acest lucru este este rau pentru umeri. Ingustati-va priza, astfel incat antebratele tale sa fie verticale. Coatele ar trebui sa fie de 45° in partea de jos. Acest lucru este mai sigur pentru umeri si face greutatea mai usor de sustinut.
+Nu folositi aceeasi priza ca la Bench Press. O priza mai larga pe care o utilizati pe Bench Press nu functioneaza si la Overhead Press (Presa deasupra capului). In primul rand, iti pune antebratele inclinate in partea de jos. Acest lucru face ca greutatea sa fie mai greu de sustinut pentru Overhead Press. In al doilea rand, face ca ale tale coate sa fie prea in exterior, evazate (flared). Acest lucru este este rau pentru umeri. Ingustati-va priza, astfel incat antebratele tale sa fie verticale. Coatele ar trebui sa fie de 45° in partea de jos. Acest lucru este mai sigur pentru umeri si face greutatea mai usor de sustinut.
 
 ## Incheieturile<a id="incheieturile"></a>
 
@@ -248,7 +248,7 @@ _Nu faceti Overhead Press cu incheieturile indoite. Dar nici nu iti mentii inche
 ![Presa-deasupra-capului-cu-bara Elbows](./assets/Presa-deasupra-capului-cu-bara-elbows.jpg)
 _Antebratele tale trebuie sa fie verticale in partea de jos a Overhead Press-ului. Coatele nu pot fi prea inapoi sau inainte. Ar trebui sa fie aproape sub bara._
 
-- **Sub bara**.Cea mai eficienta modalitate de a face Overhead Press(Presa deasupra capului) este cu antebratele verticale. Majoritatea oamenilor imping cu coatele inapoi in partea de jos. Acest lucru iti pune antebratele inclinate si omoara puterea. Mutati coatele inainte, inainte de a impinge. Miscati-le sub bara, astfel incat antebratele dvs. sa fie verticale privind din lateral. Incepeti sa impingeti si bara se va muta intr-o linie verticala in sus in loc sa se indeparteze de fata. Te vei antrena o greutate mai mare.
+- **Sub bara**.Cea mai eficienta modalitate de a face Overhead Press (Presa deasupra capului) este cu antebratele verticale. Majoritatea oamenilor imping cu coatele inapoi in partea de jos. Acest lucru iti pune antebratele inclinate si omoara puterea. Mutati coatele inainte, inainte de a impinge. Miscati-le sub bara, astfel incat antebratele dvs. sa fie verticale privind din lateral. Incepeti sa impingeti si bara se va muta intr-o linie verticala in sus in loc sa se indeparteze de fata. Te vei antrena o greutate mai mare.
 - **Coatele la 45°**.Tine coatele aproape de trunchi. Nu trebuie lasate prea mult in partea laterala, dar nici nu ar trebui sa se indrepte inainte. Pozitionati-le la 45°, astfel incat sa va atingeti muschiul dorsal mare, in partea de jos. Ai nevoie de o prindere ingusta pentru a face acest lucru. Nu prindeti bara ca la Bench Press deoarece coatele vor fi prea in exterior. Prinde ingust, chiar in afara umerilor. Tineti coatele in timp ce impingeti greutatea. Acest lucru este mai sigur pentru umeri si mai eficient.
 
 - **Blocati in partea de sus**.Repetarea nu conteaza daca nu blocati coatele, in partea de sus. Mai rau, daca muschii dvs. sunt obositi, puteti pierde bara si sa o scapati pe cap. Blocati coatele in partea de sus. Finalizati fiecare repetare prin indreptarea bratelor si ridicandu-va umerii. Puteti tine bara mai mult timp si mai in siguranta cu coatele blocate. Si atata timp cat va blocati usor si nu va extindeti bratul, articulatia cotului va fi in siguranta.
@@ -296,7 +296,7 @@ Fix. Fixeaza un punct pe peretele din fata ta. Daca va confruntati cu o oglinda,
 
 ## Partea inferioara a spatelui<a id="partea-inferioara-a-spatelui"></a>
 
-Ramane neutru. Pastrati arcul partii inferioare a coloanei vertebrale natural cand faceti Presa deasupra capului(Overhead Press). Partea inferioara a spatelui nu trebuie sa fie plata, ci sa aiba o curba naturala ca atunci cand stai in picioare. Nu-i permite spatelui inferior sa se hiper-extinda, aplecandu-te excesiv atunci cand te chinui sa impingi greutatea. Aceasta va va perfora discurile coloanei vertebrale si va poate rani spatele. Mentineti-va spatele inferior neutru. Respirati puternic inainte de a incepe si incordati-va abdomenul puternic.
+Ramane neutru. Pastrati arcul partii inferioare a coloanei vertebrale natural cand faceti Presa deasupra capului (Overhead Press). Partea inferioara a spatelui nu trebuie sa fie plata, ci sa aiba o curba naturala ca atunci cand stai in picioare. Nu-i permite spatelui inferior sa se hiper-extinda, aplecandu-te excesiv atunci cand te chinui sa impingi greutatea. Aceasta va va perfora discurile coloanei vertebrale si va poate rani spatele. Mentineti-va spatele inferior neutru. Respirati puternic inainte de a incepe si incordati-va abdomenul puternic.
 
 ## Trunchiul<a id="trunchiul"></a>
 
@@ -305,7 +305,7 @@ Mergi inainte. Inclinati-va usor inapoi inainte de a impinge greutatea de pe ume
 ## Ridicarea/traiectoria bare deasupra capului<a id="ridicarea"></a>
 
 - **Impingeti in linie verticala**. Puteti face Overhead Press cu mai multa greutate daca impingeti in linie dreapta, mai degraba decat curbata. La o distanta mai scurta. Dar capul tau este in calea barei, in partea de jos. Trebuie sa creati spatiu pentru ca bara sa se deplaseze intr-o linie verticala. Inclinati-va inapoi in partea de jos inainte de a impinge greutatea. Mentineti-va partea inferioara a spatelui neutru in timp ce miscati soldurile inainte. Acest lucru va va tine capul inapoi si in afara drumului.
-- **Stai strans**.Tineti bara aproape de fata pe drum. Cu cat se indeparteaza mai mult de fata si umeri, cu atat este mai greu sa o impingeti. Este ca si cum ai face front raises. Impingeti bara intr-o linie verticala in sus, nu trebuie sa aiba o traiectorie curbata. Inclinati-va inapoi, in partea de jos, pentru a va da capul din drum. Dupa ce bara iti trece de cap, misca-ti trunchiul inainte pentru a tine bara aproape. Miscarea se va simti mai scurta si greutatea mai usoara. Veti face Overhead Press(Presa deasupra capului) cu mai multa greutate.
+- **Stai strans**.Tineti bara aproape de fata pe drum. Cu cat se indeparteaza mai mult de fata si umeri, cu atat este mai greu sa o impingeti. Este ca si cum ai face front raises. Impingeti bara intr-o linie verticala in sus, nu trebuie sa aiba o traiectorie curbata. Inclinati-va inapoi, in partea de jos, pentru a va da capul din drum. Dupa ce bara iti trece de cap, misca-ti trunchiul inainte pentru a tine bara aproape. Miscarea se va simti mai scurta si greutatea mai usoara. Veti face Overhead Press (Presa deasupra capului) cu mai multa greutate.
 - **Picioare drepte**.Nu-ti lasa genunchii sau soldurile sa se aplece, pe drum. Impingeti greutatea numai cu umerii si muschii bratelor. Faceti acest lucru tinand picioarele drepte. Strangeti-va fundul (fesele) si partea din fata a coapselor. Orice indoire a picioarelor este echivalentul unei trisari. Iti micsoreaza efortul suportat de muschii umarului. Daca nu puteti mentine picioarele drepte atunci cand faceti Overhead Press, greutatea este prea grea. Micsorati greutatea.
 - **Coate 45°**.In urcare, nu tineti coatele prea in exterior (flare). Tine-le aproape de trnchiul dvs. Incepeti cu o priza ingusta, chiar in afara umerilor. Ridicati-va pieptul arcuindu-va partea superioara a spatelui. Tineti-va antebratele vertical. Odihneste-ti tricepsul pe muschiul dorsal mare. Coatele tale vor fi la aproximativ 45°, in partea de jos. Acum impingeti greutatea, tinand coatele aproape. Ele nu ar trebui sa fie inainte. Dar nici nu ar trebui sa fie prea in exterior, in lateral.
 
@@ -314,7 +314,7 @@ Mergi inainte. Inclinati-va usor inapoi inainte de a impinge greutatea de pe ume
 ![Presa-deasupra-capului-cu-bara Lockout](./assets/Presa-deasupra-capului-cu-bara-lockout.jpg)
 _In varf, echilibrati bara peste umeri. Nu o tine in fata sau in spatele umerilor. Este mai greu si va veti pierde echilibrul._
 
-- **Bara peste umeri**.Bara este echilibrata cand o blochezi peste umeri in partea de sus. Tinerea in fata sau in spatele lor este ineficienta. Bara te va trage inainte sau inapoi. Umerii tai vor risipi energie incercand sa te impiedice sa pierzi bara. Este posibil sa fiti nevoit sa va dati un pas inainte sau inapoi pentru a evita pierderea echilibrului. Blocati bara peste umeri. Acest lucru face mai usor de tinut si de facut Overhead Press(Presa deasupra capului).
+- **Bara peste umeri**.Bara este echilibrata cand o blochezi peste umeri in partea de sus. Tinerea in fata sau in spatele lor este ineficienta. Bara te va trage inainte sau inapoi. Umerii tai vor risipi energie incercand sa te impiedice sa pierzi bara. Este posibil sa fiti nevoit sa va dati un pas inainte sau inapoi pentru a evita pierderea echilibrului. Blocati bara peste umeri. Acest lucru face mai usor de tinut si de facut Overhead Press (Presa deasupra capului).
 - **Blocheaza-ti coatele**.Nu va mentine coatele indoite in varf. In primul rand, repetarea nu este contorizata. In al doilea rand, ai putea pierde bara si ai scapa-o pe cap. Blocati coatele in partea de sus a fiecarei repetari, astfel incat scheletul dvs. sa poata tine greutatea. Acest lucru este sigur pentru articulatiile cotului, atata timp cat nu va extindeti prea mult bratele. Blocati usor coatele fara sa treceti peste intervalul lor normal de miscare. Nu vizati mai multa tensiune. Obtineti mai multa greutate.
 
 - **Ridicare din umeri!** Trebuie sa ridici din umeri. Daca nu va ridicati umerii, oasele bratului superior va vor strange tesuturile cu coafele rotatorilor impotriva articulatiei AC la fiecare repetare. Acest lucru va va rani si iti vei afecta umerii. Finalizati fiecare repetare ridicand umerii spre tavan. Impingeti bara peste cap, blocati coatele si apoi ridicati umerii. Bara va fi mai usor de sustinut, deoarece utilizati mai multi muschi. Si umerii tai vor fi in siguranta.
@@ -345,13 +345,13 @@ _In varf, echilibrati bara peste umeri. Nu o tine in fata sau in spatele umerilo
 
 - **Stai incordat**. Odihneste-te in partea de jos o secunda inainte de a incepe urmatoare repetare. Folositi aceasta pauza pentru a incorda totul. Ridicati-va pieptul arcuindu-va partea superioara a spatelui. Puneti-va antebratele perpendicular cu podeaua. Respirati puternic, tineti-va respiratia si apoi faceti urmatoarea repetare. Veti avea o forma mai buna care va creste cantitatea de greutate cu care va puteti antrena. Vei castiga mai multa forta si muschi in timp ce vei reduce riscul de accidentare.
 
-- **Controleaza greutatea**. Puteti face mai multe repetari de Overhead Press(Presa deasupra capului) daca controlati greutati intre repetari. Coborarea barei iti intinde muschii. Acestea se pot contracta mai greu daca ridicati rapid bara de pe umeri pentru a face urmatoarea ta repetare. Dar trebuie sa mentineti o forma adecvata pentru ca acest lucru sa functioneze. Daca pieptul tau se prabuseste sau impingeti bara intr-o curba sub forma literei J, pierdeti avantajul pe care acesta il aduce. Mai bine este sa intrerupeti o secunda in partea de jos intre repetari.
+- **Controleaza greutatea**. Puteti face mai multe repetari de Overhead Press (Presa deasupra capului) daca controlati greutati intre repetari. Coborarea barei iti intinde muschii. Acestea se pot contracta mai greu daca ridicati rapid bara de pe umeri pentru a face urmatoarea ta repetare. Dar trebuie sa mentineti o forma adecvata pentru ca acest lucru sa functioneze. Daca pieptul tau se prabuseste sau impingeti bara intr-o curba sub forma literei J, pierdeti avantajul pe care acesta il aduce. Mai bine este sa intrerupeti o secunda in partea de jos intre repetari.
 
 ## Dureri comune<a id="dureri-comune"></a>
 
 ## Durere in partea inferioara a spatelui<a id="durere-ale-spatelui-inferior"></a>
 
-Forma necorespunzatoare va provoca dureri ale spatelui inferior atunci cand faci Overhead Press(Presa deasupra capului). Partea inferioara a spatelui trebuie sa ramana neutra atunci cand faceti Overhead Press. Rotunjirea nu va avea loc decat doar daca curatati bara la inceputul fiecarui set. Dar arcuirea in exces a parti inferioare a spatelui se poate intampla cu usurinta. Hiper-extinderea spatelui inferior perforeaza discurile coloanei vertebrale. Mai ales atunci cand este incarcat in timpul unui Overhead Press. Acest lucru poate provoca dureri de spate, sau mai rau, leziuni precum hernie de disc.
+Forma necorespunzatoare va provoca dureri ale spatelui inferior atunci cand faci Overhead Press (Presa deasupra capului). Partea inferioara a spatelui trebuie sa ramana neutra atunci cand faceti Overhead Press. Rotunjirea nu va avea loc decat doar daca curatati bara la inceputul fiecarui set. Dar arcuirea in exces a parti inferioare a spatelui se poate intampla cu usurinta. Hiper-extinderea spatelui inferior perforeaza discurile coloanei vertebrale. Mai ales atunci cand este incarcat in timpul unui Overhead Press. Acest lucru poate provoca dureri de spate, sau mai rau, leziuni precum hernie de disc.
 
 NU va inclinati inapoi atunci cand va luptati prin arcuirea spatelui inferior. S-ar putea sa obtineti repetarea, dar riscati sa va raniti.
 
@@ -370,7 +370,7 @@ _Ridicati muschiul trapez in varf. Acest lucru creeaza spatiu intre bratul super
 
 Leziunile umarului se intampla atunci cand nu reusiti sa ridicati din umeri in partea de sus. Partea superioara a osului bratului superior va zdrobi coafele rotatorilor impotriva articulatiei AC daca nu va ridicati din umeri. Aceste tesuturi se vor inflama si te vor durea. Fixarea usoara este pentru a crea spatiu pentru coafele rotatorilor. Rotiti omoplatele spre a face procesul osos mai vertical. Faceti acest lucru prin angajarea muschiului trapezului. Ridicati umerii in partea de sus a fiecarei repetari. Durerile la umar vor disparea.
 
-Nu faceti Overhead Press cu o priza larga pe care o utilizati pe Bench Press. Coatele se vor departa prea mult si umerii te vor durea. Faceti Overhead Press(Presa deasupra capului) utilizand prinderea ingusta. Mainile tale ar trebui sa fie chiar in afara umerilor, cu antebratele verticale spre podea, in partea de jos. Impingeti bara intr-o linie verticala in sus si echilibrati-o peste umeri, in partea de sus. Nu o tineti in fata sau in spatele umerilor, in varf, deoarece te vor durea.
+Nu faceti Overhead Press cu o priza larga pe care o utilizati pe Bench Press. Coatele se vor departa prea mult si umerii te vor durea. Faceti Overhead Press (Presa deasupra capului) utilizand prinderea ingusta. Mainile tale ar trebui sa fie chiar in afara umerilor, cu antebratele verticale spre podea, in partea de jos. Impingeti bara intr-o linie verticala in sus si echilibrati-o peste umeri, in partea de sus. Nu o tineti in fata sau in spatele umerilor, in varf, deoarece te vor durea.
 
 ## Durere la incheietura mainii<a id="durere-la-incheietura-mainii"></a>
 
@@ -386,7 +386,7 @@ Durerea la incheietura mainii nu inseamna ca incheieturile sunt slabe. Nu trebui
 ![Presa-deasupra-capului-cu-bara Neck Pain](./assets/Presa-deasupra-capului-cu-bara-head.jpg)
 _Mentineti-va capul neutru cand faceti Presa deasupra capului. Nu va uitati in sus sau in lateral. Nu va inclinati capul._
 
-Durerea gatului se poate intampla daca faceti Presa deasupra capului(Overhead Press )cu o forma proasta. Atentie cu pocnirea oaselor acestuia. Nu incercati sa impingeti cu orice pret greutatea folosind o forma proasta. Durerea va poate trage in gat sau pe muschiul trapez la mijloc. O sa doara 2-3 zile de fiecare data cand intoarceti capul sau il inclinati inapoi. Acest lucru va poate forta sa treceti peste Overhead Press, pana cand gatul se vindeca. Durerea gatului iti incetineste progresul. Mai rau, va reveni daca nu incetati sa faceti acest lucru.
+Durerea gatului se poate intampla daca faceti Presa deasupra capului (Overhead Press )cu o forma proasta. Atentie cu pocnirea oaselor acestuia. Nu incercati sa impingeti cu orice pret greutatea folosind o forma proasta. Durerea va poate trage in gat sau pe muschiul trapez la mijloc. O sa doara 2-3 zile de fiecare data cand intoarceti capul sau il inclinati inapoi. Acest lucru va poate forta sa treceti peste Overhead Press, pana cand gatul se vindeca. Durerea gatului iti incetineste progresul. Mai rau, va reveni daca nu incetati sa faceti acest lucru.
 
 Faceti Overhead Press cu capul neutru. Pastrati-o pe linie cu restul coloanei vertebrale. Priveste inainte. Fixeaza un punct pe peretele din fata ta. Daca va confruntati cu o oglinda, priviti „prin”. Nu te uita la tavan sau la bara. Nu va inclinati capul intr-o parte pentru a face loc barei. In schimb, aplecati-va usor in partea de jos miscand soldurile inainte, fara sa va arcuiti inapoi. Acest lucru va pastreaza capul in afara traiectoriei barei, neutru si echilibrat.
 
@@ -405,7 +405,7 @@ Masajul poate accelera recuperarea de la durerile de gat. Un kinetoterapeut poat
 ![Presa-deasupra-capului-cu-bara Cheating](./assets/Presa-deasupra-capului-cu-bara-legs.jpg)
 _Indoirea picioarelor este echivalentul unui Push Press si egal cu o inselaciune. Tineti picioarele drepte cand faceti Overhead Press._
 
-Cel mai simplu mod de a trisa la Overhead Press(Presa deasupra capului) este sa-ti folosesti picioarele. Incepi [Antrenamente 5x5](/5x5/) facand Overhead Press. Genunchii si soldurile raman blocate. Doar bratele se misca pentru a impinge bara peste cap. Dupa cateva saptamani, veti face Overhead Press cu dublu fata de ceea ce ati inceput. Dar va luptati sa va faceti repetarile cu greutatile mai grele. Deci folosesti un pic de picioare. Si iti vei duce la bun sfarsit repetarile. Dar este considerata trisare.
+Cel mai simplu mod de a trisa la Overhead Press (Presa deasupra capului) este sa-ti folosesti picioarele. Incepi [Antrenamente 5x5](/5x5/) facand Overhead Press. Genunchii si soldurile raman blocate. Doar bratele se misca pentru a impinge bara peste cap. Dupa cateva saptamani, veti face Overhead Press cu dublu fata de ceea ce ati inceput. Dar va luptati sa va faceti repetarile cu greutatile mai grele. Deci folosesti un pic de picioare. Si iti vei duce la bun sfarsit repetarile. Dar este considerata trisare.
 
 Folosirea picioarelor la Overhead Press este Push Press. Push Press nu este un exercitiu prost. Este un exercitiu minunat. Dar nu este solutia atunci cand te chinui sa-ti completezi repetarile pe [Antrenamente 5x5](/5x5/) . Trebuie sa folositi o tehnica consecventa pentru fiecare exercitiu. Deoarece, daca tehnica dvs. este consecventa, dar greutatea pe bara creste, stiti ca veti castiga forta si masa musculara. A adauga limbaj corporal sau a face jumatate de repetare este inselaciune/ trisare.
 
@@ -441,15 +441,15 @@ Folosirea picioarelor atunci cand faci Presa deasupra capului este considerata t
 
 Unii cred ca Push Press imbunatateste Overhead Press-ul. Da, greutatea este mai grea, iar bratele dvs. blocheaza greutati mai mari. Dar trebuie sa ridicati mai intai bara la nas. Aceasta este sarcina umerilor. Nu pot fi mai puternici daca va bazati intotdeauna pe picioare pentru a ridica bara in cea mai grea pozitie de jos. Muschii umerilor vor ramane slabi si Overhead Press-ul nu va crestedaca faceti doar Push Press.
 
-Daca nu puteti sa faceti Overhead Press(Presa deasupra capului) fara a folosi picioarele, greutatea este prea mare. Nu faceti Push Press pentru a obtine repetari. Nu va transformati genuflexiunea (Squats) in jumatate de genuflexiune (Squats) sau Barbell Row in Deadlifts atunci cand greutatea este grea. Va mentineti tehnica consecventa, deoarece asa stiti ca mai multa greutate pe bara duce de fapt la mai multa forta si castig muscular. Tine picioarele drepte. Orice indoire este echivalentul unei repetari nereusite pe [Antrenamente 5x5](/5x5/) .
+Daca nu puteti sa faceti Overhead Press (Presa deasupra capului) fara a folosi picioarele, greutatea este prea mare. Nu faceti Push Press pentru a obtine repetari. Nu va transformati genuflexiunea (Squats) in jumatate de genuflexiune (Squats) sau Barbell Row in Deadlifts atunci cand greutatea este grea. Va mentineti tehnica consecventa, deoarece asa stiti ca mai multa greutate pe bara duce de fapt la mai multa forta si castig muscular. Tine picioarele drepte. Orice indoire este echivalentul unei repetari nereusite pe [Antrenamente 5x5](/5x5/) .
 
-Push Press nu este un exercitiu prost. Este un exercitiu minunat de a ridica greutati mari deasupra capului. Este un exercitiu de asistenta/izolare excelent pentru Overhead Press(Presa deasupra capului) atunci cand il utilizati ca atare. Imi place mult Push Press. Dar nu este un exercitiu de inlocuire a exercitiului Overhead Press. Singura modalitate de a imbunatati Overhead Press-ul este de a face Overhead Press. Transformarea Overhead Press-ului intr-un Push Press atunci cand te chinui, te face mai slab, nu mai puternic.
+Push Press nu este un exercitiu prost. Este un exercitiu minunat de a ridica greutati mari deasupra capului. Este un exercitiu de asistenta/izolare excelent pentru Overhead Press (Presa deasupra capului) atunci cand il utilizati ca atare. Imi place mult Push Press. Dar nu este un exercitiu de inlocuire a exercitiului Overhead Press. Singura modalitate de a imbunatati Overhead Press-ul este de a face Overhead Press. Transformarea Overhead Press-ului intr-un Push Press atunci cand te chinui, te face mai slab, nu mai puternic.
 
 ## Military Press<a id="military-press"></a>
 
-Military Press este un Presa deasupra capului(Overhead Press) strict. Utilizeaza o pozitie militara mai ingusta. Stai in atentie cu calcaiele impreuna si cu degetele de la picioare inafara. Apoi impingeti bara de pe umeri peste cap. Dar nu va lasati inapoi mutand soldurile inainte. Veti ridica mai putina greutate cand faceti Military Press, deoarece este mai stricta decat Overhead Press. Multi oameni numesc Overhead Press-ul, Push Press, dar sunt exercitii diferite.
+Military Press este un Presa deasupra capului (Overhead Press) strict. Utilizeaza o pozitie militara mai ingusta. Stai in atentie cu calcaiele impreuna si cu degetele de la picioare inafara. Apoi impingeti bara de pe umeri peste cap. Dar nu va lasati inapoi mutand soldurile inainte. Veti ridica mai putina greutate cand faceti Military Press, deoarece este mai stricta decat Overhead Press. Multi oameni numesc Overhead Press-ul, Push Press, dar sunt exercitii diferite.
 
-Singurul motiv pentru a face Military Press este daca doriti sa faceti Presa deasupra capului(Overhead Press) mai dificil, in mod intentionat. Dar putini oameni vor asta. Exercitiul de Overhead Press este suficient de greu. Foloseste muschi mici. Va veti chinui sa va faceti repetarile mai repede decat la alte exercitii. Military Press doar inrautateste acest lucru. Nu o face. Faceti Overhead Press cu calcaielela acelasi nivel cu soldurile si aplecati-va usor inapoi in partea de jos. Veti avea un echilibru mai bun si va veti antrena cu mai mult greutate.
+Singurul motiv pentru a face Military Press este daca doriti sa faceti Presa deasupra capului (Overhead Press) mai dificil, in mod intentionat. Dar putini oameni vor asta. Exercitiul de Overhead Press este suficient de greu. Foloseste muschi mici. Va veti chinui sa va faceti repetarile mai repede decat la alte exercitii. Military Press doar inrautateste acest lucru. Nu o face. Faceti Overhead Press cu calcaielela acelasi nivel cu soldurile si aplecati-va usor inapoi in partea de jos. Veti avea un echilibru mai bun si va veti antrena cu mai mult greutate.
 
 ## Clean & Press<a id="clean-&-press"></a>
 
@@ -471,11 +471,11 @@ Clean & Press este singura modalitate de a face Overhead Press daca nu aveti un 
 _Seated Press este in regula daca tavanul este prea jos pentru a face Presa deasupra capului. Dar lucreaza mai putin muschi si va puteti rani spatele mai usor._
 
 Seated Press este un Overhead Prss stand pe o banca. Dai bara din Power Rack-ul de pe umeri si stai pe banca. Sau ridicati (clean) bara de pe podea pe umeri si stai. Pozitia ta ar trebui sa fie mai larga, cu o latime de umar, ca atunci cand faceti genuflexiuni (Squats). Faceti setul dvs. de cinci de Overhead Press pe [Antrenamente 5x5](/5x5/) . Odata terminat, ridicati-va cu bara pe umeri. Fixati-o (rack) pe suport sau coborati-o pe podea.
-Seated Press lucreaza mai putin muschii decat Overhead Press(Presa deasupra capului). Picioarele, spatele jos si abdomenul nu trebuie sa munceasca la fel de tare pentru a va stabiliza bara. Acest lucru accentueaza umerii si bratele. Dar dezvolta mai putina rezistenta si muschi, in general, decat daca ai face Overhead Press. Cel mai bine este sa faceti Seated Press fara suport pentru spate, pe banca cu care faceti Bench Press. Acest lucru va obliga corpul sa se stabilizeze oarecum cand impingeti bara.
+Seated Press lucreaza mai putin muschii decat Overhead Press (Presa deasupra capului). Picioarele, spatele jos si abdomenul nu trebuie sa munceasca la fel de tare pentru a va stabiliza bara. Acest lucru accentueaza umerii si bratele. Dar dezvolta mai putina rezistenta si muschi, in general, decat daca ai face Overhead Press. Cel mai bine este sa faceti Seated Press fara suport pentru spate, pe banca cu care faceti Bench Press. Acest lucru va obliga corpul sa se stabilizeze oarecum cand impingeti bara.
 
 Durerile de spate inferioare sunt frecvente la Seated Press. Va puteti arcui in exces in timpul repetarilor dure. Hiper-extinderea spatelui inferior distruge discurile coloanei vertebrale si le poate rani. Partea inferioara a spatelui trebuie sa ramana neutra. Insa acest lucru este greu pe Seated Press, deoarece nu iti poti incorda fesele pentru a-ti bloca spatele. Fesele tale sunt intinse (stretched). De asemenea, nu te poti apleca miscand soldurile inainte, deoarece sunt blocate pe banca.
 
-Seated Press este cel mai bun exercitiu de inlocuire a Overhead Press(Presa deasupra capului) daca tavanul este prea jos. Cea mai buna solutie este sa faceti Overhead Press(Presa deasupra capului) in aer liber, afara. Cea mai proasta solutie este sa faceti Overhead Press in genunchi (presiunea barei va va distruge genunchii, chiar si cu protectie pentru genunchi). Daca nu puteti sa faceti Overhead Press afara, faceti Seated Press. Dar nu va asteptati la aceleasi castiguri complete ale corpului ca si persoanele care fac presa in picioare. Si ai grija cu spatele inferior.
+Seated Press este cel mai bun exercitiu de inlocuire a Overhead Press (Presa deasupra capului) daca tavanul este prea jos. Cea mai buna solutie este sa faceti Overhead Press (Presa deasupra capului) in aer liber, afara. Cea mai proasta solutie este sa faceti Overhead Press in genunchi (presiunea barei va va distruge genunchii, chiar si cu protectie pentru genunchi). Daca nu puteti sa faceti Overhead Press afara, faceti Seated Press. Dar nu va asteptati la aceleasi castiguri complete ale corpului ca si persoanele care fac presa in picioare. Si ai grija cu spatele inferior.
 
 ## Presa de pe spatele gatului (Behind-the-Neck Press)<a id="overhead-in-spatele-gatului-(behind-the-neck-press)"></a>
 
@@ -487,14 +487,14 @@ Presa de pe spatele gatului (Behind-the-Neck Press) este periculoasa pentru umer
 
 ## Presa cu gantere (Dumbbell Overhead Press)<a id="overhead-press-cu-gantere-(dumbbell-overhead-press)"></a>
 
-Dumbbell Overhead Press(Presa deasupra capului cu ganterele) este o presa (Overhead Press) care foloseste gantere. Stai cu capatul fiecarei gantere pe umeri. Nu va extindeti coatele prea mult. Tineti-le la aproximativ 45° si tine-le sub gantere. Impingeti simultan cele doua gantere. Tineti-le cu coatele blocate peste articulatia umarului in partea de sus. Ridicati umerii spre tavan ca atunci cand faceti Overhead Press cu bara.
+Dumbbell Overhead Press (Presa deasupra capului cu ganterele) este o presa (Overhead Press) care foloseste gantere. Stai cu capatul fiecarei gantere pe umeri. Nu va extindeti coatele prea mult. Tineti-le la aproximativ 45° si tine-le sub gantere. Impingeti simultan cele doua gantere. Tineti-le cu coatele blocate peste articulatia umarului in partea de sus. Ridicati umerii spre tavan ca atunci cand faceti Overhead Press cu bara.
 
 Capul tau nu iti sta in cale atunci cand faci Overhead Press cu gantere (Dumbbell). Nu este nevoie sa impingeti miscandu-va soldurile inainte, spre deosebire de atunci cand lucrezi cu bara (barbell). Ganterele urca in linie verticala, fara sa-ti loveasca fata. Ganterele sunt insa mai greu de echilibrat. Trebuie sa le controlati independent si sa le impingeti in acelasi timp. Acest lucru lucreaza mai mult muschii dvs. stabilizatori. Dar, de asemenea, ingreuneaza ridicarea pe o linie verticala daca sunteti incepator la acest exercitiu.
 
-Puteti face Overhead Press(Presa deasupra capului) cu mai multa greutate folosind o bara decat daca utilizati ganterele. Mai multa greutate inseamna mai multa forta si formarea muschilor. Corpul tau trebuie sa recruteze mai multi muschi si sa ii contracte mai intens pentru a ridica bara mai grea si pentru a infrange si gravitatia. Facerea Overhead Press-ului cu 60kg / 135lb cu o bara nu inseamna ca puteti impinge doua gantere de 30kg / 70lb. Greutatea este de obicei cu 25% mai mica cu ganterele, deoarece sunt mai greu de stabilizat decat o bara (barbell).
+Puteti face Overhead Press (Presa deasupra capului) cu mai multa greutate folosind o bara decat daca utilizati ganterele. Mai multa greutate inseamna mai multa forta si formarea muschilor. Corpul tau trebuie sa recruteze mai multi muschi si sa ii contracte mai intens pentru a ridica bara mai grea si pentru a infrange si gravitatia. Facerea Overhead Press-ului cu 60kg / 135lb cu o bara nu inseamna ca puteti impinge doua gantere de 30kg / 70lb. Greutatea este de obicei cu 25% mai mica cu ganterele, deoarece sunt mai greu de stabilizat decat o bara (barbell).
 
 Este mai greu sa devi mai puternic, de asemenea, cu ganterele. In majoritatea salilor de sport, acestea cresc cu 2kg / 5lb. Acest lucru va obliga sa adaugati 4 kg / 10lb la fiecare antrenament [Antrenamente 5x5](/5x5/) . Saltul de la ganterele de 16 kg la 18 kg este o crestere de 12%! Acest lucru este prea mult, prea rapid, pentru muschii mici pe care ii foloseste Overhead Press-ul. Repetarile nu iti vor iesi, rapid, si te vei plafona. Este mai usor sa castigi putere folosind bara, deoarece puteti utiliza cresteri mai mici de 1,25 kg / 2,5 lb sau mai putin prin microloading.
 
-Overhead Press(Presa deasupra capului) cu bara este, de asemenea, mai sigur decat cu ganterele. Daca nu impingeti bara, pur si simplu o intoarceti pe umeri. Este putin probabil ca bara sa va cada pe cap, deoarece daca este prea grea nu va va trece niciodata de umeri. Ganterele sunt mai greu de controlat. Daca nu reusiti, ele pot cadea usor in lateral, pe podea si va pot lovi piciorul sau piciorul pe drumul in jos. Barele sunt mai sigure, mai ales daca faceti Overhead Press(Presa deasupra capului) intr-un Power Rack.
+Overhead Press (Presa deasupra capului) cu bara este, de asemenea, mai sigur decat cu ganterele. Daca nu impingeti bara, pur si simplu o intoarceti pe umeri. Este putin probabil ca bara sa va cada pe cap, deoarece daca este prea grea nu va va trece niciodata de umeri. Ganterele sunt mai greu de controlat. Daca nu reusiti, ele pot cadea usor in lateral, pe podea si va pot lovi piciorul sau piciorul pe drumul in jos. Barele sunt mai sigure, mai ales daca faceti Overhead Press (Presa deasupra capului) intr-un Power Rack.
 
-Ganterele nu sunt rele. Sunt excelente ca exercitiu de asistenta/ izolare odata ce sunteti suficient de puternici pentru a avea nevoie de asta. Dar nu sunt un inlocuitor pentru Overhead Press(Presa deasupra capului) cu o bara (barbell). Faptul ca ganterele sunt mai greu de stabilizat nu conteaza. Puteti impinge/ presa intotdeauna mai multa greutate deasupra capului, daca utilizati o bara. Si cu cat impingeti/ presati mai multa greutate, cu atat vei obtine mai multa forta si muschi. Faceti Overhead Press cu o bara (barbell).
+Ganterele nu sunt rele. Sunt excelente ca exercitiu de asistenta/ izolare odata ce sunteti suficient de puternici pentru a avea nevoie de asta. Dar nu sunt un inlocuitor pentru Overhead Press (Presa deasupra capului) cu o bara (barbell). Faptul ca ganterele sunt mai greu de stabilizat nu conteaza. Puteti impinge/ presa intotdeauna mai multa greutate deasupra capului, daca utilizati o bara. Si cu cat impingeti/ presati mai multa greutate, cu atat vei obtine mai multa forta si muschi. Faceti Overhead Press cu o bara (barbell).

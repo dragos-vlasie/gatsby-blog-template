@@ -115,7 +115,7 @@ Daca urasti legumele, invata sa folosesti condimente. Nu folositi aburul si fier
 
 Pentru a va mentine greutatea sub control, trebuie sa controlati cate calorii mancati. Cel mai simplu mod de a face acest lucru este prin controlul raportului de carbohidrati.
 
-Nu ar trebui sa incetati sa mancati carbohidrati. Dietele cu continut scazut de carbohidrati sunt populare, dar putini oameni se pot tine de ele pe termen lung. Pentru ca carbohidratii sunt peste tot si majoritatea oamenilor le place gustul. Imi place painea, imi place pizza, imi place fulgii de ovaz. Nu vreau o viata fara pizza.
+Nu ar trebui sa incetati sa mancati carbohidrati. Dietele cu continut scazut de carbohidrati sunt populare, dar putini oameni se pot tine de ele pe termen lung. Deoarece carbohidratii sunt peste tot si majoritatea oamenilor le place gustul. Imi place painea, imi place pizza, imi place fulgii de ovaz. Nu vreau o viata fara pizza.
 
 Continuati sa mancati carbohidrati, dar limitati-le raportul. O regula simpla este sa mancati carbohidrati **doar o data pe zi, cum ar fi dupa antrenament.** Nu trebuie sa mancati paine sau orez sau paste de trei ori pe zi, decat daca doriti sa cresteti in greutate. O data pe zi este suficient pentru majoritatea oamenilor care cauta sa creasca sau sa se mentina.
 

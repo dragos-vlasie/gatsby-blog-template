@@ -19,10 +19,10 @@ Pentru a fi in siguranta, incepeti cu o greutate usoara, pentru a putea exersa m
 
 Cea mai mare parte a programului tau de antrenament de forta ar trebui sa fie format din cele cinci exercitii compuse cu bara de mai jos. Impreuna, aceste exercitii construiesc forta si muschiul.
 
-- [Genuflexiuni cu bara(Squats)](/exercitii/genuflexiuni-cu-bara/)
-- [Impinsul cu haltera de la piept(Bench Press)](/exercitii/impinsul-cu-haltera-de-la-piept/)
-- [Indreptari(Deadlift)](/exercitii/indreptari/)
-- [Presa deasupra capului(Overhead Press)](/exercitii/presa-deasupra-capului-cu-haltera/)
+- [Genuflexiuni cu bara (Squats)](/exercitii/genuflexiuni-cu-bara/)
+- [Impinsul cu haltera de la piept (Bench Press)](/exercitii/impinsul-cu-haltera-de-la-piept/)
+- [Indreptari (Deadlift)](/exercitii/indreptari/)
+- [Presa deasupra capului (Overhead Press)](/exercitii/presa-deasupra-capului-cu-haltera/)
 - [Ramat cu haltera(Barbell Row)](/exercitii/ramat-cu-bara/)
 
 Acestea sunt cele doua cele mai bune exercitii fara echipament pe care le puteti utiliza pentru a ajuta exercitiile principale cu haltera. Aceste doua exercitii suplimentare sunt excelente pentru rezistenta corpului superior si pentru a construi brate mai mari.
