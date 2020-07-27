@@ -9,7 +9,7 @@ published: true
 
 Cele mai bune exercitii pentru a deveni mai puternic sunt cu greutati libere - exercitiile compuse.
 
-- Greutatile libere te obliga sa echilibrezi singur greutatile. Muschii tai trebuie sa munceasca mai mult, ceea ce duce la castiguri muscluare si la cresterea fortei.
+- Greutatile libere te obliga sa echilibrezi singur greutatea. Muschii tai trebuie sa munceasca mai mult, ceea ce duce la castiguri muscluare si la cresterea fortei.
 - Greutatile libere va permit sa controlati unde se duce bara. Nu esti obligat de modele de miscare fixe, nefiresti, care pot provoca acidentari.
 - Halterele va permit sa ridicati greutati mult mai grele decat ganterele. Puteti utiliza ambele parti in acelasi timp.
 
