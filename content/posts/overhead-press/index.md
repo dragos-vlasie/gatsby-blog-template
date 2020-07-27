@@ -2,9 +2,10 @@
 path: '/presa-deasupra-capului-cu-haltera'
 cover: './presa-deasuprea-capului.jpg'
 date: '2020-07-01'
-description: 'Presa deasupra capului(Overhead Press) lucreaza tot corpul, fiind un exercitiu compus. Umerii si bratele imping greutatea peste cap, in timp ce picioarele, partea inferioara a spatelui si abdomenul asigura echilibrul. Presa deasupra capului(Overhead Press) este unul dintre cele mai bune exercitii pentru a construi umeri puternici, musculosi si sanatosi cu brate mai mari.'
-title: 'Over Head Press - Presa deasupra capului cu bara'
+description: 'Presa deasupra capului lucreaza tot corpul. Umerii si bratele imping greutatea peste cap, in timp ce picioarele, spate si abdomenul asigura echilibrul.'
 tags: ['exercitii']
+title: 'Cum sa ridici mai mult la Presa desasupra capului'
+serpTitle: 'Cum sa ridici mai mult la Presa desasupra capului'
 published: true
 ---
 

@@ -192,7 +192,6 @@ const Suggestions = ({ left, right }) => (
         right && right.frontmatter.tags && right.frontmatter.tags[0]
           ? '/' + right.frontmatter.tags[0]
           : '';
-      console.log('right', right);
       return (
         <Row>
           {left && (

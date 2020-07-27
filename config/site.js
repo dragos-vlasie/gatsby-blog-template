@@ -3,7 +3,7 @@ module.exports = {
   title: 'MuschiLaGreu.ro', // Navigation and Site Title
   titleAlt: 'MuschiLaGreu.ro', // Title for JSONLD
   description:
-    'Fii mai puternic cu exercitii compuse, cum ar fi Genuflexiuni cu haltere(Squats), Indreptari(Deadlifts) si Impins cu haltera de la piept(Bench Press). Antrenamente simple, eficiente pentru a pune masa musclulara, care functioneaza.',
+    'Fii mai puternic cu exercitii compuse cum ar fi Genuflexiuni cu bara, Indreptari si Impins cu haltera de la piept. Antrenamente pentru a creste pune masa musclulara.',
   siteLanguage: 'ro', // Language Tag on <html> element
   siteUrl: 'https://blissful-stonebraker-79eda2.netlify.com',
   url: 'https://blissful-stonebraker-79eda2.netlify.com',

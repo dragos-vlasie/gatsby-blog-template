@@ -2,7 +2,8 @@
 path: '/program'
 cover: './program.jpg'
 title: 'Program'
-description: 'Cel mai important lucru pentru a deveni mai puternic este sa ridici mai multa greutate. Incercati sa ridicati cel putin 1kg mai mult decat data trecuta. Puterea ta va creste. Pentru ca acest lucru sa functioneze, trebuie sa utilizati exercitii mari, compuse precum Genuflexiuni cu bara(Squats), Impinsul cu haltera de la piept(Bench Press) si Indreptari(Deadlifts).'
+serpTitle: 'Program de forta si giduri de instruire'
+description: 'Cel mai important lucru pentru a deveni mai puternic este sa ridici mai multa greutate. Ridicati cel putin 1kg mai mult decat data trecuta si puterea ta va creste.'
 published: true
 ---
 

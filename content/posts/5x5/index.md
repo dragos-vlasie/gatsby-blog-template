@@ -1,6 +1,8 @@
 ---
 path: '/5x5'
 cover: './5x5.jpg'
+serpTitle: 'Antrenamente 5x5 fii mai puternic folosind exercitii compuse'
+descriere: 'Antrenamente 5×5 stimuleaza forta si cresterea muschilor in intregul corp folosind doua antrenamente A/B. Acest program ofera tot de ce ai nevoie in doar 3 exercitii'
 date: '2020-07-22'
 title: '5x5'
 published: true

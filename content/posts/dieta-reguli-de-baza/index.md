@@ -1,7 +1,9 @@
 ---
 path: '/dieta-reguli-de-baza'
 cover: './dieta.jpg'
+descriere: 'Cu cateva decenii in urma, grasimile erau rele. Apoi, carbohidratii au devenit rai. Acum glutenul este sursa raului. Ce ar trebui sa mananci? Totul pare complicat'
 date: '2020-07-20'
+serpTitle: 'Dieta reguli de baza'
 title: 'Dieta reguli de baza'
 tags: ['alimentatie']
 published: true

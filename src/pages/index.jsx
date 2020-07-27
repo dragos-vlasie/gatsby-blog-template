@@ -38,7 +38,7 @@ const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Antrenamente'} />
+      <Helmet title={'MuschiLaGreu.ro are cele mai bune sfaturi de antrenament'} />
       <Header title="MuschiLaGreu.ro">Fii mai puternic decat scuzele tale</Header>
       <FadeIn>
         <PostWrapper>

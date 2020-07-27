@@ -10,7 +10,7 @@ import TableOfContent from '../elements/TableOfContent';
 const Post = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
   const { html, frontmatter, excerpt } = data.markdownRemark;
-  const { date, title, tags, path, description } = frontmatter;
+  const { date, title, serpTitle, tags, path, description } = frontmatter;
   const image = frontmatter.cover.childImageSharp.fluid;
   let regex = '<details(.|\n)*?</details>';
   const tableOfContent = Array.isArray(html.match(regex)) ? html.match(regex)[0] : '';
@@ -18,7 +18,7 @@ const Post = ({ data, pageContext }) => {
   return (
     <Layout>
       <SEO
-        title={title}
+        title={serpTitle}
         description={description || excerpt || ' '}
         banner={image}
         pathname={path}
@@ -54,6 +54,7 @@ export const query = graphql`
       frontmatter {
         date
         title
+        serpTitle
         tags
         description
         cover {

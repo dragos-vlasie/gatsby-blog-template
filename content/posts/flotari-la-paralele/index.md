@@ -2,7 +2,9 @@
 path: '/flotari-la-paralele'
 cover: './street-workout.jpg'
 date: '2020-07-13'
+descriere: 'Forma corecta este esentiala pentru a evita durerile de umar si piept. Nu lasa umerii sa se rasuceasca inainte. Nu ridica din umeri. Tine-ti umerii inapoi si in jos.'
 title: 'Flotari la paralele(dips)'
+serpTitle: 'Flotari la paralele(dips) - Ghidul complet'
 tags: ['exercitii']
 published: true
 ---

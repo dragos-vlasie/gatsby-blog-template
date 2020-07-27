@@ -85,7 +85,6 @@ const SEO = ({ title, description, banner, pathname, article }) => (
             <html lang={siteLanguage} />
             <meta name="description" content={seo.description} />
             <meta name="image" content={seo.image} />
-            {console.log('seo.description', seo.description)}
             <meta name="apple-mobile-web-app-title" content={shortName} />
             <meta name="application-name" content={shortName} />
             <script type="application/ld+json">{JSON.stringify(schemaOrgJSONLD)}</script>

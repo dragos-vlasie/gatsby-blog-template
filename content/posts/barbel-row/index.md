@@ -2,8 +2,9 @@
 path: '/ramat-cu-bara'
 cover: './ramat-cu-bara.jpg'
 date: '2020-07-15'
-description: 'Exercitiul compus Ramat cu bara(Barbell Row) antreneaza intreg corpul. Lucreaza atat partea superioara, cat si cea inferioara a spatelui, soldurile si bratele. Formeaza un spate mai puternic si musculos, dar si bicepsi mai mari. Ramat cu bara(Barbell Row)este unul dintre cele mai eficiente exercitii pe care le puteti face ca sa va imbunatatiti genoflexiunile, ridicatul de greutati pe banca si cel din picioare.'
+description: 'Exercitiul compus Ramat cu bara(Barbell Row) antreneaza intreg corpul. Lucreaza atat partea superioara, cat si cea inferioara a spatelui, soldurile si bratele.'
 title: 'Ramat cu bara(Barbell Row)'
+serpTitle: 'Cel mai complet exercitiu pentru spate - Ramat cu bara(Barbell Row)'
 tags: ['exercitii']
 published: true
 ---
@@ -246,9 +247,9 @@ _Stanga: cotul prea ridicat, bara atinge pieptul prea sus. Mijlociu: coatele pre
 
 **Blocheaza in partea de jos**. Indoirea coatelor in partea de jos scurteaza intervalul de miscare. Coboara trunchiul si poate provoca rotunjirea spatelui inferior. De asemenea, construieste obiceiuri proaste pentru Deadlifts, inceperea fiecarei repetare cu coatele blocate este cruciala pentru a evita ranirea bicepsului. Indreptati-va bratele inaintea de a face Barbell Row cu greutatea. Coatele nu se te vor durea atata timp cat nu le extindeti. Spatele dvs. va fi intr-o pozitie mai sigura.
 
-**In spatele trunchiui, in varf**. Atingeti pieptul cu bara tragand coatele in spatele trunchiului in partea de sus. Filmati-va din lateral pentru a va verifica forma. Daca coatele nu vin in spatele trunchiului, greutatea este prea grea. Nu va indoiti incheieturile pentru a aduce bara la piept. Nu va coborati pieptul pentru a atinge bara. Ambele sunt echivalente trisatului. Reduceti greutatea, astfel incat sa puteti trage coatele in spatele trunchiului.
+**In spatele trunchiui, in varf**. Atingeti pieptul cu bara ridicand coatele in spatele trunchiului in partea de sus. Filmati-va din lateral pentru a va verifica forma. Daca coatele nu vin in spatele trunchiului, greutatea este prea grea. Nu va indoiti incheieturile pentru a aduce bara la piept. Nu va coborati pieptul pentru a atinge bara. Ambele sunt echivalente trisatului. Reduceti greutatea, astfel incat sa puteti trage coatele in spatele trunchiului.
 
-**Trage cu coatele**. Barbell Rows nu sunt Reverse Curls. Greutatea este mai grea si bratele nu sunt suficient de puternice pentru a o ridica singura. Trebuie sa folositi muschii spatelui care sunt mai puternici. Nu incercati sa reduceti greutatea. Incepeti cu coatele drepte. Scoateti slack-ul din bara tragand de ea pana atinge partea superioara a orificiilor placii. Ridicati bara indoindu-va coatele si conducandu-le spre tavan. Trebuie sa ajunga in spatele trunchiului tau, in partea de sus.
+**Trage cu coatele**. Barbell Rows nu sunt Reverse Curls. Greutatea este mai grea si bratele nu sunt suficient de puternice pentru a o ridica singura. Trebuie sa folositi muschii spatelui care sunt mai puternici. Nu incercati sa reduceti greutatea. Incepeti cu coatele drepte. Scoateti slack-ul din bara ridicand de ea pana atinge partea superioara a orificiilor placii. Ridicati bara indoindu-va coatele si conducandu-le spre tavan. Trebuie sa ajunga in spatele trunchiului tau, in partea de sus.
 
 **Trage-ti coatele**. Pastrati coatele la 75 ° in varf, ca atunci cand faceti [Bench Press(Impinsul cu haltera de la piept)](/exercitii/impinsul-cu-haltera-de-la-piept/). Unghiul exact va depinde de constructie, de unghiul din spate, de prindere etc. Dar coatele nu pot fi perpendiculare pe trunchiul tau. Asta misca bara peste varful picioarelor si in afara echilibrului. Coatele nu-ti pot atinge trunchiul, deoarece asta misca bara prea aproape de picioare (le vei lovi). Deplasati bara peste mijlocul piciorului, impingandu-va coatele.
 

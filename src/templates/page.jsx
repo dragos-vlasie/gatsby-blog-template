@@ -30,6 +30,9 @@ const Information = styled.div`
 const PageTemplate = ({ pageContext, data }) => {
   const { posts, title } = pageContext;
   const { html, frontmatter, excerpt } = data.markdownRemark;
+  console.log('PageTemplate -> frontmatter', frontmatter);
+  const { serpTitle } = frontmatter;
+  console.log('PageTemplate -> serpTitle', serpTitle);
   const image = frontmatter.cover ? frontmatter.cover.childImageSharp.fluid : '';
   const subTitle = frontmatter.subTitle ? frontmatter.subTitle : '';
   const { description } = frontmatter;
@@ -37,7 +40,7 @@ const PageTemplate = ({ pageContext, data }) => {
   return (
     <Layout>
       <SEO title={title} description={description || excerpt || ' '} banner={image} page />
-      <Helmet title={`${title} | ${config.title}`} />
+      <Helmet title={serpTitle} />
       <Header title={title} cover={image}>
         {subTitle}
         {/* <StyledLink to="/tags">All Tags</StyledLink> */}
@@ -76,6 +79,7 @@ export const query = graphql`
       frontmatter {
         date
         title
+        serpTitle
         tags
         subTitle
         description

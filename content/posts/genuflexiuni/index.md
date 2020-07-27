@@ -2,8 +2,9 @@
 path: '/genuflexiuni-cu-bara'
 cover: './genuflexiuni.jpg'
 date: '2020-07-20'
-description: 'Tineti greutatea o secunda in varf. Respira. Apoi inspirati puternic, tineti-o si faceti urmatoarea genuflexiune. Repetati pana cand ati facut cinci repetari pe [Antrenamente 5x5](/5x5/). Squats-ul iti lucreaza intregul corp. Picioarele se indoaie si se indreapta pentru a muta greutatea. Muschii abs si partea inferioara a spatelui va stabilizeaza trunchiul, in timp ce picioarele se misca. Partea superioara a spatelui, umerii si bratele echilibreaza bara din spate. Multi muschi functioneaza in acelasi timp, nu doar picioarele.'
+description: 'Genuflexiunile lucreaza o tona de muschi. Picioarele indoite, trunchiul ramane drept partea superioara a corpului sustine bara Toti acesti muschi functioneaza simultan'
 title: 'Genuflexiuni cu bara (Squats)'
+serpTitle: 'Genuflexiuni cu bara (Squats) regele tuturor exercitiilor'
 tags: ['exercitii']
 published: true
 ---
@@ -668,7 +669,8 @@ Nu incercati dislocariale umerilor(Shoulders Dislocations) cu o haltera(barbell)
 
 ## Echipament<a id="echipamente"></a>
 
-Power Rack
+## Power Rack
+
 Ai nevoie de un Power Rack pentru a face genuflexiuni grele in siguranta. Power Racks-urile au patru stalpi verticali, cu pozitii verticale si pini/carlige de siguranta orizontali. Folosesti pozitiile verticale pentru a pune bara si pe spate. Folositi pinii/carligele de siguranta reglabile pentru a prinde bara daca nu reusiti sa va ridicati greutatea inapoi. Bara se misca liber asa ca decideti unde se duce si flexeaza folosind o miscare naturala. Echilibrezi greutatea care creeaza mai multa forta si masa musculara .
 
 Montanti(uprights) ar trebui sa fie de aproximativ la mijlocul pieptului. Majoritatea oamenilor le fixeaza prea sus. Acest lucru este nesigur, deoarece trebuie sa va ridicati pe varfuri pentru a bloca / a debloca bara. Tot piciorul trebuie sa stea pe podea pentru un echilibru corect. Dar montantii(uprights) nu pot fi prea joase sau picioarele tale se vor apleca mai mult pentru a desface bara. Acest lucru risipeste energia. Setati bara la nivelul mijlocului trunchiului, astfel incat trebuie doar sa indoiti picioarele pentru a desface bara.
@@ -688,7 +690,7 @@ Nu aveti nevoie de un spotter daca faceti genuflexiuni in Power Rack. Chiar daca
 - **Rogue R4**. Versiune de lux a modelului R3. Cel mai scump, dar nu este nevoie sa il ansamblezi.
 - **Rack scurt de alimentare**. Se potriveste pentru tavane/plafoane mai joase de 6?.
 
-Fac genuflexiuni singur, aproape mereu, in sala mea de gimnastica de la 11 ani. Am esuat de multe ori cu greutati mari. Dar am fost intotdeauna in siguranta pentru ca am facut genuflexiun in Power Rack. Flexarea fara Power Rack nu este sigura decat daca ai un spotter care stie ce face. Flexarea fara Power Rack sau spotter nu este sigura . Mai rau, va va limita progresul pe Stronglifts 5 × 5, deoarece nu puteti face genuflexiuni(Squats) grele pentru a castiga forta si muschi.
+Fac genuflexiuni singur, aproape mereu, in sala mea de gimnastica. Am esuat de multe ori cu greutati mari. Dar am fost intotdeauna in siguranta pentru ca am facut genuflexiun in Power Rack. Flexarea fara Power Rack nu este sigura decat daca ai un spotter care stie ce face. Flexarea fara Power Rack sau spotter nu este sigura . Mai rau, va va limita progresul pe Stronglifts 5 × 5, deoarece nu puteti face genuflexiuni(Squats) grele pentru a castiga forta si muschi.
 
 Din pacate, nu toate salile de sport au Power Racks. Poate trebuie sa gasesti o sala de gimnastica mai buna care sa aiba una. Sau poate trebuie sa va cumparati propriul Power Rack, sa il puneti in garaj, in subsol sau sopron si sa construiti o sala de gimnastica asa cum am facut eu. Acest lucru necesita timp, efort si bani. Insa iti ia mai putin decat sa incercati sa castigati forta si muschi fara a face genuflexiuni(Squats). Deoarece nu exista niciun inlocuitor pentru genuflexiuni( Squat). Obtineti acces la un Power Rack, astfel incat sa puteti face genuflexiuni(Squat).
 

@@ -2,8 +2,9 @@
 path: '/tractiuni'
 cover: './tractiuni.jpg'
 date: '2020-07-07'
-description: 'Tractiunile(pull-ups) sunt un exercitiu compus al corpului superior. Spatele si bratele iti trag corpul in sus, in timp ce abs-urile impiedica arcuirea spatelui inferior. Va puteti accentua bratele prinzand bara cu palmele orientate in sus. Acestea sunt Chinup-uri si sunt eficiente pentru dezvoltarea muschilor bratelor.'
+description: 'Tractiunile sunt un exercitiu compus. Spatele si bratele iti trag corpul in sus, in timp ce abdomenul impiedica arcuirea spatelui. Un exercitiu perfect pentru brate.'
 title: 'Tractiuni(Pull ups)'
+serpTitle: 'Cum sa faci Tractiuni(Pull ups) cu o forma adecvata'
 tags: ['exercitii']
 published: true
 ---

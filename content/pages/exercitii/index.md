@@ -1,7 +1,9 @@
 ---
 path: '/exercitii'
+description: 'Exercitii gratuite pentru a pune masa musculara, pentru a deveni mai puternic. Cele mai bune exercitii pentru a deveni mai puternic sunt exercitiile compuse.'
 cover: './exercitii.jpg'
 title: 'Exercitii'
+serpTitle: 'Cele mai bune exercitii pentru a deveni mai puternic'
 published: true
 ---
 
