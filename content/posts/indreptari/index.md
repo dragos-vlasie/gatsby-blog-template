@@ -217,7 +217,7 @@ Indreptarea este mai mult pentru spate decat picioarele in comparatie cu [Genofl
 - **Abdomenul**. Muschii abdominali si oblicii se contracta pentru a va sprijini partea inferioara a spatelui. Cu cat Indreptarile (Deadlifts) sunt mai grele, cu atat devin mai puternice si mai musculare. Mancati corect si ii puteti vedea.
 - **Bratele**. Mainile tale tin bara. Acest lucru va consolideaza priza si antebratele. Dar toata parea de sus se contracta, in timpul Indreptarilor cu greutate mare, inclusiv bicepsul si tricepsul tau. Nu se indoaie, ci functioneaza izometric, ca si spatele tau, pentru a-ti mentine corpul in pozitie.
 
-Indreptarile sunt cel mai bun exercitiu pentru spatele tau. Adaugati Barbell [Ramat cu haltera(Barbell Row)](/exercitii/ramat-cu-bara/) si poate Tractiuni si nu aveti nevoie de mai mult pentru a construi un spate in forma de V . Ridicati multa greutate si puteti avea un fizic excelent facand doar doua-trei exercitii pe antrenament. Acesta este motivul pentru care [Antrenamente 5x5](/5x5/) este atat de eficient.
+Indreptarile sunt cel mai bun exercitiu pentru spatele tau. Adaugati Barbell [Ramat cu haltera (Barbell Row)](/exercitii/ramat-cu-bara/) si poate Tractiuni si nu aveti nevoie de mai mult pentru a construi un spate in forma de V . Ridicati multa greutate si puteti avea un fizic excelent facand doar doua-trei exercitii pe antrenament. Acesta este motivul pentru care [Antrenamente 5x5](/5x5/) este atat de eficient.
 
 ## Probleme de siguranta<a id="probleme-de-siguranta"></a>
 
@@ -626,7 +626,7 @@ Nu evitati priza mixta pentru a va imbuntatati puterea. Aceasta priza evita limi
 
 Majoritatea oamenilor isi pun mana dominanta in sus. Sunt dreptati si ma tin mana dreapta in sus de ani de zile. In 2017 am schimbat dupa o accidentare mica. Priza a fost mai slaba la inceput, dar acum este la fel de puternica. Nu pare sa conteze ce maini folosest, atata timp cat esti consecvent.
 
-Unele persoane recomanda schimbarea mainii cu fata in sus pe fiecare set, pentru a evita dezechilibrele coloanei vertebrale si ale umerilor. Dar nu veti folosi aderenta mixta pe fiecare set - doar pe cele grele. Plus [Antrenamente 5x5](/5x5/) a inclus o multime de lucru echilibrat al picioarelor si spatelui cu [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/)/[Ramat cu haltera(Barbell Row)](/exercitii/ramat-cu-bara/) pentru a evita dezechilibrele.
+Unele persoane recomanda schimbarea mainii cu fata in sus pe fiecare set, pentru a evita dezechilibrele coloanei vertebrale si ale umerilor. Dar nu veti folosi aderenta mixta pe fiecare set - doar pe cele grele. Plus [Antrenamente 5x5](/5x5/) a inclus o multime de lucru echilibrat al picioarelor si spatelui cu [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/)/[Ramat cu haltera (Barbell Row)](/exercitii/ramat-cu-bara/) pentru a evita dezechilibrele.
 
 Daca sunteti sceptici, campion mondial Mike Tuchscherer nu schimba niciodata mana cu fata in sus, deoarece asta ii ofera bratului jumatate din practica. El doreste o practica completa pentru a creste rezistenta la prindere, a-si intareste bratul in acea pozitie si l protejaza impotriva ranilor.
 
@@ -731,7 +731,7 @@ Nu purtati centura stransa sau va raniti coastele. Curelele nu sunt corsete. Pur
 
 Chingile fac bara sa fie mai usor de tinut infasurandu-le la incheieturi. Ele pot ajuta sa faceti Indreptari cu greutati mai mari in cazul in care priderea este factorul limitativ. Insa fac acest lucru prin a lua presiunea de pe maini si de pe muschii antebratului. Puteti slabi priza daca va bazati excesiv pe chingi.
 
-Am facut aceasta greseala. Priza m-a retinut pe Indreptari asa ca am inceput sa folosesc chingi. Apoi le-am folosit pe [Ramat cu haltera(Barbell Row)](/exercitii/ramat-cu-bara/) si Tractiuni. Apoi le-am folosit la fiecare set si exercitiu. Aceasta mi-a slabit priza - nu am putut sa stau agatat pe bara tragere timp de 10 secunde. Asa ca am renuntat sa folosesc chingi si sa-mi las priza sa creasca de la sine.
+Am facut aceasta greseala. Priza m-a retinut pe Indreptari asa ca am inceput sa folosesc chingi. Apoi le-am folosit pe [Ramat cu haltera (Barbell Row)](/exercitii/ramat-cu-bara/) si Tractiuni. Apoi le-am folosit la fiecare set si exercitiu. Aceasta mi-a slabit priza - nu am putut sa stau agatat pe bara tragere timp de 10 secunde. Asa ca am renuntat sa folosesc chingi si sa-mi las priza sa creasca de la sine.
 
 Multi oameni utilizeaza gresit chingi pentru a-si acoperi prinderea slaba in loc sa o fixeze. Este tentant sa porti chingi pe fiecare set si sa faci exercitiu fizic asa cum am facut-o eu. Dar cu cat eviti sa folosesti muschii anterbatului pentru a tine bara, cu atat devin mai slabi. Asa ca foloseste chingi doar atunci cand nu mai ai destula putere in priza ta.
 
@@ -1173,7 +1173,7 @@ COntinuati cu priza mixta. Mai ales daca aveti palmele mici sau degetele scurte.
 
 Rau. Bara va ateriza pe colturile placilor tale hex. Se va muta din aliniere. Acest lucru te obliga sa tragi bara dintr-o pozitie proasta - prea departe care provoaca dureri de spate sau prea aproape, care iti zguduie tibia. Singura solutie este resetarea intre repetitii. Dar acest lucru ingreuneaza setul.
 
-Placile hexagonale sunt facute pentru masinile incarcate cu placi, nu pentru Deadlifts sau [Ramat cu haltera(Barbell Row)](/exercitii/ramat-cu-bara/) . O parte va ateriza pe partea plana. celalalt pe colt. Bara va trebui sa se inclina inainte sau inapoi pentru a se echilibra de la colt la partea plata. Dar acest lucru indeparteaza bara din aliniament si departe de mijlocul piciorului.
+Placile hexagonale sunt facute pentru masinile incarcate cu placi, nu pentru Deadlifts sau [Ramat cu haltera (Barbell Row)](/exercitii/ramat-cu-bara/) . O parte va ateriza pe partea plana. celalalt pe colt. Bara va trebui sa se inclina inainte sau inapoi pentru a se echilibra de la colt la partea plata. Dar acest lucru indeparteaza bara din aliniament si departe de mijlocul piciorului.
 Problema este cea mai grava cand Deadlift are doua-trei placi pe o parte (100-140 kg/220-300lb). Dincolo de patru farfurii, problema se rezolva singura, deoarece colturile sunt in medie. Acest lucru ofera greutatii mai multe colturi pentru a se echilibra. Dar trebuie sa fii capabil sa Deadlift 180kg/400lb mai intai ...
 
 Coborarea barei incet nu o rezolva. Placile hexagonale vor ateriza pe colturi indiferent de. Pastrarea greutatii in aer nu functioneaza, de asemenea, nu este un Deadlift decat daca fiecare repetari incepe de la un stop mort pe podea. Tragerea dintre pinii cei mai mici din Power Rack nu functioneaza din acelasi motiv.

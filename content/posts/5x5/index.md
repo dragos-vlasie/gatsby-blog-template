@@ -55,8 +55,8 @@ Incepe cu o greutate cu care te simti comfortabil, astfel incat corpul tau sa se
 Daca nu ati facut niciodata aceste exercitii inainte, nu le-ati facut in ani de zile atunci incepeti cu cele mai mici greutati posibile. In acest fel va puteti acumula increderea si exersa o forma adecvata. Iata greutatile de pornire recomandate daca sunteti nou la ridicare...
 
 - Squat (Gennoflexiuni cu haltera), Bench Press, Presa deasupra capului cu bara : 20kg/45lb (Bara olimpica goala)
-- Indreptari : 40kg/95lb (bara goala cu o placa de 10kg/25lb pe fiecare parte)
-- Ramat cu haltera(Barbell row) : 30kg/ 65lb (bara goala cu 5kg/10lb pe fiecare parte)
+- Indreptari : 40kg/95lb (Bara goala cu o placa de 10kg/25lb pe fiecare parte)
+- Ramat cu haltera (Barbell row) : 30kg/ 65lb (Bara goala cu 5kg/10lb pe fiecare parte)
 
 5x5 inseamna ca faceti cinci seturi de cinci repetari cu aceeasi greutate. Faceti Genuflexiuni cu haltera cu 20kg de cinci ori, pune greutatea inpoi si odihneste 90 de secunde. Apoi Genuflexiuni cu haltera cu 20kg pentru cinci repetari din nou. Repetati pana cand ati facut cinci seturi de cinci (5x5). Apoi treceti la urmatorul exercitiu.
 
@@ -225,7 +225,7 @@ Rezultatul tipic la care va puteti astepta daca faceti Antrenamente 5×5 asa cum
 
 - **Mai multa incredere**. Oamenii vor observa noul tau corp si forta ta. Unii va vor complimenta. Cativa pot solicita sfaturi. Acest feedback pozitiv, respectul pe care il veti obtine si imbunatatirile pe care le vei observa asupra copului tau, te vor face sa crezi mai mult in tine. Vei deveni mai increzator.
 
-- **Mai multa rezistenta(tenacitate)**. Adaugarea in greutate la fiecare antrenament este o munca grea. Dar acest lucru va intareste mintea, precum si corpul. Iti creste toleranta la durere, tulburarile de durere si duritatea mentala. Acest lucru va face mai usor sa lucrati din greu.
+- **Mai multa rezistenta (tenacitate)**. Adaugarea in greutate la fiecare antrenament este o munca grea. Dar acest lucru va intareste mintea, precum si corpul. Iti creste toleranta la durere, tulburarile de durere si duritatea mentala. Acest lucru va face mai usor sa lucrati din greu.
 
 - **Mai mult timp**. Doar trei antrenamente pe saptamana. Fiecare dureaza 45 min in primele 12 saptamani, maxim 80 minute dupa aceea. Deci, veti petrece maxim patru ore in sala in fiecare saptamana. Celelalte 164 de ore pe care le poti petrece fara vinovatie in familie, prieteni, hobby-uri etc. Vei putea avea o viata in afara salii de sport.
 
@@ -273,7 +273,7 @@ Este doar o legenda, dar sunt multe lectii aici. A pornit usor. A adaugat greuta
 
 Antrenamente 5×5 nu foloseste vitelul. Dar functioneaza la fel. Si de aceea este atat de eficient.
 
-- **Greutati libere**. Masinile echilibreaza greutatea pentru tine. Greutatile libere(bara olimpica) te obliga sa o echilibrezi. Deci, solicita mai multi muschi, imbunatatesc echilibrul si construiesc forta care se transfera in afara salii de sport. De asemenea, miscarile sunt mai naturale si mai sigure, deoarece controlati cum se misca bara.
+- **Greutati libere**. Masinile echilibreaza greutatea pentru tine. Greutatile libere (Bara olimpica) te obliga sa o echilibrezi. Deci, solicita mai multi muschi, imbunatatesc echilibrul si construiesc forta care se transfera in afara salii de sport. De asemenea, miscarile sunt mai naturale si mai sigure, deoarece controlati cum se misca bara.
 - **Haltere**. Puteti ridica greutati mai grele cu halterele decat gantere. Si nu ai nevoie decat de o bara pentru a face toate exercitiile Antrenamente 5×5. Acest lucru face ca construirea unei sali de gimnastica sa fie ieftina si usoara.
 - **Muschi stabilizatori si secundari**. Puteti ridica mai mult facand exercitiile compuse(compound) precum [Squat (Gennoflexiuni cu haltera)](/exercitii/genuflexiuni-cu-bara/) decat alte exercitii de izolarea. Squat (Gennoflexiuni cu bara) folosesc mai multi muschi - puteti ridica mult mai multa greutate si astfel puteti face mai mult muschi si mai multa forta. Si din moment ce exercitiile compuse(compound) functioneaza mai multi muschi, nu aveti nevoie de o multime de exercitii. Trei este suficient - economiseste timp.
 - **Genoflexiuni cu haltera (Squat)**. Squat (Gennoflexiuni cu bara) este coloana vertebrala a programului. Iti functioneaza intregul corp, cu greutati mari si pe o gama lunga de miscare. Genoflexiunile cu bara sunt cel mai bun exercitiu pentru a castiga forta si muschi. Il vei uri pentru ca sunt exercitii foarte grele, dar il iubesti pentru rezultatele pe care le ofera!
@@ -344,7 +344,7 @@ Pentru Antrenamente 5×5 faci cinci exercitii - [Squat (Gennoflexiuni cu haltera
 - **[OverheadPress (Presa deasuprea capului cu bara)](/exercitii/presa-deasupra-capului-cu-haltera/)**. Antreneaza ridicarea greutatilor deasupra capului. Iti intareste umerii si totul sub bara. Cea mai grea ridicare din toate cele cinci, vei ridica cea mai mica greutate aici.
 - **[Barbell Row (Ramat cu haltera)](/exercitii/ramat-cu-bara/)**. Antreneaza tragerea greutatilor spre tine, ca la vaslit pe o barca. Iti intareste intreg spatele si bratele. Rows sunt o munca de asistenta pentru celelalte patru exercitii.
 
-Faci aceste cinci exercitii pentru ca iti permit sa ridici cea mai grea greutate. Puteti face Squat (Gennoflexiuni cu haltera) mai greu decat greutarea ta. Prin urmare,Genoflexiuni cu haltera( Squads) declanseaza mai multa forta si castiguri musculare, de aceea acest exercitiu este in program. Fiecare exercitiu va permite sa ridicati cat mai multe greutati pentru a va lucra grupurile musculare majore.
+Faci aceste cinci exercitii pentru ca iti permit sa ridici cea mai grea greutate. Puteti face Squat (Gennoflexiuni cu haltera) mai greu decat greutarea ta. Prin urmare,Genoflexiuni cu haltera ( Squads) declanseaza mai multa forta si castiguri musculare, de aceea acest exercitiu este in program. Fiecare exercitiu va permite sa ridicati cat mai multe greutati pentru a va lucra grupurile musculare majore.
 
 Utilizati o bara olimpica pentru fiecare exercitiu. Puteti incarca bara cu mult mai multe greutati decat orice alt aparat. Prin urmare, este cel mai bun instrument pentru a-ti forta corpul sa mareasca forta si muschii. Este, de asemenea, cel mai bun instrument pentru a progresa, deoarece puteti porni doar cu haltera si adaugati greutati de pana la 0,5kg fiecare antrenament.
 
@@ -356,7 +356,7 @@ Ganterele nu functioneaza pentru acest program. Nu poti [Genoflexiuni cu haltera
 
 Problemele de siguranta ii determina, de obicei, pe oameni sa prefere aparatul de presa sau ganterele. Dar nu esti primul care se gandeste la siguranta sa. Multi culturisti puternici ridica greutati mai mari decat vom ridica vreodata. Daca ar face o greseala bara incarcata i ar putea ucide. Cu toate acestea, rata de accidentare este scazuta, deoarece au rezolvat deja aceasta problema...
 
-- **Ridicati in cadrul de forta**. Alpinistii folosesc o sfoara pentru a-i prinde daca cad. StrongLifters folosesc un cadru de forta(Power rack) pentru a prinde bara daca nu reusesc sa duca repetarea la sfarrsit. Am ridicat in mare parte singur in sala de sport. Am esuat din plin, dar niciodata nu am avut probleme, deoarece am ridicat in Power Rack.
+- **Ridicati in cadrul de forta**. Alpinistii folosesc o sfoara pentru a-i prinde daca cad. StrongLifters folosesc un cadru de forta (Power rack) pentru a prinde bara daca nu reusesc sa duca repetarea la sfarrsit. Am ridicat in mare parte singur in sala de sport. Am esuat din plin, dar niciodata nu am avut probleme, deoarece am ridicat in Power Rack.
 - **Incepeti cu o greutate mica**. Nu puneti patru discurii pe bara pentru ca ati citit ca se poate sa faceti [Genoflexiuni cu haltera atat](/exercitii/genuflexiuni-cu-bara/). Inveti sa mergi inainte sa incerci sa alergi. Incepeti cu haltera goala si adaugati putina greutate la fiecare antrenament. Pe masura ce greutatea creste, la fel va creste si experienta, confortul si increderea.
 - **Folositi o forma adecvata**. Previne leziunile,accidentarile imbunatateste eficienta si creste forta si castigurile musculare. Pastrati-va coloana vertebrala neutra pentru a evita accidentarile sau durerile pentru partea inferioara a spatelui. Mentineti coapsele si picioarele aliniate pentru a evita o accidentare la genunchi. Nu va lasati umerii. Cititi ghidurile mele de exercitii LINK.
 
@@ -664,7 +664,7 @@ Oricum, primul lucru pe care il faci cand esuezi un set este sa te odihnesti mai
 
 <!-- Utilizati cronometrul incorporat in aplicatia mea. Sa zicem ca ai pierdut repriza a treia de la setul al treilea. Marcati-o ca doua repetari efectuate apasand pe cercul setat de mai multe ori la rand (repetarile vor scadea). Aplicatia va va recomanda sa va odihniti mai mult inainte de a face urmatorul set, astfel incat sa terminati setul de aceasta data. -->
 
-Verificati de doua ori daca echipamentul dvs. este setat sa prinda bara daca nu reusiti sa faceti Genoflexiuni cu haltera-urile sau ridicarile la piept. Nu doriti ca greutatea sa fie si mai grea, ingrijorandu-va de vatamarile din timpul setului. Genuflexiunile( Genoflexiuni cu haltera) si Bench press in cadrul de forta(Power Rack). Setati siguranta la inaltimea corespunzatoare, astfel incat sa poata prinde bara daca nu reusiti.
+Verificati de doua ori daca echipamentul dvs. este setat sa prinda bara daca nu reusiti sa faceti Genoflexiuni cu haltera-urile sau ridicarile la piept. Nu doriti ca greutatea sa fie si mai grea, ingrijorandu-va de vatamarile din timpul setului. Genuflexiunile( Genoflexiuni cu haltera) si Bench press in cadrul de forta (Power Rack). Setati siguranta la inaltimea corespunzatoare, astfel incat sa poata prinde bara daca nu reusiti.
 
 Daca va este frica sa nu reusiti, practicati-l de cateva ori. Alpinistii ii fac pe incepatori sa cada, astfel incat sa simta franghiile ii sustin, si sunt in siguranta in caz ca vor cadea. Vrei sa simti siguranta cadrului de forta. Stai jos, revino, apoi esueaza la jumatatea drumului. Lasa bara sa fie prinsa de catre aceste “sigurante”. Acest lucru va va oferi incredere.
 
@@ -706,7 +706,7 @@ Prin micsorarea greutatii, ii oferi corpului odihna suplimentara pentru a deveni
 
 De asemenea, micsorarea greutatii previne plafonarile mentale. In loc sa te lovesti de peretele acela de caramida, te opresti dupa trei antrenamente esuate. Reduceti greutatea in schimb si va pregatiti din nou. Greutatile vor fi usoare pentru mai multe antrenamente. Acest lucru va creste impulsul si va va readuce motivatia.
 
-Ceea ce descarcarea(deload) nu rezolva reprezinta antrenamentele esuate cauzate de antrenarea sau recuperarea necorespunzatoare. Repetarile esuate inseamna ca nu sunteti inca suficient de puternic pentru acea greutate. Exista doua motive pentru care acest lucru s-ar putea intampla...
+Ceea ce descarcarea (deload) nu rezolva reprezinta antrenamentele esuate cauzate de antrenarea sau recuperarea necorespunzatoare. Repetarile esuate inseamna ca nu sunteti inca suficient de puternic pentru acea greutate. Exista doua motive pentru care acest lucru s-ar putea intampla...
 
 - **Subantrenament**. Nu iti stresezi corpul suficient pentru a-l declansa pentru a deveni mai puternic. Exemplu: sariti antrenamente sau exercitii. Exercitiile tale nu se pot imbunatatii daca abia le faci. Stimulul trebuie sa fie acolo pentru ca al tau corp sa acumuleze forta si muschi.
 - **Supraantrenament**. Ti-ai stresat corpul mai mult decat se poate descurca (pornind prea greu sau cu prea multa greutate). Sau nu te recuperezi bine intre antrenamente - daca abia mananci sau dormi, corpul tau nu se poate recupera. Deci nu poate fi mai puternic sau sa ridice mai mult.
@@ -880,7 +880,7 @@ Si relaxeaza-te. Stresul psihologic adauga in plus stresul fizic pe care il obti
 
 Exercitiile de izolare vizeaza muschii secundari, mici, care cresc mai incet ca bratele, abdomenul(abs) si gambele(calves). Unora le place sa adauge anumite exercitii pentru acesti muschi pe Antrenamente 5×5.
 
-Exercitiile de izolare nu sunt necesara. Antrenamente 5×5 lucreaza fiecare muschi folosind exercitii compuse. Muschii bratului actioneaza pentru a trage greutatea pe bara(rows) si a o apasa pe presa(press). Ei sustin bara la fiecare exercitiu. Intre timp muschii abdomenului(abs) iti sustine coloana vertebrala. Iar gambele te stabilizeaza.
+Exercitiile de izolare nu sunt necesara. Antrenamente 5×5 lucreaza fiecare muschi folosind exercitii compuse. Muschii bratului actioneaza pentru a trage greutatea pe bara (rows) si a o apasa pe presa (press). Ei sustin bara la fiecare exercitiu. Intre timp muschii abdomenului(abs) iti sustine coloana vertebrala. Iar gambele te stabilizeaza.
 
 Prin urmare, nu este necesar sa adaugati exercitii pentru a lucra acesti muschi direct. Regula 80/20 prevede ca 80% din rezultatele dvs. vor proveni din Squat (Gennoflexiuni cu haltera), Bench, [Indreptari (Deadlifts)](/exercitii/indreptari/), Overhead Press si Rows . Aceste exercitii lucreaza o multime de muschi cu greutati mari. Prin urmare, acestea declanseaza o crestere totala a muschilor.
 
@@ -907,9 +907,9 @@ Chiar daca munca directa a bratului a fost mai buna, ridicarea de jos in sus (cu
 
 Cel mai bun exercitiu de izolare pentru bicepsul tau este “Chinupul “. Functioneaza mai bine decat Rows, deoarece strangeti bara cu palmele orientate in sus. Coatele incep drept si isi schimba pozitia ca atunci cand faci flexii cu haltera pentru biceps(bicep curl). Dar, de asemenea, va aplecati la umar pentru a trage bratul in jos - asta va implica spatele.
 
-Chinups lucreaza mai mult muschii decat flexia cu hantera(curl). De aceea, puteti ridica greutatea mai mare pe Chinups. Fiecare reprezentant te obliga sa-ti ridici propria greutate corporala. Acest lucru este usor dublu fata de ceea ce ati ridica pe o flexie de jos in sus a bicepsului(biceps curl). Chinup-urile declanseaza o crestere mai mare a bratelor, deoarece folosesc mai mult muschi cu mai multa greutate.
+Chinups lucreaza mai mult muschii decat flexia cu hantera (curl). De aceea, puteti ridica greutatea mai mare pe Chinups. Fiecare reprezentant te obliga sa-ti ridici propria greutate corporala. Acest lucru este usor dublu fata de ceea ce ati ridica pe o flexie de jos in sus a bicepsului(biceps curl). Chinup-urile declanseaza o crestere mai mare a bratelor, deoarece folosesc mai mult muschi cu mai multa greutate.
 
-Gropile(Dips) sunt cele mai bune exercitii de izolare pentru tricepsul tau. Indreptati bratele pentru a ridica greutatea, ca atunci cand lucrati concasoarele de craniu(skullcrushers). Dar iti poti implica si muschii pieptului. Cu cat lucrati mai multi muschi, cu atat puteti ridica o greutate mai mare. Dips-urile iti lucreaza muschiul triceps sa creasca mai mult decat o fac skullcrushers.
+Flotarile la paralele (Dips) sunt cele mai bune exercitii de izolare pentru tricepsul tau. Indreptati bratele pentru a ridica greutatea, ca atunci cand lucrati concasoarele de craniu(skullcrushers). Dar iti poti implica si muschii pieptului. Cu cat lucrati mai multi muschi, cu atat puteti ridica o greutate mai mare. Dips-urile iti lucreaza muschiul triceps sa creasca mai mult decat o fac skullcrushers.
 
 Daca doriti sa lucrati bratele mai mult, adaugati Dips la antrenamentul A si Chinups la antrenamentul B. Trei seturi sunt suficiente, deoarece exercitiile principale functioneaza deja cu bratele. Programul tau va arata astfel...
 
@@ -929,7 +929,7 @@ Daca doriti sa lucrati bratele mai mult, adaugati Dips la antrenamentul A si Chi
 
 Ofera-i corpului timp sa se obisnuiesti cu exercitiile suplimentare inainte de a adauga mai multe. In acest fel puteti vedea, de asemenea, impactul adaugarii Chinups si Dips asupra dezvoltarii bratului. Un obiectiv de forta bun pentru a viza pe Chinups si Dips consta in cinci repetari cu o placa/un disc mare de 20kg/45lb atarnata de talie.
 
-Dupa aceea, puteti adauga un exercitiu care implica direct bratul, daca este nevoie. Cele mai bune exercitii de izolare pentru biceps si triceps sunt Barbell Curls si Skullcrushers. Ridica(Barbell Curl) cu aceeasi bara olimpica pe care o folosesti pentru [Squat (Gennoflexiuni cu haltera)](/exercitii/genuflexiuni-cu-bara/) si Deadlift. Puteti utiliza bara EZ pentru concasoarele de craniu(skullcrushers), dar nu pentru bucle.
+Dupa aceea, puteti adauga un exercitiu care implica direct bratul, daca este nevoie. Cele mai bune exercitii de izolare pentru biceps si triceps sunt Barbell Curls si Skullcrushers. Ridica (Barbell Curl) cu aceeasi bara olimpica pe care o folosesti pentru [Squat (Gennoflexiuni cu haltera)](/exercitii/genuflexiuni-cu-bara/) si Deadlift. Puteti utiliza bara EZ pentru concasoarele de craniu(skullcrushers), dar nu pentru bucle.
 
 Doua seturi sunt suficiente pe langa toate exercitiile pe care le ai deja pentru bratele. Opt repetari este bine pentru a obtine acea extenuare/oboseala pe care o puteti cauta (in plus, veti obtine 16 repetari in total, aproape de cele 15 pe chinups/dip). De asemenea, va va impiedica sa va ridicati prea greu - acestia sunt muschi mici si deja lucreaza intens.
 
@@ -1250,7 +1250,7 @@ Obtineti discuri mici daca sala de sport nu are. Obtineti si placi fractionale, 
 
 ### Ridicarea cu o postura proasta<a id="ridicarea-cu-o-postura-proasta"></a>
 
-O postura proasta provoaca dureri si rani. Greselile cele mai periculoase sunt ridicarea cu o coloana vertebrala rotunjita(cocosat), Squatting cu genunchii prea apropiati, Benching cu coatele prea departate si arcuirea prea tare pe Overhead Press. Te poate ajuta sa obtii mai multe repetari si sa ridici mai mult. Dar iti asumi riscuri. Daca te vei rani, iti vei incetini progresul.
+O postura proasta provoaca dureri si rani. Greselile cele mai periculoase sunt ridicarea cu o coloana vertebrala rotunjita (cocosat), Squatting cu genunchii prea apropiati, Benching cu coatele prea departate si arcuirea prea tare pe Overhead Press. Te poate ajuta sa obtii mai multe repetari si sa ridici mai mult. Dar iti asumi riscuri. Daca te vei rani, iti vei incetini progresul.
 
 Forma proasta impiedica, de asemenea, castigurile de forta. Trebuie sa mutati bara intr-o linie verticala, deoarece aceasta este cea mai scurta distanta. Dar, de asemenea, implicati cat mai multi muschi.Cu cat sunt implicate mai multi muschi, cu atat puteti sa ridicati o greutate mai mare. Forma buna creste eficienta in timp ce forma proasta o reduce.
 
@@ -1270,7 +1270,7 @@ Multi oameni au fost surprinsi sa afle ca urmatorul lor antrenament cu mai multa
 
 Nu va fie teama de esec. Increderea dvs. nu poate creste daca evitati ceea ce va este frica. Toata lumea esueaza, am esuat mult. Ridicati in suportul de alimentare. Setati sigurantele. Intreaba de un loc,poate. Cateodata nu o sa reusesti, dar trebuie sa experimentezi si acest lucru. Dar nu evita esecul.
 
-Unii oameni nu adauga greutate pentru ca sunt nemultumiti de forma lor fizica. Daca corpul dvs. este perfect 80%, adaugati greutate. Atata timp cat nu comiti greseli periculoase, cum ar fi aplecarea pe spate prea mult, pozitia coatelor incorecta( prea departate) pe Bench, genunchii care sunt prea apropiati in Genuflexiuni sau va arcuiti prea mult pe OHP... continuati.
+Unii oameni nu adauga greutate pentru ca sunt nemultumiti de forma lor fizica. Daca corpul dvs. este perfect 80%, adaugati greutate. Atata timp cat nu comiti greseli periculoase, cum ar fi aplecarea pe spate prea mult, pozitia coatelor incorecta ( prea departate) pe Bench, genunchii care sunt prea apropiati in Genuflexiuni sau va arcuiti prea mult pe OHP... continuati.
 
 Greselile de 20% mai mici, incercati sa remediati in timp ce adaugati greutate. Lucreaza la postura in timpul incalzirii. Dar nu ramaneti cu greutati usoare pentru a obtine o forma perfecta. Oricine poate avea o forma perfecta cu greutati usoare. Este nevoie de forta pentru a avea o forma perfecta cu greutate mare. Trebuie sa ridici greutati mari pentru asta.
 

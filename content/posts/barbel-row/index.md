@@ -2,16 +2,16 @@
 path: '/ramat-cu-bara'
 cover: './ramat-cu-bara.jpg'
 date: '2020-07-15'
-description: 'Exercitiul compus Ramat cu bara(Barbell Row) antreneaza intreg corpul. Lucreaza atat partea superioara, cat si cea inferioara a spatelui, soldurile si bratele.'
-title: 'Ramat cu bara(Barbell Row)'
-serpTitle: 'Cel mai complet exercitiu pentru spate - Ramat cu bara(Barbell Row)'
+description: 'Exercitiul compus Ramat cu bara (Barbell Row) antreneaza intreg corpul. Lucreaza atat partea superioara, cat si cea inferioara a spatelui, soldurile si bratele.'
+title: 'Ramat cu bara (Barbell Row)'
+serpTitle: 'Cel mai complet exercitiu pentru spate - Ramat cu bara (Barbell Row)'
 tags: ['exercitii']
 published: true
 ---
 
 ## Cum sa faci „Barbell Row” (Ramat cu bara) corect: Ghidul complet<a name="Cum sa faci „Barbell Row” (Ramat cu bara) corect: Ghidul complet"></a>
 
-![How to Barbell Row](<./assets/ramat-cu-bara(barbell-row).jpg>)
+![How to Barbell Row](<./assets/ramat-cu-bara (Barbell-row).jpg>)
 _Cum sa faci Barbell Row (Ramat cu bara) corect: ridicati bara de pe jos pana la piept, in timp ce sunteti aplecati_
 
 Iata cum sa faceti Ramat cu bara in mod adecvat
@@ -28,7 +28,7 @@ Iata cum sa faceti Ramat cu bara in mod adecvat
 
 Lasati bara pe podea. Respirati. Indreptati-va spatele, inspirati adanc si tineti-va respiratia cateva momente. Apoi repetati exercitiul. Barbell Row, 5 seturi a cate 5 ridicari de bara.
 
-Exercitiul compus Ramat cu bara(Barbell Row) antreneaza intreg corpul. Lucreaza atat partea superioara, cat si cea inferioara a spatelui, soldurile si bratele. Formeaza un spate mai puternic si musculos, dar si bicepsi mai mari. Ramat cu bara(Barbell Row)este unul dintre cele mai eficiente exercitii pe care le puteti face ca sa va imbunatatiti genoflexiunile, ridicatul de greutati pe banca si cel din picioare.
+Exercitiul compus Ramat cu bara (Barbell Row) antreneaza intreg corpul. Lucreaza atat partea superioara, cat si cea inferioara a spatelui, soldurile si bratele. Formeaza un spate mai puternic si musculos, dar si bicepsi mai mari. Ramat cu bara (Barbell Row)este unul dintre cele mai eficiente exercitii pe care le puteti face ca sa va imbunatatiti genoflexiunile, ridicatul de greutati pe banca si cel din picioare.
 
 Pentru a evita durerea de spate, mentineti partea inferioara a acestuia relaxata. Nu il incordati, caci discurile coloanei vertebrale vor fi sub presiune. Nu tine bara in aer intre ture, caci spatele va va obosi si incorda. Lasati bara pe podea intre ture. Nu va incordati partea inferioara a spatelui inainte de a incepe urmatoarea tura de Barbell Row.
 
@@ -111,7 +111,7 @@ Acesta este ghidul complet pentru realizarea exercitiului Barbell Row.
 
 ## Cum se realizeaza Barbell Row<a name="Cum-se-realizeaza-Barbell-Row"></a>
 
-![How to Barbell Row with Proper Form](<./assets/how-to-ramat-cu-bara(barbell-row).jpg>)
+![How to Barbell Row with Proper Form](<./assets/how-to-ramat-cu-bara (Barbell-row).jpg>)
 _Cum se realizeaza Barbell Row. Bara sta pe podea la fiecare inceput de tura. Se intoarce pe podea dupa fiecare tura._
 
 Barbell Row se incepe cu bara pe podea. Si bara se intoare la podea dupa fiecare tura. Nu veti tine bara suspendata in aer intre repetitii (acelea sunt [Yates-Rows](#Yates-Rows)). Ridicati de pe podea ca sa aveti spatele relaxat, sa puteti respira si sa va folositi muschii soldurilor. Forma corecta a Barbell Row este asemanatoare cu Deadlift. Fiecare repetitie incepe si se termina pe podea. Aici este metoda coprecta de a face Barbell Row in 5 pasi:
@@ -124,11 +124,11 @@ Barbell Row se incepe cu bara pe podea. Si bara se intoare la podea dupa fiecare
 
 Va puteti ridica pieptul pentru a ridica greutati mai mari. Insa Barbell Row se poate transforma astfel in Deadlift. Daca pieptul este ridicat la mai mult de 15 grade fata de orizontala, atunci greutatea este prea mare. Astfel, scurtati traiectoria miscarii, pentru a fi mai usor. Este precum ati transforma genoflexiunile in jumatati de genoflexiuni. Partea superioara a spatelui este mai putin lucrata, ceea ce transforma Barbell Row intr-un exercitiu ineficient de intarire a puterii si de prelucrare a muschilor. Micsorati greutatea pentru a pastra trunchiul aplecat.
 
-## Pozitia Ramat cu bara(Barbell Row) 101<a name="Pozitia-Barbell-Row-101"></a>
+## Pozitia Ramat cu bara (Barbell Row) 101<a name="Pozitia-Barbell-Row-101"></a>
 
-![Ramat cu bara(Barbell Row) Form](<./assets/ramat-cu-bara(barbell-row)-101.jpg>)
+![Ramat cu bara (Barbell Row) Form](<./assets/ramat-cu-bara (Barbell-row)-101.jpg>)
 
-Forma corpului vostru va determina modalitatea cea mai eficienta de a realiza Ramat cu bara(Barbell Row). Persoanele cu bratele scurte trebuie sa apuce bara la o distanta mai mica a palmelor fata de restul persoanelor cu brate mai lungi, ca mine. Nu imitati tehnica altei persoane de a face Barbell Row, doar daca aveti aceeasi forma a corpului. Urmati aceste indicatii generale si adaptati-le dupa ce acumulati experienta.
+Forma corpului vostru va determina modalitatea cea mai eficienta de a realiza Ramat cu bara (Barbell Row). Persoanele cu bratele scurte trebuie sa apuce bara la o distanta mai mica a palmelor fata de restul persoanelor cu brate mai lungi, ca mine. Nu imitati tehnica altei persoane de a face Barbell Row, doar daca aveti aceeasi forma a corpului. Urmati aceste indicatii generale si adaptati-le dupa ce acumulati experienta.
 
 - **Traiectoria barei** Linie verticala de la gamba la abdomen
 - **Bara** Pe podea, deasupra talpilor, la inceputul fiecarui set
@@ -155,7 +155,7 @@ Forma corpului vostru va determina modalitatea cea mai eficienta de a realiza Ra
 
 ## Muschii lucrati<a name="Muschii-lucrati"></a>
 
-Ramat cu bara(Barbell Row) lucreaza muschi pe care in mare parte nu ii vedeti. Cand stati in fata oglinzii dimineata, prima data observati pieptul, mainile si abdomenul.De aceea majoritatea oamenilor se axeaza pe acestea si ignora muschii spatelui si ai picioarelor. De asemena duce la un fizic dezechilibrat. Un piept mare fara spate este ciudat. Exerseaza Barbell Row pentru a arata bine atat din fata, cat si din spate. Veti lucra urmatorii muschi:
+Ramat cu bara (Barbell Row) lucreaza muschi pe care in mare parte nu ii vedeti. Cand stati in fata oglinzii dimineata, prima data observati pieptul, mainile si abdomenul.De aceea majoritatea oamenilor se axeaza pe acestea si ignora muschii spatelui si ai picioarelor. De asemena duce la un fizic dezechilibrat. Un piept mare fara spate este ciudat. Exerseaza Barbell Row pentru a arata bine atat din fata, cat si din spate. Veti lucra urmatorii muschi:
 
 - **Partea superioara a spatelui** Trebuie sa trageti omoplatii inapoi in partea de sus pentru a duce bara la piept. Acest lucru exerseaza cel mai larg muschi al spatelui care va ofera o forma in v: lats-ul dvs. (latisimus dorsi). Exerseaza, de asemnea, toti muschii superiori
 
@@ -165,18 +165,18 @@ Ramat cu bara(Barbell Row) lucreaza muschi pe care in mare parte nu ii vedeti. C
 
 - **Soldurile** Muschii bazinului lucreaza cand trunchiul este ridicat, pentru a ridca bara de pe podea. Dar functioneaza, de asemenea, pentru a pastra spatele relaxat. Barbell Row ajuta la intarirea muschilor soldurilor, folosind contractii atat dinamice, cat si statice.
 
-- **Brate** Muschii antebratelor lucreaza pentru a tine bara in timp ce faceti Ramat cu bara(Barbell Row). Bicepsii lucreaza pentru ca sa va indoaie coatele si sa ridice greutatea. Tricepsul lucreaza pentru a aduce bratul catre trunchio (osul este atasat omoplatului)
+- **Brate** Muschii antebratelor lucreaza pentru a tine bara in timp ce faceti Ramat cu bara (Barbell Row). Bicepsii lucreaza pentru ca sa va indoaie coatele si sa ridice greutatea. Tricepsul lucreaza pentru a aduce bratul catre trunchio (osul este atasat omoplatului)
 
-Barbell Row este mai mult decat un exercitiu pentru muschii spatelui. Nu trebuie sa va atacati spatele din toate partile ca un antrenor cu diferite exercitii complexe. Astfel se pastreaza o greutate joasa, prin izolarea muschilor. Ramat cu bara(Barbell Row) si Deadlifts sunt mai eficiente in a va face mai puternici si sa adauge masa musculara. Va antreneaza intreg spatele cu greutati mai mari.
+Barbell Row este mai mult decat un exercitiu pentru muschii spatelui. Nu trebuie sa va atacati spatele din toate partile ca un antrenor cu diferite exercitii complexe. Astfel se pastreaza o greutate joasa, prin izolarea muschilor. Ramat cu bara (Barbell Row) si Deadlifts sunt mai eficiente in a va face mai puternici si sa adauge masa musculara. Va antreneaza intreg spatele cu greutati mai mari.
 
 ## Protejarea portiunii inferioare a spatelui<a name="Protejarea-portiunii-inferioare-a-spatelui"></a>
 
-![Ramat cu bara(Barbell Row) Form](<./assets/ramat-cu-bara(barbell-row)-101.jpg>)
+![Ramat cu bara (Barbell Row) Form](<./assets/ramat-cu-bara (Barbell-row)-101.jpg>)
 _Stanga spatele rotunjit, rau pentru coloana vertebrala , mijloc spatele arcuit excesiv, de asemenea rau pentru spate, dreapta spate relaxat, cea mai sigura modalitate pentru Barbell Row_
 
-Ramat cu bara(Barbell Row), realizat corect, ajuta la antrenarea muschilor spatelui. Facut gresit, va rani muschii inferiori ai spatelui. Nu faceti Barbell Row cu spatele rotunjit, nu-l arcuiti in exces, prin ridicarea soldurilor. Ambele modalitati constrand vertebrele si pot cauza rani precum hernia de disc. Pastrati spatele relaxat. Realizati Ramat cu bara(Barbell Row) cu o postura naturala, precum ati sta in picioare si veti fi in siguranta.
+Ramat cu bara (Barbell Row), realizat corect, ajuta la antrenarea muschilor spatelui. Facut gresit, va rani muschii inferiori ai spatelui. Nu faceti Barbell Row cu spatele rotunjit, nu-l arcuiti in exces, prin ridicarea soldurilor. Ambele modalitati constrand vertebrele si pot cauza rani precum hernia de disc. Pastrati spatele relaxat. Realizati Ramat cu bara (Barbell Row) cu o postura naturala, precum ati sta in picioare si veti fi in siguranta.
 
-Cum ramane cu forta bruta? Pastrarea trunchiul orizontal in timpul realizarii Barbell Row exercita o forte in directii opuse pe coloana vertebrala. Este o forta verticala pe de o parte si una orizontala pe cealalta parte. Aceasta forta bruta reprezinta motivul pentru care unii oameni va vor spune sa va ridicati trunchiul si sa faceti, im schimb, [Yates-Rows](#Yates-Rows). Gandirea lor este ca forta bruta exercitata in timpul realizarii Ramat cu bara(Barbell Row) poate cauza alunecari ale discurilor vertebrale – o conditie destul de grava a spatelui...
+Cum ramane cu forta bruta? Pastrarea trunchiul orizontal in timpul realizarii Barbell Row exercita o forte in directii opuse pe coloana vertebrala. Este o forta verticala pe de o parte si una orizontala pe cealalta parte. Aceasta forta bruta reprezinta motivul pentru care unii oameni va vor spune sa va ridicati trunchiul si sa faceti, im schimb, [Yates-Rows](#Yates-Rows). Gandirea lor este ca forta bruta exercitata in timpul realizarii Ramat cu bara (Barbell Row) poate cauza alunecari ale discurilor vertebrale – o conditie destul de grava a spatelui...
 
 Insa oricine a facut Barbell Row stie ca nu exista riscul de alunecare a discurilor. Muschii trunchiului se contracta cand realizati Barbell Row. Contractia muschilor inconjoara coloana vertebrala. O protejeaza de forta bruta.
 
@@ -186,13 +186,13 @@ Stresul are o reputatie proasta. Este comun ca in ziua de azi sa evitam situatii
 
 Cea mai buna modalitate de a preveni ranirea la nivelul spatelui este de a antrena muschii acestuia. Si sa exersati pastrarea spatelui relaxat in timp ce ridicati greutatile de pe podea. Exercitii precum Dumbbell Rows, Inverted Rows, Machine Rows si Pullups nu antreneaza asta. Aceste exercitii lucreaza muschii umerilor, nu si restul spatelui. Numai Deadlifts si Barbell Row fac asta. Iar daca le faceti corect, veti antrena un spate puternic si sanatos.
 
-## Videoclipuri cu Ramat cu bara(Barbell Row)<a name="Videoclipuri-cu-Barbell-Row"></a>
+## Videoclipuri cu Ramat cu bara (Barbell Row)<a name="Videoclipuri-cu-Barbell-Row"></a>
 
 Aici este un video in care puteti vedea cum se realizeza Barbell Row in mod corect.
 
 <div class="videoWrapper"><iframe title="Ramat cu bara forma corespunzatoare" width="1100" height="825" src="https://www.youtube.com/embed/RQU8wZPbioA?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
-## Tehnica Ramat cu bara(Barbell Row)<a name="Tehnica-Barbell-Row"></a>
+## Tehnica Ramat cu bara (Barbell Row)<a name="Tehnica-Barbell-Row"></a>
 
 ## Postura<a name="Postura"></a>
 
@@ -200,49 +200,49 @@ Aici este un video in care puteti vedea cum se realizeza Barbell Row in mod core
 
 ## Picioarele<a name="Picioarele"></a>
 
-![Ramat cu bara(Barbell Row) Feet Position](./assets/deadlift-feet.jpg)
+![Ramat cu bara (Barbell Row) Feet Position](./assets/deadlift-feet.jpg)
 _Puneti picioarele deasupra mijloul talpii_
 
-**Bara deasupra talpilor**. Porniti cu bara deasupra talpilor ca la Deadlifts. Acesta este punctul vostru de echilibru. Cea mai eficienta modalitate de a face Ramat cu bara(Barbell Row) este prin ridicarea barei de la podea la piept intr-o linie verticala cu punctul de echilibru. Daca bara sta deasupra degetelor, va va trage in fata si inafara punctului de echilibru. Sau se va intoarce deasupra talpii si va va lovi genunchii. Daca bara este prea apropiata de gambe, le va atinge.
+**Bara deasupra talpilor**. Porniti cu bara deasupra talpilor ca la Deadlifts. Acesta este punctul vostru de echilibru. Cea mai eficienta modalitate de a face Ramat cu bara (Barbell Row) este prin ridicarea barei de la podea la piept intr-o linie verticala cu punctul de echilibru. Daca bara sta deasupra degetelor, va va trage in fata si inafara punctului de echilibru. Sau se va intoarce deasupra talpii si va va lovi genunchii. Daca bara este prea apropiata de gambe, le va atinge.
 
 **Talpa lipita de podea**. Intreaga talpa trfebuie sa stea lipita de podea in timpul realizarii Barbell Row. Aveti echilibru mai bun atunci cand stati pe toata talpa, in comparatie cu virful degetelor sau pe calcaie. Un echilibru mai bun duce la un control mai bun asupra barei si o tehnica mai buna. Astfel, nivelul eficacitatii creste, putand ridica greutati mai mari. Nu va ridicati calcaiele, caci va veti inclina in fata. Nu va ridicati nici degetele. Pastrati-va degetele, calcaiele si toata talpa pe podea.
 
-**Degetele inafara, la 30 de grade**. Degetele trebuie sa fie in aceeasidirectie cu genunchii. Genunchii ar trebui sa fie indoiti, putin in lateral atunci cand faceti Ramat cu bara(Barbell Row). Nu pot fi in fata, caci se vor lovi de bara. Trebuie sa fie indoiti, ca sa nu stea in traiectoria barei. Indreptati-va degetele spre exterior pentru a va fi mai usor. Va veti opri din a va lovi genunchii si gambele cu bara atunci cind faceti Barbell Row, mai ales daca aveti coapse lungi, ca mine.
+**Degetele inafara, la 30 de grade**. Degetele trebuie sa fie in aceeasidirectie cu genunchii. Genunchii ar trebui sa fie indoiti, putin in lateral atunci cand faceti Ramat cu bara (Barbell Row). Nu pot fi in fata, caci se vor lovi de bara. Trebuie sa fie indoiti, ca sa nu stea in traiectoria barei. Indreptati-va degetele spre exterior pentru a va fi mai usor. Va veti opri din a va lovi genunchii si gambele cu bara atunci cind faceti Barbell Row, mai ales daca aveti coapse lungi, ca mine.
 
 ## Prinderea<a name="Prinderea"></a>
 
-![Barbell Row Grip](<./assets/ramat-cu-bara(barbell-row)-grip.jpg>>)
+![Barbell Row Grip](<./assets/ramat-cu-bara (Barbell-row)-grip.jpg>>)
 _Stanga prindere pe sub mana – periculoasa Mijloc prindere fara degetul mare – ineficienta Dreapta prindere completa – recomandata pentru Barbell Row_
 
-**Prinderea completa.** Infasurati-va degetele mari in jurul barei. Puteti strange bara mai tare cand folositi prinderea completa. Cu cat strangeti bara mai tare, cu atat se poate misca mai putin in palmele voastre. Strangerea barei ajuta, de asemenea, la contractarea mai puternica a braelor si umerilor. Include mai multi muschi. Face ca greutatea sa fie ridicata mai usor prin Ramat cu bara(Barbell Row). Prinderea fara degetul mare te poate face sa ”simti” mai bine exercitiul. Dar nu e eficienta pentru a exersa cu greutati mari.
+**Prinderea completa.** Infasurati-va degetele mari in jurul barei. Puteti strange bara mai tare cand folositi prinderea completa. Cu cat strangeti bara mai tare, cu atat se poate misca mai putin in palmele voastre. Strangerea barei ajuta, de asemenea, la contractarea mai puternica a braelor si umerilor. Include mai multi muschi. Face ca greutatea sa fie ridicata mai usor prin Ramat cu bara (Barbell Row). Prinderea fara degetul mare te poate face sa ”simti” mai bine exercitiul. Dar nu e eficienta pentru a exersa cu greutati mari.
 
 **Prindere dubla**. Apucati bara cu ambele palme indreptate spre voi. Nu o prindeti cu palmele indreptate spre tavan. Realizarea Barbell Row cu palmele in sus lucreaza mai mult bicepsii. O face, insa, prin punerea incheieturilor si a coatelor intr-o pozitie ciudata. Puteti avea cu usurinta dureri de incheieturi sau coate, mai ales daca prindeti bara departat ca la [Bench Press (Impinsul cu haltera de la piept)](/exercitii/impinsul-cu-haltera-de-la-piept/), dar cu palmele in sus. Prindeti bara ca la Deadlifts, cu ambele palme in jos.
 
 **Tineti bara jos**. Apucati bara aproape de degete, deasupra bataturilor principale. Nu o tineti in centrul palmei. Pielea mainilor se va strange intre bara si degetele voastre. Asta va durea mai tare si va provoca bataturi mai mari care se pot rupe. Tineti bara cat mai aproape de degete. Strangeti-o ca sa nu se poata misca. Aceasta modalitate poate parea mai slaba decat a tine bara in mijlocul palmei. Dati-i timp, nu va veti razgandi.
 
-**Bandajele sunt acceptate**. Nu puteti face Barbell Row cu prindere mixta, deoarece daca o palma este spre tavan, incheietura si cotul vor fi iritate. Palmele trebuie sa fie indreptate in jos. Asta inseamna ca daca greutatea este prea mare ca sa fie ridicata, singurele voastre optiuni sunt creta, bandajele sau prinderea ca de carlig. Putini oameni vor face Ramat cu bara(Barbell Row) cu greutati atat de mari incat sa fie nevoie de aceste metode. Dar daca veti face asta, folositi bandajele doar la seturile grele. Faceti fara la seturile usoare, ca sa cresteti puterea in prindere.
+**Bandajele sunt acceptate**. Nu puteti face Barbell Row cu prindere mixta, deoarece daca o palma este spre tavan, incheietura si cotul vor fi iritate. Palmele trebuie sa fie indreptate in jos. Asta inseamna ca daca greutatea este prea mare ca sa fie ridicata, singurele voastre optiuni sunt creta, bandajele sau prinderea ca de carlig. Putini oameni vor face Ramat cu bara (Barbell Row) cu greutati atat de mari incat sa fie nevoie de aceste metode. Dar daca veti face asta, folositi bandajele doar la seturile grele. Faceti fara la seturile usoare, ca sa cresteti puterea in prindere.
 
 ## Latimea prinderii<a name="Latimea-prinderii"></a>
 
-![Barbell Row Grip Width](<./assets/ramat-cu-bara(barbell-row)-grip-width.jpg>)
+![Barbell Row Grip Width](<./assets/ramat-cu-bara (Barbell-row)-grip-width.jpg>)
 _Prindeere ingusta vs larga, cu cat prinderea este mai lata, cu atat mai mult trunchiul coboara. Cu cat este mai ingusta, cu atat este mai mare posibilitatea de miscare._
 
-**Prinderea medie**. Faceti Ramat cu bara(Barbell Row) cu o prindere mai ingusta decat la [Bench Press (Impinsul cu haltera de la piept)](/exercitii/impinsul-cu-haltera-de-la-piept/), dar mai lata decat la Deadlifts. Apucand bara mai larg decat la Bench Press face ca greutatea sa fie mai usoara pentru Barbell Row. O prindere mai lata micsoreaza posibilitatea de miscare, prin inclinarea bratelor. De asemenea, coboara trunchiul si il poate pune mai jos decat linia orizontala fata de podea. Daca aveti brate scurte, o prindere larga poate cauza ca spatele sa se arcuiasca cind realizati Barbell Row.
+**Prinderea medie**. Faceti Ramat cu bara (Barbell Row) cu o prindere mai ingusta decat la [Bench Press (Impinsul cu haltera de la piept)](/exercitii/impinsul-cu-haltera-de-la-piept/), dar mai lata decat la Deadlifts. Apucand bara mai larg decat la Bench Press face ca greutatea sa fie mai usoara pentru Barbell Row. O prindere mai lata micsoreaza posibilitatea de miscare, prin inclinarea bratelor. De asemenea, coboara trunchiul si il poate pune mai jos decat linia orizontala fata de podea. Daca aveti brate scurte, o prindere larga poate cauza ca spatele sa se arcuiasca cind realizati Barbell Row.
 
-**Prinde ingust daca spatele se arcuieste**. Daca spatele vi se arcuieste, micsorati-va prinderea cand faceti Ramat cu bara(Barbell Row). Asta va pune bratele vertical fata de podea. Va ridica trunchiul si il pastreaza orizontal cu podeaua. Greutatea va fi mai mare pentru Barbell Row deoarece posibilitatea de miscare este mai mare. Insa spatele va fi in siguranta. Micsorati-va, de asemenea, postura astfel incat picioarele sa nu impinga bratele cand ridicati greutatea de pe podea.
+**Prinde ingust daca spatele se arcuieste**. Daca spatele vi se arcuieste, micsorati-va prinderea cand faceti Ramat cu bara (Barbell Row). Asta va pune bratele vertical fata de podea. Va ridica trunchiul si il pastreaza orizontal cu podeaua. Greutatea va fi mai mare pentru Barbell Row deoarece posibilitatea de miscare este mai mare. Insa spatele va fi in siguranta. Micsorati-va, de asemenea, postura astfel incat picioarele sa nu impinga bratele cand ridicati greutatea de pe podea.
 
 ## Incheieturile<a name="Incheieturile"></a>
 
-![Ramat cu bara(Barbell Row) Wrists](<./assets/ramat-cu-bara(barbell-row)-wrists.jpg>)
+![Ramat cu bara (Barbell Row) Wrists](<./assets/ramat-cu-bara (Barbell-row)-wrists.jpg>)
 _Stanga: T-Rex Rows cu incheieturile indoite. Dreapta: Barbell Rows cu incheieturile drepte._
 
-**Incheieturile drepte**. Tineti-va incheieturile drepte atunci cand faceti Ramat cu bara(Barbell Row). Infasurati degetele in jurul barei folosind o prindere completa. Strangeti-o tare pana cand articulatiile va devin albe. Blocati incheieturile in pozitie, astfel incat sa aveti o linie dreapta de la coate la incheieturile mainii la bara. Nu lasati incheieturile sa se indoaie sau o sa va doara. Daca incheieturile sunt indoaite, prinderea este larga. Daca nu, greutatea este prea grea si trisati facand T-rex Rows.
+**Incheieturile drepte**. Tineti-va incheieturile drepte atunci cand faceti Ramat cu bara (Barbell Row). Infasurati degetele in jurul barei folosind o prindere completa. Strangeti-o tare pana cand articulatiile va devin albe. Blocati incheieturile in pozitie, astfel incat sa aveti o linie dreapta de la coate la incheieturile mainii la bara. Nu lasati incheieturile sa se indoaie sau o sa va doara. Daca incheieturile sunt indoaite, prinderea este larga. Daca nu, greutatea este prea grea si trisati facand T-rex Rows.
 
 **Nu faceti T-Rex Rows**. Un mod meschin de a trisa atunci cand faci Barbell Row este sa va indoiti incheieturile, in varf. In loc sa folosesti muschii spatelui pentru a ridica greutatea la piept, folosesti incheietura mainii. O indoiti inapoi in partea de sus pentru a obtine ultimii cativa cm / inci de miscare pe care nu o pot obtine muschii spatelui. Aceasta este considerata trisare (si te face sa arati ca un T-rex). Coborati greutatea si tineti-va incheieturile drepte inainte sa va doara.
 
 ## Coatele<a name="Coatele"></a>
 
-![Ramat cu bara(Barbell Row) Elbows](<./assets/ramat-cu-bara(barbell-row)-elbows.jpg>)
+![Ramat cu bara (Barbell Row) Elbows](<./assets/ramat-cu-bara (Barbell-row)-elbows.jpg>)
 _Stanga: cotul prea ridicat, bara atinge pieptul prea sus. Mijlociu: coatele prea aproape de trunchi, ineficiente. Dreapta: coatele prabusite ca pe banca._
 
 **Blocheaza in partea de jos**. Indoirea coatelor in partea de jos scurteaza intervalul de miscare. Coboara trunchiul si poate provoca rotunjirea spatelui inferior. De asemenea, construieste obiceiuri proaste pentru Deadlifts, inceperea fiecarei repetare cu coatele blocate este cruciala pentru a evita ranirea bicepsului. Indreptati-va bratele inaintea de a face Barbell Row cu greutatea. Coatele nu se te vor durea atata timp cat nu le extindeti. Spatele dvs. va fi intr-o pozitie mai sigura.
@@ -255,7 +255,7 @@ _Stanga: cotul prea ridicat, bara atinge pieptul prea sus. Mijlociu: coatele pre
 
 ## Trunchi<a name="Trunchi"></a>
 
-![Ramat cu bara(Barbell Row) Back Angle](<./assets/ramat-cu-bara(barbell-row)-back-angle.jpg>)
+![Ramat cu bara (Barbell Row) Back Angle](<./assets/ramat-cu-bara (Barbell-row)-back-angle.jpg>)
 _Stanga: trunchiul prea sus, transforma Barbell Rows in Deadlifts. Dreapta: trunchiul mai aproape de paralela, partea superioara a spatelui face cel mai mult efort._
 
 **Orizontal**. Incepeti Barbell Rows cu trunchiul paralel cu podeaua. Ar trebui sa vezi o linie dreapta de la cap pana la solduri, privind din lateral. Aceasta linie ar trebui sa fie paralela cu podeaua. Daca soldurile sunt mai jos decat pieptul, iti indoiti prea mult picioarele. Indreptati genunchii pentru a va ridica soldurile. Daca pieptul este mai jos decat soldurile, coatele sunt indoite sau prinderea este prea larga. Fixeaza-le pentru a-ti mentine trunchiul orizontal.
@@ -268,10 +268,10 @@ _Stanga: trunchiul prea sus, transforma Barbell Rows in Deadlifts. Dreapta: trun
 
 ## Partea inferioara a spatelui<a name="Partea-inferioara-a-spatelui"></a>
 
-![Ramat cu bara(Barbell Row) Lower Back](<./assets/ramat-cu-bara(barbell-row)-lower-back.jpg>)
+![Ramat cu bara (Barbell Row) Lower Back](<./assets/ramat-cu-bara (Barbell-row)-lower-back.jpg>)
 _Mentineti-va spatele inferior neutru atunci cand faceti Barbell Row. Fara rotunjire sau arhivare in exces._
 
-**Spatele inferior neutru**. Cea mai sigura cale de a face Ramat cu bara(Barbell Row) este cu partea inferioara a spatelui neutru. Aceasta nu inseamna un spate plat. Ar trebui sa ai un arc natural in partea inferioara a spatelui cand stai. Dar nu ar trebui sa o depasiti sau sa o lasati sa se roteasca. Ambele perforeaza discurile coloanei vertebrale si pot provoca leziuni la nivelul spatelui, precum hernia de disc. Incepeti cu spatele neutral inainte de a ridica greutatea de pe podea. Pastrati-l neutru pe tot parcursul ridicarii.
+**Spatele inferior neutru**. Cea mai sigura cale de a face Ramat cu bara (Barbell Row) este cu partea inferioara a spatelui neutru. Aceasta nu inseamna un spate plat. Ar trebui sa ai un arc natural in partea inferioara a spatelui cand stai. Dar nu ar trebui sa o depasiti sau sa o lasati sa se roteasca. Ambele perforeaza discurile coloanei vertebrale si pot provoca leziuni la nivelul spatelui, precum hernia de disc. Incepeti cu spatele neutral inainte de a ridica greutatea de pe podea. Pastrati-l neutru pe tot parcursul ridicarii.
 
 **Ridica-ti pieptul**. Cea mai usoara modalitate de a-ti impiedica spatele de la rotunjire este sa iti ridici pieptul. Pregatiti-va pentru Barbell Rows si ridicati-va pieptul ridicandu-l spre tavan. Acest lucru va va indrepta partea superioara a spatelui, urmand spatele inferior. Daca o faci corect, vei avea o linie dreapta incepand de la cap pana la solduri. Incordati-va muschiul dorsal (axile) pentru a va bloca pieptul in pozitie. Apoi inspirati si ridicati.
 
@@ -285,18 +285,18 @@ _Mentineti-va spatele inferior neutru atunci cand faceti Barbell Row. Fara rotun
 
 ## Solduri<a name="Solduri"></a>
 
-![Ramat cu bara(Barbell Row) Hips](<./assets/ramat-cu-bara(barbell-row)-hips.jpg>)
+![Ramat cu bara (Barbell Row) Hips](<./assets/ramat-cu-bara (Barbell-row)-hips.jpg>)
 _Stanga: soldurile prea joase, ca in Deadlifts, te vei lovi de genunchi. Mijlociu: soldurile prea sus, spatele se va rotunji. Dreapta: soldurile inalte cu spatele orizontal._
 
 **Solduri inalte**. Incepeti Barbell Rows avand soldurile inalte. Acestea ar trebui sa fie mai sus decat la Deadlifts. Inaltimea exacta depinde de constructia dvs. si de cat de mult va indoiti genunchii. Insa trunchiul tau ar trebui sa fie paralel cu podeaua, astfel incat muschii din partea superioara a spatelui sa faca cea mai mare parte a muncii. Si picioarele tale ar trebui sa fie aproape drepte pentru a-ti tine genunchii inapoi si in afara barei. Deblocati genunchii in timp ce va mentineti soldurile ridicate.
 
 **Fara solduri joase**. Aplecarea peste solduri cu picioarele drepte poate fi dificila daca nu ai flexibilitate. Este posibil sa fiti nevoit sa va indoiti genunchii mai mult pentru a ajunge la bara. Dar tine minte, asta iti pune genunchii mai inainte. Este mai probabil sa-i lovesti cu bara, mai ales daca ai oasele coapselor mai lungi, asa ca mine. Incercati sa va mentineti soldurile cat de mult va permite flexibilitatea. Se va imbunatati pe masura ce continui sa faci Barbell Rows.
 
-**Nu trisati cu soldurile**. Va puteti folosi muschii soldului ca sa faceti Ramat cu bara(Barbell Row) cu greutati mai mari. Le puteti deschide pentru a ridica bara mai usor de pe podea. Dar trunchiul tau nu se poate ridica mai mult de 15° peste orizontala. Daca o face, greutatea este prea grea. Partea superioara a spatelui trebuie sa faca cea mai mare parte a muncii, nu soldurile. Acestea sunt Barbell Rows, nu Deadlifts. Folositi-va soldurile. Dar nu trisati. Reduceti greutatea daca trunchiul dvs. creste prea mult peste orizontala.
+**Nu trisati cu soldurile**. Va puteti folosi muschii soldului ca sa faceti Ramat cu bara (Barbell Row) cu greutati mai mari. Le puteti deschide pentru a ridica bara mai usor de pe podea. Dar trunchiul tau nu se poate ridica mai mult de 15° peste orizontala. Daca o face, greutatea este prea grea. Partea superioara a spatelui trebuie sa faca cea mai mare parte a muncii, nu soldurile. Acestea sunt Barbell Rows, nu Deadlifts. Folositi-va soldurile. Dar nu trisati. Reduceti greutatea daca trunchiul dvs. creste prea mult peste orizontala.
 
 ## Piept<a name="Piept"></a>
 
-**Ridica-ti pieptul**. Partea inferioara a spatelui este mai putin probabila sa se rotunjeasca daca faceti Ramat cu bara(Barbell Row) cu pieptul in sus. Ridicati pieptul spre tavan atunci cand incepeti. NU incordati omoplatele in partea de jos. Incordati-va muschiul dorsal (axile) in loc sa va blocati pieptul in pozitie. Pieptul tau va cadea intre repetari. Ridicati-l din nou inainte de a face urmatoarea repetare. Acesta este motivul pentru care trebuie sa faci Barbell Row incepand de la podea la fiecare repetare: dvs. puteti utiliza o forma mai buna.
+**Ridica-ti pieptul**. Partea inferioara a spatelui este mai putin probabila sa se rotunjeasca daca faceti Ramat cu bara (Barbell Row) cu pieptul in sus. Ridicati pieptul spre tavan atunci cand incepeti. NU incordati omoplatele in partea de jos. Incordati-va muschiul dorsal (axile) in loc sa va blocati pieptul in pozitie. Pieptul tau va cadea intre repetari. Ridicati-l din nou inainte de a face urmatoarea repetare. Acesta este motivul pentru care trebuie sa faci Barbell Row incepand de la podea la fiecare repetare: dvs. puteti utiliza o forma mai buna.
 
 **Loviti-va pieptul**. Ridicati bara de pe podea in fata pieptul inferior. Pozitia exacta depinde de formarea, prinderea si unghiul din spate. Insa ar trebui sa mutati bara in linie verticala, deoarece acesta este cel mai eficient mod de a face Barbell Row. Si bara ar trebui sa inceapa peste piciorul de mijloc, deoarece acesta este punctul tau de echilibru. Daca se misca intr-o curba, lovesti pieptul prea sus sau prea jos. Sau bara nu este peste piciorul tau mijlociu in partea de jos.
 
@@ -308,19 +308,19 @@ _Stanga: soldurile prea joase, ca in Deadlifts, te vei lovi de genunchi. Mijloci
 
 ## Cap<a name="Cap"></a>
 
-![Ramat cu bara(Barbell Row) Head Position](<./assets/ramat-cu-bara(barbell-row)-head.jpg>)
+![Ramat cu bara (Barbell Row) Head Position](<./assets/ramat-cu-bara (Barbell-row)-head.jpg>)
 _Nu va uitati in sus cand va faceti Barbell Row. Dar nici nu te uita la picioarele tale. Mentineti capul pe linie cu restul coloanei vertebrale._
 
 **Cap pe aceeasi linie cu trunchiul**. Nu va uitati in sus cand faceti Barbell Row. Acest lucru perforeaza discurile coloanei vertebrale din gat si il poate rani. Nu te uita la picioarele tale si nici spatele nu se va rotunji. Mentineti capul pe linie cu restul coloanei vertebrale. Din lateral, ar trebui sa ai o linie dreapta de la cap la solduri. Daca acest lucru se simte ciudat, continuati sa exersati si aveti rabdare. Te vei obisnui cu ea si vei fi mai puternic fara sa-ti faci rau.
 
-**Evitati oglinzile pentru a va verifica forma**. Este ineficient si determina o forma proasta. Nu-ti poti vedea spatele daca faci Ramat cu bara(Barbell Row) in fata oglinzilor. Si trebuie sa te uiti in sus ceea ce iti arcuieste gatul / spatele in exces si te poate rani. Si mai rau este Barbell Row deoparte cu oglinzile, iti vei intoarce capul pentru a-ti verifica forma. Acest lucru iti rasuceste gatul si il poate rani. Inregistrati-va pentru a va verifica forma. Antrenati-va departe de oglinda, pentru a evita o forma proasta.
+**Evitati oglinzile pentru a va verifica forma**. Este ineficient si determina o forma proasta. Nu-ti poti vedea spatele daca faci Ramat cu bara (Barbell Row) in fata oglinzilor. Si trebuie sa te uiti in sus ceea ce iti arcuieste gatul / spatele in exces si te poate rani. Si mai rau este Barbell Row deoparte cu oglinzile, iti vei intoarce capul pentru a-ti verifica forma. Acest lucru iti rasuceste gatul si il poate rani. Inregistrati-va pentru a va verifica forma. Antrenati-va departe de oglinda, pentru a evita o forma proasta.
 
 ## Urcarea<a name="Urcarea"></a>
 
-![Ramat cu bara(Barbell Row) Way Up](<./assets/ramat-cu-bara(barbell-row)-way-up.jpg>)
+![Ramat cu bara (Barbell Row) Way Up](<./assets/ramat-cu-bara (Barbell-row)-way-up.jpg>)
 _Faceti Barbell Row tragand bara de pe podea in timp ce trunchiul tau se ridica la 15 °. Conduceti cu coatele si trageti-le in spatele trunchiului, astfel incat bara sa va atinga pieptul._
 
-**Trage cu coatele**. Incepeti cu bratele drepte si coatele blocate. Apoi trageti bara de pe podea tragand coatele spre tavan. Continuati sa trageti pana cand acestea se termina in spatele trunchiului dvs., in partea de sus. Nu incercati sa faceti Ramat cu bara(Barbell Row) cu greutatea doar indoind bratele. Nu sunt suficient de puternici pentru a ridica greutatea. Folositi-va muschii mai puternici ai spatelui, conducand cu coatele. Trageti-le inapoi si in spatele trunchiului.
+**Trage cu coatele**. Incepeti cu bratele drepte si coatele blocate. Apoi trageti bara de pe podea tragand coatele spre tavan. Continuati sa trageti pana cand acestea se termina in spatele trunchiului dvs., in partea de sus. Nu incercati sa faceti Ramat cu bara (Barbell Row) cu greutatea doar indoind bratele. Nu sunt suficient de puternici pentru a ridica greutatea. Folositi-va muschii mai puternici ai spatelui, conducand cu coatele. Trageti-le inapoi si in spatele trunchiului.
 
 **Foloseste-ti soldurile**. Deschideti soldul cand bara iese din podea. Folositi-va muschii mai puternici ai soldului pentru a obtine impuls in partea de jos. Genunchii nu trebuie sa se miste, doar soldurile. Daca faceti acest lucru corect, trunchiul dvs. se va ridica deasupra orizontalei. Apoi va ramane acolo in timp ce coatele se misca inapoi pentru a finaliza miscarea. Nu fiti stricti mentinandu-va trunchiul orizontal. Folositi-va soldurile pentru a putea face Barbell Row cu greutati mai mari.
 
@@ -330,7 +330,7 @@ _Faceti Barbell Row tragand bara de pe podea in timp ce trunchiul tau se ridica 
 
 ## Coborarea<a name="Coborarea"></a>
 
-**Coborati repede bara**. Intoarceti rapid bara pe podea dupa te loveste/ atinge pieptul. Trebuie sa coboare mai repede decat a urcat. Nu coborati incet pentru a va simti mai mult muschii. Ii obosesti in urcare, acest lucru conteaza cel mai mult pe Barbell Rows (ca in Deadlifts). Aceasta nu inseamna ca ar trebui sa renunti la bara. Ar trebui sa o tii. Dar coborati repede. Faceti Ramat cu bara(Barbell Row) pe covorase de cauciuc pentru a reduce zgomotul placilor care lovesc podeaua.
+**Coborati repede bara**. Intoarceti rapid bara pe podea dupa te loveste/ atinge pieptul. Trebuie sa coboare mai repede decat a urcat. Nu coborati incet pentru a va simti mai mult muschii. Ii obosesti in urcare, acest lucru conteaza cel mai mult pe Barbell Rows (ca in Deadlifts). Aceasta nu inseamna ca ar trebui sa renunti la bara. Ar trebui sa o tii. Dar coborati repede. Faceti Ramat cu bara (Barbell Row) pe covorase de cauciuc pentru a reduce zgomotul placilor care lovesc podeaua.
 
 ## Respiratia<a name="Respiratia"></a>
 
@@ -340,18 +340,18 @@ _Faceti Barbell Row tragand bara de pe podea in timp ce trunchiul tau se ridica 
 
 ## Intre Repetari<a name="Intre-Repetari"></a>
 
-![Ramat cu bara(Barbell Row) Between Reps](<./assets/ramat-cu-bara(barbell-row)-floor.jpg>)
+![Ramat cu bara (Barbell Row) Between Reps](<./assets/ramat-cu-bara (Barbell-row)-floor.jpg>)
 _Nu tineti greutatea in aer in timpul repetarilor dvs. Intoarceti bara pe podea la fiecare repetare._
 
 **Greutate pe podea**. Placile trebuie sa atinga podeaua la inceputul fiecarei repetari. Trageti greutatea de pe podea la pieptul inferior, apoi intoarceti-o pe podea. Nu tineti bara in aer intre repetari. Partea inferioara a spatelui va obosi, se va rotunji si veti face Barbell Row cu o greutate mai mica. Intoarceti bara pe podea ca atunci cand faceti Deadlift. Profitati de pauza scurta intre repetari pentru a regla spatelui inferior neutrul, ridicati pieptul si respiratia.
 
-**Nu salta**. Faceti Ramat cu bara(Barbell Row) cu greutate “moarta” dintr-un popas/ punct mort. Coborati bara pana la podea. Pauza o secunda. Seteaza-ti partea inferioara a spatelui neutru, incordeaza-te si respira. Apoi ridicati greutatea la pieptul inferior. Nu saltati greutatea de pe podea. Muschii trebuie sa ridice greutatea, nu reculul de pe placi.Faceti Barbell Row cu greutate moarta ca atunci cand faceti Deadlift. Acest lucru va fi mai greu. Dar veti construi o parte superioara a spatelui mai puternica si mai musculara.
+**Nu salta**. Faceti Ramat cu bara (Barbell Row) cu greutate “moarta” dintr-un popas/ punct mort. Coborati bara pana la podea. Pauza o secunda. Seteaza-ti partea inferioara a spatelui neutru, incordeaza-te si respira. Apoi ridicati greutatea la pieptul inferior. Nu saltati greutatea de pe podea. Muschii trebuie sa ridice greutatea, nu reculul de pe placi.Faceti Barbell Row cu greutate moarta ca atunci cand faceti Deadlift. Acest lucru va fi mai greu. Dar veti construi o parte superioara a spatelui mai puternica si mai musculara.
 
 ## Probleme comune<a name="Probleme-comune"></a>
 
 ## Durere de spate inferioara<a name="Durere-de-spate-inferioara"></a>
 
-![Ramat cu bara(Barbell Row) Back Pain](<./assets/ramat-cu-bara(barbell-row)-lower-back.jpg>)
+![Ramat cu bara (Barbell Row) Back Pain](<./assets/ramat-cu-bara (Barbell-row)-lower-back.jpg>)
 _Facand Barbell Rows cu spatele neutru va preveni durerile de spate si ranile._
 
 Forma proasta este principala cauza a durerilor de spate atunci cand faci Barbell Rows. Partea inferioara a spatelui trebuie sa ramana neutra. Pastrati arcul natural in partea inferioara a spatelui ca atunci cand stai. Rotunjirea spatelui inferior este daunatoare, deoarece va perforeaza discurile spinale din fata. Arcuirea excesiva a spatelui inferior este, de asemenea, periculoasa. Iti taseaza si discurile coloanei vertebrale, dar din spate. Cea mai sigura cale de a face Barbell Row este cu spatele neutru.
@@ -362,7 +362,7 @@ Daca partea inferioara a spatelui se rotunjeste, in ciuda ridicarii pieptului, a
 
 Unii oameni au dureri de spate pentru ca arcuiesc prea mult atunci cand fac Barbell Row. Acest lucru taseaza discurile coloanei vertebrale in directia opusa decat atunci cand rotiti spatele. Hiper-extinderea spatelui inferior este daunatoare. Ramaneti neutru pastrandu-va capul neutru si incordandu-va abdomenul. Incordeaza-l ca si cum ai fi lovit cu pumnul in stomac. O centura va poate face sa va incordati abdomenul, dandu-le ceva pentru a impinge.
 
-Curelele ofera sprijinul suplimentar al spatelui inferior. Te ajuta sa ridici mai multa greutate. Dar nu va protejeaza impotriva unei forme proaste. Rotunjirea spatelui creste riscul de ranire cu sau fara centura. Leziunea poate fi mai grava cu centura din cauza greutatilor mai grele, care va permite sa ridicati. Nu faceti Ramat cu bara(Barbell Row) cu o centura pentru a compensa forma proasta. Nu mascati durerea nici cu calmante. Concentrati-va intotdeauna pe ridicare cu o forma adecvata.
+Curelele ofera sprijinul suplimentar al spatelui inferior. Te ajuta sa ridici mai multa greutate. Dar nu va protejeaza impotriva unei forme proaste. Rotunjirea spatelui creste riscul de ranire cu sau fara centura. Leziunea poate fi mai grava cu centura din cauza greutatilor mai grele, care va permite sa ridicati. Nu faceti Ramat cu bara (Barbell Row) cu o centura pentru a compensa forma proasta. Nu mascati durerea nici cu calmante. Concentrati-va intotdeauna pe ridicare cu o forma adecvata.
 
 Majoritatea oamenilor pot remedia durerile de spate inferioare imbunatatindu-si forma. Daca te doare spatele inferior si nu poti face Barbell Row, il poti inlocui in timp ce spatele se recupereaza. Doar nu va asteptati ca o forma proasta sa se imbunatateasca fara a exersa. Puteti face Inverted Rows sau Dumbbell Rows intre timp. Nu va antreneaza partea inferioara a spatelui. Dar si acesta este motivul pentru care sunt mai putin eficienti pentru cresterea fortei si a muschilor, antreneaza mai putin muschi.
 
@@ -376,10 +376,10 @@ Oasele lungi ale coapsei, ca ale mele, iti pun genunchii mai inainte si in calea
 
 ## Trisarea<a name="Trisarea"></a>
 
-![Ramat cu bara(Barbell Row) Cheating](<./assets/ramat-cu-bara(barbell-row)-cheating.jpg>)
+![Ramat cu bara (Barbell Row) Cheating](<./assets/ramat-cu-bara (Barbell-row)-cheating.jpg>)
 _Un mod ciudat de a trisa la Barbell Rows: bara merge aproape pana la capat. Dar pieptul coboara pentru a atinge bara si pentru a termina miscarea._
 
-Trisarea este tentanta cand greutatea este prea grea pentru a face Ramat cu bara(Barbell Row) cu o forma adecvata. Daca nu puteti duce bara la piept, normal este sa o socotiti ca un repetare esuata. Repetati greutatea, poate o micsorati si o ridicati din nou. Aceasta este ceea ce faci si la [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/). Nu transformati in jumatate de genuflexiune (Squats) atunci cand greutatea este prea grea pentru a cobori pana la capat. Dar la Barbell Rows este mai usor de trisat, in tot felul de moduri ciudate.
+Trisarea este tentanta cand greutatea este prea grea pentru a face Ramat cu bara (Barbell Row) cu o forma adecvata. Daca nu puteti duce bara la piept, normal este sa o socotiti ca un repetare esuata. Repetati greutatea, poate o micsorati si o ridicati din nou. Aceasta este ceea ce faci si la [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/). Nu transformati in jumatate de genuflexiune (Squats) atunci cand greutatea este prea grea pentru a cobori pana la capat. Dar la Barbell Rows este mai usor de trisat, in tot felul de moduri ciudate.
 
 Ridicarea trunchiului mai sus de 15 ° este prima modalitate de a trisa. Aceasta ridica greutatea folosind soldurile in loc de partea superioara a spatelui. De asemenea, scurteaza raza de miscare: bara iti atinge corpul mai jos, la burta. Acest lucru transforma Barbell Rows intr-un hibrid Deadlift-Shrug care iti lucreaza soldurile si prinde mai mult decat partea superioara a spatelui. Trunchiul dvs. nu trebuie sa ramana orizontal. Dar daca se ridica mai sus de 15 °, greutatea este prea grea.
 
@@ -403,7 +403,7 @@ Antrenorul Glenn Pendlay a fost primul care a recomandat Barbell Rows cu un trun
 
 Diferenta dintre Pendlay Rows si Barbell Row pe care le vedeti de obicei in salile de sport este ca bara incepe de pe podea la fiecare repetare. Nu tineti bara in aer intre repetari. Trunchiul dvs. nu se ridica nici cu 45 °. sta aproape de orizontala cu podeaua. Acest lucru face din Pendlay Row un exercitiu mai exploziv. Si iti lucreaza partea superioara a spatelui, muschiul dorsal si muschii spatelui mai tare decat Barbell Rows in stil culturism.
 
-Forma Ramat cu bara(Barbell Row) descrisa in acest ghid pe care il cititi este, prin urmare, cea de la Pendlay Rows. Este forma/ postura pe care o folosesc si o recomand pe [Antrenamente 5x5](/5x5/) . Trunchiul tau nu trebuie sa se ridice niciodata mai mult de 15 °, ci sa stea aproape de orizontala. Si bara trebuie sa inceapa si sa se intoarca la podea la fiecare repetare, ca in Deadlifts. Acest lucru este mai sigur pentru partea inferioara a spatelui, deoarece il puteti seta neutru intre repetari atunci cand bara este pe podea.
+Forma Ramat cu bara (Barbell Row) descrisa in acest ghid pe care il cititi este, prin urmare, cea de la Pendlay Rows. Este forma/ postura pe care o folosesc si o recomand pe [Antrenamente 5x5](/5x5/) . Trunchiul tau nu trebuie sa se ridice niciodata mai mult de 15 °, ci sa stea aproape de orizontala. Si bara trebuie sa inceapa si sa se intoarca la podea la fiecare repetare, ca in Deadlifts. Acest lucru este mai sigur pentru partea inferioara a spatelui, deoarece il puteti seta neutru intre repetari atunci cand bara este pe podea.
 
 Va prezint video-ul de la antrenorul Glenn Pendlay care arata cum sa faci Pendlay Row cu o forma adecvata. Observati ca bara incepe de pe podea la fiecare repetare, spre deosebire de Barbell Rows in stilul culturismului. Trunchiul ramane paralel cu podeaua si nu creste mai mult de 15 °. Partea inferioara a spatelui si a capului raman neutre, linie dreapta de la solduri la cap. Pieptul ramane ridicat, in timp ce coatele se duc in spate si in spatele trunchiului din varf.
 
@@ -483,7 +483,7 @@ Barbell Rows sunt mai sigure decat Power Clean . Multe persoane isi ranesc inche
 
 Power Cleans poate fi util sportivilor care trebuie sa fie explozivi pentru sport. Dar puteti dezvolta puterea mai rapid si mai usor prin imbunatatirea [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/) si Deadlift. Power Clean s sunt distractive daca ai petrecut timpul si efortul pentru a invata o forma adecvata. Dar daca doriti doar sa va consolidati si sa va construiti muschi, Barbell Rows sunt mai bune. Acesta este motivul pentru care Barbell Rows face parte din [Antrenamente 5x5](/5x5/) .
 
-## Ramat cu bara(Barbell Row) sunt mai sigure decar Power Cleans<a name="Barbell-Row-sunt-mai-sigure-decar-Power-Cleans"></a>
+## Ramat cu bara (Barbell Row) sunt mai sigure decar Power Cleans<a name="Barbell-Row-sunt-mai-sigure-decar-Power-Cleans"></a>
 
 Power Cleans consta in a trage bara de la podea pe umeri. Pozitia superioara este ca un Front Squat cu bratele superioare orizontale. Dar aveti nevoie de incheieturi flexibile pentru a va mentine coatele ridicate. Daca incheieturile sunt apropiate, vor purta bara si se vor apleca sub greutate. Bara va va intinde si va va rani incheieturile si coatele. Greutatea barei va poate rani umerii daca aveti probleme existente, cum ar fi umarul afectat.
 
@@ -497,11 +497,11 @@ Power Clean sunt sigure daca esti flexibil, folosesti o forma adecvata si ai ech
 
 ## Forma corecta pe Barbell Rows este mai usoara decat Power Cleans<a name="Forma-corecta-pe-Barbell-Rows-este-mai-usoara-decat-Power-Cleans"></a>
 
-Barbell Rows necesita o miscare mai lenta decat Power Cleans. Nu puteti face Power Clean lent. Trebuie sa fii exploziv. Dar cu cat ridicati mai repede, cu atat este mai greu sa controlati bara si corpul. Cu cat forma dvs. poate fi defalcata si poate provoca vatamari. Ramat cu bara(Barbell Row) este, de asemenea, o miscare mai scurta. Bara misca jumatate din distanta. Mai putine lucruri pot merge prost. Barbell Rows arata mai putin intimidant si mai complicat decat Power Clean.
+Barbell Rows necesita o miscare mai lenta decat Power Cleans. Nu puteti face Power Clean lent. Trebuie sa fii exploziv. Dar cu cat ridicati mai repede, cu atat este mai greu sa controlati bara si corpul. Cu cat forma dvs. poate fi defalcata si poate provoca vatamari. Ramat cu bara (Barbell Row) este, de asemenea, o miscare mai scurta. Bara misca jumatate din distanta. Mai putine lucruri pot merge prost. Barbell Rows arata mai putin intimidant si mai complicat decat Power Clean.
 
 Multi oameni spun ca ai nevoie de un antrenor care sa te invete cum sa faci Power Clean. Este adevarat daca doriti sa deveniti un halterofil. Este fals daca vrei doar sa devii mai puternic. Nu trebuie decat sa va intindeti, sa inregistrati imagini video, sa vizionati videoclipurile, sa comparati forma dvs. cu ele si o tona de practica. Asa am facut-o. Cu toate acestea, majoritatea oamenilor nu au timp. Vor rezultate rapide. Barbell Rows ofera rezultate mai rapide, deoarece sunt mai usor de invatat.
 
-Nu faceti Power Clean daca sunteti incepator la ridicarea greutatilor. Invata mai intai sa faci genuflexiuni [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/), [Indreptari (Deadlift)](/exercitii/indreptari/) si Ramat cu bara(Barbell Row) cu o forma corespunzatoare. Aceste miscari sunt mai lente si mai usor de invatat. Va vor invata sa va miscati soldurile in mod corespunzator si sa va pastrati spatele neutru. Dupa trei pana la sase luni, cand puteti face genuflexiuni (Squats) cu 100kg / 220lb si [Indreptari (Deadlift)](/exercitii/indreptari/) cu 140kg / 300lb, puteti incerca Power Cleans. Construiti mai intai o baza de forta si tehnica.
+Nu faceti Power Clean daca sunteti incepator la ridicarea greutatilor. Invata mai intai sa faci genuflexiuni [Genoflexiuni cu haltera](/exercitii/genuflexiuni-cu-bara/), [Indreptari (Deadlift)](/exercitii/indreptari/) si Ramat cu bara (Barbell Row) cu o forma corespunzatoare. Aceste miscari sunt mai lente si mai usor de invatat. Va vor invata sa va miscati soldurile in mod corespunzator si sa va pastrati spatele neutru. Dupa trei pana la sase luni, cand puteti face genuflexiuni (Squats) cu 100kg / 220lb si [Indreptari (Deadlift)](/exercitii/indreptari/) cu 140kg / 300lb, puteti incerca Power Cleans. Construiti mai intai o baza de forta si tehnica.
 
 ## Cele mai multe sali de sport nu au echipament pentru Power Clean<a name="Cele-mai-multe-sali-de-sport-nu-au-echipament-pentru-Power-Clean"></a>
 
@@ -545,7 +545,7 @@ Cel mai simplu si rapid mod de a construi explozivitate pentru sport este, prin 
 
 Unii oameni fac Power Clean pentru a-si creste Deadlift-ul. Exista programe oldschool no-Deadlift care pretind ca iti poti mari Deadlift-ul, fara sa faci Deadlifting. Gandirea este ca Deadlifts depasesc partea inferioara a spatelui. Prin urmare, ar trebui sa o evitati si sa faceti in schimb Power Clean si Goodmornings. Power Cleans construieste puterea de la podea. Goodmornings, intareste-ti partea inferioara a spatelui. Puse impreuna, Deadlift-ul tau creste magic ...
 
-Dar nu merge. Cel mai bun mod de a-ti creste Deadlift-ul este sa faci Deadlift. La fel cum cea mai buna modalitate de a fi mai bun la chitarei este cantand chitara. Nu te pricepi la chitara cantand la vioara. Nu conteaza daca sunt ambele instrumente cu coarde, nu sunt aceleasi lucru. Da, Deadlifts si Power Cleans sunt ambele exercitii cu haltera (barbell). Ambele exercitii implica ridicarea greutatii de pe podea. Arata la fel. Dar nu sunt aceleasi miscari.
+Dar nu merge. Cel mai bun mod de a-ti creste Deadlift-ul este sa faci Deadlift. La fel cum cea mai buna modalitate de a fi mai bun la chitarei este cantand chitara. Nu te pricepi la chitara cantand la vioara. Nu conteaza daca sunt ambele instrumente cu coarde, nu sunt aceleasi lucru. Da, Deadlifts si Power Cleans sunt ambele exercitii cu haltera (Barbell). Ambele exercitii implica ridicarea greutatii de pe podea. Arata la fel. Dar nu sunt aceleasi miscari.
 
 Specificitatea este esentiala pentru a deveni mai puternic. Pentru a te pricepe la ceva, trebuie sa exersezi. Tehnica pe Deadlifts este diferita de cea pe Power Cleans. Miscarea este mai scurta si greutatea mai grea. Deadlifters puternici au intotdeauna o tehnica excelenta, deoarece aceasta creste eficienta. Singura modalitate de a va imbunatati tehnica la [Indreptari (Deadlift)](/exercitii/indreptari/) este sa practicati Deadlifting. Nu se va imbunatati daca nu veti face niciodata Deadlift, ci Power Clean.
 

@@ -23,9 +23,9 @@ Cea mai mare parte a programului tau de antrenament de forta ar trebui sa fie fo
 - [Impinsul cu haltera de la piept (Bench Press)](/exercitii/impinsul-cu-haltera-de-la-piept/)
 - [Indreptari (Deadlift)](/exercitii/indreptari/)
 - [Presa deasupra capului (Overhead Press)](/exercitii/presa-deasupra-capului-cu-haltera/)
-- [Ramat cu haltera(Barbell Row)](/exercitii/ramat-cu-bara/)
+- [Ramat cu haltera (Barbell Row)](/exercitii/ramat-cu-bara/)
 
 Acestea sunt cele doua cele mai bune exercitii fara echipament pe care le puteti utiliza pentru a ajuta exercitiile principale cu haltera. Aceste doua exercitii suplimentare sunt excelente pentru rezistenta corpului superior si pentru a construi brate mai mari.
 
 - [Tractiuni](/exercitii/tractiuni/)
-- [Flotari la paralele(Dips)](/exercitii/flotari-la-paralele/)
+- [Flotari la paralele (Dips)](/exercitii/flotari-la-paralele/)

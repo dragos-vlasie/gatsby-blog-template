@@ -261,7 +261,7 @@ Daca aveti doar gantere sau doriti doar sa utilizati gantere, va rugam sa faceti
 
 ### Antrenamente 5×5 functioneaza cu aparate?
 
-Nu. Toate rezultatele Antrenamente 5×5 pe care le promit sunt valabile numai daca utilizati bara de greutate. Acestea nu se aplica daca ridicati in interiorul unui aparat Smith (bara este atasata la şine), cu greutate si alte aparate precum Bowflex. Utilizarea acestor echipamente va duce la rezultate ami slabe si poate la rani.
+Nu. Toate rezultatele Antrenamente 5×5 pe care le promit sunt valabile numai daca utilizati bara de greutate. Acestea nu se aplica daca ridicati in interiorul unui aparat Smith (Bara este atasata la şine), cu greutate si alte aparate precum Bowflex. Utilizarea acestor echipamente va duce la rezultate ami slabe si poate la rani.
 
 Principalul beneficiu al utilizarii halterelor, si nu a aparatelor este:
 
