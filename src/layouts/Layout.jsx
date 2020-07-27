@@ -78,6 +78,7 @@ const Layout = ({ children }) => (
           p em {
             text-align: center;
             display: block;
+            font-size: 16px;
           }
           @media (max-width: ${theme.breakpoints.s}) {
             .contents .contents-ul {
