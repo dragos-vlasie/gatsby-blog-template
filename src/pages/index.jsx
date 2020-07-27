@@ -64,7 +64,7 @@ const Index = ({ data }) => {
       </FadeIn>
       <Content input={html} page={true} />
       <CenterContainer>
-        <Button to="/program/5x5" type="primary" role="button">
+        <Button to="/5x5/" type="primary" role="button">
           Click sa acesati Programul Antrenamente 5x5
         </Button>
       </CenterContainer>

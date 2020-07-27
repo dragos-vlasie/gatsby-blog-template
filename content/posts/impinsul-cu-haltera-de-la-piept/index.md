@@ -9,8 +9,6 @@ published: true
 
 ## Cum sa faceti Impinsul cu haltera de la piept(Bench Press) cu o forma adecvata: Ghidul complet
 
-## Cum sa faceti Impinsul cu haltera de la piept(Bench Press) cu o forma adecvata:
-
 ![Impinsul cu haltera de la piept](./assets/impinsul-cu-haltera-de-la-piept.jpg)
 _Coborati bara pana la mijlocul pieptului. Apasati-o inapoi pana cand coatele sunt blocate._
 

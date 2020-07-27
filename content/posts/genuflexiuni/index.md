@@ -681,7 +681,7 @@ Nu aveti nevoie de un spotter daca faceti genuflexiuni in Power Rack. Chiar daca
 
 - **Atlas Power Rack**. Transport ieftin, dar fara transport gratuit. Recenzii de 4,8 stele pe Amazon.
 - **Fitness Rep Power Rack cu pret bun - se ocupa de 700lb si vine cu doua bare de tragere, banca plata si atasamente Dips**. 4,9 stele (au si un Rack Squat care ocupa mai putin spatiu - link ).
-- **PowerLine PPR200X**. Sustine 600lb, montanti in afara, pini/carlige de siguranta, bara pentru pullup. Dar prea scurt pentru [Overhead Press](/presa-deasupra-capului-cu-haltera/). 4,6 stele. Transport gratuit.
+- **PowerLine PPR200X**. Sustine 600lb, montanti in afara, pini/carlige de siguranta, bara pentru pullup. Dar prea scurt pentru [Overhead Press](/exercitii/presa-deasupra-capului-cu-haltera/). 4,6 stele. Transport gratuit.
 - **Pro-corp solid**. Sustine 1000lb, bara de extragere, dar costa mai mult decat PowerLine PPR200X . Rack similar cu al meu.
 - **Titan Power Rack**. Sustine 700lb, 28 gauri, bara pentru chin-up/ bara pentru tractiuni, mai putin de 300\$.
 - **Rogue R3**. Calitate inalta cu bara pentru pullup. Dar scump si trebuie sa-l ansamblezi.
