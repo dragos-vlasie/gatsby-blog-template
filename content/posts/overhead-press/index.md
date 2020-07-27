@@ -481,7 +481,7 @@ Seated Press este cel mai bun exercitiu de inlocuire a Overhead Press (Presa dea
 
 Begind-the-Neck este o presa ce incepe de deasupra gatului in loc de umeri. Stai cu bara pe gat ca si cum ai face Genuflexiuni (Squats). Impingeti bara de la gat peste cap pana cand coatele sunt blocate. Presa Klokov este o varianta cu prindere larga, numita dupa halterofilul rusesc Dmitry Klokov (video mai jos). Presa Bradford alterneaza pozitia de pornire pe fiecare repetare (gat, umeri, gat, umeri, etc).
 
-<div class="videoWrapper"><iframe width="1100" height="825" src="https://www.youtube.com/embed/RLPxwuGUZBY?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+<div class="videoWrapper"><iframe title="behind the neck press" width="1100" height="825" src="https://www.youtube.com/embed/RLPxwuGUZBY?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
 Presa de pe spatele gatului (Behind-the-Neck Press) este periculoasa pentru umeri. Ii pozitioneaza la sfarsitul intervalului de miscare. Majoritatea oamenilor nu au flexibilitatea umarului atat de buna pentru a face fata acestei pozitii. Chiar daca poti, muschii mici ai umerilor sunt intr-o pozitie proasta pentru a-i mentine impreuna. Va puteti rani cu usurinta coafa rotatorilor. Unii lifters precum Klokov par sa fie in regula. Dar s-ar putea sa nu fii atat de norocos. Continuati cu Overhead Press-ul, este mai sigur.
 
