@@ -65,7 +65,7 @@ const Index = ({ data }) => {
       <Content input={html} page={true} />
       <CenterContainer>
         <Button to="/5x5/" type="primary" role="button">
-          Click sa acesati Programul Antrenamente 5x5
+          Click sa accesati Programul Antrenamente 5x5
         </Button>
       </CenterContainer>
     </Layout>

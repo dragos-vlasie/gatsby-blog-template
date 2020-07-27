@@ -139,7 +139,7 @@ Obiectivul tau este sa adaugi greutate la fiecare antrenament. Nu veti putea fac
       <li style="list-style:none;">
          <a style="font-size:18px;" href="#recuperare">4 Recuperarea</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#febra-musclulara">4.1 Febra musclulara 
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#febra-musculara">4.1 Febra musculara 
            </a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#nutritie"> 4.2 Nutritia</a></li>
           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#proteina"> 4.3 Proteina</a></li>
@@ -763,7 +763,7 @@ Multi oameni nu ajung niciodata la Madcow 5×5. Ei fac Antrenamente 5×5 sase lu
 
 ## Recuperare<a id="recuperare"></a>
 
-## Febra musculara<a id="febra-musclulara"></a>
+## Febra musculara<a id="febra-musculara"></a>
 
 Nu este necesar sa obtineti dureri pentru a obtine rezultate pe Antrenamente 5×5. Febra muscular(DOMS) se poate intampla. Si estenuarea este posibila. Dar nu inseamna ca castigi mai multa forta si muschi din antrenamentele tale. Singurul lucru care conteaza este ca greutatea pe bara creste in timp.
 

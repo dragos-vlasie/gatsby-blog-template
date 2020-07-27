@@ -5,8 +5,8 @@ module.exports = {
   description:
     'Fii mai puternic cu exercitii compuse cum ar fi Genuflexiuni cu bara, Indreptari si Impins cu haltera de la piept. Antrenamente pentru a creste pune masa musclulara.',
   siteLanguage: 'ro', // Language Tag on <html> element
-  siteUrl: 'https://blissful-stonebraker-79eda2.netlify.com',
-  url: 'https://blissful-stonebraker-79eda2.netlify.com',
+  siteUrl: 'http://muschilagreu.ro/',
+  url: 'http://muschilagreu.ro/',
   logo: 'static/logo/body-builder', // Used for SEO
   banner: 'static/logo/body-builder.png',
   // JSONLD / Manifest

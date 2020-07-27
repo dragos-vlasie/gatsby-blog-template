@@ -65,4 +65,4 @@ Poti seta browserul tau sa stearga sau sa nu mai stocheze cookies. -->
 
 Daca ai orice intrebare legata de politica de date cu caracter personal ne poti contacta oricand prin e-mail la adresa suport@MuschiLaGreu.ro
 
-Nota: Acesta politica poate fi schimbata la orice moment fara o instintare prealabila. Este datoria ta sa o verifici inainte de a-ti introduce datele persoanale pe site.
+Nota: Acesta politica poate fi schimbata la orice moment fara o instiintare prealabila. Este datoria ta sa o verifici inainte de a-ti introduce datele persoanale pe site.
