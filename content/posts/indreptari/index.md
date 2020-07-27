@@ -35,117 +35,117 @@ Acesta este ghidul complet pentru o forma corespunzatoare pentru Deadlift(indrep
    <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#notiuni-de-baza-pentru-Indreptari"> 1 1 Notiuni de baza pentru Indreptari
+         <a style="font-size:18px;" href="#notiuni-de-baza-pentru-Indreptari"> 1 1 Notiuni de baza pentru Indreptari
 </a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-sa-deadlift">1.1 Cum sa faci Indreptari(Deadlift)</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#principalele-actiuni-la-deadlift(indreptari)">1.2 Principalele actiuni la deadlift(indreptari)</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#muschii-lucrati">1.3 Muschii lucrati</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#probleme-de-siguranta">1.4 Probleme de siguranta</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#videoclipuri">1.5 Videoclipuri</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cum-sa-deadlift">1.1 Cum sa faci Indreptari(Deadlift)</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#principalele-actiuni-la-deadlift(indreptari)">1.2 Principalele actiuni la deadlift(indreptari)</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#muschii-lucrati">1.3 Muschii lucrati</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#probleme-de-siguranta">1.4 Probleme de siguranta</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#videoclipuri">1.5 Videoclipuri</a></li>
          </ul>
       </li>
-      <li style="list-style:none;"><a style="font-size:16px;" href="#tehnica-indreptari">2 Tehnica Indreptari(Deadlifts) </a>
+      <li style="list-style:none;"><a style="font-size:18px;" href="#tehnica-indreptari">2 Tehnica Indreptari(Deadlifts) </a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pozitie">2.1 Pozitie</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#picioare">2.2 Picioare</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#prindere">2.3 Prindere</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#brate">2.4 Brate</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#bara(haltera)">2.5 Bara(Haltera)</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#soldul">2.6 Soldul</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#omoplati">2.7 Omoplati</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#umerii">2.8 Umerii</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#unghiul-spatelui">2.9 Unghiul spatelui</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#tibia">2.10 Tibia</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#genunchii">2.11 Genunchii</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#partea-inferioara-a-spatelui">2.12 Partea inferioara a spatelui</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#partea-superioara-a-spatelui">2.13 Partea superioara a spatelui</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cap">2.14 Cap</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pozitia-de-inceput">2.15 Pozitia de inceput</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#miscarea-de-ridicare">2.16 Miscarea de ridicare</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pana-jos">2.17 Pana jos</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#indreptarea(lockout)">2.18 Indreptarea(Lockout)</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#respiratie">2.19 Respiratie</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#intre-repetari">2.20 Intre Repetari</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pozitie">2.1 Pozitie</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#picioare">2.2 Picioare</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#prindere">2.3 Prindere</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#brate">2.4 Brate</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#bara(haltera)">2.5 Bara(Haltera)</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#soldul">2.6 Soldul</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#omoplati">2.7 Omoplati</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#umerii">2.8 Umerii</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#unghiul-spatelui">2.9 Unghiul spatelui</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#tibia">2.10 Tibia</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#genunchii">2.11 Genunchii</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#partea-inferioara-a-spatelui">2.12 Partea inferioara a spatelui</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#partea-superioara-a-spatelui">2.13 Partea superioara a spatelui</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cap">2.14 Cap</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pozitia-de-inceput">2.15 Pozitia de inceput</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#miscarea-de-ridicare">2.16 Miscarea de ridicare</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pana-jos">2.17 Pana jos</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#indreptarea(lockout)">2.18 Indreptarea(Lockout)</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#respiratie">2.19 Respiratie</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#intre-repetari">2.20 Intre Repetari</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#cazuri-speciale"> 3. Cazuri speciale</a>
+         <a style="font-size:18px;" href="#cazuri-speciale"> 3. Cazuri speciale</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;"> 
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#barbati-inalti">3.1 Barbati inalti</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#baietii-mari">3.2 Baietii mari</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#maini-mici">3.3 Maini mici</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#femei">3.4 Femei</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#barbati-inalti">3.1 Barbati inalti</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#baietii-mari">3.2 Baietii mari</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#maini-mici">3.3 Maini mici</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#femei">3.4 Femei</a></li>
          </ul>
       </li>
-      <li style="list-style:none;"><a style="font-size:16px;" href="#forta-pentru-mentinerea-prizei">4. Forta pentru mentinerea prizei</a>
+      <li style="list-style:none;"><a style="font-size:18px;" href="#forta-pentru-mentinerea-prizei">4. Forta pentru mentinerea prizei</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#priza-alba">4.1 Priza alba</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#priza-mixta">4.2 Priza mixta</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#priza-statica">4.3 Priza statica</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#aparatul-flexor-pentru-antebrat">4.4 Aparatul flexor pentru antebrat</a></li>
-         </ul>
-      </li>
-      <li style="list-style:none;">
-         <a style="font-size:16px;" href="#echipament">5.Echipament</a>
-         <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#creta">5.1 Creta</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pantofi">5.2 Pantofi</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#chingi(curele-pentru-priza)">5.3 Chingi(curele pentru priza)</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#manusi">5.4 Manusi</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#priza-alba">4.1 Priza alba</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#priza-mixta">4.2 Priza mixta</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#priza-statica">4.3 Priza statica</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#aparatul-flexor-pentru-antebrat">4.4 Aparatul flexor pentru antebrat</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#greseli-indreptari">6. Greseli Indreptari</a>
+         <a style="font-size:18px;" href="#echipament">5.Echipament</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#indreptarile(deadlifting-)-de-sus-in-jos">6.1 Indreptarile(Deadlifting ) de sus in jos</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#folosind-reculul-placilor-de-pe-podea">6.2 Folosind reculul placilor de pe podea</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#sa-nu-atingi-podeaua">6.3 Sa nu atingi podeaua</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#facand-genuflexiuni-in-loc-de-indreptari">6.4 Facand Genuflexiuni in loc de Indreptari</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#inclinarea-pe-spate-in-pozitia-de-sus">6.5 Inclinarea pe spate in pozitia de sus</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ridicarea-umerilor-in-pozitia-de-sus">6.6 Ridicarea umerilor in pozitia de sus</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#forma-necontrolata(smulgi-bara-de-pe-podea)">6.7 Forma necontrolata(smulgi bara de pe podea)</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#lasarea-greutatii-din-pozitia-de-sus">6.8 Lasarea greutatii din pozitia de sus</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#folosind-oglinzi">6.9 Folosind oglinzi</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#probleme-cu-indreptarile">6.10 Probleme cu Indreptarile</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#dureri-ale-spatelui-inferior">6.11 Dureri ale spatelui inferior</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#rotunjirea-spatelui-inferior">6.12 Rotunjirea spatelui inferior</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#va-arcuiti-prea-mult">6.13 Va arcuiti prea mult</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#soldurile-se-ridica-prea-repede">6.14 Soldurile se ridica prea repede</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Lovindu-ti-genunchii">6.15 Lovindu-ti genunchii</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#tibiile-invinetite">6.16 Tibiile invinetite</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#callusurile-rupte">6.17 Callusurile rupte</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#creta">5.1 Creta</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pantofi">5.2 Pantofi</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#chingi(curele-pentru-priza)">5.3 Chingi(curele pentru priza)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#manusi">5.4 Manusi</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#variatii-deadlifts">Indreptari variatii</a>
+         <a style="font-size:18px;" href="#greseli-indreptari">6. Greseli Indreptari</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#sumo-deadlift(indreptari-sumo)">7.1 Sumo Deadlift(Indreptari sumo)</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#indreptari-la-trap-bar">7.2 Indreptari la Trap bar</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#indreptari-cu-picioare-rigide">7.3 Indreptari cu picioare rigide</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#indreptari-romanesti(romanian-dedlifts)">7.4 Indreptari romanesti(romanian dedlifts)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#indreptarile(deadlifting-)-de-sus-in-jos">6.1 Indreptarile(Deadlifting ) de sus in jos</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#folosind-reculul-placilor-de-pe-podea">6.2 Folosind reculul placilor de pe podea</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#sa-nu-atingi-podeaua">6.3 Sa nu atingi podeaua</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#facand-genuflexiuni-in-loc-de-indreptari">6.4 Facand Genuflexiuni in loc de Indreptari</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#inclinarea-pe-spate-in-pozitia-de-sus">6.5 Inclinarea pe spate in pozitia de sus</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ridicarea-umerilor-in-pozitia-de-sus">6.6 Ridicarea umerilor in pozitia de sus</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#forma-necontrolata(smulgi-bara-de-pe-podea)">6.7 Forma necontrolata(smulgi bara de pe podea)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#lasarea-greutatii-din-pozitia-de-sus">6.8 Lasarea greutatii din pozitia de sus</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#folosind-oglinzi">6.9 Folosind oglinzi</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#probleme-cu-indreptarile">6.10 Probleme cu Indreptarile</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#dureri-ale-spatelui-inferior">6.11 Dureri ale spatelui inferior</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#rotunjirea-spatelui-inferior">6.12 Rotunjirea spatelui inferior</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#va-arcuiti-prea-mult">6.13 Va arcuiti prea mult</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#soldurile-se-ridica-prea-repede">6.14 Soldurile se ridica prea repede</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Lovindu-ti-genunchii">6.15 Lovindu-ti genunchii</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#tibiile-invinetite">6.16 Tibiile invinetite</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#callusurile-rupte">6.17 Callusurile rupte</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#intrebari-populare-legate-de-indreptari">8 Intrebari populare legate de Indreptari</a>
+         <a style="font-size:18px;" href="#variatii-deadlifts">Indreptari variatii</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#mi-e-teama-de-indreptari-ce-ar-trebuii-sa-fac?">8.1 Mi-e teama de Indreptari. Ce ar trebuii sa fac?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pot-sa-fac-indreptari-in-aparat-smith-?">8.2 Pot sa fac Indreptari in Aparat Smith ?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-pot-preveni-calusurile-de-la-deadlifts?">8.3 Cum pot preveni calusurile de la Deadlifts?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#de-ce-ma-dor-bratele-dupa-indreptari?">8.4 De ce ma dor bratele dupa Indreptari?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-pot-elimina-calusurile-de-pe-mainile-mele?">8.5 Cum pot elimina calusurile de pe mainile mele?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-fac-deadlift-cu-placi-hexagonale?">8.6 Cum fac Deadlift cu placi hexagonale?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ar-trebui-sa-mi-fie-durere-spatele-dupa-deadlifts?">8.7 Ar trebui sa-mi fie durere spatele dupa Deadlifts?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ce-se-intampla-daca-imi-doare-spatele-deadlifting?">8.8 Ce se intampla daca imi doare spatele Deadlifting?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#care-este-o-intindere-buna-a-spatelui-jos?">8.9 Care este o intindere buna a spatelui jos?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ar-trebui-sa-mi-genuflexiuni-deadlift-urile?">8.10 Ar trebui sa fiu in pozitia de Genuflexiuni pt Deadlift-urile?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#daca-inapoi-rotunjite-deadlift-urile-sunt-rele">8.11 Daca inapoi rotunjite Deadlift-urile sunt rele</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-imi-pot-creste-deadlift-ul?">8.13 Cum imi pot creste Deadlift-ul?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-imi-pot-imbunatati-forma?">8.14 Cum imi pot imbunatati forma?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cat-ar-trebui-sa-pot-sa-deadlift?">8.15 Cat ar trebui sa pot sa Deadlift?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#deadlift-este-bun-pentru-tine?">8.16 Deadlift este bun pentru tine?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#de-cate-ori-pe-saptamana-trebuie-sa-fac-deadlifts?">8.17 De cate ori pe saptamana trebuie sa fac Deadlifts?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cate-repetari-ale-deadlifts-ar-trebui-sa-fac?">8.18 Cate repetari ale Deadlifts ar trebui sa fac?</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#sumo-deadlift(indreptari-sumo)">7.1 Sumo Deadlift(Indreptari sumo)</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#indreptari-la-trap-bar">7.2 Indreptari la Trap bar</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#indreptari-cu-picioare-rigide">7.3 Indreptari cu picioare rigide</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#indreptari-romanesti(romanian-dedlifts)">7.4 Indreptari romanesti(romanian dedlifts)</a></li>
+         </ul>
+      </li>
+      <li style="list-style:none;">
+         <a style="font-size:18px;" href="#intrebari-populare-legate-de-indreptari">8 Intrebari populare legate de Indreptari</a>
+         <ul style="list-style:none; margin-top:0; margin-bottom:0;">
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#mi-e-teama-de-indreptari-ce-ar-trebuii-sa-fac?">8.1 Mi-e teama de Indreptari. Ce ar trebuii sa fac?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pot-sa-fac-indreptari-in-aparat-smith-?">8.2 Pot sa fac Indreptari in Aparat Smith ?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cum-pot-preveni-calusurile-de-la-deadlifts?">8.3 Cum pot preveni calusurile de la Deadlifts?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#de-ce-ma-dor-bratele-dupa-indreptari?">8.4 De ce ma dor bratele dupa Indreptari?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cum-pot-elimina-calusurile-de-pe-mainile-mele?">8.5 Cum pot elimina calusurile de pe mainile mele?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cum-fac-deadlift-cu-placi-hexagonale?">8.6 Cum fac Deadlift cu placi hexagonale?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ar-trebui-sa-mi-fie-durere-spatele-dupa-deadlifts?">8.7 Ar trebui sa-mi fie durere spatele dupa Deadlifts?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ce-se-intampla-daca-imi-doare-spatele-deadlifting?">8.8 Ce se intampla daca imi doare spatele Deadlifting?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#care-este-o-intindere-buna-a-spatelui-jos?">8.9 Care este o intindere buna a spatelui jos?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ar-trebui-sa-mi-genuflexiuni-deadlift-urile?">8.10 Ar trebui sa fiu in pozitia de Genuflexiuni pt Deadlift-urile?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#daca-inapoi-rotunjite-deadlift-urile-sunt-rele">8.11 Daca inapoi rotunjite Deadlift-urile sunt rele</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cum-imi-pot-creste-deadlift-ul?">8.13 Cum imi pot creste Deadlift-ul?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cum-imi-pot-imbunatati-forma?">8.14 Cum imi pot imbunatati forma?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cat-ar-trebui-sa-pot-sa-deadlift?">8.15 Cat ar trebui sa pot sa Deadlift?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#deadlift-este-bun-pentru-tine?">8.16 Deadlift este bun pentru tine?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#de-cate-ori-pe-saptamana-trebuie-sa-fac-deadlifts?">8.17 De cate ori pe saptamana trebuie sa fac Deadlifts?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cate-repetari-ale-deadlifts-ar-trebui-sa-fac?">8.18 Cate repetari ale Deadlifts ar trebui sa fac?</a></li>
          </ul>
       </li>
    </ul>

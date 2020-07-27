@@ -26,28 +26,28 @@ Acest ghid este despre asta. Voi impartasi obiceiuri simple de nutritie pe care 
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#reguli-simple-de-nutritie-pentru-a-deveni-mai-puternic-si-a-dezvolta-musculatura"> 1 Reguli simple de nutritie pentru a deveni mai puternic si a dezvolta musculatura</a>
+         <a style="font-size:18px;" href="#reguli-simple-de-nutritie-pentru-a-deveni-mai-puternic-si-a-dezvolta-musculatura"> 1 Reguli simple de nutritie pentru a deveni mai puternic si a dezvolta musculatura</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nutritia-poate-fi-atat-de-complicata"> Nutritia poate fi atat de complicata</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#consuma-in-mare-parte-alimente-neprocesate"> Consuma in mare parte alimente neprocesate</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#mananca-proteine-cu-fiecare-masa"> Mananca proteine cu fiecare masa </a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#mananca-legume-cu-fiecare-masa"> Mananca legume cu fiecare masa</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#limitati-raportul-de-carbohidrati"> Limitati raportul de carbohidrati</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#mancati-grasimi-bune"> Mancati grasimi bune</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#consumati-multe-lichide"> Consumati multe lichide</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nu-urmariti-perfectiunea"> Nu urmariti perfectiunea</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#nutritia-poate-fi-atat-de-complicata"> Nutritia poate fi atat de complicata</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#consuma-in-mare-parte-alimente-neprocesate"> Consuma in mare parte alimente neprocesate</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#mananca-proteine-cu-fiecare-masa"> Mananca proteine cu fiecare masa </a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#mananca-legume-cu-fiecare-masa"> Mananca legume cu fiecare masa</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#limitati-raportul-de-carbohidrati"> Limitati raportul de carbohidrati</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#mancati-grasimi-bune"> Mancati grasimi bune</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#consumati-multe-lichide"> Consumati multe lichide</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#nu-urmariti-perfectiunea"> Nu urmariti perfectiunea</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#intrebari-frecvente">2 Intrebari frecvente</a>
+         <a style="font-size:18px;" href="#intrebari-frecvente">2 Intrebari frecvente</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-              <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ce-ar-trebui-sa-mananc?"> Ce ar trebui sa mananc?</a></li>
-              <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ce-ar-trebui-sa-nu-mananc?"> Ce ar trebui sa nu mananc?</a></li>
-              <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#trebuie-sa-mananc-o-masa-la-fiecare-ore?"> Trebuie sa mananc o masa la fiecare 3 ore?</a></li>
-              <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#trebuie-sa-beau-un-shake-de-proteine-dupa-antrenament?"> Trebuie sa beau un shake de proteine dupa antrenament?</a></li>
-              <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#care-este-un-exemplu-de-plan-de-masa?"> Care este un exemplu de plan de masa?</a></li>
-              <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ar-trebui-sa-mananc-mai-putin-/-mai-mult-in-zilele-de-antrenament?"> Ar trebui sa mananc mai putin / mai mult in zilele de antrenament?</a></li>
-              <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-ar-trebui-sa-arate-lista-mea-alimentara?"> Cum ar trebui sa arate lista mea alimentara?</a></li>
+              <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ce-ar-trebui-sa-mananc?"> Ce ar trebui sa mananc?</a></li>
+              <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ce-ar-trebui-sa-nu-mananc?"> Ce ar trebui sa nu mananc?</a></li>
+              <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#trebuie-sa-mananc-o-masa-la-fiecare-ore?"> Trebuie sa mananc o masa la fiecare 3 ore?</a></li>
+              <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#trebuie-sa-beau-un-shake-de-proteine-dupa-antrenament?"> Trebuie sa beau un shake de proteine dupa antrenament?</a></li>
+              <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#care-este-un-exemplu-de-plan-de-masa?"> Care este un exemplu de plan de masa?</a></li>
+              <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ar-trebui-sa-mananc-mai-putin-/-mai-mult-in-zilele-de-antrenament?"> Ar trebui sa mananc mai putin / mai mult in zilele de antrenament?</a></li>
+              <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cum-ar-trebui-sa-arate-lista-mea-alimentara?"> Cum ar trebui sa arate lista mea alimentara?</a></li>
          </ul>
       </li>
    </ul>

@@ -41,66 +41,66 @@ Acesta este ghidul complet pentru realizarea exercitiului Barbell Row.
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#introducere"> 1 Introducere</a>
+         <a style="font-size:18px;" href="#introducere"> 1 Introducere</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Cum-se-realizeaza-Barbell-Row">1.1 Cum se realizeaza Barbell Row</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Pozitia-Barbell-Row-">1.2 Pozitia Barbell Row 101</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Muschii-lucrati">1.3 Muschii lucrati</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Protejarea-portiunii-inferioare-a-spatelui">1.4 Protejarea portiunii inferioare a spatelui</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Videoclipuri-cu-Barbell-Row">1.5 Videoclipuri cu Barbell Row</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Cum-se-realizeaza-Barbell-Row">1.1 Cum se realizeaza Barbell Row</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Pozitia-Barbell-Row-">1.2 Pozitia Barbell Row 101</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Muschii-lucrati">1.3 Muschii lucrati</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Protejarea-portiunii-inferioare-a-spatelui">1.4 Protejarea portiunii inferioare a spatelui</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Videoclipuri-cu-Barbell-Row">1.5 Videoclipuri cu Barbell Row</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#Tehnica-Barbell-Row">2. Tehnica Barbell Row</a>
+         <a style="font-size:18px;" href="#Tehnica-Barbell-Row">2. Tehnica Barbell Row</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Postura">2.1 Postura</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Picioarele">2.2 Picioarele</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Prinderea">2.3 Prinderea</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Latimea-prinderii">2.4 Latimea prinderii</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Incheieturile">2.5 Incheieturile</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Coatele">2.6 Coatele</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Trunchi">2.7 Trunchi</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Partea-inferioara-a-spatelui">2.8 Partea inferioara a spatelui</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Genunchii">2.9 Genunchii</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Solduri">2.10 Solduri</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Piept">2.11 Piept</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Umeri">2.12 Umeri</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Cap">2.13 Cap</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Urcarea">2.14 Urcarea</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Coborarea">2.15 Coborarea</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Respiratia">2.16 Respiratia</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Intre-Repetari">2.17 Intre Repetari</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Postura">2.1 Postura</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Picioarele">2.2 Picioarele</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Prinderea">2.3 Prinderea</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Latimea-prinderii">2.4 Latimea prinderii</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Incheieturile">2.5 Incheieturile</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Coatele">2.6 Coatele</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Trunchi">2.7 Trunchi</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Partea-inferioara-a-spatelui">2.8 Partea inferioara a spatelui</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Genunchii">2.9 Genunchii</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Solduri">2.10 Solduri</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Piept">2.11 Piept</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Umeri">2.12 Umeri</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Cap">2.13 Cap</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Urcarea">2.14 Urcarea</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Coborarea">2.15 Coborarea</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Respiratia">2.16 Respiratia</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Intre-Repetari">2.17 Intre Repetari</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#Probleme-comune">3. Probleme comune</a>
+         <a style="font-size:18px;" href="#Probleme-comune">3. Probleme comune</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Durere-de-spate-inferioara">3.1 Durere de spate inferioara</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Lovirea-genunchiilor">3.2 Lovirea genunchiilor</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Trisarea">3.3 Trisarea</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Durere-de-spate-inferioara">3.1 Durere de spate inferioara</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Lovirea-genunchiilor">3.2 Lovirea genunchiilor</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Trisarea">3.3 Trisarea</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#Variatii-Barbell-Row">4. Variatii Barbell Row</a>
+         <a style="font-size:18px;" href="#Variatii-Barbell-Row">4. Variatii Barbell Row</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Pendlay-Rows">4.1 Pendlay Rows</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Yates-Rows">4.2 Yates Rows</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#T-Bar-Rows">4.3 T-Bar Rows</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Machine-Rows">4.4 Machine Rows</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Dumbbell-Rows">4.5 Dumbbell Rows</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Inverted-Rows-(inversate)">4.6 Inverted Rows (inversate)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Pendlay-Rows">4.1 Pendlay Rows</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Yates-Rows">4.2 Yates Rows</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#T-Bar-Rows">4.3 T-Bar Rows</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Machine-Rows">4.4 Machine Rows</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Dumbbell-Rows">4.5 Dumbbell Rows</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Inverted-Rows-(inversate)">4.6 Inverted Rows (inversate)</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#Barbell-Row-vs-Cleans-Power">5.0 Barbell Row vs Power Clean </a>
+         <a style="font-size:18px;" href="#Barbell-Row-vs-Cleans-Power">5.0 Barbell Row vs Power Clean </a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Barbell-Row-sunt-mai-sigure-decar-Power-Cleans">5.1 Barbell Row sunt mai sigure decar Power Cleans</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Forma-corecta-pe-Barbell-Rows-este-mai-usoara-decat-Power-Cleans">5.2 Forma corecta pe Barbell Rows este mai usoara decat Power Cleans</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Cele-mai-multe-sali-de-sport-nu-au-echipament-pentru-Power-Clean">5.3 Cele mai multe sali de sport nu au echipament pentru Power Clean</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Barbell-Rows-construiesc-mai-mult-muschiul-corpului-superior">5.4 Barbell Rows construiesc mai mult muschiul corpului superior</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Exista-modalitati-mai-usoare-de-a-construi-explozivitate">5.5 Exista modalitati mai usoare de a construi explozivitate</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Power-Clean-ul-nu-va-va-imbunatati-Deadlifts-ul">5.6 Power Clean-ul nu va va imbunatati Indreptarile</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#Atunci-fara-Power-Clean?">5.7 Atunci fara Power Clean?</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Barbell-Row-sunt-mai-sigure-decar-Power-Cleans">5.1 Barbell Row sunt mai sigure decar Power Cleans</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Forma-corecta-pe-Barbell-Rows-este-mai-usoara-decat-Power-Cleans">5.2 Forma corecta pe Barbell Rows este mai usoara decat Power Cleans</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Cele-mai-multe-sali-de-sport-nu-au-echipament-pentru-Power-Clean">5.3 Cele mai multe sali de sport nu au echipament pentru Power Clean</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Barbell-Rows-construiesc-mai-mult-muschiul-corpului-superior">5.4 Barbell Rows construiesc mai mult muschiul corpului superior</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Exista-modalitati-mai-usoare-de-a-construi-explozivitate">5.5 Exista modalitati mai usoare de a construi explozivitate</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Power-Clean-ul-nu-va-va-imbunatati-Deadlifts-ul">5.6 Power Clean-ul nu va va imbunatati Indreptarile</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#Atunci-fara-Power-Clean?">5.7 Atunci fara Power Clean?</a></li>
          </ul>
       </li>
    </ul>

@@ -36,129 +36,129 @@ Acesta este ghidul complet pentru o forma corespunzatoare pe Impinsul cu haltera
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#prezentare-generala"> 1 Introducere</a>
+         <a style="font-size:18px;" href="#prezentare-generala"> 1 Introducere</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-sa-faci-bench-press">1.1. Cum sa faci Bench Press</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pregatirea-bench-press"> 1.2. Pregatirea pentru Bench Press</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#bench-press"> 1.3. Bench Press 101</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#videoclipuri"> 1.4. Videoclipuri</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cum-sa-faci-bench-press">1.1. Cum sa faci Bench Press</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pregatirea-bench-press"> 1.2. Pregatirea pentru Bench Press</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#bench-press"> 1.3. Bench Press 101</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#videoclipuri"> 1.4. Videoclipuri</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#siguranta">2 Siguranta</a>
+         <a style="font-size:18px;" href="#siguranta">2 Siguranta</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-               <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#repetari-nereusite">2.1. Repetari nereusite</a></li>
-               <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#fara-spotter"> 2.2. Fara Spotter</a></li>
-               <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#thumbless-grip"> 2.3. Priza ce nu implica degetele mari</a></li>
-               <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#leziuni-ale-umerilor"> 2.4. Leziuni ale umerilor</a></li>
+               <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#repetari-nereusite">2.1. Repetari nereusite</a></li>
+               <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#fara-spotter"> 2.2. Fara Spotter</a></li>
+               <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#thumbless-grip"> 2.3. Priza ce nu implica degetele mari</a></li>
+               <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#leziuni-ale-umerilor"> 2.4. Leziuni ale umerilor</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#technica-exercitiului">3 Tehnica exercitiului</a>
+         <a style="font-size:18px;" href="#technica-exercitiului">3 Tehnica exercitiului</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#priza">3.1. Priza</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#latimea-de-prindere/-a-prizai"> 3.2. Latimea de prindere/ a prizai</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#incheieturile"> 3.3. Incheieturile</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#coate"> 3.4. Coate</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ant
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#priza">3.1. Priza</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#latimea-de-prindere/-a-prizai"> 3.2. Latimea de prindere/ a prizai</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#incheieturile"> 3.3. Incheieturile</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#coate"> 3.4. Coate</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ant
             ebrate"> 3.5. Antebrate</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cap"> 3.6. Cap</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#umeri"> 3.7. Umeri</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#partea-superioara-a-spatelui"> 3.8. Partea superioara a spatelui</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#piept"> 3.9. Piept</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#partea-inferioara-a-spatelui"> 3.10. Partea inferioara a spatelui</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#fundul"> 3.11. Fundul</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#picioare"> 3.12. Picioare</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#deblocarea-barei"> 3.13. Deblocarea barei</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#coborarea"> 3.14. Coborarea</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pozitia-de-jos"> 3.15. Pozitia de jos(Bottom Position)</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#urcarea-revenirea"> 3.16. Urcarea/revenirea</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#blocare"> 3.17. Blocare</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#fixarea-barei"> 3.18. Fixarea barei</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#directia-barei"> 3.19. Directia barei</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#respiratia"> 3.20. Respiratia</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cap"> 3.6. Cap</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#umeri"> 3.7. Umeri</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#partea-superioara-a-spatelui"> 3.8. Partea superioara a spatelui</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#piept"> 3.9. Piept</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#partea-inferioara-a-spatelui"> 3.10. Partea inferioara a spatelui</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#fundul"> 3.11. Fundul</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#picioare"> 3.12. Picioare</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#deblocarea-barei"> 3.13. Deblocarea barei</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#coborarea"> 3.14. Coborarea</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pozitia-de-jos"> 3.15. Pozitia de jos(Bottom Position)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#urcarea-revenirea"> 3.16. Urcarea/revenirea</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#blocare"> 3.17. Blocare</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#fixarea-barei"> 3.18. Fixarea barei</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#directia-barei"> 3.19. Directia barei</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#respiratia"> 3.20. Respiratia</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#instalarea">4 Instalarea echipamentelor</a>
+         <a style="font-size:18px;" href="#instalarea">4 Instalarea echipamentelor</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-         <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#montanti">4.1. Montanti(uprights)</a></li>
-         <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#carlige-de-siguranta"> 4.2. Carlige de siguranta(safety pins)</a></li>
-         <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#banca"> 4.3. Banca</a></li>
-         <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#haltera"> 4.4. Haltera</a></li>
+         <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#montanti">4.1. Montanti(uprights)</a></li>
+         <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#carlige-de-siguranta"> 4.2. Carlige de siguranta(safety pins)</a></li>
+         <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#banca"> 4.3. Banca</a></li>
+         <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#haltera"> 4.4. Haltera</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#antrenament-singur">5 Antrenarea singur in siguranta, fara spotter</a>
+         <a style="font-size:18px;" href="#antrenament-singur">5 Antrenarea singur in siguranta, fara spotter</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#bench-press-cu-ajutorul-power-rack-ul"> 5.1. Bench Press cu ajutorul Power Rack-ul</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#avantajele-power-rack-ului"> 5.1.1. Avantajele Power Rack-ului</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#dezavantajele-power-rack-ului"> 5.1.2. Dezavantajele Power Rack-ului</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#setatu-carligele"> 5.1.4. Setati intotdeauna carligele de siguranta!</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#siguranta-fara-power-rack"> 5.2. Siguranta fara Power Rack</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#roll-of-shame"> 5.2.2. Roll of shame</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nu-incercati-sa-faceti-pr-uri!"> 5.2.4. Nu incercati sa faceti PR-uri!</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#daca-te-blochezi"> 5.2.5. Daca te blochezi</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#tip!"> tip!</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#alternative-nu-atat-de-sigure-"> 5.3. Alternative nu atat de sigure...</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#bench-smith"> 5.3.1. Aparatul Bench Press Smith</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#bench-press-cu-gantere"> 5.3.2. Bench Press cu gantere</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#spotters"> 5.3.3. Spotters</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#forma-corecta-a-bench-press"> 5.4. Forma corecta a Bench Press</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#fara-priza-ce-nu-implica-degetul-mare!"> 5.4.1. Fara priza ce nu implica degetul mare!</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#blocati-coatele"> 5.4.2. Blocati coatele</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#fixati-corespunzator"> 5.4.3. Fixati corespunzator</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#supravegheze"> 5.5. Solicitarea ajutorului este in regula</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#bench-press-cu-ajutorul-power-rack-ul"> 5.1. Bench Press cu ajutorul Power Rack-ul</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#avantajele-power-rack-ului"> 5.1.1. Avantajele Power Rack-ului</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#dezavantajele-power-rack-ului"> 5.1.2. Dezavantajele Power Rack-ului</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#setatu-carligele"> 5.1.4. Setati intotdeauna carligele de siguranta!</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#siguranta-fara-power-rack"> 5.2. Siguranta fara Power Rack</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#roll-of-shame"> 5.2.2. Roll of shame</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#nu-incercati-sa-faceti-pr-uri!"> 5.2.4. Nu incercati sa faceti PR-uri!</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#daca-te-blochezi"> 5.2.5. Daca te blochezi</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#tip!"> tip!</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#alternative-nu-atat-de-sigure-"> 5.3. Alternative nu atat de sigure...</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#bench-smith"> 5.3.1. Aparatul Bench Press Smith</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#bench-press-cu-gantere"> 5.3.2. Bench Press cu gantere</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#spotters"> 5.3.3. Spotters</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#forma-corecta-a-bench-press"> 5.4. Forma corecta a Bench Press</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#fara-priza-ce-nu-implica-degetul-mare!"> 5.4.1. Fara priza ce nu implica degetul mare!</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#blocati-coatele"> 5.4.2. Blocati coatele</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#fixati-corespunzator"> 5.4.3. Fixati corespunzator</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#supravegheze"> 5.5. Solicitarea ajutorului este in regula</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#greseli">6 Greseli</a>
+         <a style="font-size:18px;" href="#greseli">6 Greseli</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#miscarea-coatelor"> 6.2. Miscarea coatelor</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#utilizarea-aparatelor"> 6.3. Utilizarea aparatelor</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#executia"> 6.4. Executarea cu incheieturile indoite</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#fara-power-rack"> 6.5. Fara Power Rack sau Spotter</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#fixarea(racking)-barei-gresit"> 6.6. Fixarea(Racking) barei gresit</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nu-va-blocati-coatele-in-partea-de-sus"> 6.7. Nu va blocati coatele in partea de sus</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#piept-plat"> 6.8. Presarea(Bench Pressing) cu un piept plat</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ridicarea-fundului-de-pe-banca"> 6.9. Ridicarea fundului de pe banca</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#picioarele-in-aer"> 6.10. Va tineti picioarele in aer</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#miscarea-coatelor"> 6.2. Miscarea coatelor</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#utilizarea-aparatelor"> 6.3. Utilizarea aparatelor</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#executia"> 6.4. Executarea cu incheieturile indoite</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#fara-power-rack"> 6.5. Fara Power Rack sau Spotter</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#fixarea(racking)-barei-gresit"> 6.6. Fixarea(Racking) barei gresit</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#nu-va-blocati-coatele-in-partea-de-sus"> 6.7. Nu va blocati coatele in partea de sus</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#piept-plat"> 6.8. Presarea(Bench Pressing) cu un piept plat</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ridicarea-fundului-de-pe-banca"> 6.9. Ridicarea fundului de pe banca</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#picioarele-in-aer"> 6.10. Va tineti picioarele in aer</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#dureri-incheieturi">7 Dureri la nivelul incheieturii</a>
+         <a style="font-size:18px;" href="#dureri-incheieturi">7 Dureri la nivelul incheieturii</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"  href="#incheieturile-indoite">7.1.  Nu faceti Bench Press cu incheieturile indoite</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#utilizati-priza-bulldog"> 7.2. Utilizati priza “Bulldog”</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#verificati-latimea-prizei"> 7.3. Verificati latimea de prindere</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#fara-prinderi-ce-nu-implica-degetul-mare!"> 7.4. Fara prinderi ce nu implica degetul mare!</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#benzi-pentru-incheietura-mainii"> 7.5. Benzi pentru incheietura mainii</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"  href="#incheieturile-indoite">7.1.  Nu faceti Bench Press cu incheieturile indoite</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#utilizati-priza-bulldog"> 7.2. Utilizati priza “Bulldog”</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#verificati-latimea-prizei"> 7.3. Verificati latimea de prindere</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#fara-prinderi-ce-nu-implica-degetul-mare!"> 7.4. Fara prinderi ce nu implica degetul mare!</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#benzi-pentru-incheietura-mainii"> 7.5. Benzi pentru incheietura mainii</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#variatii-ale-bench-press">8 Variatii ale Bench Press-ului</a>
+         <a style="font-size:18px;" href="#variatii-ale-bench-press">8 Variatii ale Bench Press-ului</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#close-grip-bench-press"> 8.1. Close Grip Bench Press</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#incline-bench-press"> 8.2. Incline Bench Press</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#decline-bench-press"> 8.3. Decline Bench Press</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#bench-press-cu-gantere"> 8.4. Bench Press cu gantere</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#aparat-pentru-bench-press"> 8.5. Aparat pentru Bench Press</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#flotari"> 8.6. Flotari (Pushups)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#close-grip-bench-press"> 8.1. Close Grip Bench Press</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#incline-bench-press"> 8.2. Incline Bench Press</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#decline-bench-press"> 8.3. Decline Bench Press</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#bench-press-cu-gantere"> 8.4. Bench Press cu gantere</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#aparat-pentru-bench-press"> 8.5. Aparat pentru Bench Press</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#flotari"> 8.6. Flotari (Pushups)</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#imbunatatirea-bench-press">9. Imbunatatirea Bench Press-ulu</a>
+         <a style="font-size:18px;" href="#imbunatatirea-bench-press">9. Imbunatatirea Bench Press-ulu</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#faceti-bench-press-mai-des">9.1. Faceti Bench Press mai des</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#imbunatatirea-posturei">9.2. Imbunatatirea posturei/formei</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#adaugati-greutate-pe-bara">9.3. Adaugati greutate pe bara</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#reduce-repetarile">9.4. Repetari mai rare</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#microload">9.5. Incarcati cate putin</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#odihna">9.6. Pauze mai lungi intre seturi</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#incalzirea-pentru-bench-press">9.7. Imbunatatiti-va incalzirea(warmup) pentru Bench Press</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#faceti-mai-multe-repetari-inainte-de-ainspira-din-nou">9.8. Faceti mai multe repetari inainte de a inspira din nou</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#adaugati-paused-bench-pentru-ajutor">9.10. Adaugati Paused Bench pentru ajutor</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#fii-rabdator,-vezi-de-asemenea">9.11. Fii rabdator,10. Vezi de asemenea</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#faceti-bench-press-mai-des">9.1. Faceti Bench Press mai des</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#imbunatatirea-posturei">9.2. Imbunatatirea posturei/formei</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#adaugati-greutate-pe-bara">9.3. Adaugati greutate pe bara</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#reduce-repetarile">9.4. Repetari mai rare</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#microload">9.5. Incarcati cate putin</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#odihna">9.6. Pauze mai lungi intre seturi</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#incalzirea-pentru-bench-press">9.7. Imbunatatiti-va incalzirea(warmup) pentru Bench Press</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#faceti-mai-multe-repetari-inainte-de-ainspira-din-nou">9.8. Faceti mai multe repetari inainte de a inspira din nou</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#adaugati-paused-bench-pentru-ajutor">9.10. Adaugati Paused Bench pentru ajutor</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#fii-rabdator,-vezi-de-asemenea">9.11. Fii rabdator,10. Vezi de asemenea</a></li>
          </ul>
       </li>
    </ul>

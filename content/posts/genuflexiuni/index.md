@@ -37,117 +37,117 @@ Acesta este ghidul complet pentru o forma adecvata a exercitiului Genuflexiuni c
 
 <ul class="contents-ul">
   <li style="list-style:none;">
-    <a style="font-size:16px;"href="#introducere"> 1 Introducere</a>
+    <a style="font-size:18px;"href="#introducere"> 1 Introducere</a>
     <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-       <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#beneficiile-genuflexiunilor">1.1 Beneficii exercitiului</a></li>
-       <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#cum-sa-faci-genuflexiuni">1.2 Cum sa faci genuflexiuni</a></li>
-       <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#genuflexiuni-101">1.3 Genuflexiuni 101</a></li>
-       <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#adancimea-corespunzatoare">1.4 Adancimea corespunzatoare</a></li>
-       <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#muschi-lucrati">1.5 Muschi lucrati</a></li>
-       <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#videoclipuri">1.6 Clipuri video</a></li>
+       <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#beneficiile-genuflexiunilor">1.1 Beneficii exercitiului</a></li>
+       <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#cum-sa-faci-genuflexiuni">1.2 Cum sa faci genuflexiuni</a></li>
+       <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#genuflexiuni-101">1.3 Genuflexiuni 101</a></li>
+       <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#adancimea-corespunzatoare">1.4 Adancimea corespunzatoare</a></li>
+       <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#muschi-lucrati">1.5 Muschi lucrati</a></li>
+       <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#videoclipuri">1.6 Clipuri video</a></li>
     </ul>
   </li>
   <li style="list-style:none;">
-    <a style="font-size:16px;"href="#protectia"> 2 protectia</a>
+    <a style="font-size:18px;"href="#protectia"> 2 protectia</a>
     <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#protectia-genunchiului">2.1 Protejarea genunchiului</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#protejarea-partii-inferioare-a-spatelui"> 2.2 Protejarea partii inferioare a spatelui</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#esuarea-repetarilor-in-siguranta"> 2.3 Esuarea repetarilor in siguranta</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#protectia-genunchiului">2.1 Protejarea genunchiului</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#protejarea-partii-inferioare-a-spatelui"> 2.2 Protejarea partii inferioare a spatelui</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#esuarea-repetarilor-in-siguranta"> 2.3 Esuarea repetarilor in siguranta</a></li>
     </ul>
   </li>
   <li style="list-style:none;">
-    <a style="font-size:16px;"href="#technica-genuflexare"> 3 Technica-squat</a>
+    <a style="font-size:18px;"href="#technica-genuflexare"> 3 Technica-squat</a>
     <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#postura">3.1 Postura</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#picioarele-si-degetele-de-la-picioare">3.2 Picioarele si degetele de la picioare</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#genunchii">3.3 Genunchii</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#gambe">3.4 Gambe</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#solduri">3.5 Solduri</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#partea-inferioara-a-spatelui">3.6 Partea inferioara a spatelui</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#prinderea">3.7 Prinderea</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#pozitia-barei">3.8 Pozitia barei</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#coate">3.9 Coate</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#partea-superioara-a-spatelui">3.10 Partea superioara a spatelui</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#piept">3.11 Piept</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#cap">3.12 Cap</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#unghiul-de-aplecare">3.13 Unghiul spatelui</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#scoaterea-barei">3.14 Scoaterea barei de pe support/aparat</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#coborarea">3.15 Coborarea</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#baza">3.16 Baza</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#revenirea">3.17 Revenirea</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#intre-repetari">3.18 Intre repetari</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#punerea-barei-pe-suport">3.19 Punerea barei pe suport</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#traseul-barei">3.20 Traseul barei</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#respiratia">3.21 Respiratia</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#postura">3.1 Postura</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#picioarele-si-degetele-de-la-picioare">3.2 Picioarele si degetele de la picioare</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#genunchii">3.3 Genunchii</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#gambe">3.4 Gambe</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#solduri">3.5 Solduri</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#partea-inferioara-a-spatelui">3.6 Partea inferioara a spatelui</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#prinderea">3.7 Prinderea</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#pozitia-barei">3.8 Pozitia barei</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#coate">3.9 Coate</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#partea-superioara-a-spatelui">3.10 Partea superioara a spatelui</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#piept">3.11 Piept</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#cap">3.12 Cap</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#unghiul-de-aplecare">3.13 Unghiul spatelui</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#scoaterea-barei">3.14 Scoaterea barei de pe support/aparat</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#coborarea">3.15 Coborarea</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#baza">3.16 Baza</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#revenirea">3.17 Revenirea</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#intre-repetari">3.18 Intre repetari</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#punerea-barei-pe-suport">3.19 Punerea barei pe suport</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#traseul-barei">3.20 Traseul barei</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#respiratia">3.21 Respiratia</a></li>
     </ul>
   </li>
   <li style="list-style:none;">
-    <a style="font-size:16px;"href="#probleme-comune"> 4 Probleme comune</a>
+    <a style="font-size:18px;"href="#probleme-comune"> 4 Probleme comune</a>
     <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#nu-treceti-de-potizia paralela">4.1 Nu se poate ajunge intr-o pozitie paralela</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#pierderea-echilibrului">4.2 Pierderea echilibrului</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#inclinati-spre-inainte">4.3 Inclinati spre inainte</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#calcaiele-ridicate">4.4 Calcaiele ridicate</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#rotunjirea-spatelui-inferior">4.5 Rotunjirea spatelui inferior</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#genunchi-prea-apropiati">4.6 Genunchi prea apropiati</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#firca-de-a-face-genuflexiuni">4.7 Teama de a face genuflexiuni(squats)</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#nu-treceti-de-potizia paralela">4.1 Nu se poate ajunge intr-o pozitie paralela</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#pierderea-echilibrului">4.2 Pierderea echilibrului</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#inclinati-spre-inainte">4.3 Inclinati spre inainte</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#calcaiele-ridicate">4.4 Calcaiele ridicate</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#rotunjirea-spatelui-inferior">4.5 Rotunjirea spatelui inferior</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#genunchi-prea-apropiati">4.6 Genunchi prea apropiati</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#firca-de-a-face-genuflexiuni">4.7 Teama de a face genuflexiuni(squats)</a></li>
     </ul>
   </li>
   <li style="list-style:none;">
-    <a style="font-size:16px;"href="#dureri-comune"> 5 Dureri comune provocate de genuflexiuni(squats)</a>
+    <a style="font-size:18px;"href="#dureri-comune"> 5 Dureri comune provocate de genuflexiuni(squats)</a>
     <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#dureri-in-zona-gatului">5.1 Dureri in zona gatului</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#durere-la-incheietura-mainiii">5.2 Resimtirea unei dureri la nivelul incheietura mainii</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#dureri-la-nivelul-cotului">5.3 Dureri la nivelul cotului</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#dureri-in-zona-genunchilor">5.4 Dureri in zona genunchilor</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#dureri-ale-spate-inferior">5.5 Dureri ale spate inferior</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#dureri-de-sold">5.6 Durere in zona soldului</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#durerea-inghinala">5.7 Durerea inghinala</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#dureri-in-zona-gatului">5.1 Dureri in zona gatului</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#durere-la-incheietura-mainiii">5.2 Resimtirea unei dureri la nivelul incheietura mainii</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#dureri-la-nivelul-cotului">5.3 Dureri la nivelul cotului</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#dureri-in-zona-genunchilor">5.4 Dureri in zona genunchilor</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#dureri-ale-spate-inferior">5.5 Dureri ale spate inferior</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#dureri-de-sold">5.6 Durere in zona soldului</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#durerea-inghinala">5.7 Durerea inghinala</a></li>
     </ul>
   </li>
   <li style="list-style:none;">
-    <a style="font-size:16px;"href="#genuflexiuni-intindere"> 6 Squat Stretches</a>
+    <a style="font-size:18px;"href="#genuflexiuni-intindere"> 6 Squat Stretches</a>
     <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-     <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#flexibilitatea-soldului">6.1 Flexibilitatea soldului</a></li>
-     <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#flexibilitatea-umerilor">6.2 Flexibilitatea umerilor</a></li>
+     <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#flexibilitatea-soldului">6.1 Flexibilitatea soldului</a></li>
+     <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#flexibilitatea-umerilor">6.2 Flexibilitatea umerilor</a></li>
     </ul>
   </li>
   <li style="list-style:none;">
-    <a style="font-size:16px;"href="#echipamente"> 6 Echipamente</a>
+    <a style="font-size:18px;"href="#echipamente"> 6 Echipamente</a>
     <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#power-rack">7.1 Power Rack</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#alternativele-rack-power-ului">7.2 Alternativele Rack Power-ului</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#olympic-barbell">7.3 Olympic Barbell</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#power-rack">7.1 Power Rack</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#alternativele-rack-power-ului">7.2 Alternativele Rack Power-ului</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#olympic-barbell">7.3 Olympic Barbell</a></li>
     </ul>
   </li>
   <li style="list-style:none;">
-    <a style="font-size:16px;"href="#variatii-genuflexiuni"> 8 Variatiile genuflexiunilor(Squat)</a>
+    <a style="font-size:18px;"href="#variatii-genuflexiuni"> 8 Variatiile genuflexiunilor(Squat)</a>
     <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-     <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#squat-olimpic">8.1 Squat Olimpic</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#ass-to-grass-squat">8.2 Ass-to-Grass Squat</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#front-squat">8.3 Front Squat</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#box-squat">8.4 Box Squat</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#smith-squat">8.5 Smith Squat</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#leg-press">8.6 Presa pentru picioare</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#genuflexiuni-cu-ganterele">8.7 Genuflexiuni cu ganterele</a></li>
+     <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#squat-olimpic">8.1 Squat Olimpic</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#ass-to-grass-squat">8.2 Ass-to-Grass Squat</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#front-squat">8.3 Front Squat</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#box-squat">8.4 Box Squat</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#smith-squat">8.5 Smith Squat</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#leg-press">8.6 Presa pentru picioare</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#genuflexiuni-cu-ganterele">8.7 Genuflexiuni cu ganterele</a></li>
     </ul>
   </li>
   <li style="list-style:none;">
-    <a style="font-size:16px;"href="#intrebari-frecvente"> 9 Intrebari frecvente</a>
+    <a style="font-size:18px;"href="#intrebari-frecvente"> 9 Intrebari frecvente</a>
     <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#cum-pot-face-genuflexiuni-cu-mai-multa-greutate?">9.1 Cum pot face genuflexiuni cu mai multa greutate?</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#cum-imi-pot-creste-squat-max?">9.2 Cum imi pot creste Squat Max?</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#de-cate-ori-pe-saptamana-trebuie-sa-fac-genuflexiuni(squat)?">9.3 De cate ori pe saptamana trebuie sa fac genuflexiuni(Squat)?</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#cate-repetari-ar-trebui-sa-fac?">9.4 Cate repetari ar trebui sa fac?</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#cum-obtin-forma-perfecta?">9.5 Cum obtin forma perfecta?</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#daca-fac-genuflexiuni">9.6 Daca fac genuflexiuni</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#fundal-va-fi-mai-mare?"> fundal va fi mai mare?</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#daca-fac-genuflexiuni">9.7 Daca fac genuflexiuni</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#voi-fi-mai-lat-in-zona-soldurilor?">voi fi mai lat in zona soldurilor?</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#ce-pot-face-in-loc-de-squats?">9.8 Ce pot face in loc de Squats?</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#poti-face-squats-daca-ai-genunchii-nu-tocmai-intr-o-forma-buna-?">9.9 Poti face Squats daca ai genunchii nu tocmai intr-o forma buna ?</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#de-ce-imi-ies-genunchii-in-evidenta-cand-fac-genuflexiuni(squat)?">9.10 De ce imi ies genunchii in evidenta cand fac genuflexiuni(Squat)?</a></li>
-      <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;"href="#ce-se-intampla-daca-urasc-genuflexiunile(squats)?">9.11 Ce se intampla daca urasc genuflexiunile(Squats)?</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#cum-pot-face-genuflexiuni-cu-mai-multa-greutate?">9.1 Cum pot face genuflexiuni cu mai multa greutate?</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#cum-imi-pot-creste-squat-max?">9.2 Cum imi pot creste Squat Max?</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#de-cate-ori-pe-saptamana-trebuie-sa-fac-genuflexiuni(squat)?">9.3 De cate ori pe saptamana trebuie sa fac genuflexiuni(Squat)?</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#cate-repetari-ar-trebui-sa-fac?">9.4 Cate repetari ar trebui sa fac?</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#cum-obtin-forma-perfecta?">9.5 Cum obtin forma perfecta?</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#daca-fac-genuflexiuni">9.6 Daca fac genuflexiuni</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#fundal-va-fi-mai-mare?"> fundal va fi mai mare?</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#daca-fac-genuflexiuni">9.7 Daca fac genuflexiuni</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#voi-fi-mai-lat-in-zona-soldurilor?">voi fi mai lat in zona soldurilor?</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#ce-pot-face-in-loc-de-squats?">9.8 Ce pot face in loc de Squats?</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#poti-face-squats-daca-ai-genunchii-nu-tocmai-intr-o-forma-buna-?">9.9 Poti face Squats daca ai genunchii nu tocmai intr-o forma buna ?</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#de-ce-imi-ies-genunchii-in-evidenta-cand-fac-genuflexiuni(squat)?">9.10 De ce imi ies genunchii in evidenta cand fac genuflexiuni(Squat)?</a></li>
+      <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;"href="#ce-se-intampla-daca-urasc-genuflexiunile(squats)?">9.11 Ce se intampla daca urasc genuflexiunile(Squats)?</a></li>
     </ul>
   </li>
 </ul>

@@ -34,47 +34,47 @@ Acesta este ghidul complet pentru o forma corecta a tractiunilor(pull-ups). De a
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#introducere"> 1 Introducere</a>
+         <a style="font-size:18px;" href="#introducere"> 1 Introducere</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-sa-faci-tractiuni">1.1 Cum se fac tractiunile (pull-ups)</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#tractiuni-ghid"> 1.2 Tractiuni (pull-ups) 101</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#muschii-lucrati"> 1.3 Muschii lucrati</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pullups-vs-chinups"> 1.4 Pullups vs Chinups 2. Tehnica de tragere</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cum-sa-faci-tractiuni">1.1 Cum se fac tractiunile (pull-ups)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#tractiuni-ghid"> 1.2 Tractiuni (pull-ups) 101</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#muschii-lucrati"> 1.3 Muschii lucrati</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pullups-vs-chinups"> 1.4 Pullups vs Chinups 2. Tehnica de tragere</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#tehnica-tractiuni"> 2 Tehnica tractiunii</a>
+         <a style="font-size:18px;" href="#tehnica-tractiuni"> 2 Tehnica tractiunii</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#priza">2.1 Priza</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#latimea-prizei"> 2.2 Latimea prizei</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#coate"> 2.3 Cot</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#piept"> 2.4 Piept</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#umeri"> 2.5 Umeri</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cap"> 2.6 Cap</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#partea-inferioara-a-spatelui"> 2.7 Partea inferioara a spatelui</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#picioare"> 2.8 Picioare</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#partea-de-jos"> 2.9 Partea de jos(Bottom)</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ridicarea"> 2.10 Tragerea</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#varful(top)"> 2.11 Varful(Top)</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#coborarea"> 2.12 Coborarea</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#respiratia"> 2.13 Respiratia </a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#priza">2.1 Priza</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#latimea-prizei"> 2.2 Latimea prizei</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#coate"> 2.3 Cot</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#piept"> 2.4 Piept</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#umeri"> 2.5 Umeri</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cap"> 2.6 Cap</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#partea-inferioara-a-spatelui"> 2.7 Partea inferioara a spatelui</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#picioare"> 2.8 Picioare</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#partea-de-jos"> 2.9 Partea de jos(Bottom)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ridicarea"> 2.10 Tragerea</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#varful(top)"> 2.11 Varful(Top)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#coborarea"> 2.12 Coborarea</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#respiratia"> 2.13 Respiratia </a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#probleme-comune"> 3 Probleme comune</a>
+         <a style="font-size:18px;" href="#probleme-comune"> 3 Probleme comune</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#a-trisa">3.1 A trisa(Cheating)</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nu-pot-face-nicio-tractiune(pull-ups)"> 3.2 Nu pot face o singura tractiuni (pull-ups) </a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#prea-greu(gras)-pentru-tractiuni"> 3.3 Prea greu pentru tractiuni</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#a-trisa">3.1 A trisa(Cheating)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#nu-pot-face-nicio-tractiune(pull-ups)"> 3.2 Nu pot face o singura tractiuni (pull-ups) </a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#prea-greu(gras)-pentru-tractiuni"> 3.3 Prea greu pentru tractiuni</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#variatii-de-tractiuni(pull-ups)">4 Variatii</a>
+         <a style="font-size:18px;" href="#variatii-de-tractiuni(pull-ups)">4 Variatii</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#chinups">4.1 Chinups</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pullups-chinups-cu-greutati"> 4.2 Pullups / Chinups cu greutati</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#assisted-pullup-machine"> 4.3 Assisted Pullup Machine</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#lat-pulldowns"> 4.4 Lat Pulldowns</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#chinups">4.1 Chinups</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pullups-chinups-cu-greutati"> 4.2 Pullups / Chinups cu greutati</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#assisted-pullup-machine"> 4.3 Assisted Pullup Machine</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#lat-pulldowns"> 4.4 Lat Pulldowns</a></li>
          </ul>
       </li>
    </ul>

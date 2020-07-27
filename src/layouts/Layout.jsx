@@ -67,7 +67,7 @@ const Layout = ({ children }) => (
           }
           .overlay a {
             display: inline-block;
-            padding: 13px 0;
+            padding: 9px 0;
           }
           details {
             display: none;

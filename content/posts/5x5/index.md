@@ -101,91 +101,91 @@ Obiectivul tau este sa adaugi greutate la fiecare antrenament. Nu veti putea fac
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#prezentare-generala">1. Prezentare generala</a>
+         <a style="font-size:18px;" href="#prezentare-generala">1. Prezentare generala</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#prezentare-generala">1.1 Rezultate tipice</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#muschi-lucrati"> 1.2 Muschi lucrati</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#de-ce-functioneaza-acest-program?"> 1.3 De ce functioneaza acest program?</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#istoria-antrenamente"> 1.4 Istoria Antrenamente 5×5</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#prezentare-generala">1.1 Rezultate tipice</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#muschi-lucrati"> 1.2 Muschi lucrati</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#de-ce-functioneaza-acest-program?"> 1.3 De ce functioneaza acest program?</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#istoria-antrenamente"> 1.4 Istoria Antrenamente 5×5</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#program">Program</a>
+         <a style="font-size:18px;" href="#program">Program</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#antrenamente">2.1 Antrenamente</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#exercitii"> 2.2 Exercitii</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ordinea-exercitiilor"> 2.3 Ordinea exercitiilor</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#seturi-si-repetari"> 2.4 Seturi si Repetari</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pauza-intre-seturi"> 2.5 Pauza intre seturi</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#tempo-ul-ridicarii"> 2.6 Tempo-ul ridicarii</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#respiratie"> 2.7 Respiratie</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#zile-de-odihna"> 2.8 Zile de odihna</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#progresie"> 2.9 Progresie</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#greutatea-cu-care-sa-incepi"> 2.10 Greutatea cu care sa incepi</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#incalzire"> 2.11 Incalzire</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pauzele"> 2.12 Pauzele</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#obiectivele-de-forta"> 2.13 Obiectivele de forta</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#antrenamente">2.1 Antrenamente</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#exercitii"> 2.2 Exercitii</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ordinea-exercitiilor"> 2.3 Ordinea exercitiilor</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#seturi-si-repetari"> 2.4 Seturi si Repetari</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pauza-intre-seturi"> 2.5 Pauza intre seturi</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#tempo-ul-ridicarii"> 2.6 Tempo-ul ridicarii</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#respiratie"> 2.7 Respiratie</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#zile-de-odihna"> 2.8 Zile de odihna</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#progresie"> 2.9 Progresie</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#greutatea-cu-care-sa-incepi"> 2.10 Greutatea cu care sa incepi</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#incalzire"> 2.11 Incalzire</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pauzele"> 2.12 Pauzele</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#obiectivele-de-forta"> 2.13 Obiectivele de forta</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#plafoane">3 Plafoane</a>
+         <a style="font-size:18px;" href="#plafoane">3 Plafoane</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#esecuri">3.1 Esecuri</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#faza-de-descarcare(deload)"> 3.2 Faza de descarcare(deload)</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#3x5"> 3.3 3x5/3x3/1x3</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#madcow"> 3.4 Madcow 5×5</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#esecuri">3.1 Esecuri</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#faza-de-descarcare(deload)"> 3.2 Faza de descarcare(deload)</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#3x5"> 3.3 3x5/3x3/1x3</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#madcow"> 3.4 Madcow 5×5</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#recuperare">4 Recuperarea</a>
+         <a style="font-size:18px;" href="#recuperare">4 Recuperarea</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#febra-musclulara">4.1 Febra musclulara 
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#febra-musclulara">4.1 Febra musclulara 
            </a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nutritie"> 4.2 Nutritia</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#proteina"> 4.3 Proteina</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#apa"> 4.4 Apa</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#odihna(somnul)"> 4.5 Odihna(somnul)</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#nutritie"> 4.2 Nutritia</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#proteina"> 4.3 Proteina</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#apa"> 4.4 Apa</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#odihna(somnul)"> 4.5 Odihna(somnul)</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#exercitii-de-izolare-pentru-muschii-secundari
+         <a style="font-size:18px;" href="#exercitii-de-izolare-pentru-muschii-secundari
          ">5. Exercitii de izolare pentru muschii secundari</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#brate">5.1 Brate</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#muschii-abdominali"> 5.2 Muschii abdominali</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#gambe"> 5.3 Gambe</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#brate">5.1 Brate</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#muschii-abdominali"> 5.2 Muschii abdominali</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#gambe"> 5.3 Gambe</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#cardio">6 Cardio</a>
+         <a style="font-size:18px;" href="#cardio">6 Cardio</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pierderea-grasimi">6.1 Pierderea grasimilor</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#sanatatea-inimii"> 6.2 Sanatatea inimii</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#rezistenta"> 6.3 Rezistenta</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pierderea-grasimi">6.1 Pierderea grasimilor</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#sanatatea-inimii"> 6.2 Sanatatea inimii</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#rezistenta"> 6.3 Rezistenta</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#echipament">7 Echipament</a>
+         <a style="font-size:18px;" href="#echipament">7 Echipament</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#creta">7.1 Creta</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#pantofi"> 7.2 Pantofi</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#curea"> 7.3 Curea</a></li>
-          <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#accesorii"> 7.4 Accesorii</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#creta">7.1 Creta</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#pantofi"> 7.2 Pantofi</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#curea"> 7.3 Curea</a></li>
+          <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#accesorii"> 7.4 Accesorii</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#greseli-comune">8. Greseli commune</a>
+         <a style="font-size:18px;" href="#greseli-comune">8. Greseli commune</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#incepand-cu-prea-multa-greutate"> 8.1 Incepand cu prea multa greutate</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#schimbarea-programului"> 8.2 Schimbarea programului</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#adaugand-prea-multe-lucruri"> 8.3 Adaugand prea multe lucruri</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#antrenarea-intr-o-sala-nedotata"> 8.4 Antrenarea intr-o sala nedotata</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#adaugarea-greutatilor-prea-repede"> 8.5 Adaugarea greutatilor prea repede</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ridicarea-cu-o-postura-proast"> 8.6 Ridicarea cu o postura proast</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#antrenamente-cu-greutati-prea-usoare"> 8.7 Antrenamente cu greutati prea usoare</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#sari-peste-antrenamentele"> 8.8 Sari peste antrenamentele</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#iti-grabesti-seturile"> 8.9 Iti grabesti seturile</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#mancand-prea-putin"> 8.10 Mancand prea putin</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#incepand-cu-prea-multa-greutate"> 8.1 Incepand cu prea multa greutate</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#schimbarea-programului"> 8.2 Schimbarea programului</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#adaugand-prea-multe-lucruri"> 8.3 Adaugand prea multe lucruri</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#antrenarea-intr-o-sala-nedotata"> 8.4 Antrenarea intr-o sala nedotata</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#adaugarea-greutatilor-prea-repede"> 8.5 Adaugarea greutatilor prea repede</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ridicarea-cu-o-postura-proast"> 8.6 Ridicarea cu o postura proast</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#antrenamente-cu-greutati-prea-usoare"> 8.7 Antrenamente cu greutati prea usoare</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#sari-peste-antrenamentele"> 8.8 Sari peste antrenamentele</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#iti-grabesti-seturile"> 8.9 Iti grabesti seturile</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#mancand-prea-putin"> 8.10 Mancand prea putin</a></li>
          </ul>
       </li>
    </ul>

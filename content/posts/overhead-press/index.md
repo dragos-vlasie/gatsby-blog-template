@@ -35,69 +35,69 @@ Acesta este ghidul complet pentru forma corecta a exercitiului Presa deasupra ca
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#introducere"> 1 Introducere</a>
+         <a style="font-size:18px;" href="#introducere"> 1 Introducere</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-sa-faci-overhead-press">1.1. Cum sa faci Overhead Press</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#presa-deasuprea-capului-forma-corecta"> 1.2. Presa deasuprea capului forma corecta</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#muschii-lucrati"> 1.3. Muschii lucrati</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#repetari-esuate"> 1.4. Repetari esuate</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#siguranta-umerilor"> 1.5. Siguranta umerilor</a></li>
-           <!-- <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#videoclipuri"> 1.6. Videoclipuri</a></li> -->
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cum-sa-faci-overhead-press">1.1. Cum sa faci Overhead Press</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#presa-deasuprea-capului-forma-corecta"> 1.2. Presa deasuprea capului forma corecta</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#muschii-lucrati"> 1.3. Muschii lucrati</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#repetari-esuate"> 1.4. Repetari esuate</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#siguranta-umerilor"> 1.5. Siguranta umerilor</a></li>
+           <!-- <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#videoclipuri"> 1.6. Videoclipuri</a></li> -->
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#tehnica-presa-deasupra-capului-(Overhead-Press)"> 2. Tehnica</a>
+         <a style="font-size:18px;" href="#tehnica-presa-deasupra-capului-(Overhead-Press)"> 2. Tehnica</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#postura">2.1. Postura</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#picioare"> 2.2. Picioare</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#priza"> 2.3. Priza</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#latimea-de-prindere"> 2.4. Latimea de prindere</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#incheieturile"> 2.5. Incheieturile</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#coate"> 2.6. Coate</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#antebrate"> 2.7. Antebrate</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#partea-superioara-a-bratelor"> 2.8. Partea superioara bratelor</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#umeri"> 2.9. Umeri</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#piept"> 2.10. Piept</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#partea-superioara-a-spatelui"> 2.11. Partea superioara a spatelui</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#muschiul-trapez-(traps)"> 2.12. Muschii trapezului</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cap"> 2.13. Cap</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#partea-inferioara-a-spatelui"> 2.14. Partea inferioara a spatelui</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#trunchiul"> 2.15. Trunchiul</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ridicarea"> 2.16. Ridicarea</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#lockout"> 2.17. Blocare</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#coborarea"> 2.18. Coborarea</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#respiratia"> 2.19. Respiratia</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#traiectoria-barei"> 2.20. Traiectoria barei</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#intre-repetari"> 2.21. Intre repetari</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#postura">2.1. Postura</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#picioare"> 2.2. Picioare</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#priza"> 2.3. Priza</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#latimea-de-prindere"> 2.4. Latimea de prindere</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#incheieturile"> 2.5. Incheieturile</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#coate"> 2.6. Coate</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#antebrate"> 2.7. Antebrate</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#partea-superioara-a-bratelor"> 2.8. Partea superioara bratelor</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#umeri"> 2.9. Umeri</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#piept"> 2.10. Piept</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#partea-superioara-a-spatelui"> 2.11. Partea superioara a spatelui</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#muschiul-trapez-(traps)"> 2.12. Muschii trapezului</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cap"> 2.13. Cap</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#partea-inferioara-a-spatelui"> 2.14. Partea inferioara a spatelui</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#trunchiul"> 2.15. Trunchiul</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ridicarea"> 2.16. Ridicarea</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#lockout"> 2.17. Blocare</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#coborarea"> 2.18. Coborarea</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#respiratia"> 2.19. Respiratia</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#traiectoria-barei"> 2.20. Traiectoria barei</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#intre-repetari"> 2.21. Intre repetari</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#dureri-comune"> 3 Dureri comune</a>
+         <a style="font-size:18px;" href="#dureri-comune"> 3 Dureri comune</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#durere-ale-spatelui-inferior">3.1. Dureri de spate</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#dureri-de-umar"> 3.2. Durere de umar</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#durere-la-incheietura-mainii"> 3.3. Durere la incheietura mainii</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#dureri-de-gat"> 3.4. Dureri de gat</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#durere-ale-spatelui-inferior">3.1. Dureri de spate</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#dureri-de-umar"> 3.2. Durere de umar</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#durere-la-incheietura-mainii"> 3.3. Durere la incheietura mainii</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#dureri-de-gat"> 3.4. Dureri de gat</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#greseli">4. Greseli comune</a>
+         <a style="font-size:18px;" href="#greseli">4. Greseli comune</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cand-trisezi">4.1. Cand trisezi</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#arcuirea-in-exces"> 4.2. Arcuirea in exces</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#incheieturile-indoite"> 4.3. Incheieturile indoite</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#coatele-inapoi"> 4.4. Coatele inapoi</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cand-trisezi">4.1. Cand trisezi</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#arcuirea-in-exces"> 4.2. Arcuirea in exces</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#incheieturile-indoite"> 4.3. Incheieturile indoite</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#coatele-inapoi"> 4.4. Coatele inapoi</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#variatii-presa-deasupra-capului">5. Variatii</a>
+         <a style="font-size:18px;" href="#variatii-presa-deasupra-capului">5. Variatii</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#push-press">5.1. Push Press</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#military-press"> 5.2. Military Press</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#clean-&-press"> 5.3. Clean & Press</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#overhead-press-stand-pe-scaun-(seated-press)"> 5.4. Overhead Press stand pe scaun (Seated Press)</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#overhead-in-spatele-gatului-(behind-the-neck-press)"> 5.5. Overhead in spatele gatului (Behind-the-Neck Press)</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#overhead-press-cu-gantere-(dumbbell-overhead-press)"> 5.6. Overhead Press cu gantere (Dumbbell Overhead Press)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#push-press">5.1. Push Press</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#military-press"> 5.2. Military Press</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#clean-&-press"> 5.3. Clean & Press</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#overhead-press-stand-pe-scaun-(seated-press)"> 5.4. Overhead Press stand pe scaun (Seated Press)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#overhead-in-spatele-gatului-(behind-the-neck-press)"> 5.5. Overhead in spatele gatului (Behind-the-Neck Press)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#overhead-press-cu-gantere-(dumbbell-overhead-press)"> 5.6. Overhead Press cu gantere (Dumbbell Overhead Press)</a></li>
          </ul>
       </li>
    </ul>

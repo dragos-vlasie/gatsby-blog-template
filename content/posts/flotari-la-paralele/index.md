@@ -35,48 +35,48 @@ Acesta este ghidul complet pentru o forma corespunzatoare pentru flotari la para
 <div class="contents" style="width: 100%; display: table;">
    <ul class="contents-ul">
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#introducere"> 1 Introducere</a>
+         <a style="font-size:18px;" href="#introducere"> 1 Introducere</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cum-sa-faci-dips">1.1. Cum se faci dips</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#dips(flotari-la-paralele)-forma"> 1.2. Dips(flotari la paralele) forma 101</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#muschii-lucrati"> 1.3. Muschii lucrati/antrenati</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cum-sa-faci-dips">1.1. Cum se faci dips</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#dips(flotari-la-paralele)-forma"> 1.2. Dips(flotari la paralele) forma 101</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#muschii-lucrati"> 1.3. Muschii lucrati/antrenati</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#tehnica-dip"> 2 2. Tehnica Dip</a>
+         <a style="font-size:18px;" href="#tehnica-dip"> 2 2. Tehnica Dip</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#priza">2.1. Priza</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#latimea-prizei"> 2.2. Latimea prizei</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#antebrate"> 2.3. Antebrate</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#coatele"> 2.4. Coatele</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#piept"> 2.5. Piept</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#umeri"> 2.6. Umeri</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#cap"> 2.7. Cap</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#trunchi"> 2.8. Trunchi</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#partea-inferioara-a-spatelui"> 2.9. Partea inferioara a spatelui</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#picioare"> 2.10. Picioare</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#partea-de-sus-dip-ului"> 2.11. Varful(Top)</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#coborarea"> 2.12. Coborarea</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#partea-de-jos"> 2.13. Partea de jos</a></li>
-            <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#respiratia"> 2.14. Respiratia</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#priza">2.1. Priza</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#latimea-prizei"> 2.2. Latimea prizei</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#antebrate"> 2.3. Antebrate</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#coatele"> 2.4. Coatele</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#piept"> 2.5. Piept</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#umeri"> 2.6. Umeri</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#cap"> 2.7. Cap</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#trunchi"> 2.8. Trunchi</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#partea-inferioara-a-spatelui"> 2.9. Partea inferioara a spatelui</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#picioare"> 2.10. Picioare</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#partea-de-sus-dip-ului"> 2.11. Varful(Top)</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#coborarea"> 2.12. Coborarea</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#partea-de-jos"> 2.13. Partea de jos</a></li>
+            <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#respiratia"> 2.14. Respiratia</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#probleme-comune"> 3 Probleme comune</a>
+         <a style="font-size:18px;" href="#probleme-comune"> 3 Probleme comune</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#inselaciune">3.1. A trisa</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#nu-pot-face-niciun-dips"> 3.2. Nu pot face niciun Dips</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#dureri-de-umar"> 3.3. Dureri de umar</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#dureri-in-piept"> 3.4. Dureri ale pieptului</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#inselaciune">3.1. A trisa</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#nu-pot-face-niciun-dips"> 3.2. Nu pot face niciun Dips</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#dureri-de-umar"> 3.3. Dureri de umar</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#dureri-in-piept"> 3.4. Dureri ale pieptului</a></li>
          </ul>
       </li>
       <li style="list-style:none;">
-         <a style="font-size:16px;" href="#variatii-de-dips">4 Variatii</a>
+         <a style="font-size:18px;" href="#variatii-de-dips">4 Variatii</a>
          <ul style="list-style:none; margin-top:0; margin-bottom:0;">
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#weighted-dips">4.1. Weighted Dips</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#bench-dips"> 4.2. Bench Dips</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#ring-dips"> 4.3. Ring Dips</a></li>
-           <li style="list-style:none; margin-bottom:0;"><a style="font-size:16px;" href="#aparatul-pentru-dips(dips-machine)"> 4.4. Aparatul pentru Dips(Dips Machine)</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#weighted-dips">4.1. Weighted Dips</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#bench-dips"> 4.2. Bench Dips</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#ring-dips"> 4.3. Ring Dips</a></li>
+           <li style="list-style:none; margin-bottom:0;"><a style="font-size:18px;" href="#aparatul-pentru-dips(dips-machine)"> 4.4. Aparatul pentru Dips(Dips Machine)</a></li>
          </ul>
       </li>
    </ul>
