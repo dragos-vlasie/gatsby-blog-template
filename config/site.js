@@ -3,7 +3,7 @@ module.exports = {
   title: 'MuschiLaGreu.ro', // Navigation and Site Title
   titleAlt: 'MuschiLaGreu.ro', // Title for JSONLD
   description:
-    'Fii mai puternic cu exercitii compuse cum ar fi Genuflexiuni cu bara, Indreptari si Impins cu haltera de la piept. Antrenamente pentru a creste pune masa musclulara.',
+    'Fii mai puternic folosind exercitii compuse - Genuflexiuni cu bara, Indreptari si Impins cu haltera de la piept. Antrenamente pentru a creste masa musclulara.',
   siteLanguage: 'ro', // Language Tag on <html> element
   siteUrl: 'http://muschilagreu.ro/',
   url: 'http://muschilagreu.ro/',
