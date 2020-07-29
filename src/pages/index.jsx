@@ -7,6 +7,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import CardTag from '../elements/CardTag';
 import FadeIn from '../elements/FadeIn';
+import { LocaleConsumer } from '../layouts/Layout';
 
 const PostWrapper = styled.div`
   display: flex;
@@ -40,9 +41,9 @@ const CatergoriesWrapper = styled.div`
   }
 `;
 
-const Index = ({ data }) => {
-  console.log('Index -> data', data);
+const Index = ({ data, pageContext: { locale }, location }) => {
   const { edges } = data.allMarkdownRemark;
+  const { title } = data.markdownRemark.frontmatter;
   const postsByTag = {};
 
   edges.forEach(({ node }) => {
@@ -57,52 +58,56 @@ const Index = ({ data }) => {
     }
   });
   const tags = Object.keys(postsByTag);
-  console.log('tags', tags);
 
   return (
-    <Layout>
-      <Helmet title={'Travel Alma'} />
-      <Header
-        title="Travel Alma"
-        cover={edges[0].node.frontmatter.cover.childImageSharp.fluid}
-        homePage={true}
-      >
-        {' '}
-        "a journal for myself, curious eyes and fellow travellers!"
-      </Header>
-      <FadeIn>
-        <CatergoriesWrapper>
-          {tags &&
-            tags.map(tag => {
-              return <CardTag key={tag} tagName={tag} />;
-            })}
-        </CatergoriesWrapper>
-        <PostWrapper>
-          {edges &&
-            edges.slice(0, 6).map(({ node }) => {
-              const { id, excerpt, frontmatter, fileAbsolutePath } = node;
-              const { cover, path, title, date, lang } = frontmatter;
-              console.log('lang', lang);
-              const arrayPath = fileAbsolutePath.split('/');
-              const category = arrayPath
-                .slice(
-                  arrayPath.indexOf('content') + 1,
-                  arrayPath.indexOf('index.md') - 1
-                )
-                .join();
-              return (
-                <PostList
-                  key={id}
-                  cover={cover.childImageSharp.fluid}
-                  path={`${category}${path}`}
-                  title={title}
-                  date={date}
-                  excerpt={excerpt}
-                />
-              );
-            })}
-        </PostWrapper>
-      </FadeIn>
+    <Layout locale={locale} pathname={location.pathname}>
+      <LocaleConsumer>
+        {({ i18n }) => (
+          <>
+            <Helmet title={title} />
+            <Header
+              title={title}
+              cover={edges[0].node.frontmatter.cover.childImageSharp.fluid}
+              homePage={true}
+            >
+              {' '}
+              "a journal for myself, curious eyes and fellow travellers!"
+            </Header>
+            <FadeIn>
+              <CatergoriesWrapper>
+                {tags &&
+                  tags.map(tag => {
+                    return <CardTag key={tag} tagName={tag} />;
+                  })}
+              </CatergoriesWrapper>
+              <PostWrapper>
+                {edges &&
+                  edges.slice(0, 6).map(({ node }) => {
+                    const { id, excerpt, frontmatter, fileAbsolutePath } = node;
+                    const { cover, path, title, date, lang } = frontmatter;
+                    const arrayPath = fileAbsolutePath.split('/');
+                    const category = arrayPath
+                      .slice(
+                        arrayPath.indexOf('content') + 1,
+                        arrayPath.indexOf('index.md') - 1
+                      )
+                      .join();
+                    return (
+                      <PostList
+                        key={id}
+                        cover={cover.childImageSharp.fluid}
+                        path={`${category}${path}`}
+                        title={title}
+                        date={date}
+                        excerpt={excerpt}
+                      />
+                    );
+                  })}
+              </PostWrapper>
+            </FadeIn>
+          </>
+        )}
+      </LocaleConsumer>
     </Layout>
   );
 };
@@ -131,8 +136,11 @@ Index.propTypes = {
 };
 
 export const query = graphql`
-  query {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+  query($pathSlug: String!) {
+    allMarkdownRemark(
+      sort: { order: DESC, fields: [frontmatter___date] }
+      filter: { fileAbsolutePath: { regex: "/posts/" } }
+    ) {
       edges {
         node {
           id
@@ -157,6 +165,12 @@ export const query = graphql`
           }
           fileAbsolutePath
         }
+      }
+    }
+    markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
+      id
+      frontmatter {
+        title
       }
     }
   }

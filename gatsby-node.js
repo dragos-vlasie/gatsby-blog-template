@@ -2,15 +2,12 @@ const path = require('path');
 const locales = require('./config/i18n');
 
 // Remove trailing slashes unless it's only "/", then leave it as it is
-const replaceTrailing = _path =>
-  _path === `/` ? _path : _path.replace(/\/$/, ``);
+const replaceTrailing = _path => (_path === `/` ? _path : _path.replace(/\/$/, ``));
 // Remove slashes at the beginning and end
 const replaceBoth = _path => _path.replace(/^\/|\/$/g, '');
 // If the "lang" is the default language, don't create a prefix. Otherwise add a "/en" before the slug (defined in "locales")
 const localizedSlug = (_page, node) =>
-  locales[node.lang].default
-    ? `/${_page}/${node.uid}`
-    : `/${locales[node.lang].path}/${_page}/${node.uid}`;
+  locales[node.lang].default ? `/${_page}/${node.uid}` : `/${locales[node.lang].path}/${_page}/${node.uid}`;
 
 // Take the pages from src/pages and generate pages for all locales, e.g. /blog and /en/blog
 exports.onCreatePage = ({ page, actions }) => {
@@ -31,9 +28,17 @@ exports.onCreatePage = ({ page, actions }) => {
     // Remove the leading AND traling slash from path, e.g. --> blog
     const name = replaceBoth(page.path);
     // Create the "slugs" for the pages like in "onCreateNode". Unless default language, add prefix àla "/en"
-    const localizedPath = locales[lang].default
-      ? page.path
-      : `${locales[lang].path}${page.path}`;
+    let localizedPath = locales[lang].default ? page.path : `${locales[lang].path}${page.path}`;
+
+    let translatedPath = localizedPath => {
+      if (localizedPath.startsWith('ro')) {
+        let property = localizedPath.slice(3);
+        return locales[lang][property] ? `${locales[lang].path}/${locales[lang][property]}` : localizedPath;
+      }
+      return localizedPath;
+    };
+
+    localizedPath = translatedPath(localizedPath);
 
     return createPage({
       ...page,
@@ -41,6 +46,7 @@ exports.onCreatePage = ({ page, actions }) => {
       context: {
         locale: lang,
         name,
+        pathSlug: localizedPath,
       },
     });
   });
@@ -58,9 +64,7 @@ exports.createPages = ({ graphql, actions }) => {
       graphql(
         `
           query {
-            allMarkdownRemark(
-              sort: { order: ASC, fields: [frontmatter___date] }
-            ) {
+            allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___date] }) {
               edges {
                 node {
                   frontmatter {
@@ -125,15 +129,9 @@ exports.createPages = ({ graphql, actions }) => {
           const path = node.frontmatter.path;
           const prefix = node.frontmatter.lang;
           const arrayPath = node.fileAbsolutePath.split('/');
-          const category = arrayPath
-            .slice(
-              arrayPath.indexOf('content') + 1,
-              arrayPath.indexOf('index.md') - 1
-            )
-            .join();
+          const category = arrayPath.slice(arrayPath.indexOf('content') + 1, arrayPath.indexOf('index.md') - 1).join();
           const prev = index === 0 ? null : posts[index - 1].node;
-          const next =
-            index === posts.length - 1 ? null : posts[index + 1].node;
+          const next = index === posts.length - 1 ? null : posts[index + 1].node;
           createPage({
             path: `${category}${path}`,
             component: postTemplate,
