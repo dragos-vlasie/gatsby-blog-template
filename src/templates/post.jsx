@@ -4,7 +4,6 @@ import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
 import { Layout, Container, Content } from 'layouts';
 import { TagsBlock, Header, SEO } from 'components';
-import '../styles/prism';
 import FadeIn from '../elements/FadeIn';
 import Suggestions from '../elements/Suggestions';
 

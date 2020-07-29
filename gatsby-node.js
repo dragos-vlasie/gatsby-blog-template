@@ -1,4 +1,50 @@
 const path = require('path');
+const locales = require('./config/i18n');
+
+// Remove trailing slashes unless it's only "/", then leave it as it is
+const replaceTrailing = _path =>
+  _path === `/` ? _path : _path.replace(/\/$/, ``);
+// Remove slashes at the beginning and end
+const replaceBoth = _path => _path.replace(/^\/|\/$/g, '');
+// If the "lang" is the default language, don't create a prefix. Otherwise add a "/en" before the slug (defined in "locales")
+const localizedSlug = (_page, node) =>
+  locales[node.lang].default
+    ? `/${_page}/${node.uid}`
+    : `/${locales[node.lang].path}/${_page}/${node.uid}`;
+
+// Take the pages from src/pages and generate pages for all locales, e.g. /blog and /en/blog
+exports.onCreatePage = ({ page, actions }) => {
+  const { createPage, deletePage } = actions;
+
+  // Only create one 404 page at /404.html
+  if (page.path.includes('404')) {
+    return;
+  }
+
+  // First delete the pages so we can re-create them
+  deletePage(page);
+
+  Object.keys(locales).map(lang => {
+    // Remove the trailing slash from the path, e.g. --> /blog
+    page.path = replaceTrailing(page.path);
+
+    // Remove the leading AND traling slash from path, e.g. --> blog
+    const name = replaceBoth(page.path);
+    // Create the "slugs" for the pages like in "onCreateNode". Unless default language, add prefix àla "/en"
+    const localizedPath = locales[lang].default
+      ? page.path
+      : `${locales[lang].path}${page.path}`;
+
+    return createPage({
+      ...page,
+      path: localizedPath,
+      context: {
+        locale: lang,
+        name,
+      },
+    });
+  });
+};
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
@@ -21,6 +67,7 @@ exports.createPages = ({ graphql, actions }) => {
                     path
                     title
                     tags
+                    lang
                   }
                   fileAbsolutePath
                 }
@@ -76,6 +123,7 @@ exports.createPages = ({ graphql, actions }) => {
         //create posts
         posts.forEach(({ node }, index) => {
           const path = node.frontmatter.path;
+          const prefix = node.frontmatter.lang;
           const arrayPath = node.fileAbsolutePath.split('/');
           const category = arrayPath
             .slice(

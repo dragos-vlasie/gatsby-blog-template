@@ -1,12 +1,12 @@
 ---
-path: '/post-one'
+path: '/ro/prima-postare'
 cover: './blocks.jpg'
 date: '2018-10-15'
-title: 'Learn'
-lang: 'en'
+title: 'Invata'
+lang: 'ro'
 published: true
 category: ['Destination']
 tags: ['Entertaiment', 'Journal', 'Inspire', 'Inform', 'Colaborate']
 ---
 
-This a test
+Acesta este un test

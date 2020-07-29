@@ -41,8 +41,8 @@ const CatergoriesWrapper = styled.div`
 `;
 
 const Index = ({ data }) => {
+  console.log('Index -> data', data);
   const { edges } = data.allMarkdownRemark;
-  console.log(edges);
   const postsByTag = {};
 
   edges.forEach(({ node }) => {
@@ -81,7 +81,8 @@ const Index = ({ data }) => {
           {edges &&
             edges.slice(0, 6).map(({ node }) => {
               const { id, excerpt, frontmatter, fileAbsolutePath } = node;
-              const { cover, path, title, date } = frontmatter;
+              const { cover, path, title, date, lang } = frontmatter;
+              console.log('lang', lang);
               const arrayPath = fileAbsolutePath.split('/');
               const category = arrayPath
                 .slice(
@@ -89,7 +90,6 @@ const Index = ({ data }) => {
                   arrayPath.indexOf('index.md') - 1
                 )
                 .join();
-              console.log(category);
               return (
                 <PostList
                   key={id}
@@ -140,6 +140,7 @@ export const query = graphql`
           frontmatter {
             title
             path
+            lang
             tags
             date(formatString: "MM.DD.YYYY")
             cover {

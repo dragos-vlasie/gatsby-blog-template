@@ -2,6 +2,7 @@
 path: '/part-one'
 cover: './blocks.jpg'
 date: '2018-10-15'
+lang: 'en'
 title: 'part Number One'
 published: true
 category: ['Destination']

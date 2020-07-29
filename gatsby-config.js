@@ -12,7 +12,6 @@ module.exports = {
       options: {
         name: 'posts',
         path: `${__dirname}/content`,
-        
       },
     },
     'gatsby-transformer-sharp',
@@ -28,7 +27,6 @@ module.exports = {
               linkImagesToOriginal: true,
             },
           },
-          'gatsby-remark-prismjs',
         ],
       },
     },

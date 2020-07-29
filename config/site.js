@@ -3,6 +3,7 @@ module.exports = {
   title: 'Gatsby blog template', // Navigation and Site Title
   titleAlt: 'Gatsby blog template', // Title for JSONLD
   description: 'A Gatsby blog Template',
+  headline: 'Headline text here',
   siteLanguage: 'en', // Language Tag on <html> element
   siteUrl: 'https://blissful-stonebraker-79eda2.netlify.com',
   url: 'https://blissful-stonebraker-79eda2.netlify.com',

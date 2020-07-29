@@ -81,7 +81,7 @@ const SEO = ({ title, description, banner, pathname, article }) => (
       return (
         <>
           <Helmet title={seo.title}>
-            <html lang={siteLanguage} />
+            {/* <html lang={siteLanguage} /> */}
             <meta name="description" content={seo.description} />
             <meta name="image" content={seo.image} />
             <meta name="apple-mobile-web-app-title" content={shortName} />

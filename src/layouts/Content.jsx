@@ -1,10 +1,8 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
-import prism from '../styles/prism';
 
 const Wrapper = styled.div`
-  ${prism};
   p,
   li {
     letter-spacing: -0.003em;
