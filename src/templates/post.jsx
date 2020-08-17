@@ -11,7 +11,6 @@ import Suggestions from '../elements/Suggestions';
 
 const Post = ({ data, pageContext, location }) => {
   const { next, prev } = pageContext;
-  console.log('Post -> pageContext', pageContext);
   const { html, frontmatter, excerpt } = data.markdownRemark;
   const { date, title, tags, path, description } = frontmatter;
   const image = frontmatter.cover.childImageSharp.fluid;

@@ -91,7 +91,6 @@ const SEO = ({ title, description, banner, pathname, i18n, article }) => (
           },
         ];
       }
-      console.log('i18n', i18n);
       return (
         <>
           <Helmet title={seo.title}>

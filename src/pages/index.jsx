@@ -42,7 +42,6 @@ const CatergoriesWrapper = styled.div`
 `;
 
 const Index = ({ data, pageContext: { locale }, location }) => {
-  console.log('Index -> data', data);
   const { edges } = data.allMarkdownRemark;
   const { title } = data.markdownRemark.frontmatter;
   const postsByTag = {};
