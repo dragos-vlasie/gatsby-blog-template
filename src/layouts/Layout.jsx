@@ -73,7 +73,7 @@ const Layout = ({ children, locale, pathname, customSEO }) => (
                   ${headroom}
                 `}
               />
-              <SEO i18n={i18n} pathname={pathname} />
+              {!customSEO && <SEO i18n={i18n} pathname={pathname} />}
               <NavBar />
               {children}
               <Footer />

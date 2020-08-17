@@ -28,8 +28,6 @@ const SEO = ({ title, description, banner, pathname, i18n, article }) => (
       },
     }) => {
       const localizedPath = locales[i18n.locale].default ? '' : `/${locales[i18n.locale].path}`;
-      console.log('i18n.locale', i18n.locale);
-
       const isEnglish = !!locales[i18n.locale].default;
       const homeURL = `${siteUrl}${localizedPath}`;
       const URL = `${siteUrl}${replaceTrailing(pathname)}`;
@@ -93,15 +91,16 @@ const SEO = ({ title, description, banner, pathname, i18n, article }) => (
           },
         ];
       }
+      console.log('i18n', i18n);
       return (
         <>
           <Helmet title={seo.title}>
             <html lang={i18n.htmlLang} />
             <link rel="alternate" hrefLang="x-default" href={isEnglish ? alternateURL : URL} />
-            {!article && <link rel="alternate" hrefLang={isEnglish ? 'ro' : 'en'} href={URL} />}
-            {!article && <link rel="alternate" hrefLang={isEnglish ? 'en' : 'ro'} href={alternateURL} />}
+            {!article && <link rel="alternate" hrefLang={isEnglish ? 'en' : 'ro'} href={URL} />}
+            {!article && <link rel="alternate" hrefLang={isEnglish ? 'ro' : 'en'} href={alternateURL} />}
             <meta httpEquiv="content-language" content={i18n.locale} />
-            <meta name="description" content={seo.description} />
+            <meta name="description" content={locales[i18n.locale].description} />
             <meta name="image" content={seo.image} />
             <meta name="apple-mobile-web-app-title" content={shortName} />
             <meta name="application-name" content={shortName} />

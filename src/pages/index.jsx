@@ -42,6 +42,7 @@ const CatergoriesWrapper = styled.div`
 `;
 
 const Index = ({ data, pageContext: { locale }, location }) => {
+  console.log('Index -> data', data);
   const { edges } = data.allMarkdownRemark;
   const { title } = data.markdownRemark.frontmatter;
   const postsByTag = {};
@@ -65,11 +66,7 @@ const Index = ({ data, pageContext: { locale }, location }) => {
         {({ i18n }) => (
           <>
             <Helmet title={title} />
-            <Header
-              title={title}
-              cover={edges[0].node.frontmatter.cover.childImageSharp.fluid}
-              homePage={true}
-            >
+            <Header title={title} cover={edges[0].node.frontmatter.cover.childImageSharp.fluid} homePage={true}>
               {' '}
               "a journal for myself, curious eyes and fellow travellers!"
             </Header>
@@ -87,16 +84,13 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                     const { cover, path, title, date, lang } = frontmatter;
                     const arrayPath = fileAbsolutePath.split('/');
                     const category = arrayPath
-                      .slice(
-                        arrayPath.indexOf('content') + 1,
-                        arrayPath.indexOf('index.md') - 1
-                      )
+                      .slice(arrayPath.indexOf('content') + 1, arrayPath.indexOf('index.md') - 1)
                       .join();
                     return (
                       <PostList
                         key={id}
                         cover={cover.childImageSharp.fluid}
-                        path={`${category}${path}`}
+                        path={`${path}`}
                         title={title}
                         date={date}
                         excerpt={excerpt}
@@ -153,11 +147,7 @@ export const query = graphql`
             date(formatString: "MM.DD.YYYY")
             cover {
               childImageSharp {
-                fluid(
-                  maxWidth: 1000
-                  quality: 85
-                  traceSVG: { color: "#2B2B2F" }
-                ) {
+                fluid(maxWidth: 1000, quality: 85, traceSVG: { color: "#2B2B2F" }) {
                   ...GatsbyImageSharpFluid_withWebp_tracedSVG
                 }
               }

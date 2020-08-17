@@ -64,16 +64,21 @@ exports.createPages = ({ graphql, actions }) => {
       graphql(
         `
           query {
-            allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___date] }) {
+            allMarkdownRemark(
+              filter: { fileAbsolutePath: { regex: "/posts/" }, frontmatter: { published: {} } }
+              limit: 3
+              sort: { order: DESC, fields: [frontmatter___date] }
+            ) {
               edges {
                 node {
+                  id
+                  excerpt(pruneLength: 75)
                   frontmatter {
-                    path
                     title
                     tags
+                    path
                     lang
                   }
-                  fileAbsolutePath
                 }
               }
             }
@@ -111,32 +116,33 @@ exports.createPages = ({ graphql, actions }) => {
         // });
 
         //create tags
-        tags.forEach(tagName => {
-          const posts = postsByTag[tagName];
+        // tags.forEach(tagName => {
+        //   const posts = postsByTag[tagName];
 
-          createPage({
-            path: `/${tagName}`,
-            component: tagPosts,
-            context: {
-              posts,
-              tagName,
-            },
-          });
-        });
+        //   createPage({
+        //     path: `/${tagName}`,
+        //     component: tagPosts,
+        //     context: {
+        //       posts,
+        //       tagName,
+        //     },
+        //   });
+        // });
 
         //create posts
         posts.forEach(({ node }, index) => {
           const path = node.frontmatter.path;
           const prefix = node.frontmatter.lang;
-          const arrayPath = node.fileAbsolutePath.split('/');
-          const category = arrayPath.slice(arrayPath.indexOf('content') + 1, arrayPath.indexOf('index.md') - 1).join();
+          // const arrayPath = node.fileAbsolutePath.split('/');
+          // const category = arrayPath.slice(arrayPath.indexOf('content') + 1, arrayPath.indexOf('index.md') - 1).join();
           const prev = index === 0 ? null : posts[index - 1].node;
           const next = index === posts.length - 1 ? null : posts[index + 1].node;
           createPage({
-            path: `${category}${path}`,
+            path: `${path}`,
             component: postTemplate,
             context: {
               pathSlug: path,
+              lang: prefix,
               prev,
               next,
             },

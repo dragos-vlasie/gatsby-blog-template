@@ -5,8 +5,8 @@ module.exports = {
   description: 'A Gatsby blog Template',
   headline: 'Headline text here',
   siteLanguage: 'en', // Language Tag on <html> element
-  siteUrl: 'https://blissful-stonebraker-79eda2.netlify.com',
-  url: 'https://blissful-stonebraker-79eda2.netlify.com',
+  siteUrl: 'https://travel-alma.netlify.app',
+  url: 'https://travel-alma.netlify.app',
   logo: 'static/logo/logo.png', // Used for SEO
   banner: 'static/logo/banner.png',
   // JSONLD / Manifest

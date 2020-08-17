@@ -15,10 +15,10 @@ const Base = styled.div`
   flex-direction: column;
 `;
 
-const Blog = ({ data }) => {
+const Blog = ({ data, pageContext: { locale }, location }) => {
   const { edges } = data.allMarkdownRemark;
   return (
-    <Layout>
+    <Layout locale={locale} pathname={location.pathname}>
       <Helmet title={'Blog Page'} />
       <Header title="Blog Page"> Gatsby Blog Template</Header>
       <FadeIn>
@@ -79,11 +79,7 @@ export const query = graphql`
             date(formatString: "MM.DD.YYYY")
             cover {
               childImageSharp {
-                fluid(
-                  maxWidth: 1000
-                  quality: 90
-                  traceSVG: { color: "#2B2B2F" }
-                ) {
+                fluid(maxWidth: 1000, quality: 90, traceSVG: { color: "#2B2B2F" }) {
                   ...GatsbyImageSharpFluid_withWebp_tracedSVG
                 }
               }
