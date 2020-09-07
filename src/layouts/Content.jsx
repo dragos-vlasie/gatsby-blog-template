@@ -57,9 +57,7 @@ const Wrapper = styled.div`
   }
 `;
 
-const Content = ({ input }) => (
-  <Wrapper dangerouslySetInnerHTML={{ __html: input }} />
-);
+const Content = ({ input }) => <Wrapper dangerouslySetInnerHTML={{ __html: input }} />;
 
 export default Content;
 

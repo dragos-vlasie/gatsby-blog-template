@@ -28,6 +28,9 @@ const SEO = ({ title, description, banner, pathname, i18n, article }) => (
       },
     }) => {
       const localizedPath = locales[i18n.locale].default ? '' : `/${locales[i18n.locale].path}`;
+      {
+        console.log('pathname', pathname);
+      }
       const isEnglish = !!locales[i18n.locale].default;
       const homeURL = `${siteUrl}${localizedPath}`;
       const URL = `${siteUrl}${replaceTrailing(pathname)}`;
@@ -95,7 +98,7 @@ const SEO = ({ title, description, banner, pathname, i18n, article }) => (
         <>
           <Helmet title={seo.title}>
             <html lang={i18n.htmlLang} />
-            <link rel="alternate" hrefLang="x-default" href={isEnglish ? alternateURL : URL} />
+            <link rel="alternate" hrefLang="x-default" href={isEnglish ? URL : alternateURL} />
             {!article && <link rel="alternate" hrefLang={isEnglish ? 'en' : 'ro'} href={URL} />}
             {!article && <link rel="alternate" hrefLang={isEnglish ? 'ro' : 'en'} href={alternateURL} />}
             <meta httpEquiv="content-language" content={i18n.locale} />

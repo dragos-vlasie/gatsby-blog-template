@@ -7,7 +7,20 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import CardTag from '../elements/CardTag';
 import FadeIn from '../elements/FadeIn';
+import ImageLink from '../components/ImageLink';
 import { LocaleConsumer } from '../layouts/Layout';
+import DestinationsList from '../components/DestinationsList';
+import { OverFlowContainer } from '../layouts/OverFlowContainer';
+import Container from '../layouts/Container';
+import GridContainer from '../layouts/GridContainer';
+
+const mockData = [
+  '11 Things To Do in Luang Prabang, 3-Day Guide',
+  '11 Things To Do in Luang Prabang, 3-Day Guide',
+  '11 Things To Do in Luang Prabang, 3-Day Guide',
+];
+
+const continents = ['Asia', 'Africa', 'Europe', 'North America'];
 
 const PostWrapper = styled.div`
   display: flex;
@@ -69,35 +82,45 @@ const Index = ({ data, pageContext: { locale }, location }) => {
               {' '}
               "a journal for myself, curious eyes and fellow travellers!"
             </Header>
-            <FadeIn>
-              <CatergoriesWrapper>
-                {tags &&
-                  tags.map(tag => {
-                    return <CardTag key={tag} tagName={tag} />;
-                  })}
-              </CatergoriesWrapper>
-              <PostWrapper>
-                {edges &&
-                  edges.slice(0, 6).map(({ node }) => {
-                    const { id, excerpt, frontmatter, fileAbsolutePath } = node;
-                    const { cover, path, title, date, lang } = frontmatter;
-                    const arrayPath = fileAbsolutePath.split('/');
-                    const category = arrayPath
-                      .slice(arrayPath.indexOf('content') + 1, arrayPath.indexOf('index.md') - 1)
-                      .join();
-                    return (
-                      <PostList
-                        key={id}
-                        cover={cover.childImageSharp.fluid}
-                        path={`${path}`}
-                        title={title}
-                        date={date}
-                        excerpt={excerpt}
-                      />
-                    );
-                  })}
-              </PostWrapper>
-            </FadeIn>
+            <Container>
+              <FadeIn>
+                <DestinationsList data={tags} />
+                {/* <CatergoriesWrapper>{tags && tags.map(tag => <CardTag key={tag} tagName={tag} />)}</CatergoriesWrapper> */}
+                <PostWrapper>
+                  {edges &&
+                    edges.slice(0, 6).map(({ node }) => {
+                      const { id, excerpt, frontmatter, fileAbsolutePath } = node;
+                      const { cover, path, title, date, lang } = frontmatter;
+                      const arrayPath = fileAbsolutePath.split('/');
+                      const category = arrayPath
+                        .slice(arrayPath.indexOf('content') + 1, arrayPath.indexOf('index.md') - 1)
+                        .join();
+                      return (
+                        <PostList
+                          key={id}
+                          cover={cover.childImageSharp.fluid}
+                          path={`${path}`}
+                          title={title}
+                          date={date}
+                          excerpt={excerpt}
+                        />
+                      );
+                    })}
+                </PostWrapper>
+              </FadeIn>
+              <OverFlowContainer
+                articles={continents}
+                type={'continents'}
+                title={'Explore by continent'}
+                textPosition={'center'}
+              />
+              <GridContainer>
+                <DestinationsList data={continents} />
+                <ImageLink type={'category'} title={'This is a random title'} icon={'icon-name'} arrow={true} />
+              </GridContainer>
+              <OverFlowContainer articles={mockData} title={'Best of categorie'} textPosition={'top'} />
+              <OverFlowContainer articles={mockData} type={'normal'} title={'Normal articles'} textPosition={'top'} />
+            </Container>
           </>
         )}
       </LocaleConsumer>

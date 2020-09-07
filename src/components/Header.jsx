@@ -97,11 +97,7 @@ Header.propTypes = {
   children: PropTypes.oneOfType([PropTypes.node, PropTypes.bool]),
   cover: PropTypes.oneOfType([PropTypes.object, PropTypes.bool]),
   date: PropTypes.oneOfType([PropTypes.string, PropTypes.bool]),
-  title: PropTypes.oneOfType([
-    PropTypes.string,
-    PropTypes.object,
-    PropTypes.bool,
-  ]),
+  title: PropTypes.oneOfType([PropTypes.string, PropTypes.object, PropTypes.bool]),
 };
 
 Header.defaultProps = {

@@ -34,15 +34,6 @@ const Layout = ({ children, locale, pathname, customSEO }) => (
                   *:after {
                     box-sizing: inherit;
                   }
-                  html {
-                    text-rendering: optimizeLegibility;
-                    overflow-x: hidden;
-                    box-sizing: border-box;
-                    -ms-overflow-style: scrollbar;
-                    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-                    -webkit-font-smoothing: antialiased;
-                    -moz-osx-font-smoothing: grayscale;
-                  }
                   html,
                   body {
                     width: 100%;
@@ -69,6 +60,9 @@ const Layout = ({ children, locale, pathname, customSEO }) => (
                     font-size: 5rem;
                     font-size: bold;
                     font-family: ${theme.fontFamily.heading};
+                  }
+                  ul {
+                    list-style: none;
                   }
                   ${headroom}
                 `}
