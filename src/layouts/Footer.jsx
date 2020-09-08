@@ -3,6 +3,7 @@ import styled from '@emotion/styled';
 import Wave from '../elements/Wave';
 
 const Wrapper = styled.footer`
+  margin-top: 80px;
   position: relative;
   height: 200px;
   padding-top: 2rem;

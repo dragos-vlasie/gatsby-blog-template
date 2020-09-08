@@ -67,8 +67,8 @@ export const OverFlowContainer = ({ articles, type, title, textPosition }) => {
       <Scroller>
         <ScrollContainer>
           <ScrollInner>
-            {articles.map(article => (
-              <ScrollItem type={type}>
+            {articles.map((article, index) => (
+              <ScrollItem key={index} type={type}>
                 <ImageLink type={type} title={article} textPosition={textPosition} />
               </ScrollItem>
             ))}

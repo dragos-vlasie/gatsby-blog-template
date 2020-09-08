@@ -13,7 +13,8 @@ import DestinationsList from '../components/DestinationsList';
 import { OverFlowContainer } from '../layouts/OverFlowContainer';
 import Container from '../layouts/Container';
 import GridContainer from '../layouts/GridContainer';
-
+import QuickLinks from '../components/QuickLinks';
+import CategoryNavigation from '../components/CategoryNavigation';
 const mockData = [
   '11 Things To Do in Luang Prabang, 3-Day Guide',
   '11 Things To Do in Luang Prabang, 3-Day Guide',
@@ -108,6 +109,10 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                     })}
                 </PostWrapper>
               </FadeIn>
+              <GridContainer>
+                <QuickLinks />
+                <ImageLink type={'category'} title={'This is a random title'} icon={'icon-name'} arrow={true} />
+              </GridContainer>
               <OverFlowContainer
                 articles={continents}
                 type={'continents'}
@@ -120,6 +125,7 @@ const Index = ({ data, pageContext: { locale }, location }) => {
               </GridContainer>
               <OverFlowContainer articles={mockData} title={'Best of categorie'} textPosition={'top'} />
               <OverFlowContainer articles={mockData} type={'normal'} title={'Normal articles'} textPosition={'top'} />
+              <CategoryNavigation />
             </Container>
           </>
         )}

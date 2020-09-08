@@ -88,21 +88,16 @@ const ArticleCategoryIntro = styled.div`
 
 export const ImageLink = ({ type, title, textPosition, icon, arrow }) => {
   return (
-    <ArticleCategoryIntro class="category-intro__article category-intro__article--full">
-      {icon ? <Icon icon={icon} /> : null}
-      <ArticleBlock
-        class="article-block category-intro__article-block"
-        href="https://www.saltinourhair.com/laos/luang-prabang/"
-        title={title}
-      >
-        <ArticleBlockImage type={type} class="article-block__image">
-          <ArticleBlockImageLink class="article-block__image-link">
-            <picture class="article-block__image-container">
+    <ArticleCategoryIntro>
+      {icon ? <Icon icon={icon} position={'topLeft'} /> : null}
+      <ArticleBlock href="https://www.saltinourhair.com/laos/luang-prabang/" title={title}>
+        <ArticleBlockImage type={type}>
+          <ArticleBlockImageLink>
+            <picture>
               <Image // use gatsby image
                 src="https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg"
                 data-sizes="auto"
                 data-srcset="https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg 704w, https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-1267x1080.jpg 1267w"
-                class="lazypreload lazyautosizes lazyloaded"
                 alt={title}
                 srcset="https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg 704w, https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-1267x1080.jpg 1267w"
               />

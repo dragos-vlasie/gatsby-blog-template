@@ -13,6 +13,7 @@ const BaseBlockContent = css`
   margin: 25px 0 0 10px;
   max-width: 500px;
   position: relative;
+  border-radius: 8px;
 
   top: 0;
 

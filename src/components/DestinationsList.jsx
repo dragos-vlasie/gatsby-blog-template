@@ -95,24 +95,20 @@ export const DestinationsList = ({ data }) => {
   return (
     <div className="DestinationsList">
       <h3>Pick destination</h3>
-      <Navigation class="nav-panel category-intro__nav">
-        <List class="nav-panel__list category-intro__list">
+      <Navigation>
+        <List>
           {data &&
-            data.map(destination => (
-              <Item class="nav-panel__list-item category-intro__list-item">
-                <Anchor
-                  href="https://www.saltinourhair.com/france/"
-                  class="nav-panel__list-link category-intro__list-link"
-                >
-                  <div class="category-intro__link-imgmask">
+            data.map((destination, index) => (
+              <Item key={index}>
+                <Anchor href="https://www.saltinourhair.com/france/">
+                  <div>
                     <Image
-                      class="category-intro__link-img lazyloaded"
                       data-src="https://www.saltinourhair.com/wp-content/uploads/2018/07/paris-city-trip-guide-street-eiffel-tower-144x163.jpg"
                       src="https://www.saltinourhair.com/wp-content/uploads/2018/07/paris-city-trip-guide-street-eiffel-tower-144x163.jpg"
                       alt="France"
                     />
                   </div>
-                  <Text class="nav-panel__link-label category-intro__link-label">{destination}</Text>
+                  <Text>{destination}</Text>
                 </Anchor>
               </Item>
             ))}
