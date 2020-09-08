@@ -2,14 +2,6 @@ import React from 'react';
 import styled from '@emotion/styled';
 import Icon from '../elements/ArticleIcon';
 
-const data = [
-  'Where to travel after COVID-19?',
-  'Tokyo Guide',
-  'Bangkok guide',
-  'Singapore Guide',
-  'Cebu Island Guide',
-];
-
 const QuickLinksContainer = styled.div`
   position: relative;
 
@@ -65,7 +57,7 @@ const QuickLinksAnchor = styled.a`
 
 const QuickLinksAnchorIcon = styled.span``;
 
-export const QuickLinks = () => {
+export const QuickLinks = ({ data }) => {
   return (
     <QuickLinksContainer>
       <QuickLinksMedia>

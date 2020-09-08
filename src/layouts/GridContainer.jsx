@@ -6,7 +6,6 @@ const Grid = styled.div`
   grid-gap: 25px;
   grid-template-columns: 400px minmax(auto, 650px);
   justify-content: space-between;
-
   @media (max-width: 767px) {
     display: grid;
     grid-template-columns: auto;

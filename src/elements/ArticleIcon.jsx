@@ -38,7 +38,7 @@ export const Icon = ({ icon, position }) => {
   return (
     <div
       css={
-        position === 'topLeft'
+        position && position === 'topLeft'
           ? [ArticleLabel, TopLeft]
           : position === 'center'
           ? [ArticleLabel, CenteredIcon]

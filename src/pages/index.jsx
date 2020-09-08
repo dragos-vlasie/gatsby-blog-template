@@ -87,6 +87,16 @@ const Index = ({ data, pageContext: { locale }, location }) => {
               <FadeIn>
                 <DestinationsList data={tags} />
                 {/* <CatergoriesWrapper>{tags && tags.map(tag => <CardTag key={tag} tagName={tag} />)}</CatergoriesWrapper> */}
+                <GridContainer>
+                  <ImageLink
+                    type={'category'}
+                    textPosition={'center'}
+                    title={'This is a featured article'}
+                    icon={'compass'}
+                    position={'center'}
+                  />
+                  <QuickLinks data={tags} />
+                </GridContainer>
                 <PostWrapper>
                   {edges &&
                     edges.slice(0, 6).map(({ node }) => {
@@ -110,8 +120,14 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                 </PostWrapper>
               </FadeIn>
               <GridContainer>
-                <QuickLinks />
-                <ImageLink type={'category'} title={'This is a random title'} icon={'icon-name'} arrow={true} />
+                <QuickLinks data={tags} />
+                <ImageLink
+                  type={'category'}
+                  title={'This is a random title'}
+                  icon={'icon-name'}
+                  position={'topLeft'}
+                  arrow={true}
+                />
               </GridContainer>
               <OverFlowContainer
                 articles={continents}
@@ -121,7 +137,13 @@ const Index = ({ data, pageContext: { locale }, location }) => {
               />
               <GridContainer>
                 <DestinationsList data={continents} />
-                <ImageLink type={'category'} title={'This is a random title'} icon={'icon-name'} arrow={true} />
+                <ImageLink
+                  type={'category'}
+                  title={'This is a random title'}
+                  icon={'icon-name'}
+                  arrow={true}
+                  position={'topLeft'}
+                />
               </GridContainer>
               <OverFlowContainer articles={mockData} title={'Best of categorie'} textPosition={'top'} />
               <OverFlowContainer articles={mockData} type={'normal'} title={'Normal articles'} textPosition={'top'} />

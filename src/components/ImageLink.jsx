@@ -17,7 +17,7 @@ const ArticleBlockImage = styled.div`
   right: 0;
   top: 0;
   max-width: 100%;
-  order: 1;
+  /* order: 1; */
   overflow: hidden;
   position: relative;
   transform: scale(1);
@@ -65,9 +65,9 @@ const ArticleBlock = styled.a`
   &:hover ${ArticleBlockImageLink} {
     transform: scale(1.02);
   }
-  &:hover ${test} {
+  /* &:hover ${test} {
     transform: translate(5px, 0);
-  }
+  } */
 `;
 
 const Image = styled.img`
@@ -80,17 +80,21 @@ const Image = styled.img`
 
 // we may change this with a prop the margin value
 const ArticleCategoryIntro = styled.div`
-  order: 2;
+  /* order: 2; */
   margin-top: ${props => (props.type == 'category' ? '40px' : '0')};
   position: relative;
   height: ${props => (props.type == 'category' ? '385px' : '100%')};
 `;
 
-export const ImageLink = ({ type, title, textPosition, icon, arrow }) => {
+// Break this down in to imported image imported icon imported title
+// Then wrap what you need so that u can use on hover
+// Once done this can be an organism
+
+export const ImageLink = ({ type, title, textPosition, position, icon, arrow }) => {
   return (
     <ArticleCategoryIntro>
-      {icon ? <Icon icon={icon} position={'topLeft'} /> : null}
       <ArticleBlock href="https://www.saltinourhair.com/laos/luang-prabang/" title={title}>
+        {icon ? <Icon icon={icon} position={position} /> : null}
         <ArticleBlockImage type={type}>
           <ArticleBlockImageLink>
             <picture>

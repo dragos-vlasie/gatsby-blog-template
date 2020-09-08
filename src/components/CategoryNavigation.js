@@ -48,12 +48,12 @@ const NavListItem = styled.li`
     padding: 0;
     width: auto;
 
-    &:first-child {
+    &:first-of-type {
       margin-top: -55px;
     }
 
     /* maybe reconsider using "*" */
-    &:first-child * {
+    &:first-of-type * {
       border-top: 0;
     }
   }
