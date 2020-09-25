@@ -69,7 +69,14 @@ export const OverFlowContainer = ({ articles, type, title, textPosition }) => {
           <ScrollInner>
             {articles.map((article, index) => (
               <ScrollItem key={index} type={type}>
-                <ImageLink type={type} title={article} textPosition={textPosition} />
+                <ImageLink
+                  image={
+                    'https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'
+                  }
+                  type={type}
+                  title={article}
+                  textPosition={textPosition}
+                />
               </ScrollItem>
             ))}
           </ScrollInner>

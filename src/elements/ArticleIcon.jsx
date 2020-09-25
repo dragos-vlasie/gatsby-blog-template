@@ -3,6 +3,7 @@ import styled from '@emotion/styled';
 import { css, jsx } from '@emotion/core';
 
 const TopLeft = css`
+  position: absolute;
   left: 20px;
   top: 25px;
 `;
@@ -16,7 +17,7 @@ const CenteredIcon = css`
 `;
 
 const ArticleLabel = css`
-  position: absolute;
+  position: relative;
   height: 76px;
   width: 76px;
   z-index: 2;
@@ -34,7 +35,6 @@ const ArticleLabelIcon = styled.div`
 
 // this can be a different icon it depends on the place it will be used
 export const Icon = ({ icon, position }) => {
-  console.log('Icon -> position', position);
   return (
     <div
       css={

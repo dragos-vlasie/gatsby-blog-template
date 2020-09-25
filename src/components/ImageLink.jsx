@@ -19,7 +19,7 @@ const ArticleBlockImage = styled.div`
   max-width: 100%;
   /* order: 1; */
   overflow: hidden;
-  position: relative;
+  position: ${props => (props.type == 'featured' || props.type == 'continents' ? 'absolute' : 'relative')};
   transform: scale(1);
   transition: transform 0.5s cubic-bezier(0.75, 0, 0.15, 1);
   width: 100%;
@@ -32,7 +32,6 @@ const ArticleBlockImageLink = styled.div`
   display: block;
   height: inherit;
   width: 100%;
-  /*  doenst work for some reason */
   &:after {
     content: '';
     background: rgba(0, 0, 0, 0.1);
@@ -45,7 +44,10 @@ const ArticleBlockImageLink = styled.div`
   }
 `;
 
-const test = css``;
+const Wrapper = styled.div`
+  transform: translate(0, 0);
+  transition: transform 0.2s;
+`;
 
 const ArticleBlock = styled.a`
   overflow: visible;
@@ -65,9 +67,9 @@ const ArticleBlock = styled.a`
   &:hover ${ArticleBlockImageLink} {
     transform: scale(1.02);
   }
-  /* &:hover ${test} {
+  &:hover ${Wrapper} {
     transform: translate(5px, 0);
-  } */
+  }
 `;
 
 const Image = styled.img`
@@ -80,37 +82,65 @@ const Image = styled.img`
 
 // we may change this with a prop the margin value
 const ArticleCategoryIntro = styled.div`
-  /* order: 2; */
   margin-top: ${props => (props.type == 'category' ? '40px' : '0')};
   position: relative;
   height: ${props => (props.type == 'category' ? '385px' : '100%')};
+`;
+
+const ArticleBlockContent = styled.div`
+  margin: ${props => (props.type === 'category' ? '25px 0 0 10px' : '0')};
+  max-width: 500px;
+  order: 2;
+  top: ${props => (props.type === 'normal' ? '18px' : '0')};
+  margin-left:0;   /*  ${props => (props.type === 'normal' ? '20px' : '0')} */
+  width: auto;
+  z-index: 2;
+  align-items: center;
+  background-color: ${props => (props.type === 'featured' ? 'rgba(0, 0, 0, 0.3)' : 'none')};
+  display: flex;
+  max-width: none;
+  border-radius:7px;
+  position: ${props => (props.type === 'normal' ? 'absolute' : 'relative')};
+  width: 100%;
+`;
+const ArticleBlockContentLink = styled.div`
+  color: #fff;
+  transition: color 0.2s;
+  margin-top: ${props => (props.type === 'featured' ? '-70px' : '0')};
+  padding: ${props => (props.type === 'featured' ? '1.5rem 3rem' : '0')};
+  text-align: ${props => (props.type === 'category' ? 'left' : 'center')};
+  width: ${props => (props.type === 'category' ? '90%' : '100%')};
+  text-decoration: none;
 `;
 
 // Break this down in to imported image imported icon imported title
 // Then wrap what you need so that u can use on hover
 // Once done this can be an organism
 
-export const ImageLink = ({ type, title, textPosition, position, icon, arrow }) => {
+export const ImageLink = ({ type, title, textPosition, position, image, icon, arrow }) => {
   return (
     <ArticleCategoryIntro>
       <ArticleBlock href="https://www.saltinourhair.com/laos/luang-prabang/" title={title}>
-        {icon ? <Icon icon={icon} position={position} /> : null}
+        {icon && position === 'topLeft' ? <Icon icon={icon} position={position} /> : null}
         <ArticleBlockImage type={type}>
           <ArticleBlockImageLink>
             <picture>
               <Image // use gatsby image
-                src="https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg"
-                data-sizes="auto"
-                data-srcset="https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg 704w, https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-1267x1080.jpg 1267w"
-                alt={title}
-                srcset="https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg 704w, https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-1267x1080.jpg 1267w"
+                src={image}
               />
             </picture>
           </ArticleBlockImageLink>
         </ArticleBlockImage>
-        <ArticleTitle title={title} textPosition={textPosition} arrow={arrow}>
-          <Button css={test} />
-        </ArticleTitle>
+        <ArticleBlockContent type={type}>
+          <ArticleBlockContentLink type={type}>
+            {icon && position !== 'topLeft' ? <Icon icon={icon} position={position} /> : null}
+            <ArticleTitle title={title} type={type} textPosition={textPosition} arrow={arrow}>
+              <Wrapper>
+                <Button />
+              </Wrapper>
+            </ArticleTitle>
+          </ArticleBlockContentLink>
+        </ArticleBlockContent>
       </ArticleBlock>
     </ArticleCategoryIntro>
   );

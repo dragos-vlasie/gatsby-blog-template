@@ -87,10 +87,13 @@ const Index = ({ data, pageContext: { locale }, location }) => {
               <FadeIn>
                 <DestinationsList data={tags} />
                 {/* <CatergoriesWrapper>{tags && tags.map(tag => <CardTag key={tag} tagName={tag} />)}</CatergoriesWrapper> */}
-                <GridContainer>
+                <GridContainer type={'featured'}>
                   <ImageLink
-                    type={'category'}
-                    textPosition={'center'}
+                    image={
+                      'https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'
+                    }
+                    type={'featured'}
+                    textPosition={'featured'}
                     title={'This is a featured article'}
                     icon={'compass'}
                     position={'center'}
@@ -122,9 +125,12 @@ const Index = ({ data, pageContext: { locale }, location }) => {
               <GridContainer>
                 <QuickLinks data={tags} />
                 <ImageLink
+                  image={
+                    'https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'
+                  }
                   type={'category'}
                   title={'This is a random title'}
-                  icon={'icon-name'}
+                  icon={'icon-name'} // {{name:'icon-name'},{position: 'left'}} proper way
                   position={'topLeft'}
                   arrow={true}
                 />
@@ -133,11 +139,14 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                 articles={continents}
                 type={'continents'}
                 title={'Explore by continent'}
-                textPosition={'center'}
+                textPosition={'continents'}
               />
               <GridContainer>
                 <DestinationsList data={continents} />
                 <ImageLink
+                  image={
+                    'https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'
+                  }
                   type={'category'}
                   title={'This is a random title'}
                   icon={'icon-name'}
@@ -145,7 +154,7 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                   position={'topLeft'}
                 />
               </GridContainer>
-              <OverFlowContainer articles={mockData} title={'Best of categorie'} textPosition={'top'} />
+              <OverFlowContainer articles={mockData} type={'normal'} title={'Best of categorie'} textPosition={'top'} />
               <OverFlowContainer articles={mockData} type={'normal'} title={'Normal articles'} textPosition={'top'} />
               <CategoryNavigation />
             </Container>

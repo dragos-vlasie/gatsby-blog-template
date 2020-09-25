@@ -6,8 +6,7 @@ const BlockButtonBtnCircle = styled.button`
   cursor: pointer;
   height: 50px;
   position: absolute;
-  transform: translate(0, 0);
-  transition: transform 0.2s;
+
   right: 10px;
   width: 50px;
   border-radius: 50%;

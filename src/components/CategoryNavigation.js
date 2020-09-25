@@ -165,7 +165,7 @@ export const CategoryNavigation = () => {
                   alt="Asia"
                 />
               </NavListImageWrapper>
-              <NavListMainTitle class="page-nav__sub-continent">
+              <NavListMainTitle>
                 <NavListMainAnchor href="https://www.saltinourhair.com/asia/">Asia</NavListMainAnchor>
               </NavListMainTitle>
               <NavSubList>
@@ -241,14 +241,14 @@ export const CategoryNavigation = () => {
                 </NavSubListItem>
               </NavSubList>
             </NavListItem>
-            <NavListItem class="page-nav__subcontainer-continent page-nav__subcontainer-continent--africa">
+            <NavListItem>
               <NavListImageWrapper>
                 <NavImage
                   src="https://www.saltinourhair.com/wp-content/uploads/2020/05/saltinourhair-egypt-africa-163x163.jpg"
                   alt="Africa"
                 />
               </NavListImageWrapper>
-              <NavListMainTitle class="page-nav__sub-continent">
+              <NavListMainTitle>
                 <NavListMainAnchor href="https://www.saltinourhair.com/africa/">Africa</NavListMainAnchor>
               </NavListMainTitle>
               <NavSubList>
@@ -269,23 +269,19 @@ export const CategoryNavigation = () => {
                 </NavSubListItem>
               </NavSubList>
             </NavListItem>
-            <NavListItem class="page-nav__subcontainer-continent page-nav__subcontainer-continent--europe">
+            <NavListItem>
               <NavListImageWrapper>
                 <NavImage
                   src="https://www.saltinourhair.com/wp-content/uploads/2019/06/italy-travel-itinerary-163x120.jpg"
                   alt="Europe"
                 />
               </NavListImageWrapper>
-              <NavListMainTitle class="page-nav__sub-continent">
+              <NavListMainTitle>
                 <NavListMainAnchor href="https://www.saltinourhair.com/europe/">Europe</NavListMainAnchor>
               </NavListMainTitle>
               <NavSubList>
                 <NavSubListItem>
-                  <NavSubListItemAnchor
-                    class="page-nav__sub-link"
-                    href="https://www.saltinourhair.com/czech-republic/"
-                    title="Czech Republic"
-                  >
+                  <NavSubListItemAnchor href="https://www.saltinourhair.com/czech-republic/" title="Czech Republic">
                     Czech Republic{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
@@ -336,7 +332,7 @@ export const CategoryNavigation = () => {
                 </NavSubListItem>
               </NavSubList>
             </NavListItem>
-            <NavListItem class="page-nav__subcontainer-continent page-nav__subcontainer-continent--middle-east">
+            <NavListItem>
               <NavListImageWrapper>
                 <NavImage
                   src="https://www.saltinourhair.com/wp-content/uploads/2020/05/DSC6685-1-bew-smaller-130x163.jpg"
@@ -369,7 +365,7 @@ export const CategoryNavigation = () => {
                 </NavSubListItem>
               </NavSubList>
             </NavListItem>
-            <NavListItem class="page-nav__subcontainer-continent page-nav__subcontainer-continent--south-america">
+            <NavListItem>
               <NavListImageWrapper>
                 <NavImage
                   src="https://www.saltinourhair.com/wp-content/uploads/2020/04/Santa-Catalina-arequipa-peru-2-130x163.jpg"

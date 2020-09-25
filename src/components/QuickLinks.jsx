@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import Icon from '../elements/ArticleIcon';
+import ImageLink from './ImageLink';
 
 const QuickLinksContainer = styled.div`
   position: relative;
@@ -55,21 +56,36 @@ const QuickLinksAnchor = styled.a`
   }
 `;
 
+const Image = styled.image``;
+const ArticleBlock = styled.a``;
+
 const QuickLinksAnchorIcon = styled.span``;
 
 export const QuickLinks = ({ data }) => {
   return (
     <QuickLinksContainer>
-      <QuickLinksMedia>
+      {/* <QuickLinksMedia>
+        <svg viewBox="0 0 32 32" id="icon-arrow" xmlns="http://www.w3.org/2000/svg">
+        <path d="M29 19.9L17.6 31.3c-.9.9-2.3.9-3.2 0L3 19.9c-.9-.9-.9-2.3 0-3.2s2.3-.9 3.2 0l7.5 7.5V2.3C13.7 1 14.7 0 16 0s2.3 1 2.3 2.3v21.9l7.5-7.5c.4-.4 1-.7 1.6-.7s1.2.2 1.6.7c.9.9.9 2.3 0 3.2z"></path>
+        </svg>
         <Icon icon={'compass'} position={'center'} />
-      </QuickLinksMedia>
-      {/* this can be changed to something else Either a image a title with an icon  */}
-      {/* <div class="salt-icon__container category-details__icon category__quicklinks-icon">
+      </QuickLinksMedia> */}
+      {/* <QuickLinksTitle>Must read</QuickLinksTitle> */}
+      <div style={{ height: '315px', margin: 'auto' }}>
+        <ImageLink
+          image={
+            'https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'
+          }
+          title="test"
+          type="continents"
+        />
+        {/* this can be changed to something else Either a image a title with an icon  */}
+        {/* <div class="salt-icon__container category-details__icon category__quicklinks-icon">
         <span class="salt-icon salt-icon--compass"></span>
         <svg class="icon icon-round-shape"></svg>
       </div> */}
-      <QuickLinksTitle>Must read</QuickLinksTitle>
-      {/* this can be changed to something else Either a image a title with an icon  */}
+        {/* this can be changed to something else Either a image a title with an icon  */}
+      </div>
       <QuickLinksList>
         {data &&
           data.map((title, index) => (

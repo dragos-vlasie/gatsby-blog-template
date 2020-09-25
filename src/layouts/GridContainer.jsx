@@ -12,7 +12,19 @@ const Grid = styled.div`
   }
 `;
 
-export const GridContainer = ({ children }) => {
-  return <Grid>{children}</Grid>;
+const FeaturedGrid = styled.div`
+  display: grid;
+  grid-gap: 35px;
+  grid-template-columns: minmax(auto, 2fr) 1fr;
+  margin: 35px 0;
+`;
+
+export const GridContainer = ({ type, children }) => {
+  console.log('GridContainer -> type', type);
+  if (type && type.length) {
+    return <FeaturedGrid>{children}</FeaturedGrid>;
+  } else {
+    return <Grid>{children}</Grid>;
+  }
 };
 export default GridContainer;
