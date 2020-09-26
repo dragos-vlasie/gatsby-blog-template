@@ -1,6 +1,6 @@
 ---
 title: 'Travel Alma'
-cover: './speed.jpg'
+cover: './pic.jpg'
 lang: 'en-gb'
 path: '/'
 ---

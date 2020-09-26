@@ -17,6 +17,10 @@ const FeaturedGrid = styled.div`
   grid-gap: 35px;
   grid-template-columns: minmax(auto, 2fr) 1fr;
   margin: 35px 0;
+  @media (max-width: 767px) {
+    display: grid;
+    grid-template-columns: auto;
+  }
 `;
 
 export const GridContainer = ({ type, children }) => {

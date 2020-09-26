@@ -47,7 +47,7 @@ const ScrollInner = styled.div`
 
 const ScrollItem = styled.div`
   max-width: 50%;
-  width: ${props => (props.type == 'continents' ? '315px' : '33.33%')};
+  width: ${props => (props.type == 'continents' ? '315px' : props.type === 'normal' ? '415px' : '33.33%')};
   height: ${props => (props.type == 'normal' ? '315px' : '450px')};
   flex: 1 0 auto;
   padding: 0 7px;
@@ -60,7 +60,7 @@ const ScrollItem = styled.div`
   }
 `;
 
-export const OverFlowContainer = ({ articles, type, title, textPosition }) => {
+export const OverFlowContainer = ({ articles, type, height, title, textPosition }) => {
   return (
     <Container>
       <CategoryTitle> {title}</CategoryTitle>

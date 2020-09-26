@@ -81,11 +81,12 @@ const Index = ({ data, pageContext: { locale }, location }) => {
             <Helmet title={title} />
             <Header title={title} cover={edges[0].node.frontmatter.cover.childImageSharp.fluid} homePage={true}>
               {' '}
-              "a journal for myself, curious eyes and fellow travellers!"
+              {console.log('edges[0].node.frontmatter', edges[0].node.frontmatter)}
+              "A journal for myself, curious eyes and fellow travellers!"
             </Header>
             <Container>
               <FadeIn>
-                <DestinationsList data={tags} />
+                {/* <DestinationsList data={tags} /> */}
                 {/* <CatergoriesWrapper>{tags && tags.map(tag => <CardTag key={tag} tagName={tag} />)}</CatergoriesWrapper> */}
                 <GridContainer type={'featured'}>
                   <ImageLink
@@ -98,9 +99,9 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                     icon={'compass'}
                     position={'center'}
                   />
-                  <QuickLinks data={tags} />
+                  <QuickLinks data={tags} type={false} title={'These are a few important articles'} />
                 </GridContainer>
-                <PostWrapper>
+                {/* <PostWrapper>
                   {edges &&
                     edges.slice(0, 6).map(({ node }) => {
                       const { id, excerpt, frontmatter, fileAbsolutePath } = node;
@@ -120,7 +121,7 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                         />
                       );
                     })}
-                </PostWrapper>
+                </PostWrapper> */}
               </FadeIn>
               <GridContainer>
                 <QuickLinks data={tags} />
@@ -130,7 +131,7 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                   }
                   type={'category'}
                   title={'This is a random title'}
-                  icon={'icon-name'} // {{name:'icon-name'},{position: 'left'}} proper way
+                  icon={'icon-name'}
                   position={'topLeft'}
                   arrow={true}
                 />
@@ -154,7 +155,78 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                   position={'topLeft'}
                 />
               </GridContainer>
-              <OverFlowContainer articles={mockData} type={'normal'} title={'Best of categorie'} textPosition={'top'} />
+              <GridContainer>
+                <div class="about-image">
+                  <img
+                    src="/build/images/blank.png"
+                    data-srcset="/build/images/home/about-us.jpg 423w, /build/images/home/about-us-2.jpg 845w"
+                    class=" ls-is-cached lazyloaded"
+                    width="423"
+                    height="427"
+                    alt="Hannah and Nick - Salt in our Hair"
+                    srcset="/build/images/home/about-us.jpg 423w, /build/images/home/about-us-2.jpg 845w"
+                  />
+                </div>
+                <div class="about-content">
+                  <div class="about-content__title">ABOUT</div>
+                  <div class="about-content__subtitle">Hannah &amp; Nick</div>
+                  <p class="about-content__text">
+                    Hi! We're Hannah &amp; Nick, two creatives that run a 'travel content creation' company named Salt
+                    in our Hair. We inspire people to travel via our travel guides, photography and videography.
+                    <a href="/about-us" target="_blank">
+                      More about us
+                    </a>{' '}
+                    /{' '}
+                    <a href="/work-with-us" target="_blank">
+                      Work with us
+                    </a>
+                  </p>
+                  <div class="socials">
+                    <div class="socials__item">
+                      <a
+                        class="socials__link"
+                        href="https://www.instagram.com/saltinourhair/"
+                        target="_blank"
+                        rel="noopener"
+                        aria-label="Instagram Salt in our Hair"
+                      ></a>
+                    </div>
+                    <div class="socials__item">
+                      <a
+                        class="socials__link"
+                        href="https://www.youtube.com/c/saltinourhairtravel?sub_confirmation=1"
+                        target="_blank"
+                        rel="noopener"
+                        aria-label="Youtube Salt in our Hair"
+                      ></a>
+                    </div>
+                    <div class="socials__item">
+                      <a
+                        class="socials__link"
+                        href="https://www.pinterest.com/saltinourhair/"
+                        target="_blank"
+                        rel="noopener"
+                        aria-label="Pinterest Salt in our Hair"
+                      ></a>
+                    </div>
+                    <div class="socials__item">
+                      <a
+                        class="socials__link"
+                        href="https://www.facebook.com/saltinourhair/"
+                        target="_blank"
+                        rel="noopener"
+                        aria-label="Facebook Salt in our Hair"
+                      ></a>
+                    </div>
+                  </div>
+                </div>
+              </GridContainer>
+              <OverFlowContainer
+                articles={mockData}
+                type={'bestOf'}
+                title={'Best of categories'}
+                textPosition={'top'}
+              />
               <OverFlowContainer articles={mockData} type={'normal'} title={'Normal articles'} textPosition={'top'} />
               <CategoryNavigation />
             </Container>

@@ -1,6 +1,6 @@
 ---
 path: '/ro/prima-postare'
-cover: './blocks.jpg'
+cover: './pic.jpg'
 date: '2020-10-15'
 title: 'Invata'
 lang: 'ro-ro'

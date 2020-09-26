@@ -3,10 +3,9 @@ import styled from '@emotion/styled';
 import Icon from '../elements/ArticleIcon';
 import ArticleTitle from '../elements/Title';
 import Button from '../elements/Button';
-import { css, jsx } from '@emotion/core';
 
 const ArticleBlockImage = styled.div`
-  box-shadow: ${props => (props.type == 'category' ? '7px 7px 0 #f5f4f2' : 'none')};
+  box-shadow: ${props => (props.type == 'category' || props.type === 'featured' ? '7px 7px 0 #f5f4f2' : 'none')};
   height: ${props => (props.type == 'category' ? '385px' : '100%')};
   transition: box-shadow 0.2s ease-out;
   will-change: box-shadow;
@@ -28,7 +27,6 @@ const ArticleBlockImage = styled.div`
 
 const ArticleBlockImageLink = styled.div`
   transition: transform 0.5s;
-  transition: transform 0.5s, -webkit-transform 0.5s;
   display: block;
   height: inherit;
   width: 100%;
@@ -84,14 +82,17 @@ const Image = styled.img`
 const ArticleCategoryIntro = styled.div`
   margin-top: ${props => (props.type == 'category' ? '40px' : '0')};
   position: relative;
-  height: ${props => (props.type == 'category' ? '385px' : '100%')};
+  height: ${props => (props.type == 'category' ? 'auto' /* 385px */ : '100%')};
+  @media (max-width: 767px) {
+    height: ${props => (props.type == 'featured' ? '400px' : '100%')};
+  }
 `;
 
 const ArticleBlockContent = styled.div`
   margin: ${props => (props.type === 'category' ? '25px 0 0 10px' : '0')};
   max-width: 500px;
   order: 2;
-  top: ${props => (props.type === 'normal' ? '18px' : '0')};
+  top: ${props => (props.type === 'normal' || props.type === 'bestOf' ? '18px' : '0')};
   margin-left:0;   /*  ${props => (props.type === 'normal' ? '20px' : '0')} */
   width: auto;
   z-index: 2;
@@ -100,9 +101,10 @@ const ArticleBlockContent = styled.div`
   display: flex;
   max-width: none;
   border-radius:7px;
-  position: ${props => (props.type === 'normal' ? 'absolute' : 'relative')};
+  position: ${props => (props.type === 'normal' || props.type === 'bestOf' ? 'absolute' : 'relative')};
   width: 100%;
 `;
+
 const ArticleBlockContentLink = styled.div`
   color: #fff;
   transition: color 0.2s;
@@ -119,7 +121,7 @@ const ArticleBlockContentLink = styled.div`
 
 export const ImageLink = ({ type, title, textPosition, position, image, icon, arrow }) => {
   return (
-    <ArticleCategoryIntro>
+    <ArticleCategoryIntro type={type}>
       <ArticleBlock href="https://www.saltinourhair.com/laos/luang-prabang/" title={title}>
         {icon && position === 'topLeft' ? <Icon icon={icon} position={position} /> : null}
         <ArticleBlockImage type={type}>

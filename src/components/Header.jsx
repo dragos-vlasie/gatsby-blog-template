@@ -15,7 +15,8 @@ const Wrapper = styled.header`
     height: ${props => (props.big ? '500px' : '325px')};
   }
   z-index: ${props => (props.homePage ? 0 : 1)};
-  margin-bottom: ${props => (props.homePage ? '-210px' : 0)};
+
+  margin-bottom: ${props => (props.homePage ? '0' /* sau -210px */ : 0)};
   @media (max-width: ${props => props.theme.breakpoints.s}) {
     margin-bottom: ${props => (props.homePage ? 0 : 0)};
   }

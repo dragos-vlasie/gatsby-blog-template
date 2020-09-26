@@ -5,6 +5,7 @@ import ImageLink from './ImageLink';
 
 const QuickLinksContainer = styled.div`
   position: relative;
+  /* margin-top: -60px; */
 
   &::after {
     background-image: url(https://www.saltinourhair.com/build/images/pink-roundshape.png);
@@ -56,42 +57,51 @@ const QuickLinksAnchor = styled.a`
   }
 `;
 
-const Image = styled.image``;
+// const Image = styled.image``;
 const ArticleBlock = styled.a``;
 
 const QuickLinksAnchorIcon = styled.span``;
 
-export const QuickLinks = ({ data }) => {
+const Img = (
+  <div style={{ height: '315px', margin: 'auto' }}>
+    <ImageLink
+      image={
+        'https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'
+      }
+      title="Acesta este un titlu"
+      type="continents"
+    />
+  </div>
+);
+
+const MediaIcon = (
+  <div>
+    <QuickLinksMedia>
+      <svg viewBox="0 0 32 32" id="icon-arrow" xmlns="http://www.w3.org/2000/svg">
+        <path d="M29 19.9L17.6 31.3c-.9.9-2.3.9-3.2 0L3 19.9c-.9-.9-.9-2.3 0-3.2s2.3-.9 3.2 0l7.5 7.5V2.3C13.7 1 14.7 0 16 0s2.3 1 2.3 2.3v21.9l7.5-7.5c.4-.4 1-.7 1.6-.7s1.2.2 1.6.7c.9.9.9 2.3 0 3.2z"></path>
+      </svg>
+      <Icon icon={'compass'} position={'center'} />
+    </QuickLinksMedia>
+    <QuickLinksTitle>Must read</QuickLinksTitle>
+  </div>
+);
+
+export const QuickLinks = ({ data, type = 'true', title }) => {
   return (
     <QuickLinksContainer>
-      {/* <QuickLinksMedia>
-        <svg viewBox="0 0 32 32" id="icon-arrow" xmlns="http://www.w3.org/2000/svg">
-        <path d="M29 19.9L17.6 31.3c-.9.9-2.3.9-3.2 0L3 19.9c-.9-.9-.9-2.3 0-3.2s2.3-.9 3.2 0l7.5 7.5V2.3C13.7 1 14.7 0 16 0s2.3 1 2.3 2.3v21.9l7.5-7.5c.4-.4 1-.7 1.6-.7s1.2.2 1.6.7c.9.9.9 2.3 0 3.2z"></path>
-        </svg>
-        <Icon icon={'compass'} position={'center'} />
-      </QuickLinksMedia> */}
-      {/* <QuickLinksTitle>Must read</QuickLinksTitle> */}
-      <div style={{ height: '315px', margin: 'auto' }}>
-        <ImageLink
-          image={
-            'https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'
-          }
-          title="test"
-          type="continents"
-        />
-        {/* this can be changed to something else Either a image a title with an icon  */}
-        {/* <div class="salt-icon__container category-details__icon category__quicklinks-icon">
+      {/* this can be changed to something else Either a image a title with an icon  */}
+      {/* <div class="salt-icon__container category-details__icon category__quicklinks-icon">
         <span class="salt-icon salt-icon--compass"></span>
         <svg class="icon icon-round-shape"></svg>
       </div> */}
-        {/* this can be changed to something else Either a image a title with an icon  */}
-      </div>
+      {/* this can be changed to something else Either a image a title with an icon  */}
+      {type && type ? MediaIcon : Img}
       <QuickLinksList>
         {data &&
-          data.map((title, index) => (
+          data.map((titleTitle, index) => (
             <QuickLinksListItem key={index}>
               <QuickLinksAnchor href="https://www.saltinourhair.com/travel-blog/best-places-to-travel/">
-                {title}
+                {titleTitle}
               </QuickLinksAnchor>
               <svg style={{ display: 'none' }}></svg>
             </QuickLinksListItem>

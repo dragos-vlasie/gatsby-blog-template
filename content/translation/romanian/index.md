@@ -1,6 +1,6 @@
 ---
 title: 'Alma Calatoreste'
-cover: './blocks.jpg'
+cover: './pic.jpg'
 lang: 'ro-ro'
 path: 'ro/'
 ---

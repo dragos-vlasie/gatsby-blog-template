@@ -1,6 +1,6 @@
 ---
 path: '/post-one'
-cover: './blocks.jpg'
+cover: './pic.jpg'
 date: '2018-10-15'
 title: 'Learn'
 lang: 'en-gb'
