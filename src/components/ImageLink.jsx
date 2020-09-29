@@ -3,6 +3,7 @@ import styled from '@emotion/styled';
 import Icon from '../elements/ArticleIcon';
 import ArticleTitle from '../elements/Title';
 import Button from '../elements/Button';
+import Img from 'gatsby-image';
 
 const ArticleBlockImage = styled.div`
   box-shadow: ${props => (props.type == 'category' || props.type === 'featured' ? '7px 7px 0 #f5f4f2' : 'none')};
@@ -80,7 +81,7 @@ const Image = styled.img`
 
 // we may change this with a prop the margin value
 const ArticleCategoryIntro = styled.div`
-  margin-top: ${props => (props.type == 'category' ? '40px' : '0')};
+  margin-top: ${props => (props.type == 'category' ? '0' /*'40px'*/ : '0')};
   position: relative;
   height: ${props => (props.type == 'category' ? 'auto' /* 385px */ : '100%')};
   @media (max-width: 767px) {
@@ -89,10 +90,11 @@ const ArticleCategoryIntro = styled.div`
 `;
 
 const ArticleBlockContent = styled.div`
-  margin: ${props => (props.type === 'category' ? '25px 0 0 10px' : '0')};
+  margin: ${props => (props.type === 'category' ? '15px 0 0 10px' : '0')};
   max-width: 500px;
   order: 2;
-  top: ${props => (props.type === 'normal' || props.type === 'bestOf' ? '18px' : '0')};
+  top: ${props =>
+    props.type === 'normal' || props.type === 'bestOf' ? '18px' : props.type === 'featured' ? '0' : '0'};
   margin-left:0;   /*  ${props => (props.type === 'normal' ? '20px' : '0')} */
   width: auto;
   z-index: 2;
@@ -126,11 +128,7 @@ export const ImageLink = ({ type, title, textPosition, position, image, icon, ar
         {icon && position === 'topLeft' ? <Icon icon={icon} position={position} /> : null}
         <ArticleBlockImage type={type}>
           <ArticleBlockImageLink>
-            <picture>
-              <Image // use gatsby image
-                src={image}
-              />
-            </picture>
+            <Img fluid={image || {} || [] || ''} height="100%" />
           </ArticleBlockImageLink>
         </ArticleBlockImage>
         <ArticleBlockContent type={type}>

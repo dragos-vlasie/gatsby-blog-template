@@ -26,7 +26,13 @@ const ArticleLabel = css`
 const ArticleLabelIcon = styled.div`
   background: url(https://www.saltinourhair.com/build/images/sprite/sprite.png);
   background-position: ${props =>
-    props.icon === 'compass' ? '0 23.5294117647%' : '0 41.1764705882%'}; /*here we need to change the value */
+    props.icon === 'compass'
+      ? '0 23.46941%'
+      : props.icon === 'compassLight'
+      ? '0  17.6470588235%'
+      : props.icon === 'mustRead'
+      ? '0 41.1764705882%'
+      : ''}; /*here we need to change the value */
   background-size: 100%;
   display: inline-block;
   height: 100%;

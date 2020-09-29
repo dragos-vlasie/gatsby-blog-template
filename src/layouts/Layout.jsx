@@ -13,7 +13,7 @@ import { StaticQuery, graphql } from 'gatsby';
 
 const { Provider: LocaleProvider, Consumer: LocaleConsumer } = React.createContext();
 
-const Layout = ({ children, locale, pathname, customSEO }) => (
+const Layout = ({ children, locale = 'en-gb', pathname, customSEO }) => (
   <StaticQuery
     query={translationQuery}
     render={data => {
@@ -63,6 +63,9 @@ const Layout = ({ children, locale, pathname, customSEO }) => (
                   }
                   ul {
                     list-style: none;
+                  }
+                  .gatsby-image-wrapper {
+                    height: 100%;
                   }
                   ${headroom}
                 `}

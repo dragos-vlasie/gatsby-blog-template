@@ -5,6 +5,7 @@ export const typography = new Typography({
   baseFontSize: '18px',
   baseLineHeight: 1.45,
   headerFontFamily: [
+    'Merriweather',
     'Candal',
     '-apple-system',
     'BlinkMacSystemFont',
@@ -15,6 +16,7 @@ export const typography = new Typography({
     'sans-serif',
   ],
   bodyFontFamily: [
+    'Merriweather',
     'Open Sans',
     '-apple-system',
     'BlinkMacSystemFont',

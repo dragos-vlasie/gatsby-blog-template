@@ -21,7 +21,7 @@ const NavList = styled.ul`
   padding: 15px 0;
   overflow: visible;
   border-radius: inherit;
-  font-family: headings, Arial;
+  font-family: Merriweather;
   font-weight: 900;
 
   @media (max-width: 767px) {
@@ -127,6 +127,7 @@ const NavSubList = styled.ul`
 
 const NavSubListItem = styled.li`
   position: relative;
+  list-style-type: none;
 
   @media (max-width: 767px) {
     margin-right: 12px;
@@ -136,17 +137,22 @@ const NavSubListItem = styled.li`
 
 const NavSubListItemAnchor = styled.a`
   padding: 5px;
+  display: flex;
+  justify-content: center;
   align-items: center;
   background-color: #f5f4f2;
+  text-decoration: none;
   border-radius: 20px;
   color: #353535;
-  display: block;
   height: 35px;
   padding: 3px;
   position: relative;
   text-align: center;
   transition: background 0.2s;
   white-space: nowrap;
+  &:hover {
+    background: gainsboro;
+  }
 `;
 
 //  to do - make column bigger for lists that holds a lot more items then the others

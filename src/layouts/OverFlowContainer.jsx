@@ -6,12 +6,12 @@ const Container = styled.div`
   margin-top: 35px;
 `;
 
-// margin-botom on mobile
+// margin-bottom on mobile
 
 const CategoryTitle = styled.h3`
-  font-size: 24px;
-  margin-bottom: 20px;
-  margin-left: 15px;
+  font-size: 50px;
+  margin-bottom: 40px;
+  text-align: center;
 `;
 
 const Scroller = styled.div`
@@ -60,7 +60,7 @@ const ScrollItem = styled.div`
   }
 `;
 
-export const OverFlowContainer = ({ articles, type, height, title, textPosition }) => {
+export const OverFlowContainer = ({ articles, type, height, image, title, textPosition }) => {
   return (
     <Container>
       <CategoryTitle> {title}</CategoryTitle>
@@ -69,14 +69,7 @@ export const OverFlowContainer = ({ articles, type, height, title, textPosition 
           <ScrollInner>
             {articles.map((article, index) => (
               <ScrollItem key={index} type={type}>
-                <ImageLink
-                  image={
-                    'https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'
-                  }
-                  type={type}
-                  title={article}
-                  textPosition={textPosition}
-                />
+                <ImageLink image={image} type={type} title={article} textPosition={textPosition} />
               </ScrollItem>
             ))}
           </ScrollInner>

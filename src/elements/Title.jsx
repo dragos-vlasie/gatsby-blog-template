@@ -42,6 +42,8 @@ const TopBlockTitle = css`
 `;
 
 const CenterSpanWithUnderline = styled.span`
+  line-height: 1.3;
+  padding: 3px;
   background-color: ${props => (props.type == 'normal' || props.type === 'bestOf' ? '#fff' : 'transparent')};
   background-size: ${props => [props.type === 'category' ? '100% 88%, 100% 88%' : '0 88%, 0 88%']};
   ${props =>
@@ -62,23 +64,22 @@ const CenterSpanWithUnderline = styled.span`
   color: inherit;
   background-repeat: no-repeat;
 
-  &:hover ${CenterSpanWithUnderline} {
+  &:hover {
     background-size: ${props => (props.type === 'featured' ? '100% 88%, 100% 88%' : 'none')};
   }
 `;
 
 const CenterBlockTitle = styled.h2`
   color: ${props => (props.type == 'featured' || props.type === 'continents' ? '#fff' : '#353535')};
-  font-family: 'Ariel';
+  font-family: 'Merriweather';
   font-size: ${props => (props.type == 'normal' || props.type === 'bestOf' ? '1.1rem' : '50px')};
-  margin: ${props => (props.type == 'normal' || props.type === 'bestOf' ? '0 0 0 .4em;' : '0')};
+  margin: ${props => (props.type == 'normal' || props.type === 'bestOf' ? 'auto' /*'0 0 0 .4em;'*/ : '0')};
   line-height: 1.05;
   letter-spacing: -0.3px;
   font-weight: 700;
 `;
 
 export const Title = ({ children, title, type, textPosition = false, arrow = false }) => {
-  console.log('Title -> type', type);
   return (
     <>
       <CenterBlockTitle type={type}>

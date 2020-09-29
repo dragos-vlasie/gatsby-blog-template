@@ -15,6 +15,10 @@ import Container from '../layouts/Container';
 import GridContainer from '../layouts/GridContainer';
 import QuickLinks from '../components/QuickLinks';
 import CategoryNavigation from '../components/CategoryNavigation';
+import SocialIcons from '../components/SocialIcons';
+import BackgroundTitle from '../elements/BackgroundTitle';
+import { margin } from 'polished';
+import FlexSection from '../layouts/FlexSection';
 const mockData = [
   '11 Things To Do in Luang Prabang, 3-Day Guide',
   '11 Things To Do in Luang Prabang, 3-Day Guide',
@@ -81,8 +85,10 @@ const Index = ({ data, pageContext: { locale }, location }) => {
             <Helmet title={title} />
             <Header title={title} cover={edges[0].node.frontmatter.cover.childImageSharp.fluid} homePage={true}>
               {' '}
-              {console.log('edges[0].node.frontmatter', edges[0].node.frontmatter)}
-              "A journal for myself, curious eyes and fellow travellers!"
+              {console.log('edges[0]', edges[0])}
+              <p style={{ color: 'white', fontSize: '19px' }}>
+                "A journal for myself, curious eyes and fellow travellers!"
+              </p>
             </Header>
             <Container>
               <FadeIn>
@@ -90,16 +96,19 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                 {/* <CatergoriesWrapper>{tags && tags.map(tag => <CardTag key={tag} tagName={tag} />)}</CatergoriesWrapper> */}
                 <GridContainer type={'featured'}>
                   <ImageLink
-                    image={
-                      'https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'
-                    }
+                    image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
                     type={'featured'}
                     textPosition={'featured'}
                     title={'This is a featured article'}
-                    icon={'compass'}
+                    icon={'compassLight'}
                     position={'center'}
                   />
-                  <QuickLinks data={tags} type={false} title={'These are a few important articles'} />
+                  <QuickLinks
+                    data={tags}
+                    type={false}
+                    image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
+                    title={'These are a few important articles'}
+                  />
                 </GridContainer>
                 {/* <PostWrapper>
                   {edges &&
@@ -123,112 +132,53 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                     })}
                 </PostWrapper> */}
               </FadeIn>
-              <GridContainer>
-                <QuickLinks data={tags} />
-                <ImageLink
-                  image={
-                    'https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'
-                  }
-                  type={'category'}
-                  title={'This is a random title'}
-                  icon={'icon-name'}
-                  position={'topLeft'}
-                  arrow={true}
-                />
-              </GridContainer>
               <OverFlowContainer
                 articles={continents}
                 type={'continents'}
                 title={'Explore by continent'}
                 textPosition={'continents'}
+                image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
               />
-              <GridContainer>
-                <DestinationsList data={continents} />
-                <ImageLink
-                  image={
-                    'https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'
-                  }
-                  type={'category'}
-                  title={'This is a random title'}
-                  icon={'icon-name'}
-                  arrow={true}
-                  position={'topLeft'}
-                />
-              </GridContainer>
-              <GridContainer>
-                <div class="about-image">
-                  <img
-                    src="/build/images/blank.png"
-                    data-srcset="/build/images/home/about-us.jpg 423w, /build/images/home/about-us-2.jpg 845w"
-                    class=" ls-is-cached lazyloaded"
-                    width="423"
-                    height="427"
-                    alt="Hannah and Nick - Salt in our Hair"
-                    srcset="/build/images/home/about-us.jpg 423w, /build/images/home/about-us-2.jpg 845w"
-                  />
-                </div>
-                <div class="about-content">
-                  <div class="about-content__title">ABOUT</div>
-                  <div class="about-content__subtitle">Hannah &amp; Nick</div>
-                  <p class="about-content__text">
-                    Hi! We're Hannah &amp; Nick, two creatives that run a 'travel content creation' company named Salt
-                    in our Hair. We inspire people to travel via our travel guides, photography and videography.
-                    <a href="/about-us" target="_blank">
-                      More about us
-                    </a>{' '}
-                    /{' '}
-                    <a href="/work-with-us" target="_blank">
-                      Work with us
-                    </a>
-                  </p>
-                  <div class="socials">
-                    <div class="socials__item">
-                      <a
-                        class="socials__link"
-                        href="https://www.instagram.com/saltinourhair/"
-                        target="_blank"
-                        rel="noopener"
-                        aria-label="Instagram Salt in our Hair"
-                      ></a>
-                    </div>
-                    <div class="socials__item">
-                      <a
-                        class="socials__link"
-                        href="https://www.youtube.com/c/saltinourhairtravel?sub_confirmation=1"
-                        target="_blank"
-                        rel="noopener"
-                        aria-label="Youtube Salt in our Hair"
-                      ></a>
-                    </div>
-                    <div class="socials__item">
-                      <a
-                        class="socials__link"
-                        href="https://www.pinterest.com/saltinourhair/"
-                        target="_blank"
-                        rel="noopener"
-                        aria-label="Pinterest Salt in our Hair"
-                      ></a>
-                    </div>
-                    <div class="socials__item">
-                      <a
-                        class="socials__link"
-                        href="https://www.facebook.com/saltinourhair/"
-                        target="_blank"
-                        rel="noopener"
-                        aria-label="Facebook Salt in our Hair"
-                      ></a>
-                    </div>
-                  </div>
-                </div>
+              <GridContainer type={'flex'}>
+                <FlexSection></FlexSection>
               </GridContainer>
               <OverFlowContainer
                 articles={mockData}
                 type={'bestOf'}
                 title={'Best of categories'}
                 textPosition={'top'}
+                image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
               />
-              <OverFlowContainer articles={mockData} type={'normal'} title={'Normal articles'} textPosition={'top'} />
-              <CategoryNavigation />
+              <OverFlowContainer
+                articles={mockData}
+                image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
+                type={'normal'}
+                title={'Normal articles'}
+                textPosition={'top'}
+              />
+              <GridContainer>
+                <DestinationsList data={continents} />
+                <ImageLink
+                  image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
+                  type={'category'}
+                  title={'This is a random title'}
+                  icon={'mustRead'}
+                  arrow={true}
+                  position={'topLeft'}
+                />
+              </GridContainer>
+
+              <GridContainer>
+                <QuickLinks data={tags} image={edges[0].node.frontmatter.cover.childImageSharp.fluid} />
+                <ImageLink
+                  image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
+                  type={'category'}
+                  title={'This is a random title'}
+                  icon={'mustRead'}
+                  position={'topLeft'}
+                  arrow={true}
+                />
+              </GridContainer>
             </Container>
           </>
         )}
