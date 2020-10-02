@@ -95,16 +95,17 @@ const ArticleBlockContent = styled.div`
   order: 2;
   top: ${props =>
     props.type === 'normal' || props.type === 'bestOf' ? '18px' : props.type === 'featured' ? '0' : '0'};
-  margin-left:0;   /*  ${props => (props.type === 'normal' ? '20px' : '0')} */
+  margin-left: ${props => (props.type === 'normal' || props.type === 'bestOf' ? '20px' : '0')};
   width: auto;
   z-index: 2;
   align-items: center;
   background-color: ${props => (props.type === 'featured' ? 'rgba(0, 0, 0, 0.3)' : 'none')};
   display: flex;
   max-width: none;
-  border-radius:7px;
+  border-radius: 7px;
   position: ${props => (props.type === 'normal' || props.type === 'bestOf' ? 'absolute' : 'relative')};
-  width: 100%;
+  width: ${props =>
+    props.type === 'normal' || props.type === 'bestOf' ? '90%' : props.type === 'featured' ? '100%' : '100%'};
 `;
 
 const ArticleBlockContentLink = styled.div`
@@ -112,9 +113,26 @@ const ArticleBlockContentLink = styled.div`
   transition: color 0.2s;
   margin-top: ${props => (props.type === 'featured' ? '-70px' : '0')};
   padding: ${props => (props.type === 'featured' ? '1.5rem 3rem' : '0')};
-  text-align: ${props => (props.type === 'category' ? 'left' : 'center')};
+  text-align: ${props =>
+    props.type === 'normal' || props.type === 'bestOf' || props.type === 'category'
+      ? 'left'
+      : props.type === 'featured'
+      ? 'center'
+      : 'center'};
   width: ${props => (props.type === 'category' ? '90%' : '100%')};
   text-decoration: none;
+`;
+
+const ButtonWrapper = styled.div`
+  bottom: 12px;
+  cursor: pointer;
+  height: 50px;
+  position: absolute;
+  border: 0;
+
+  right: -10%;
+  width: 50px;
+  border-radius: 50%;
 `;
 
 // Break this down in to imported image imported icon imported title
@@ -136,7 +154,9 @@ export const ImageLink = ({ type, title, textPosition, position, image, icon, ar
             {icon && position !== 'topLeft' ? <Icon icon={icon} position={position} /> : null}
             <ArticleTitle title={title} type={type} textPosition={textPosition} arrow={arrow}>
               <Wrapper>
-                <Button />
+                <ButtonWrapper>
+                  <Button />
+                </ButtonWrapper>
               </Wrapper>
             </ArticleTitle>
           </ArticleBlockContentLink>

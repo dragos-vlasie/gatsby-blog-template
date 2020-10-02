@@ -42,7 +42,7 @@ const TopBlockTitle = css`
 `;
 
 const CenterSpanWithUnderline = styled.span`
-  line-height: 1.3;
+  line-height: ${props => (props.type == 'normal' || props.type === 'bestOf' ? '1.7' : '1.1')};
   padding: 3px;
   background-color: ${props => (props.type == 'normal' || props.type === 'bestOf' ? '#fff' : 'transparent')};
   background-size: ${props => [props.type === 'category' ? '100% 88%, 100% 88%' : '0 88%, 0 88%']};

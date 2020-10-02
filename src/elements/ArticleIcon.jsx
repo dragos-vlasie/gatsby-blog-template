@@ -39,8 +39,24 @@ const ArticleLabelIcon = styled.div`
   width: 100%;
 `;
 
+const SvgWrapper = styled.svg`
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+  fill: #c0e2e2;
+  left: 0;
+`;
+
+const SVG = ({}) => {
+  return (
+    <SvgWrapper viewBox="0 0 32 32" id="icon-round-shape" xmlns="http://www.w3.org/2000/svg">
+      <path d="M18.8.2C13.2-.6 6.8.7 3.3 5.1.9 8 .3 12 .1 15.7c-.2 3.9 0 8.1 2.4 11.2 2.5 3.4 6.7 4.9 10.9 5 5.4.1 5.3.6 9.3-.8 5-1.7 9.2-6.9 9.3-12.2.1-2.1-.1-6.6-.8-8.6 0 0-2.6-8.6-12.4-10.1z"></path>
+    </SvgWrapper>
+  );
+};
 // this can be a different icon it depends on the place it will be used
-export const Icon = ({ icon, position }) => {
+export const Icon = ({ icon, position, circle = false }) => {
   return (
     <div
       css={
@@ -53,6 +69,7 @@ export const Icon = ({ icon, position }) => {
       icon={icon}
     >
       <ArticleLabelIcon icon={icon}></ArticleLabelIcon>
+      {circle && circle ? <SVG /> : null}
     </div>
   );
 };

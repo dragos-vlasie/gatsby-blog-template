@@ -18,7 +18,7 @@ const SocialsLink = styled.div`
   display: -ms-flexbox;
   display: flex;
   font-size: 32px;
-  height: 1em;
+  height: 1.1em;
   justify-content: center;
   text-align: center;
   transition: transform 0.2s;

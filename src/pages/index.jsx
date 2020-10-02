@@ -19,6 +19,8 @@ import SocialIcons from '../components/SocialIcons';
 import BackgroundTitle from '../elements/BackgroundTitle';
 import { margin } from 'polished';
 import FlexSection from '../layouts/FlexSection';
+import CategoryPreview from '../components/CategoryPreview';
+
 const mockData = [
   '11 Things To Do in Luang Prabang, 3-Day Guide',
   '11 Things To Do in Luang Prabang, 3-Day Guide',
@@ -117,9 +119,9 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                       const { cover, path, title, date, lang } = frontmatter;
                       const arrayPath = fileAbsolutePath.split('/');
                       const category = arrayPath
-                        .slice(arrayPath.indexOf('content') + 1, arrayPath.indexOf('index.md') - 1)
+                      .slice(arrayPath.indexOf('content') + 1, arrayPath.indexOf('index.md') - 1)
                         .join();
-                      return (
+                        return (
                         <PostList
                           key={id}
                           cover={cover.childImageSharp.fluid}
@@ -127,11 +129,12 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                           title={title}
                           date={date}
                           excerpt={excerpt}
-                        />
-                      );
-                    })}
-                </PostWrapper> */}
+                          />
+                          );
+                        })}
+                      </PostWrapper> */}
               </FadeIn>
+              <CategoryPreview label={'Porto'} image={edges[0].node.frontmatter.cover.childImageSharp.fluid} />
               <OverFlowContainer
                 articles={continents}
                 type={'continents'}
@@ -169,7 +172,7 @@ const Index = ({ data, pageContext: { locale }, location }) => {
               </GridContainer>
 
               <GridContainer>
-                <QuickLinks data={tags} image={edges[0].node.frontmatter.cover.childImageSharp.fluid} />
+                <QuickLinks data={tags} circle={true} image={edges[0].node.frontmatter.cover.childImageSharp.fluid} />
                 <ImageLink
                   image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
                   type={'category'}

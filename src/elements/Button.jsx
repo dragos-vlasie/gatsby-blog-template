@@ -2,15 +2,14 @@ import React from 'react';
 import styled from '@emotion/styled';
 
 const BlockButtonBtnCircle = styled.button`
-  bottom: 12px;
   cursor: pointer;
-  height: 50px;
-  position: absolute;
-  border: 0;
-
-  right: -10%;
-  width: 50px;
+  width: 100%;
+  height: 100%;
   border-radius: 50%;
+  border: 0;
+  padding: 10px;
+  background: #353535;
+  fill: white;
 `;
 
 export const Button = () => {

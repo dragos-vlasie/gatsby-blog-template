@@ -1,0 +1,25 @@
+---
+path: '/africa/marrakech-travel-guide/'
+cover: './pic.jpg'
+date: '2020-10-15'
+title: 'Marrakech travel Guide'
+lang: 'en-gb'
+published: true
+category: ['Africa']
+---
+
+AlmaLavinia.com isn’t a travel blog about luxury travelling, but about how to see the world while young and on a budget - however I do plan to revisit a lot of places later in my life when hopefully I’ll be better off and Morocco is one of them. This article is about what I’ve learnt from my first trip to Marrakech, things I believe you should know to have a good time and avoid getting ripped off.
+Taxis in Marrakesh are a completely different thing from the rest of the world. The drivers are pushy and while walking around the city you’ll find a lot of them offering you a ride i.e. shouting at you ‘taxi?’. Most of the time they refuse to turn on the meter, and ask you for 5-10 times more than the ride should cost. This will start right upon your arrival in Marrakech, so even though the airport is relatively close to the city be prepared to pay 10EUR if you arrive on daylight and 15EUR if you arrive late in the night – during the day there is also a bus running from and to the airport if you want to pay less. However, in Morocco the public transportation is underdeveloped or simply not well documented, so personally we’ve used taxis quite a lot.
+
+Fake guides were new to us, but after happening a few times on the first day we concluded this is a thing in Marrakech. On the narrow streets of Medina it is very easy to spot the confused tourists and locals take advantage of this. You may even know your way, but they would still approach you, tell you they will show you the way and ask for money at the end. The worst thing about this is that they will never be happy with how much you give them – one guy took us to a tannery we didn’t really want to go to (not only taxi drivers are pushy) and asked for 30EUR per person when we got there! We didn’t have much cash on us so the guy wasn’t happy and we ended up rather lost in the middle of Medina, but a funny memory.
+
+Carry cash. The Moroccan dirham is a closed currency and that means that you are not allowed to carry it across the borders; the best thing you can do is exchange money at the airport. We’ve also used the ATMs in the city to take money out, but using a card is not often an option in Morocco. Don’t use your hotels’ currency as we paid for a trip in euro rather than dirham and lost 9EUR/90EURO – 10%!
+
+Having a cobra around your neck or a monkey on your shoulder sounds exciting\*? You can do that in Marrakech, but you’ll have to pay at the end. They will ask for 20-30EUR after you’ve taken your pictures, but I advise you to decide how much you want to pay before going and having the fixed amount in a separate pocket. Just hand in the money, say that’s all you’ve got and walk away. Be careful, even if you pass by and take pictures they will still come and ask you for money.
+
+\*I’ve done that in Marrakech, but in Thailand I came to realize that animals shouldn’t be exploited for personal gains, being them elephants, tigers, moneys, cobras etc. so I started to regret paying for it and thus encouraging and supporting the ‘business’. I now consider myself a responsible tourist, so I dare to advise you to wait for another trip and play with monkeys in their natural habitat, not while they’re in chains and wearing diapers and silly hats.
+
+5.  Tips. Whenever you receive a service in Marrakech you should consider the fact that tips are not included. The waiter will ask for it, the guide will ask for it, the taxi driver will ask for it so make sure you’ve always got some spare change. After spending all my dirhams on the last dinner in Marrakech I had to tip the waiter in quids! he wasn’t initially happy with the british currency, but he accepted it soon after he realized that was really all I had. Euros are however welcome everywhere for tips or payments, but as I already said the exchange rate is considerably higher than at a normal exchange shop. Also, many things in Jemaa el-Fna market are priced for convenience in euros. We bought some salt containers with traditional Moroccan motifs for 1 euro each and also a clay replica of the Koutoubia mosque for my dad’s collection of authentic (generally odd) things for the same price. Bargains!
+6.  Dress appropriately. Morocco is an Islamic country and locals can get offended if you wear inappropriate clothing. Our holiday in Marrakech clashed with the first days of Ramadan and my friend got shouted at by some figures in the crowds that were coming back from the mosque in the evening because her skirt was revealing her ankles! Generally you should be ok as long as you cover your knees and shoulders.
+    Speaking of Ramadan, we really couldn’t find any place to eat open during the day in Casablanca and at sunset we had to wait for 45min for our waiters to have dinner before we got served haha! I’m not saying you shouldn’t go to Morocco during Ramadan, but you should know what you sign up for and be prepared.
+7.

@@ -7,13 +7,13 @@ const Title = styled.div`
   align-self: flex-end;
   line-height: 1;
   position: relative;
-  font-size: 5.5em;
+  /* font-size: 5.5em; */
+  font-size: calc((30em/11) + (11*1px));
   font-weight: 800;
-
   letter-spacing: 7px;
 
   &:after {
-    content: 'ABOUT';
+    content: '${props => props.content}';
     color: rgba(94, 60, 59, 0.3);
     left: -0.06em;
     top: -0.06em;
@@ -25,6 +25,6 @@ const Title = styled.div`
   }
 `;
 export const BackgroundTitle = ({ label }) => {
-  return <Title>{label}</Title>;
+  return <Title content={label}>{label}</Title>;
 };
 export default BackgroundTitle;
