@@ -62,8 +62,9 @@ const CatergoriesWrapper = styled.div`
 `;
 
 const Index = ({ data, pageContext: { locale }, location }) => {
-  const { edges } = data.allMarkdownRemark;
-  const { title } = data.markdownRemark.frontmatter;
+  console.log('Index -> data', data);
+  const { edges } = data.allMdx;
+  const { title } = data.mdx.frontmatter;
   const postsByTag = {};
 
   edges.forEach(({ node }) => {
@@ -192,33 +193,30 @@ const Index = ({ data, pageContext: { locale }, location }) => {
 
 export default Index;
 
-Index.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.arrayOf(
-        PropTypes.shape({
-          node: PropTypes.shape({
-            excerpt: PropTypes.string,
-            frontmatter: PropTypes.shape({
-              cover: PropTypes.object.isRequired,
-              path: PropTypes.string.isRequired,
-              title: PropTypes.string.isRequired,
-              date: PropTypes.string.isRequired,
-              tags: PropTypes.array,
-            }),
-          }),
-        }).isRequired
-      ),
-    }),
-  }),
-};
+// Index.propTypes = {
+//   data: PropTypes.shape({
+//     allMdx: PropTypes.shape({
+//       edges: PropTypes.arrayOf(
+//         PropTypes.shape({
+//           node: PropTypes.shape({
+//             excerpt: PropTypes.string,
+//             frontmatter: PropTypes.shape({
+//               cover: PropTypes.object.isRequired,
+//               path: PropTypes.string.isRequired,
+//               title: PropTypes.string.isRequired,
+//               date: PropTypes.string.isRequired,
+//               tags: PropTypes.array,
+//             }),
+//           }),
+//         }).isRequired
+//       ),
+//     }),
+//   }),
+// };
 
 export const query = graphql`
-  query($pathSlug: String!) {
-    allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { fileAbsolutePath: { regex: "/posts/" } }
-    ) {
+  query {
+    allMdx(sort: { order: DESC, fields: [frontmatter___date] }, filter: { fileAbsolutePath: { regex: "/posts/" } }) {
       edges {
         node {
           id
@@ -241,11 +239,11 @@ export const query = graphql`
         }
       }
     }
-    markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
-      id
+    mdx {
       frontmatter {
         title
       }
+      id
     }
   }
 `;

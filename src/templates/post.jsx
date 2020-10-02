@@ -10,8 +10,9 @@ import FadeIn from '../elements/FadeIn';
 import Suggestions from '../elements/Suggestions';
 
 const Post = ({ data, pageContext, location }) => {
+  console.log('Post -> data', data);
   const { next, prev } = pageContext;
-  const { html, frontmatter, excerpt } = data.markdownRemark;
+  const { body, frontmatter, excerpt } = data.allMdx.nodes[0];
   const { date, title, tags, path, description } = frontmatter;
   const image = frontmatter.cover.childImageSharp.fluid;
 
@@ -31,7 +32,7 @@ const Post = ({ data, pageContext, location }) => {
             <Header title={title} date={date} cover={image} />
             <Container type="article">
               <FadeIn>
-                <Content input={html} />
+                <Content input={body} />
               </FadeIn>
               <TagsBlock list={tags || []} />
             </Container>
@@ -57,23 +58,25 @@ Post.propTypes = {
 
 export const query = graphql`
   query($pathSlug: String!) {
-    markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
-      html
-      frontmatter {
-        date
-        title
-        tags
-        path
-        cover {
-          childImageSharp {
-            fluid(maxWidth: 900, quality: 85, duotone: { highlight: "#386eee", shadow: "#2323be", opacity: 60 }) {
-              ...GatsbyImageSharpFluid_withWebp
-            }
-            resize(width: 1200, quality: 90) {
-              src
+    allMdx(filter: { frontmatter: { path: { eq: $pathSlug } } }) {
+      nodes {
+        frontmatter {
+          date
+          title
+          tags
+          path
+          cover {
+            childImageSharp {
+              fluid(maxWidth: 900, quality: 85, duotone: { highlight: "#386eee", shadow: "#2323be", opacity: 60 }) {
+                ...GatsbyImageSharpFluid_withWebp
+              }
+              resize(width: 1200, quality: 90) {
+                src
+              }
             }
           }
         }
+        body
       }
     }
   }

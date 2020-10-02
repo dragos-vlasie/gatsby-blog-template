@@ -16,7 +16,7 @@ const Base = styled.div`
 `;
 
 const Blog = ({ data, pageContext: { locale }, location }) => {
-  const { edges } = data.allMarkdownRemark;
+  const { edges } = data.allMdx;
   return (
     <Layout locale={locale} pathname={location.pathname}>
       <Helmet title={'Blog Page'} />
@@ -46,7 +46,7 @@ export default Blog;
 
 Blog.propTypes = {
   data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
+    allMdx: PropTypes.shape({
       edges: PropTypes.arrayOf(
         PropTypes.shape({
           node: PropTypes.shape({
@@ -67,7 +67,7 @@ Blog.propTypes = {
 
 export const query = graphql`
   query {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+    allMdx(sort: { order: DESC, fields: [frontmatter___date] }) {
       edges {
         node {
           id

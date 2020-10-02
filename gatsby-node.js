@@ -64,9 +64,8 @@ exports.createPages = ({ graphql, actions }) => {
       graphql(
         `
           query {
-            allMarkdownRemark(
+            allMdx(
               filter: { fileAbsolutePath: { regex: "/posts/" }, frontmatter: { published: {} } }
-              limit: 3
               sort: { order: DESC, fields: [frontmatter___date] }
             ) {
               edges {
@@ -89,7 +88,7 @@ exports.createPages = ({ graphql, actions }) => {
           return reject(result.errors);
         }
 
-        const posts = result.data.allMarkdownRemark.edges;
+        const posts = result.data.allMdx.edges;
 
         const postsByTag = {};
         // create tags page
