@@ -1,7 +1,6 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
-import { MDXRenderer } from 'gatsby-plugin-mdx';
 
 const Wrapper = styled.div`
   p,
@@ -58,7 +57,7 @@ const Wrapper = styled.div`
   }
 `;
 
-const Content = ({ input }) => <MDXRenderer>{input}</MDXRenderer>;
+const Content = ({ input }) => <Wrapper dangerouslySetInnerHTML={{ __html: input }} />;
 
 export default Content;
 

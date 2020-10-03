@@ -2,7 +2,7 @@
 path: '/europe/london-travel-guide/'
 cover: './pic.jpg'
 date: '2018-10-15'
-title: 'London Travel Guide'
+title: 'Brighton Day Trip'
 lang: 'en-gb'
 published: true
 category: ['Europe']

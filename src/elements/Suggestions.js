@@ -137,7 +137,7 @@ const Suggestions = ({ left, right }) => (
   <StaticQuery
     query={graphql`
       query {
-        allMdx(sort: { fields: [frontmatter___date], order: ASC }) {
+        allMarkdownRemark(sort: { fields: [frontmatter___date], order: ASC }) {
           totalCount
           edges {
             node {
@@ -166,10 +166,11 @@ const Suggestions = ({ left, right }) => (
     `}
     render={data => {
       const leftData =
-        left && data.allMdx.edges.find(element => element.node.frontmatter.title === left.frontmatter.title);
+        left && data.allMarkdownRemark.edges.find(element => element.node.frontmatter.title === left.frontmatter.title);
 
       const rightData =
-        right && data.allMdx.edges.find(element => element.node.frontmatter.title === right.frontmatter.title);
+        right &&
+        data.allMarkdownRemark.edges.find(element => element.node.frontmatter.title === right.frontmatter.title);
 
       return (
         <Row>

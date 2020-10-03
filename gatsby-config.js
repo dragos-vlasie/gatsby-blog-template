@@ -16,10 +16,9 @@ module.exports = {
     },
     'gatsby-transformer-sharp',
     {
-      resolve: `gatsby-plugin-mdx`,
+      resolve: 'gatsby-transformer-remark',
       options: {
-        extensions: [`.mdx`, `.md`],
-        gatsbyRemarkPlugins: [
+        plugins: [
           {
             resolve: 'gatsby-remark-images',
             options: {
@@ -47,7 +46,6 @@ module.exports = {
     },
     'gatsby-plugin-sharp',
     'gatsby-plugin-sitemap',
-    `gatsby-plugin-feed-mdx`,
     {
       resolve: 'gatsby-plugin-manifest',
       options: {

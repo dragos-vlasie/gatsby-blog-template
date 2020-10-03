@@ -18,7 +18,9 @@ const Layout = ({ children, locale = 'en-gb', pathname, customSEO }) => (
     query={translationQuery}
     render={data => {
       const currentLanguage = locales[locale];
-      const localData = data.allMdx.edges.filter(({ node }) => node.frontmatter.lang === currentLanguage.htmllang);
+      const localData = data.allMarkdownRemark.edges.filter(
+        ({ node }) => node.frontmatter.lang === currentLanguage.htmllang
+      );
 
       const i18n = { ...currentLanguage, ...localData };
       return (
@@ -90,7 +92,7 @@ Layout.propTypes = {
 
 const translationQuery = graphql`
   query {
-    allMdx(
+    allMarkdownRemark(
       sort: { order: ASC, fields: [frontmatter___date] }
       filter: { fileAbsolutePath: { regex: "/translation/" } }
     ) {
