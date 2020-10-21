@@ -10,6 +10,13 @@ import theme from '../../config/theme';
 import headroom from '../styles/headroom';
 import locales from '../../config/i18n';
 import { StaticQuery, graphql } from 'gatsby';
+// import Fonts from '../components/Fonts';
+
+import merriweatherItalic from '../assets/fonts/merriweather-italic.woff2';
+import merriweather from '../assets/fonts/merriweather.woff2';
+import montserratReg from '../assets/fonts/montserrat-reg.woff2';
+import saltwritten from '../assets/fonts/SaltWritten.woff2';
+import saltheading from '../assets/fonts/SaltHeading.woff2';
 
 const { Provider: LocaleProvider, Consumer: LocaleConsumer } = React.createContext();
 
@@ -34,8 +41,45 @@ const Layout = ({ children, locale = 'en-gb', pathname, customSEO }) => (
                   *:after {
                     box-sizing: inherit;
                   }
+
+                    @font-face {
+    font-family: 'Merriweather';
+    src: url(${merriweather}) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Headings';
+    src: url(${saltheading}) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Merriweather';
+    src: url(${merriweatherItalic}) format('woff2');
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: 'Montserrat';
+    src: url(${montserratReg}) format('woff2');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'SaltWritten';
+    src: url(${saltwritten}) format('woff2');
+    font-weight: 400;
+    font-style: italic;
+  }
                   html,
                   body {
+                    font-family: Arial, sans-serif;
+                    font-size: 16px;
                     width: 100%;
                     height: 100%;
                     margin: 0;
@@ -48,7 +92,7 @@ const Layout = ({ children, locale = 'en-gb', pathname, customSEO }) => (
                     min-height: 100vh;
                   }
                   a {
-                    color: ${theme.colors.link};
+                    color: ${theme.colors.black.text};
                     transition: color 0.5s;
                     text-decoration: none;
                   }
@@ -56,10 +100,16 @@ const Layout = ({ children, locale = 'en-gb', pathname, customSEO }) => (
                     text-decoration: none;
                     color: ${theme.colors.linkHover};
                   }
-                  h1 {
+                  h1,
+                  h2,
+                  h3,
+                  h4,
+                  h5 {
                     font-size: 5rem;
-                    font-size: bold;
-                    font-family: ${theme.fontFamily.heading};
+                    font-weight: bold;
+                    /* font-family: ${theme.fontFamily.heading}; */
+                    font-family: headings, Arial;
+                    font-weight: 700;
                   }
                   ul {
                     list-style: none;

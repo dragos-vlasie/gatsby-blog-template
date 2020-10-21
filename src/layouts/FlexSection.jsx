@@ -40,7 +40,7 @@ export const FlexSection = () => {
       <FlexItem>
         <img
           style={{ height: 'auto' }}
-          src="https://www.saltinourhair.com/build/images/home/about-us-2.jpg"
+          src="/build/images/home/about-us-2.jpg"
           width="423"
           height="427"
           alt="Hannah and Nick - Salt in our Hair"

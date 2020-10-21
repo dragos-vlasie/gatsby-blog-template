@@ -29,15 +29,17 @@ const Post = ({ data, pageContext, location }) => {
               article
             />
             <Header title={title} date={date} cover={image} />
-            <Container type="article">
-              <FadeIn>
-                <Content input={html} />
-              </FadeIn>
-              <TagsBlock list={tags || []} />
-            </Container>
-            <Container>
-              <Suggestions left={prev} right={next} cardstyle="secondary" />
-            </Container>
+            <div>
+              <Container type="article">
+                <FadeIn>
+                  <Content input={html} />
+                </FadeIn>
+                <TagsBlock list={tags || []} />
+              </Container>
+              <Container>
+                <Suggestions left={prev} right={next} cardstyle="secondary" />
+              </Container>
+            </div>
           </>
         )}
       </LocaleConsumer>

@@ -12,8 +12,8 @@ const Navigation = styled.nav`
   position: relative;
 
   &:after {
-    background: url(https://www.saltinourhair.com/build/images/pink-roundshape.png) top left/cover;
-    background-image: url(https://www.saltinourhair.com/build/images/pink-roundshape.png);
+    background: url(/build/images/pink-roundshape.png) top left/cover;
+    background-image: url(/build/images/pink-roundshape.png);
     background-position-x: left;
     background-position-y: top;
     background-size: cover;
@@ -90,8 +90,8 @@ const Image = styled.img`
   width: 40px;
 `;
 
-export const DestinationsList = ({ data }) => {
-  console.log('DestinationsList -> data', data);
+export const DestinationsList = ({ data, img }) => {
+  console.log(img)
   return (
     <div className="DestinationsList">
       <h3>Pick destination</h3>
@@ -100,11 +100,11 @@ export const DestinationsList = ({ data }) => {
           {data &&
             data.map((destination, index) => (
               <Item key={index}>
-                <Anchor href="https://www.saltinourhair.com/france/">
+                <Anchor href="/france/">
                   <div>
                     <Image
-                      data-src="https://www.saltinourhair.com/wp-content/uploads/2018/07/paris-city-trip-guide-street-eiffel-tower-144x163.jpg"
-                      src="https://www.saltinourhair.com/wp-content/uploads/2018/07/paris-city-trip-guide-street-eiffel-tower-144x163.jpg"
+                      data-src="/wp-content/uploads/2018/07/paris-city-trip-guide-street-eiffel-tower-144x163.jpg"
+                      src={img.srcWebp}
                       alt="France"
                     />
                   </div>

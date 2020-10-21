@@ -22,9 +22,7 @@ export const Destinations = ({ pageContext: { locale }, location }) => {
           <CategoryNavigation />
           <GridContainer type={'featured'}>
             <ImageLink
-              image={
-                'https://www.saltinourhair.com/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'
-              }
+              image={'/wp-content/uploads/2020/04/best-things-to-do-luang-prabang-laos-704x600.jpg'}
               type={'category'}
               title={'This is a random title'}
               icon={'mustRead'}

@@ -65,6 +65,7 @@ const Index = ({ data, pageContext: { locale }, location }) => {
   const { edges } = data.allMarkdownRemark;
   const { title } = data.markdownRemark.frontmatter;
   const postsByTag = {};
+  console.log(data)
 
   edges.forEach(({ node }) => {
     if (node.frontmatter.tags) {
@@ -160,7 +161,7 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                 textPosition={'top'}
               />
               <GridContainer>
-                <DestinationsList data={continents} />
+                <DestinationsList data={continents} img={edges[1].node.frontmatter.cover.childImageSharp.fluid} />
                 <ImageLink
                   image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
                   type={'category'}
@@ -241,6 +242,14 @@ export const query = graphql`
         }
       }
     }
+     file(relativePath: {eq: "sprite.webp"}) {
+    id
+     childImageSharp {
+        fluid(maxWidth: 900) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+  }
     markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
       id
       frontmatter {

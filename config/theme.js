@@ -1,4 +1,4 @@
-import { rgba } from 'polished'
+import { rgba } from 'polished';
 
 const colors = {
   white: {
@@ -8,6 +8,7 @@ const colors = {
     blue: '#a8b8e1',
   },
   black: {
+    text: 'black',
     base: '#333438',
     light: '#4b4e57',
     lighter: '#696d77',
@@ -39,7 +40,7 @@ const colors = {
     behance: '#191919',
     youtube: '#ff0000',
   },
-}
+};
 
 const tint = {
   black: rgba(colors.black.base, 0.1),
@@ -48,12 +49,12 @@ const tint = {
   blueLight: rgba(colors.primary.base, 0.2),
   blueWhite: rgba(colors.white.blue, 0.7),
   orange: rgba(colors.secondary.base, 0.35),
-}
+};
 
 const gradient = {
   leftToRight: `linear-gradient(-45deg, ${colors.background.dark} 0%, ${colors.background.light} 100%)`,
   rightToLeft: `linear-gradient(45deg, ${colors.background.dark} 0%, ${colors.background.light} 100%)`,
-}
+};
 
 const shadow = {
   button: {
@@ -76,7 +77,7 @@ const shadow = {
     small: '0 5px 10px rgba(0, 0, 0, 0.25)',
     big: '0 15px 20px rgba(0, 0, 0, 0.13)',
   },
-}
+};
 
 const button = {
   default: {
@@ -102,13 +103,13 @@ const button = {
     },
     focus: tint.orange,
   },
-}
+};
 
 const transition = {
   easeInOutCubic: 'cubic-bezier(0.645, 0.045, 0.355, 1)',
   easeOutBack: 'cubic-bezier(0.175, 0.885, 0.32, 1.275)',
   duration: '0.4s',
-}
+};
 
 const theme = {
   colors,
@@ -150,6 +151,6 @@ const theme = {
       transition: 'all 0.25s ease-in-out',
     },
   },
-}
+};
 
-export default theme
+export default theme;

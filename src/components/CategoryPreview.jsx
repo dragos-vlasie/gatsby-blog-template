@@ -8,14 +8,9 @@ import BackgroundTitle from '../elements/BackgroundTitle';
 import Img from 'gatsby-image';
 
 const RelatedCategory = styled.section`
-  background-image: url(https://www.saltinourhair.com/build/images/search-bubbles.png),
-    url(https://www.saltinourhair.com/build/images/search-bubbles.png),
-    url(https://www.saltinourhair.com/build/images/search-bubbles.png),
-    url(https://www.saltinourhair.com/build/images/search-bubbles.png),
-    url(https://www.saltinourhair.com/build/images/search-bubbles.png),
-    url(https://www.saltinourhair.com/build/images/search-bubbles.png),
-    url(https://www.saltinourhair.com/build/images/search-bubbles.png),
-    url(https://www.saltinourhair.com/build/images/search-bubbles.png);
+  background-image: url(/build/images/search-bubbles.png), url(/build/images/search-bubbles.png),
+    url(/build/images/search-bubbles.png), url(/build/images/search-bubbles.png), url(/build/images/search-bubbles.png),
+    url(/build/images/search-bubbles.png), url(/build/images/search-bubbles.png), url(/build/images/search-bubbles.png);
   border-radius: 20px;
   height: 350px;
   margin-top: 40px;
@@ -33,8 +28,8 @@ const RelatedCategory = styled.section`
   width: 100%;
 
   &:after {
-    background: url(https://www.saltinourhair.com/build/images/search-bubbles.png) top left/cover;
-    background-image: url(https://www.saltinourhair.com/build/images/search-bubbles.png);
+    background: url(/build/images/search-bubbles.png) top left/cover;
+    background-image: url(/build/images/search-bubbles.png);
     background-position-x: left;
     background-position-y: top;
     background-size: cover;
@@ -135,10 +130,7 @@ export const CategoryPreview = ({ image, label }) => {
   const [props, set] = useSpring(() => ({ xys: [0, 0, 1], config: { mass: 5, tension: 350, friction: 40 } }));
   return (
     <RelatedCategory>
-      <RelatedCategoryLink
-        href="https://www.saltinourhair.com/czech-republic/"
-        title="All articles about Czech Republic"
-      >
+      <RelatedCategoryLink href="/czech-republic/" title="All articles about Czech Republic">
         <RelatedCategoryContent>
           <CategorySpan>read all articles about</CategorySpan>
           <RelatedCategoryTitle title={label}>

@@ -142,7 +142,7 @@ const ButtonWrapper = styled.div`
 export const ImageLink = ({ type, title, textPosition, position, image, icon, arrow }) => {
   return (
     <ArticleCategoryIntro type={type}>
-      <ArticleBlock href="https://www.saltinourhair.com/laos/luang-prabang/" title={title}>
+      <ArticleBlock href="/laos/luang-prabang/" title={title}>
         {icon && position === 'topLeft' ? <Icon icon={icon} position={position} /> : null}
         <ArticleBlockImage type={type}>
           <ArticleBlockImageLink>

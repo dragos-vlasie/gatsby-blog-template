@@ -166,82 +166,79 @@ export const CategoryNavigation = () => {
           <NavList>
             <NavListItem>
               <NavListImageWrapper>
-                <NavImage
-                  src="https://www.saltinourhair.com/wp-content/uploads/2020/05/saltinourhair-asia-163x163.jpg"
-                  alt="Asia"
-                />
+                <NavImage src="/wp-content/uploads/2020/05/saltinourhair-asia-163x163.jpg" alt="Asia" />
               </NavListImageWrapper>
               <NavListMainTitle>
-                <NavListMainAnchor href="https://www.saltinourhair.com/asia/">Asia</NavListMainAnchor>
+                <NavListMainAnchor href="/asia/">Asia</NavListMainAnchor>
               </NavListMainTitle>
               <NavSubList>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/bali/" title="Bali">
+                  <NavSubListItemAnchor href="/bali/" title="Bali">
                     Bali{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/cambodia/" title="Cambodia">
+                  <NavSubListItemAnchor href="/cambodia/" title="Cambodia">
                     Cambodia{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/georgia/" title="Georgia">
+                  <NavSubListItemAnchor href="/georgia/" title="Georgia">
                     Georgia{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/indonesia/" title="Indonesia">
+                  <NavSubListItemAnchor href="/indonesia/" title="Indonesia">
                     Indonesia{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/laos/" title="Laos">
+                  <NavSubListItemAnchor href="/laos/" title="Laos">
                     Laos{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/malaysia/" title="Malaysia">
+                  <NavSubListItemAnchor href="/malaysia/" title="Malaysia">
                     Malaysia{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/maldives/" title="Maldives">
+                  <NavSubListItemAnchor href="/maldives/" title="Maldives">
                     Maldives{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/myanmar/" title="Myanmar">
+                  <NavSubListItemAnchor href="/myanmar/" title="Myanmar">
                     Myanmar{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/philippines/" title="Philippines">
+                  <NavSubListItemAnchor href="/philippines/" title="Philippines">
                     Philippines{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/singapore/" title="Singapore">
+                  <NavSubListItemAnchor href="/singapore/" title="Singapore">
                     Singapore{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/sri-lanka/" title="Sri Lanka">
+                  <NavSubListItemAnchor href="/sri-lanka/" title="Sri Lanka">
                     Sri Lanka{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/thailand/" title="Thailand">
+                  <NavSubListItemAnchor href="/thailand/" title="Thailand">
                     Thailand{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/uzbekistan/" title="Uzbekistan">
+                  <NavSubListItemAnchor href="/uzbekistan/" title="Uzbekistan">
                     Uzbekistan{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/vietnam/" title="Vietnam">
+                  <NavSubListItemAnchor href="/vietnam/" title="Vietnam">
                     Vietnam{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
@@ -249,27 +246,24 @@ export const CategoryNavigation = () => {
             </NavListItem>
             <NavListItem>
               <NavListImageWrapper>
-                <NavImage
-                  src="https://www.saltinourhair.com/wp-content/uploads/2020/05/saltinourhair-egypt-africa-163x163.jpg"
-                  alt="Africa"
-                />
+                <NavImage src="/wp-content/uploads/2020/05/saltinourhair-egypt-africa-163x163.jpg" alt="Africa" />
               </NavListImageWrapper>
               <NavListMainTitle>
-                <NavListMainAnchor href="https://www.saltinourhair.com/africa/">Africa</NavListMainAnchor>
+                <NavListMainAnchor href="/africa/">Africa</NavListMainAnchor>
               </NavListMainTitle>
               <NavSubList>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/egypt/" title="Egypt">
+                  <NavSubListItemAnchor href="/egypt/" title="Egypt">
                     Egypt{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/mauritius/" title="Mauritius">
+                  <NavSubListItemAnchor href="/mauritius/" title="Mauritius">
                     Mauritius{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/morocco/" title="Morocco">
+                  <NavSubListItemAnchor href="/morocco/" title="Morocco">
                     Morocco{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
@@ -277,62 +271,59 @@ export const CategoryNavigation = () => {
             </NavListItem>
             <NavListItem>
               <NavListImageWrapper>
-                <NavImage
-                  src="https://www.saltinourhair.com/wp-content/uploads/2019/06/italy-travel-itinerary-163x120.jpg"
-                  alt="Europe"
-                />
+                <NavImage src="/wp-content/uploads/2019/06/italy-travel-itinerary-163x120.jpg" alt="Europe" />
               </NavListImageWrapper>
               <NavListMainTitle>
-                <NavListMainAnchor href="https://www.saltinourhair.com/europe/">Europe</NavListMainAnchor>
+                <NavListMainAnchor href="/europe/">Europe</NavListMainAnchor>
               </NavListMainTitle>
               <NavSubList>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/czech-republic/" title="Czech Republic">
+                  <NavSubListItemAnchor href="/czech-republic/" title="Czech Republic">
                     Czech Republic{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/france/" title="France">
+                  <NavSubListItemAnchor href="/france/" title="France">
                     France{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/georgia/" title="Georgia">
+                  <NavSubListItemAnchor href="/georgia/" title="Georgia">
                     Georgia{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/hungary/" title="Hungary">
+                  <NavSubListItemAnchor href="/hungary/" title="Hungary">
                     Hungary{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/iceland/" title="Iceland">
+                  <NavSubListItemAnchor href="/iceland/" title="Iceland">
                     Iceland{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/italy/" title="Italy">
+                  <NavSubListItemAnchor href="/italy/" title="Italy">
                     Italy{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/netherlands/" title="Netherlands">
+                  <NavSubListItemAnchor href="/netherlands/" title="Netherlands">
                     Netherlands{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/portugal/" title="Portugal">
+                  <NavSubListItemAnchor href="/portugal/" title="Portugal">
                     Portugal{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/spain/" title="Spain">
+                  <NavSubListItemAnchor href="/spain/" title="Spain">
                     Spain{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/turkey/" title="Turkey">
+                  <NavSubListItemAnchor href="/turkey/" title="Turkey">
                     Turkey{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
@@ -340,32 +331,29 @@ export const CategoryNavigation = () => {
             </NavListItem>
             <NavListItem>
               <NavListImageWrapper>
-                <NavImage
-                  src="https://www.saltinourhair.com/wp-content/uploads/2020/05/DSC6685-1-bew-smaller-130x163.jpg"
-                  alt="Middle East"
-                />
+                <NavImage src="/wp-content/uploads/2020/05/DSC6685-1-bew-smaller-130x163.jpg" alt="Middle East" />
               </NavListImageWrapper>
               <NavListMainTitle>
-                <NavListMainAnchor href="https://www.saltinourhair.com/middle-east/">Middle East</NavListMainAnchor>
+                <NavListMainAnchor href="/middle-east/">Middle East</NavListMainAnchor>
               </NavListMainTitle>
               <NavSubList>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/egypt/" title="Egypt">
+                  <NavSubListItemAnchor href="/egypt/" title="Egypt">
                     Egypt{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/jordan/" title="Jordan">
+                  <NavSubListItemAnchor href="/jordan/" title="Jordan">
                     Jordan{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/oman/" title="Oman">
+                  <NavSubListItemAnchor href="/oman/" title="Oman">
                     Oman{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/turkey/" title="Turkey">
+                  <NavSubListItemAnchor href="/turkey/" title="Turkey">
                     Turkey{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>
@@ -374,16 +362,16 @@ export const CategoryNavigation = () => {
             <NavListItem>
               <NavListImageWrapper>
                 <NavImage
-                  src="https://www.saltinourhair.com/wp-content/uploads/2020/04/Santa-Catalina-arequipa-peru-2-130x163.jpg"
+                  src="/wp-content/uploads/2020/04/Santa-Catalina-arequipa-peru-2-130x163.jpg"
                   alt="South America"
                 />
               </NavListImageWrapper>
               <NavListMainTitle>
-                <NavListMainAnchor href="https://www.saltinourhair.com/south-america/">South America</NavListMainAnchor>
+                <NavListMainAnchor href="/south-america/">South America</NavListMainAnchor>
               </NavListMainTitle>
               <NavSubList>
                 <NavSubListItem>
-                  <NavSubListItemAnchor href="https://www.saltinourhair.com/peru/" title="Peru">
+                  <NavSubListItemAnchor href="/peru/" title="Peru">
                     Peru{' '}
                   </NavSubListItemAnchor>
                 </NavSubListItem>

@@ -1,15 +1,16 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import Wave from '../elements/Wave';
+import SocialIcons from '../components/SocialIcons';
 
 const Wrapper = styled.footer`
   margin-top: 80px;
   position: relative;
-  height: 200px;
   padding-top: 2rem;
   bottom: 0;
   box-shadow: ${props => props.theme.shadow.footer};
-  background: ${props => props.theme.gradient.leftToRight};
+  /* background: ${props => props.theme.gradient.leftToRight}; */
+  background: #f0e8e7;
   font-family: ${props => props.theme.fontFamily.body};
   font-weight: 500;
   padding-top: 7rem;
@@ -19,7 +20,10 @@ const Text = styled.div`
   margin: 0;
   padding-bottom: 2rem;
   text-align: center;
-  color: ${props => props.theme.colors.white.light};
+  color: black;
+  display: flex;
+    justify-content: space-between;
+  /* color: ${props => props.theme.colors.white.light}; */
 `;
 
 const Copyright = styled.div`
@@ -32,11 +36,116 @@ const Copyright = styled.div`
   }
 `;
 
+const List = styled.ul`
+  padding-right: 8px;
+  width: 25%;
+
+  &:first-child {
+    font-weight: 400;
+  }
+  a {
+    font-weight: 100;
+  }
+`;
+
 const Footer = () => (
   <Wrapper>
     <Wave orientation={'top'} />
+    <nav style={{ display: 'flex' }} class="sitemap" aria-label="Sitemap">
+      <List>
+        <li>
+          <a href="/travel-blog/" title="Travel Blogs">
+            Travel Blogs
+          </a>
+        </li>
+        <li>
+          <a href="/bali/bali-route-guide/" title="Bali Travel Guide">
+            Bali Travel Guide
+          </a>
+        </li>
+        <li>
+          <a href="/sri-lanka/sri-lanka-route-guide/" title="Sri Lanka Travel Guide">
+            Sri Lanka Travel Guide
+          </a>
+        </li>
+        <li>
+          <a href="/peru/peru-travel-guide/" title="Peru Travel Guide">
+            Peru Travel Guide
+          </a>
+        </li>
+      </List>
+      <List>
+        <li>
+          <a href="/tips/" title="Tips &amp; Tricks">
+            Tips &amp; Tricks
+          </a>
+        </li>
+        <li>
+          <a href="/tips/start-travel-blog/" title="Start a Travel Blog">
+            Start a Travel Blog
+          </a>
+        </li>
+        <li>
+          <a href="/tips/reduce-plastic-travel/" title="Reduce travel plastic">
+            Reduce travel plastic
+          </a>
+        </li>
+        <li>
+          <a href="/tips/camera-travel-photography/" title="Our Photography Gear">
+            Our Photography Gear
+          </a>
+        </li>
+      </List>
+      <List>
+        <li>
+          <a href="/about-us/" title="About us">
+            About us
+          </a>
+        </li>
+        <li>
+          <a href="/about-us/" title="Our story">
+            Our story
+          </a>
+        </li>
+        <li>
+          <a href="/work-with-us/" title="Work with us">
+            Work with us
+          </a>
+        </li>
+      </List>
+      <List>
+        <li>
+          <a href="#" title="Shop">
+            Shop
+          </a>
+        </li>
+        <li>
+          <a href="/presets/" title="Lightroom Presets">
+            Lightroom Presets
+          </a>
+        </li>
+        <li>
+          <a href="/ebooks/" title="Ebooks">
+            Ebooks
+          </a>
+        </li>
+      </List>
+      <List>
+        <li>
+          <span>Contact</span>
+        </li>
+        <li>
+          <a href="mailto:ask@saltinourhair.com" target="_blank" title="Email us">
+            ask@saltinourhair.com
+          </a>
+        </li>
+        <li>
+          <SocialIcons />
+        </li>
+      </List>
+    </nav>
     <Text>
-      <span>Gatsby Template </span>
+      <span>Travel Alma </span>
       <Copyright>Copyright © 2019. Dragos Vlasie.</Copyright>
     </Text>
   </Wrapper>
