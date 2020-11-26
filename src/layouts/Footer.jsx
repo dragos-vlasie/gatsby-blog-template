@@ -156,7 +156,8 @@ const Footer = () => (
       </List>
     </nav>
     <Text>
-      <span>Travel Alma </span>
+      <span>Travel Alma</span>
+      <span>Romanian Version</span>
       <Copyright>Copyright © 2019. Dragos Vlasie.</Copyright>
     </Text>
   </Wrapper>
