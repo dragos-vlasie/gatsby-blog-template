@@ -15,7 +15,7 @@ const FlexItem = styled.div`
 const Text = styled.div`
   font-family: 'SaltWritten';
   font-size: 24px;
-  max-width: 310px;
+  max-width: 259px;
   font-size: 3.8em;
     top: -35px;
     position: relative;
