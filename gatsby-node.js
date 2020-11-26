@@ -66,7 +66,6 @@ exports.createPages = ({ graphql, actions }) => {
           query {
             allMarkdownRemark(
               filter: { fileAbsolutePath: { regex: "/posts/" }, frontmatter: { published: {} } }
-              limit: 3
               sort: { order: DESC, fields: [frontmatter___date] }
             ) {
               edges {
@@ -78,6 +77,24 @@ exports.createPages = ({ graphql, actions }) => {
                     tags
                     path
                     lang
+                    cover {
+                      childImageSharp {
+                        fluid {
+                          base64
+                          tracedSVG
+                          aspectRatio
+                          src
+                          srcSet
+                          srcWebp
+                          srcSetWebp
+                          sizes
+                          originalImg
+                          originalName
+                          presentationWidth
+                          presentationHeight
+                        }
+                      }
+                    }
                   }
                 }
               }

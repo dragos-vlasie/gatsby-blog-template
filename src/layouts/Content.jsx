@@ -5,6 +5,8 @@ import PropTypes from 'prop-types';
 const Wrapper = styled.div`
   p,
   li {
+    font: 16px/1.85 'Merriweather',Georgia,sans-serif;
+    text-rendering: optimizeLegibility;
     letter-spacing: -0.003em;
     --baseline-multiplier: 0.179;
     --x-height-multiplier: 0.35;
@@ -28,10 +30,11 @@ const Wrapper = styled.div`
     }
   }
   h1 {
-    margin-top: 3rem;
+    font-size: 1.9em;
   }
   h2 {
     margin-top: 1rem;
+    font-size: 1.9em;
   }
   h1,
   h2,
@@ -39,6 +42,10 @@ const Wrapper = styled.div`
   h4,
   h5,
   h6 {
+    color: #353535;
+    line-height: 1.3;
+    margin-bottom: .5em;
+    margin-top: 1em;
     display: inline-block;
     position: relative;
     a {

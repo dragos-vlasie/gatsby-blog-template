@@ -10,13 +10,14 @@ const encodedSvg =
 
 const Wrapper = styled.header`
   /* background: ${props => props && props.theme.gradient.rightToLeft}; */
-  min-height: ${props => (props.big ? '650px' : '550px')};
+  /* min-height: ${props => (props.big ? '650px' : '550px')};
   @media (max-width: ${props => props.theme.breakpoints.m}) {
     height: ${props => (props.big ? '600px' : '500px')};
   }
   @media (max-width: ${props => props.theme.breakpoints.s}) {
     height: ${props => (props.big ? '500px' : '325px')};
-  }
+  } */
+  height: ${props => (props.type === '' ? '500px' : 'auto')};
   z-index: ${props => (props.homePage ? 0 : 1)};
 
   margin-bottom: ${props => (props.homePage ? '0' /* sau -210px */ : 0)};
@@ -27,34 +28,97 @@ const Wrapper = styled.header`
   overflow: hidden; */
 
       flex-shrink: 0;
-    padding: 0 15px;
+    // padding: 0 15px;
     position: relative;
 
+    .category.page-cover__container::after {
+      background-color: #f7f7f7;
+    bottom: 0;
+    content: "";
+    left: 0;
+    -webkit-mask-image: url('https://www.saltinourhair.com/build/images/bubbles.png');
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 500px auto;
+    mask-size: 500px auto;
+    position: absolute;
+    right: 0;
+    top: 30px;
+    -webkit-mask-position: top center;
+    mask-position: top center;
+    z-index: 1;
+    }
+    .category.page-cover__container {
+      background: url('https://www.saltinourhair.com/build/images/bubbles.png');
+
+    margin-top: 85px;
+    padding-top: 0;
+    margin-bottom: 25px;
+    text-align: center;
+    position: relative;
+    z-index: 97;
+    display: block;
+    min-height: auto;
+
+    h1 {
+    font-size: 100px;
+    margin: 50px 0 10px;
+    color: #353535;
+    line-height: 1.3;
+    font-family: 'headings',Arial;
+    font-weight: 700;
+}
+
+    .basic-category__subtitle {
+    font-family: Montserrat,Arial;
+    max-width: 380px;
+    margin: 0 auto 1em;
+    padding: 0 15px;
+}
+}
+    }
     .page-cover__container {
-    display: -webkit-box;
-    display: -ms-flexbox;
+
+    min-height: 650px;
+
+    @media (min-width: 1024px) {
     display: flex;
     min-height: 650px;
-    max-width: var(--container-content);
+    max-width: 1400px;
+    margin: 0 auto;
     margin-bottom: 60px;
+    
+    }
 }
 
  .page-cover {
-    -webkit-mask-size: 107% 120%;
-    left: 40%;
+    mask-repeat: no-repeat;
+    mask-position: bottom center;
+    mask-size: 150% 130%;
+    height: 64vh;
+    left: -15px;
+    position: relative;
+    transform: scaleX(-1);
+    width: calc(100% + 30px);
+    mask-image: ${encodedSvg};
+
+    @media(min-width: 1024px) {
+      
+    mask-size: 107% 120%;
+    
+    /* mask-size: 140% 120%; */
+    /* -webkit-mask-size: 107% 120%; */
+    left: 41%;
     margin-left: 40px;
-    -webkit-mask-position: bottom left;
     mask-position: bottom left;
-    -webkit-mask-size: 140% 120%;
-    mask-size: 140% 120%;
     height: 100%;
     max-height: 100vh;
     min-height: 650px;
     position: absolute;
     top: 0;
-    -webkit-transform: scaleX(1);
     transform: scaleX(1);
     width: calc((99.2vw - (40% + 40px)) - ((100vw - 100%)/2));
+    }
     }
 
     .page-cover__image {
@@ -70,9 +134,6 @@ const Wrapper = styled.header`
     width: 100%;
 }
 
-.blog-bubble-mask {
-    mask-image: ${encodedSvg}
-}
 
   /* .gatsby-image-wrapper {
     height: 650px;
@@ -91,27 +152,33 @@ const Wrapper = styled.header`
   } */
 
   .post-cover__content {
+    width: 100%;
+    margin-top: 20px;
+    padding: 0 15px;
+
+    @media(min-width: 1024px) {
     margin-top: 100px;
     padding-top: 60px;
     width: 41%;
     flex-shrink: 0;
     position: relative;
     z-index: 1;
+}
   }
 
 
 .post-cover__content-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
 }
 
 h1 {
   font-size: 60px;
     line-height: 1.1em;
-    color: #353535;
+    color: white;
     line-height: 1.2em;
     order: 2;
-    font-family: 'SaltWritten';
+    font-family: 'Headings';
     font-weight: 800;
     letter-spacing: -.5px;
     transition: color .2s linear;
@@ -137,7 +204,7 @@ const Text = styled.div`
   left: 50%;
   transform: translate(-50%, -50%);
   display: flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
   text-align: center;
   width: 100%;
   max-width: ${props => props.theme.layout.base};
@@ -152,7 +219,15 @@ const Subtitle = styled(animated.p)`
   font-style: italic;
 `;
 
-const homePage = ({ cover }) => {
+const PostCoverIntro = styled.div`
+  font: 18px/1.85 Merriweather, Georgia, sans-serif;
+  text-rendering: optimizeLegibility;
+  font-style: italic;
+  color: #353535;
+`;
+
+const HomePage = ({ cover, big, homePage, title, titleProps, date, subProps, children }) => {
+  console.log('HomePage -> cover', cover);
   return (
     <Wrapper big={true} homePage={homePage}>
       <Img fluid={cover || {} || [] || ''} />
@@ -171,9 +246,9 @@ const homePage = ({ cover }) => {
   );
 };
 
-const Post = ({ cover }, { title }, { titleProps }) => {
+const Post = ({ cover, big, homePage, title, titleProps, date, subProps, children }) => {
   return (
-    <Wrapper big={true} homePage={homePage}>
+    <Wrapper big={true}>
       <div class="page-cover__container">
         <div class="page-cover blog-bubble-mask">
           <div class="page-cover__image">
@@ -185,7 +260,7 @@ const Post = ({ cover }, { title }, { titleProps }) => {
             <animated.h1 data-testid="header-title" style={titleProps}>
               {title}
             </animated.h1>
-            <div class="post-cover__intro">
+            <PostCoverIntro class="post-cover__intro">
               <p>
                 Brno, Prague’s little brother, is the Czech Republic’s best-kept city secret. It’s much quieter than{' '}
                 <a href="https://www.saltinourhair.com/czech-republic/prague/" target="_blank" rel="noopener">
@@ -197,24 +272,28 @@ const Post = ({ cover }, { title }, { titleProps }) => {
                 festivals, and visit in winter for legendary Christmas markets. Here are all the top things to do in
                 Brno in 24 hours.
               </p>
-            </div>
+            </PostCoverIntro>
           </div>
         </div>
       </div>
-
-      {/* <Img fluid={cover || {} || [] || ''} />
-      <Text>
-        <animated.h3 data-testid="header-title" style={subProps}>
-          {date}
-        </animated.h3>
-
-        {children && <Subtitle style={subProps}>{children}</Subtitle>}
-      </Text> */}
-      {/* <Wave orientation={'bottom'} /> */}
     </Wrapper>
   );
 };
-const Header = ({ children, title, date, cover, big, homePage }) => {
+
+const TitleHeader = ({ title, titleProps }) => {
+  return (
+    <Wrapper big={true}>
+      <div className="category page-cover__container basic-category">
+        <animated.h1 data-testid="header-title">{title}</animated.h1>
+        <p className="basic-category__subtitle">
+          Travel Guides & information and advice on destinations all over the world. These are the travel blogs from
+          Salt in our Hair.
+        </p>
+      </div>
+    </Wrapper>
+  );
+};
+const Header = props => {
   const titleProps = useSpring({
     from: { opacity: 0, transform: 'translate3d(0, -30px, 0)' },
     to: { opacity: 1, transform: 'translate3d(0, 0, 0)' },
@@ -228,45 +307,44 @@ const Header = ({ children, title, date, cover, big, homePage }) => {
   });
 
   return (
-    <Wrapper big={true} homePage={homePage}>
-      <div class="page-cover__container">
-        <div class="page-cover blog-bubble-mask">
-          <div class="page-cover__image">
-            <Img fluid={cover || {} || [] || ''} />
-          </div>
-        </div>
-        <div class="post-cover__content">
-          <div class="post-cover__content-container">
-            <animated.h1 data-testid="header-title" style={titleProps}>
-              {title}
-            </animated.h1>
-            <div class="post-cover__intro">
-              <p>
-                Brno, Prague’s little brother, is the Czech Republic’s best-kept city secret. It’s much quieter than{' '}
-                <a href="https://www.saltinourhair.com/czech-republic/prague/" target="_blank" rel="noopener">
-                  Prague
-                </a>
-                , despite being the second-largest city in the country, and there is a fantastic local vibe. What’s
-                more, its huge student population gives it a contemporary, vibrant, energetic feeling that is different
-                from other more medieval cities in the Czech Republic. Visit in summer, for fun pop-up wine bars and
-                festivals, and visit in winter for legendary Christmas markets. Here are all the top things to do in
-                Brno in 24 hours.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* <Img fluid={cover || {} || [] || ''} />
-      <Text>
-        <animated.h3 data-testid="header-title" style={subProps}>
-          {date}
-        </animated.h3>
-
-        {children && <Subtitle style={subProps}>{children}</Subtitle>}
-      </Text> */}
-      {/* <Wave orientation={'bottom'} /> */}
-    </Wrapper>
+    <div>
+      {props.type === 'home' ? (
+        <HomePage {...props} titleProps={titleProps} subProps={subProps} />
+      ) : props.type === 'post' ? (
+        <Post {...props} subProps={subProps} titleProps={titleProps} />
+      ) : (
+        <TitleHeader {...props} subProps={subProps} titleProps={titleProps} />
+      )}
+    </div>
+    // <Wrapper big={true} homePage={homePage}>
+    //   <div class="page-cover__container">
+    //     <div class="page-cover blog-bubble-mask">
+    //       <div class="page-cover__image">
+    //         <Img fluid={cover || {} || [] || ''} />
+    //       </div>
+    //     </div>
+    //     <div class="post-cover__content">
+    //       <div class="post-cover__content-container">
+    //         <animated.h1 data-testid="header-title" style={titleProps}>
+    //           {title}
+    //         </animated.h1>
+    //         <div class="post-cover__intro">
+    //           <p>
+    //             Brno, Prague’s little brother, is the Czech Republic’s best-kept city secret. It’s much quieter than{' '}
+    //             <a href="https://www.saltinourhair.com/czech-republic/prague/" target="_blank" rel="noopener">
+    //               Prague
+    //             </a>
+    //             , despite being the second-largest city in the country, and there is a fantastic local vibe. What’s
+    //             more, its huge student population gives it a contemporary, vibrant, energetic feeling that is different
+    //             from other more medieval cities in the Czech Republic. Visit in summer, for fun pop-up wine bars and
+    //             festivals, and visit in winter for legendary Christmas markets. Here are all the top things to do in
+    //             Brno in 24 hours.
+    //           </p>
+    //         </div>
+    //       </div>
+    //     </div>
+    //   </div>
+    // </Wrapper>
   );
 };
 

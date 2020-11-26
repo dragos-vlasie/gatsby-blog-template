@@ -12,8 +12,7 @@ const Navigation = styled.nav`
   position: relative;
 
   &:after {
-    background: url(/build/images/pink-roundshape.png) top left/cover;
-    background-image: url(/build/images/pink-roundshape.png);
+    background: url('https://www.saltinourhair.com/build/images/pink-roundshape.png') top left/cover;
     background-position-x: left;
     background-position-y: top;
     background-size: cover;
@@ -35,6 +34,53 @@ const Navigation = styled.nav`
   @media (max-width: 767px) {
     width: 100%;
   }
+
+  &.post-chapters {
+    width: 92%;
+    margin-bottom: 35px;
+    
+    ul {
+      column-count: 2;
+    column-gap: 0;
+    border-radius: inherit;
+    font-family: headings,Arial;
+    font-weight: 900;
+    overflow: hidden;
+    padding: 10px 0 2px;
+    margin: 0;
+    display: block;
+      
+      li {
+        margin: 0 1.5rem;
+        font-size: 15px;
+    text-transform: uppercase;
+    width: auto;
+    a {
+      padding: 10px 0;
+    align-items: center;
+    display: inline-flex;
+    padding: 7px 0;
+    width: 100%;
+    }
+      }
+    }
+  }
+&.post-chapters:after {
+  content: "Chapters";
+    background: #f5f5f5;
+    border-radius: 20px 20px 0 0;
+    color: rgba(53,53,53,.6);
+    height: 35px;
+    font-family: headings;
+    font-size: 15px;
+    left: 1.5em;
+    padding: 6px 20px 0;
+    position: absolute;
+    top: -35px;
+    z-index: -1;
+    width: auto;
+    right: initial;
+}
 `;
 
 const List = styled.ul`
@@ -51,7 +97,7 @@ const Text = styled.span`
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  font-family: headings, Arial;
+  font-family: 'Headings', Arial;
   font-weight: 900;
 `;
 
@@ -90,12 +136,9 @@ const Image = styled.img`
   width: 40px;
 `;
 
-export const DestinationsList = ({ data, img }) => {
-  console.log(img)
+export const DestinationsList = ({ type, data, img }) => {
   return (
-    <div className="DestinationsList">
-      <h3>Pick destination</h3>
-      <Navigation>
+      <Navigation className={type==='post-chapters'? 'post-chapters' : null }>
         <List>
           {data &&
             data.map((destination, index) => (
@@ -104,7 +147,7 @@ export const DestinationsList = ({ data, img }) => {
                   <div>
                     <Image
                       data-src="/wp-content/uploads/2018/07/paris-city-trip-guide-street-eiffel-tower-144x163.jpg"
-                      src={img.srcWebp}
+                      src={img ? img.srcWebp : "/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp"}
                       alt="France"
                     />
                   </div>
@@ -114,7 +157,6 @@ export const DestinationsList = ({ data, img }) => {
             ))}
         </List>
       </Navigation>
-    </div>
   );
 };
 export default DestinationsList;

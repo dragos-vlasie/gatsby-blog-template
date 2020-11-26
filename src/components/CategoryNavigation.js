@@ -4,6 +4,7 @@ import styled from '@emotion/styled';
 const Title = styled.h3`
   margin: 40px auto 20px auto;
   text-align: center;
+  font-family:'SaltWritten';
 `;
 
 const Navigation = styled.nav`
@@ -166,7 +167,7 @@ export const CategoryNavigation = () => {
           <NavList>
             <NavListItem>
               <NavListImageWrapper>
-                <NavImage src="/wp-content/uploads/2020/05/saltinourhair-asia-163x163.jpg" alt="Asia" />
+                <NavImage src="/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp" alt="Asia" />
               </NavListImageWrapper>
               <NavListMainTitle>
                 <NavListMainAnchor href="/asia/">Asia</NavListMainAnchor>
@@ -246,7 +247,7 @@ export const CategoryNavigation = () => {
             </NavListItem>
             <NavListItem>
               <NavListImageWrapper>
-                <NavImage src="/wp-content/uploads/2020/05/saltinourhair-egypt-africa-163x163.jpg" alt="Africa" />
+                <NavImage src="/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp" alt="Africa" />
               </NavListImageWrapper>
               <NavListMainTitle>
                 <NavListMainAnchor href="/africa/">Africa</NavListMainAnchor>
@@ -271,7 +272,7 @@ export const CategoryNavigation = () => {
             </NavListItem>
             <NavListItem>
               <NavListImageWrapper>
-                <NavImage src="/wp-content/uploads/2019/06/italy-travel-itinerary-163x120.jpg" alt="Europe" />
+                <NavImage src="/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp" alt="Europe" />
               </NavListImageWrapper>
               <NavListMainTitle>
                 <NavListMainAnchor href="/europe/">Europe</NavListMainAnchor>
@@ -331,7 +332,7 @@ export const CategoryNavigation = () => {
             </NavListItem>
             <NavListItem>
               <NavListImageWrapper>
-                <NavImage src="/wp-content/uploads/2020/05/DSC6685-1-bew-smaller-130x163.jpg" alt="Middle East" />
+                <NavImage src="/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp" alt="Middle East" />
               </NavListImageWrapper>
               <NavListMainTitle>
                 <NavListMainAnchor href="/middle-east/">Middle East</NavListMainAnchor>
@@ -362,7 +363,7 @@ export const CategoryNavigation = () => {
             <NavListItem>
               <NavListImageWrapper>
                 <NavImage
-                  src="/wp-content/uploads/2020/04/Santa-Catalina-arequipa-peru-2-130x163.jpg"
+                  src="/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp"
                   alt="South America"
                 />
               </NavListImageWrapper>

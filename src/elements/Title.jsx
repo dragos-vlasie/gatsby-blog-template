@@ -42,7 +42,7 @@ const TopBlockTitle = css`
 `;
 
 const CenterSpanWithUnderline = styled.span`
-  line-height: ${props => (props.type == 'normal' || props.type === 'bestOf' ? '1.7' : '1.1')};
+  line-height: ${props => (props.type == 'normal' || props.type === 'bestOf' ? '2.2' : '1.1')};
   padding: 3px;
   background-color: ${props => (props.type == 'normal' || props.type === 'bestOf' ? '#fff' : 'transparent')};
   background-size: ${props => [props.type === 'category' ? '100% 88%, 100% 88%' : '0 88%, 0 88%']};
@@ -71,7 +71,7 @@ const CenterSpanWithUnderline = styled.span`
 
 const CenterBlockTitle = styled.h2`
   color: ${props => (props.type == 'featured' || props.type === 'continents' ? '#fff' : '#353535')};
-  font-family: 'Merriweather';
+  font-family: 'headings';
   font-size: ${props => (props.type == 'normal' || props.type === 'bestOf' ? '1.1rem' : '50px')};
   margin: ${props => (props.type == 'normal' || props.type === 'bestOf' ? 'auto' /*'0 0 0 .4em;'*/ : '0')};
   line-height: 1.05;

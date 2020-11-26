@@ -14,6 +14,18 @@ const Wrapper = styled.footer`
   font-family: ${props => props.theme.fontFamily.body};
   font-weight: 500;
   padding-top: 7rem;
+  .sitemap {
+    @media (max-width: 756px) {
+      flex-wrap: wrap;
+        display: flex;
+        justify-content: space-around;
+        max-width: 1100px;
+        margin: auto;
+      /* ul {
+        width: 30%;
+      } */
+    }
+  }
 `;
 
 const Text = styled.div`
@@ -38,7 +50,6 @@ const Copyright = styled.div`
 
 const List = styled.ul`
   padding-right: 8px;
-  width: 25%;
 
   &:first-child {
     font-weight: 400;

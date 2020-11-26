@@ -117,7 +117,7 @@ const CategorySpan = styled.span`
   color: black;
   font-weight: 700;
   margin: 0 0 8px;
-  font-family: headings, Arial;
+  font-family: 'Headings', Arial;
   margin: 0 0 3px;
   position: relative;
   white-space: nowrap;
@@ -127,6 +127,9 @@ const calc = (x, y) => [-(y - window.innerHeight / 2) / 20, (x - window.innerWid
 const trans = (x, y, s) => `perspective(600px) rotateX(${x}deg) rotateY(${y}deg) scale(${s})`;
 
 export const CategoryPreview = ({ image, label }) => {
+
+  console.log("CategoryPreview -> label", label)
+  console.log("CategoryPreview -> image", image)
   const [props, set] = useSpring(() => ({ xys: [0, 0, 1], config: { mass: 5, tension: 350, friction: 40 } }));
   return (
     <RelatedCategory>

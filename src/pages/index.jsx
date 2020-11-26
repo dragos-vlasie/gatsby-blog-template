@@ -25,6 +25,7 @@ const mockData = [
   '11 Things To Do in Luang Prabang, 3-Day Guide',
   '11 Things To Do in Luang Prabang, 3-Day Guide',
   '11 Things To Do in Luang Prabang, 3-Day Guide',
+  '11 Things To Do in Luang Prabang, 3-Day Guide',
 ];
 
 const continents = ['Asia', 'Africa', 'Europe', 'North America'];
@@ -86,15 +87,15 @@ const Index = ({ data, pageContext: { locale }, location }) => {
         {({ i18n }) => (
           <>
             <Helmet title={title} />
-            <Header title={title} cover={edges[0].node.frontmatter.cover.childImageSharp.fluid} homePage={true}>
+            <Header title={title} cover={edges[0].node.frontmatter.cover.childImageSharp.fluid} type={'home'}>
               {' '}
               {console.log('edges[0]', edges[0])}
               <p style={{ color: 'white', fontSize: '19px' }}>
                 "A journal for myself, curious eyes and fellow travellers!"
               </p>
             </Header>
-            <Container>
               <FadeIn>
+            <Container>
                 {/* <DestinationsList data={tags} /> */}
                 {/* <CatergoriesWrapper>{tags && tags.map(tag => <CardTag key={tag} tagName={tag} />)}</CatergoriesWrapper> */}
                 <GridContainer type={'featured'}>
@@ -134,7 +135,6 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                           );
                         })}
                       </PostWrapper> */}
-              </FadeIn>
               <CategoryPreview label={'Porto'} image={edges[0].node.frontmatter.cover.childImageSharp.fluid} />
               <OverFlowContainer
                 articles={continents}
@@ -161,7 +161,9 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                 textPosition={'top'}
               />
               <GridContainer>
+                <div>
                 <DestinationsList data={continents} img={edges[1].node.frontmatter.cover.childImageSharp.fluid} />
+                </div>
                 <ImageLink
                   image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
                   type={'category'}
@@ -171,7 +173,6 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                   position={'topLeft'}
                 />
               </GridContainer>
-
               <GridContainer>
                 <QuickLinks data={tags} circle={true} image={edges[0].node.frontmatter.cover.childImageSharp.fluid} />
                 <ImageLink
@@ -184,6 +185,7 @@ const Index = ({ data, pageContext: { locale }, location }) => {
                 />
               </GridContainer>
             </Container>
+            </FadeIn>
           </>
         )}
       </LocaleConsumer>

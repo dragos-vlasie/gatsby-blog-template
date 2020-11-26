@@ -3,12 +3,12 @@ import styled from '@emotion/styled';
 
 const Title = styled.div`
   color: #d8c4c3;
-  font-family: headings, Arial;
+  font-family: 'Headings', Arial;
   align-self: flex-end;
   line-height: 1;
   position: relative;
-  /* font-size: 5.5em; */
-  font-size: calc((30em/11) + (11*1px));
+  // font-size: 5.5em;
+  font-size: calc((30em/11) + (11*1px));  // asta vine cu props daca e un anumit titlu
   font-weight: 800;
   letter-spacing: 7px;
 

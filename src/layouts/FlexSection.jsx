@@ -12,6 +12,16 @@ const FlexItem = styled.div`
     align-self: center;
   }
 `;
+const Text = styled.div`
+  font-family: 'SaltWritten';
+  font-size: 24px;
+  max-width: 310px;
+  font-size: 3.8em;
+    top: -35px;
+    position: relative;
+    transform: translateX(15%);
+`
+
 const SecondFlexItem = styled.div`
   max-width: 50%;
   margin-left: 70px;
@@ -31,7 +41,6 @@ const ContentText = styled.p`
   font-size: 1em;
   letter-spacing: 0.5px;
   line-height: 1.85em;
-  margin: 20px 0 0;
 `;
 
 export const FlexSection = () => {
@@ -43,14 +52,14 @@ export const FlexSection = () => {
           src="/build/images/home/about-us-2.jpg"
           width="423"
           height="427"
-          alt="Hannah and Nick - Salt in our Hair"
+          alt="Alma and Dragos - Alma travels"
         />
       </FlexItem>
       <SecondFlexItem>
         <BackgroundTitle label={'ABOUT'} />
-        <div>Hannah &amp; Nick</div>
+        <Text >Alma &amp; Dragos</Text>
         <ContentText style={{}}>
-          Hi! We're Hannah &amp; Nick, two creatives that run a 'travel content creation' company named Salt in our
+          Hi! We're Alma &amp; Dragos, two creatives that run a 'travel content creation' company named Salt in our
           Hair. We inspire people to travel via our travel guides, photography and videography.
           <br></br>
           <a href="/about-us" target="_blank">

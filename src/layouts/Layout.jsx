@@ -78,8 +78,8 @@ const Layout = ({ children, locale = 'en-gb', pathname, customSEO }) => (
   }
                   html,
                   body {
-                    font-family: Arial, sans-serif;
-                    font-size: 16px;
+                    font: 16px/1.85 Merriweather,Georgia,sans-serif;
+    text-rendering: optimizeLegibility;
                     width: 100%;
                     height: 100%;
                     margin: 0;
@@ -108,7 +108,7 @@ const Layout = ({ children, locale = 'en-gb', pathname, customSEO }) => (
                     font-size: 5rem;
                     font-weight: bold;
                     /* font-family: ${theme.fontFamily.heading}; */
-                    font-family: headings, Arial;
+                    font-family: 'Headings', sans-serif;
                     font-weight: 700;
                   }
                   ul {
