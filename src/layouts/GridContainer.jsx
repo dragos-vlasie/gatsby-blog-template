@@ -20,8 +20,8 @@ const FeaturedGrid = styled.div`
   grid-template-columns: minmax(auto, 2fr) 1fr;
   margin: 65px 0;
   @media (max-width: 767px) {
-    display: grid;
-    grid-template-columns: auto;
+    display: flex;
+    flex-direction: column;
   }
 `;
 

@@ -24,6 +24,9 @@ const Wrapper = styled.header`
   @media (max-width: ${props => props.theme.breakpoints.s}) {
     margin-bottom: ${props => (props.homePage ? 0 : 0)};
   }
+  @media (max-width: 767px) {
+    height: 500px;
+  }
   /* position: relative;
   overflow: hidden; */
 
