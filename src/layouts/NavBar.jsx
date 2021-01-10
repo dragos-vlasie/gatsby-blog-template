@@ -3,6 +3,7 @@ import { Link } from 'gatsby';
 import React, { useState } from 'react';
 import Headroom from 'react-headroom';
 import logo from '../../static/logo/header-logo.png';
+import { LocaleConsumer } from './Layout';
 
 const StyledLink = styled(Link)`
   display: flex;
@@ -67,6 +68,9 @@ const Nav = styled.nav`
   font-weight: 500;
   font-size: 1.1rem;
   align-items: center;
+  .link {
+    text-transform: capitalize;
+  }
   a {
     color: rgb(53, 53, 53);
     margin-left: 2rem;
@@ -202,16 +206,18 @@ const NavBar = () => {
     }
   };
   return (
-    <Headroom calcHeightOnResize disableInlineStyles>
+    <LocaleConsumer>
+       {({ i18n }) => (
+         <Headroom calcHeightOnResize disableInlineStyles>
       <Nav className={`${isShown ? 'hidden' : ''}`}>
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/blog">The Journal</Link>
-        <Link onMouseEnter={() => setIsShown(true)} to="/destinations">
-          Destinations
+        <Link className="link" to="/">{i18n.home}</Link>
+        <Link className="link" to={i18n.default ? `/${i18n.about}` : `/${i18n.path}/${i18n.about}`}>{i18n.about}</Link>
+        <Link className="link" to={i18n.default ? `/${i18n.journal}` : `/${i18n.path}/${i18n.journal}`}>{i18n.journal}</Link>
+        <Link className="link" onMouseEnter={() => setIsShown(true)} to={i18n.default ? `/${i18n.destinations}` : `/${i18n.path}/${i18n.destinations}`}>
+        {i18n.destinations}
         </Link>
-        <Link to="/about">Resources</Link>
-        <Link to="/about">Inspire</Link>
+        <Link className="link" to={i18n.default ? `/${i18n.resources}` : `/${i18n.path}/${i18n.resources}`}>{i18n.resources}</Link>
+        <Link className="link" to={i18n.default ? `/${i18n.inspire}` : `/${i18n.path}/${i18n.inspire}`}>{i18n.inspire}</Link>
       </Nav>
       <MobileButton onClick={() => setIsShown(!isShown)} />
       <StyledLink to="/">
@@ -415,6 +421,8 @@ const NavBar = () => {
         </NavListItem>
       </Navigation>
     </Headroom>
+    )}
+    </LocaleConsumer>
   );
 };
 

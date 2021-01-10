@@ -23,6 +23,10 @@ const Title = styled.div`
     -webkit-text-stroke-color: currentColor;
     -webkit-text-stroke-width: 0.02em;
   }
+
+@media (max-width: 800px) {
+ font-size: calc((10em/11) + (10*1px));
+}
 `;
 export const BackgroundTitle = ({ label }) => {
   return <Title content={label}>{label}</Title>;

@@ -86,6 +86,7 @@ const Index = ({ data, pageContext: { locale }, location }) => {
       <LocaleConsumer>
         {({ i18n }) => (
           <>
+          { console.log("🚀 ~ file: index.jsx ~ line 88 ~ Index ~ i18n", i18n)}
             <Helmet title={title} />
             <Header title={title} cover={edges[0].node.frontmatter.cover.childImageSharp.fluid} type={'home'}>
               {' '}

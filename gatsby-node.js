@@ -11,6 +11,7 @@ const localizedSlug = (_page, node) =>
 
 // Take the pages from src/pages and generate pages for all locales, e.g. /blog and /en/blog
 exports.onCreatePage = ({ page, actions }) => {
+console.log("🚀 ~ file: gatsby-node.js ~ line 14 ~ page", page)
   const { createPage, deletePage } = actions;
 
   // Only create one 404 page at /404.html
@@ -27,7 +28,7 @@ exports.onCreatePage = ({ page, actions }) => {
 
     // Remove the leading AND traling slash from path, e.g. --> blog
     const name = replaceBoth(page.path);
-    // Create the "slugs" for the pages like in "onCreateNode". Unless default language, add prefix àla "/en"
+    // Create the "slugs" for the pages like in "onCreateNode". Unless default language, add prefix "/ro"
     let localizedPath = locales[lang].default ? page.path : `${locales[lang].path}${page.path}`;
 
     let translatedPath = localizedPath => {

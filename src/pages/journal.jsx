@@ -15,7 +15,7 @@ const Base = styled.div`
   flex-direction: column;
 `;
 
-const Blog = ({ data, pageContext: { locale }, location }) => {
+const Journal = ({ data, pageContext: { locale }, location }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout locale={locale} pathname={location.pathname}>
@@ -42,9 +42,9 @@ const Blog = ({ data, pageContext: { locale }, location }) => {
   );
 };
 
-export default Blog;
+export default Journal;
 
-Blog.propTypes = {
+Journal.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.arrayOf(

@@ -252,18 +252,18 @@ const HomePage = ({ cover, big, homePage, title, titleProps, date, subProps, chi
 const Post = ({ cover, big, homePage, title, titleProps, date, subProps, children }) => {
   return (
     <Wrapper big={true}>
-      <div class="page-cover__container">
-        <div class="page-cover blog-bubble-mask">
-          <div class="page-cover__image">
+      <div className="page-cover__container">
+        <div className="page-cover blog-bubble-mask">
+          <div className="page-cover__image">
             <Img fluid={cover || {} || [] || ''} />
           </div>
         </div>
-        <div class="post-cover__content">
-          <div class="post-cover__content-container">
+        <div className="post-cover__content">
+          <div className="post-cover__content-container">
             <animated.h1 data-testid="header-title" style={titleProps}>
               {title}
             </animated.h1>
-            <PostCoverIntro class="post-cover__intro">
+            <PostCoverIntro className="post-cover__intro">
               <p>
                 Brno, Prague’s little brother, is the Czech Republic’s best-kept city secret. It’s much quieter than{' '}
                 <a href="https://www.saltinourhair.com/czech-republic/prague/" target="_blank" rel="noopener">
@@ -320,18 +320,18 @@ const Header = props => {
       )}
     </div>
     // <Wrapper big={true} homePage={homePage}>
-    //   <div class="page-cover__container">
-    //     <div class="page-cover blog-bubble-mask">
-    //       <div class="page-cover__image">
+    //   <div className="page-cover__container">
+    //     <div className="page-cover blog-bubble-mask">
+    //       <div className="page-cover__image">
     //         <Img fluid={cover || {} || [] || ''} />
     //       </div>
     //     </div>
-    //     <div class="post-cover__content">
-    //       <div class="post-cover__content-container">
+    //     <div className="post-cover__content">
+    //       <div className="post-cover__content-container">
     //         <animated.h1 data-testid="header-title" style={titleProps}>
     //           {title}
     //         </animated.h1>
-    //         <div class="post-cover__intro">
+    //         <div className="post-cover__intro">
     //           <p>
     //             Brno, Prague’s little brother, is the Czech Republic’s best-kept city secret. It’s much quieter than{' '}
     //             <a href="https://www.saltinourhair.com/czech-republic/prague/" target="_blank" rel="noopener">

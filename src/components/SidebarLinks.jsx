@@ -107,27 +107,27 @@ const SidebarArticles = styled.div`
 
 export const SidebarLinks = ({prev,next}) => {
   return (
-    <SidebarArticles class="sidebar-articles sidebar-articles--related">
-      <div class="sidebar-articles__title">
+    <SidebarArticles className="sidebar-articles sidebar-articles--related">
+      <div className="sidebar-articles__title">
         <h6>Related articles</h6>
       </div>
-      <div class="sidebar-articles__container">
+      <div className="sidebar-articles__container">
       {prev && (
         <a
-          class="article-block"
+          className="article-block"
           href="https://www.saltinourhair.com/poland/auschwitz-birkenau/"
           title="Visiting Auschwitz Concentration Camp – Everything you need to know"
         >
-          <div class="article-block__content">
-            <article class="article-block__content-link">
-              <h2 class="article-block__title">
+          <div className="article-block__content">
+            <article className="article-block__content-link">
+              <h2 className="article-block__title">
                 <span>Visiting Auschwitz Concentration Camp – Everything you need to know</span>
               </h2>
             </article>
           </div>
-          <div class="article-block__image">
-            <div class="article-block__image-link">
-              <picture class="article-block__image-container">
+          <div className="article-block__image">
+            <div className="article-block__image-link">
+              <picture className="article-block__image-container">
                 <Img
                   fluid={prev.frontmatter.cover.childImageSharp.fluid}
                 />
@@ -138,20 +138,20 @@ export const SidebarLinks = ({prev,next}) => {
       )}
       {next && (
         <a
-        class="article-block"
+        className="article-block"
         href="https://www.saltinourhair.com/poland/auschwitz-birkenau/"
         title="Visiting Auschwitz Concentration Camp – Everything you need to know"
       >
-        <div class="article-block__content">
-          <article class="article-block__content-link">
-            <h2 class="article-block__title">
+        <div className="article-block__content">
+          <article className="article-block__content-link">
+            <h2 className="article-block__title">
               <span>Visiting Auschwitz Concentration Camp – Everything you need to know</span>
             </h2>
           </article>
         </div>
-        <div class="article-block__image">
-          <div class="article-block__image-link">
-            <picture class="article-block__image-container">
+        <div className="article-block__image">
+          <div className="article-block__image-link">
+            <picture className="article-block__image-container">
               <Img
                 fluid={next.frontmatter.cover.childImageSharp.fluid}
               />

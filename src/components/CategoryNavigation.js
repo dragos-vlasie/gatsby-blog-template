@@ -17,16 +17,45 @@ const Navigation = styled.nav`
 `;
 
 const NavList = styled.ul`
-  display: flex;
-  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(12,1fr);
   padding: 15px 0;
   overflow: visible;
   border-radius: inherit;
   font-family: Merriweather;
   font-weight: 900;
+  .asiaList {
+    grid-column: 1/4;
+}
+.africaList {
+  grid-column: 4/6;
+}
+.europaList {
+  grid-column: 6/9;
+}
+.middleEastList {
+  grid-column: 9/11;
+}
+.southAmericaList {
+  grid-column: 11/13;
+}
 
   @media (max-width: 767px) {
-    flex-direction: column;
+    .asiaList {
+    grid-column: 1/12;
+}
+.africaList {
+  grid-column: 1/12;
+}
+.europaList {
+  grid-column: 1/12;;
+}
+.middleEastList {
+  grid-column: 1/12;;
+}
+.southAmericaList {
+  grid-column: 1/12;;
+}
   }
 `;
 
@@ -74,6 +103,8 @@ const NavImage = styled.img`
   transition: all 300ms;
 `;
 
+
+
 const NavListImageWrapper = styled.div`
   margin-top: -55px;
   position: relative;
@@ -114,6 +145,9 @@ const NavListMainAnchor = styled.a`
 `;
 
 const NavSubList = styled.ul`
+  display: inline-grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill,minmax(85px,1fr));
   margin: 0;
   padding: 0 15px;
   width: 100%;
@@ -165,14 +199,14 @@ export const CategoryNavigation = () => {
         <Title>Pick a destination</Title>
         <Navigation>
           <NavList>
-            <NavListItem>
+            <NavListItem className="asiaList">
               <NavListImageWrapper>
                 {/* <NavImage src="/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp" alt="Asia" /> */}
               </NavListImageWrapper>
               <NavListMainTitle>
                 <NavListMainAnchor href="/asia/">Asia</NavListMainAnchor>
               </NavListMainTitle>
-              <NavSubList>
+              <NavSubList >
                 <NavSubListItem>
                   <NavSubListItemAnchor href="/bali/" title="Bali">
                     Bali{' '}
@@ -245,7 +279,7 @@ export const CategoryNavigation = () => {
                 </NavSubListItem>
               </NavSubList>
             </NavListItem>
-            <NavListItem>
+            <NavListItem className="africaList">
               <NavListImageWrapper>
                 {/* <NavImage src="/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp" alt="Africa" /> */}
               </NavListImageWrapper>
@@ -270,7 +304,7 @@ export const CategoryNavigation = () => {
                 </NavSubListItem>
               </NavSubList>
             </NavListItem>
-            <NavListItem>
+            <NavListItem className="europaList">
               <NavListImageWrapper>
                 {/* <NavImage src="/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp" alt="Europe" /> */}
               </NavListImageWrapper>
@@ -330,7 +364,7 @@ export const CategoryNavigation = () => {
                 </NavSubListItem>
               </NavSubList>
             </NavListItem>
-            <NavListItem>
+            <NavListItem className="middleEastList">
               <NavListImageWrapper>
                 {/* <NavImage src="/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp" alt="Middle East" /> */}
               </NavListImageWrapper>
@@ -360,7 +394,7 @@ export const CategoryNavigation = () => {
                 </NavSubListItem>
               </NavSubList>
             </NavListItem>
-            <NavListItem>
+            <NavListItem className="southAmericaList">
               <NavListImageWrapper>
                 {/* <NavImage
                   src="/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp"

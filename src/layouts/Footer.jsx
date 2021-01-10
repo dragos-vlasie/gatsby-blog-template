@@ -50,8 +50,9 @@ const Copyright = styled.div`
 
 const List = styled.ul`
   padding-right: 8px;
+  flex: 1 0;
 
-  &:first-child {
+  &::first-of-type {
     font-weight: 400;
   }
   a {
@@ -62,7 +63,7 @@ const List = styled.ul`
 const Footer = () => (
   <Wrapper>
     <Wave orientation={'top'} />
-    <nav style={{ display: 'flex' }} class="sitemap" aria-label="Sitemap">
+    <nav style={{ display: 'flex' }} className="sitemap" aria-label="Sitemap">
       <List>
         <li>
           <a href="/travel-blog/" title="Travel Blogs">
@@ -156,8 +157,8 @@ const Footer = () => (
       </List>
     </nav>
     <Text>
-      <span>Travel Alma</span>
-      <span>Romanian Version</span>
+      <a href="/">Travel Alma</a>
+      <a href="/ro">Romanian Version</a>
       <Copyright>Copyright © 2019. Dragos Vlasie.</Copyright>
     </Text>
   </Wrapper>

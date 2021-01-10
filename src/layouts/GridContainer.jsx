@@ -10,6 +10,7 @@ const Grid = styled.div`
 
   @media (max-width: 767px) {
     display: grid;
+  justify-content: normal; 
     grid-template-columns: auto;
   }
 `;

@@ -55,10 +55,15 @@ const GridWrapper = styled.div`
     justify-content: space-between;
     margin: 35px 0 0;
     grid-area: intro;
+    @media (max-width: 767px) {
+    margin-right: 12px;
+    flex: 1 1 25%;
+  }
   }
   .category-articles {
     grid-area: articles;
   }
+
 `;
 export const Destinations = ({ pageContext: { locale }, location }) => {
   return (

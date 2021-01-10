@@ -172,7 +172,7 @@ export const OverFlowContainer = ({ articles, type, height, image, title, textPo
     <>
       <CategoryTitle> {title}</CategoryTitle>
       <Scroller>
-        {/* <div class="scroller__btn scroller__btn--prev">
+        {/* <div className="scroller__btn scroller__btn--prev">
           <div className="center">
             <span onClick={activateLasers}>
               <Button />
@@ -188,14 +188,14 @@ export const OverFlowContainer = ({ articles, type, height, image, title, textPo
             ))}
           </ScrollInner>
         </ScrollContainer>
-        {/* <div class="scroller__btn scroller__btn--next">
+        {/* <div className="scroller__btn scroller__btn--next">
           <div className="center">
             <span onClick={activateLasers}>
               <Button />
             </span>
           </div> */}
         {/* </div> */}
-        <div class="scroller__btn-background"></div>
+        <div className="scroller__btn-background"></div>
       </Scroller>
     </>
   );
