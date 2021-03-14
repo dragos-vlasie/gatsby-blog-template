@@ -121,7 +121,7 @@ const Layout = ({ children, locale = 'en-gb', pathname, customSEO }) => (
                 `}
               />
               {!customSEO && <SEO i18n={i18n} pathname={pathname} />}
-              <NavBar />
+              <NavBar pathname={pathname} />
               {children}
               <Footer />
             </>

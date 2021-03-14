@@ -6,7 +6,7 @@
     "es6": true
   },
   "rules": {
-    "strict": 0,
+    "strict": [2, "global"],
     "no-console": "warn",
     "quotes": [
       "warn",
@@ -20,10 +20,7 @@
       {
         "extensions": [".js", ".jsx"]
       }
-    ],
-    "prettier/prettier": ["warn", "error", {
-     "endOfLine":"auto"
-   }]
+    ]
   },
   "extends": [
     "eslint:recommended",

@@ -13,7 +13,10 @@ const headroom = css`
     justify-content: space-between;
     flex-direction: row;
     width: 100%;
-    padding: 1rem 1.5rem;
+  @media (max-width: 767px) {
+    padding: 1rem 1rem;
+  
+  }
     a {
       img {
         margin-bottom: 0;

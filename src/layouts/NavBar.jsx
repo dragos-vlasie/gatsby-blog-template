@@ -26,7 +26,7 @@ const Navigation = styled.div`
   height: auto;
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.05), -2px 2px 2px rgba(0, 0, 0, 0.06), 2px 2px 2px rgba(0, 0, 0, 0.12),
     0 0 2px rgba(0, 0, 0, 0.08);
-  max-height: 500px;
+  max-height: 600px;
   margin-top: 60px;
   padding: 25px 10px 60px;
   transform: translateY(-3px);
@@ -47,11 +47,11 @@ const Navigation = styled.div`
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     flex-direction: column;
-    height: calc(100vh - 108px);
+    height: calc(100vh - 74px);
     left: 0;
     margin-top: 80px;
     overflow: auto;
-    padding: 0 15px 140px;
+    padding: 0 15px 20px;
     position: absolute;
     top: 0;
     z-index: 0;
@@ -59,6 +59,26 @@ const Navigation = styled.div`
     width: 100%;
     flex-flow: column;
   }
+
+.page-nav__subcontainer-button{
+  bottom: 0;
+    background-color: #f0e8e7;
+    color: #353535;
+    left: 0;
+    margin-top: 15px;
+    padding: 10px;
+    position: absolute;
+    right: 0;
+    font-size: 14px;
+  font-family: headings, Arial;
+    text-align: center;
+
+  @media (max-width: 956px) {
+    position: relative;
+
+  }
+
+    }
 `;
 
 const Nav = styled.nav`
@@ -71,24 +91,56 @@ const Nav = styled.nav`
   .link {
     text-transform: capitalize;
   }
+
   a {
-    color: white;
+    color: ${props => (props.pathname === '/'  || props.pathname === '/ro' ? 'white' : 'black')};
     margin-left: 2rem;
     transition: all ${props => props.theme.transitions.default.duration};
     &:hover {
       color: ${props => props.theme.colors.white.grey};
     }
   }
+  
   @media (max-width: 956px) {
     display: none;
+
     &.hidden {
       display: flex;
       flex-wrap: wrap;
+  margin-left: 2%;
+
 
       a {
         margin-right: 2rem;
         margin-left: 0;
         justify-content: end;
+      }
+    }
+  }
+
+  @media (max-width: 767px) {
+    justify-content: flex-start;
+    a {
+      font-size: 16px;
+        margin-right: 0.1rem;
+        margin-left: 0;
+  }
+
+  &.hidden {
+
+      a {
+      font-size: 15px;
+        margin-right: 0.4rem;
+        &::after {
+          content: "|";
+          margin-left: 0.2rem;
+          display: inline-block;
+
+        }
+          &:last-child::after {
+            display: none;
+          }
+        margin-left: 0;
       }
     }
   }
@@ -168,22 +220,23 @@ const NavSubListItem = styled.li`
 `;
 
 const NavSubListItemAnchor = styled.a`
-  padding: 5px;
-  display: flex;
-  font-family: headings, Arial;
-  justify-content: center;
-  align-items: center;
-  background-color: #f5f4f2;
-  text-decoration: none;
-  border-radius: 20px;
-  color: #353535;
-  height: 35px;
-  padding: 3px;
   font-size: 14px;
-  position: relative;
-  text-align: center;
-  transition: background 0.2s;
-  white-space: nowrap;
+  font-family: headings, Arial;
+    align-items: center;
+    background-color: #f5f4f2;
+    border-radius: 20px;
+    color: #353535;
+    display: block;
+    height: 100%;
+    line-height: 1;
+    padding: 10px 5px;
+    position: relative;
+    text-align: center;
+    text-overflow: ellipsis;
+    transition: background .2s;
+    overflow: hidden;
+    white-space: nowrap;
+    
   &:hover {
     background: gainsboro;
   }
@@ -198,19 +251,22 @@ const MobileButton = styled.button`
   }
 `;
 
-const NavBar = () => {
+const NavBar = ({pathname}) => {
   const [isShown, setIsShown] = useState(false);
+
   const setVisibility = () => {
     if (window && window.innerWidth > 600) {
       setIsShown(false);
     }
   };
+  
   return (
     <LocaleConsumer>
       {({ i18n }) => (
         <Headroom calcHeightOnResize disableInlineStyles>
-          <Nav className={`${isShown ? 'hidden' : ''}`}>
-            <Link className="link" to={i18n.default ? `/` : `/ro`}>
+          <MobileButton onClick={() => setIsShown(!isShown)} />
+          <Nav pathname={pathname} className={`${isShown ? 'hidden' : ''}`}>
+            <Link className="link" to={i18n.default ? '/' : '/ro'}>
               {i18n.home}
             </Link>
             <Link
@@ -236,7 +292,6 @@ const NavBar = () => {
               {i18n.inspire}
             </Link>
           </Nav>
-          <MobileButton onClick={() => setIsShown(!isShown)} />
           <StyledLink to="/">
             <img src={logo} alt="Gatsby Logo" />
           </StyledLink>
@@ -436,6 +491,7 @@ const NavBar = () => {
                 </NavSubListItem>
               </NavSubList>
             </NavListItem>
+            <a href="/blog" title="Discover all travel blogs" className="page-nav__subcontainer-button">All Travel Blogs</a>
           </Navigation>
         </Headroom>
       )}

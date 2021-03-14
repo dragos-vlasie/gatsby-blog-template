@@ -16,7 +16,8 @@ const CategoryTitle = styled.h3`
 `;
 
 const Scroller = styled.div`
-  width: calc(100% + ((100vw - 100%) / 2) - 8px);
+  width: calc(100% + ((100vw - 100%) / 2) - 8px); 
+  /* TODO fix for non scrollable and add for after padding on mobile */
   overflow: hidden;
   position: relative;
   z-index: 1;

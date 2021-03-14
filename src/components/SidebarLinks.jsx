@@ -9,6 +9,11 @@ const SidebarArticles = styled.div`
   position: sticky;
   top: 100px;
 
+  @media (max-width: 767px) {
+  width: 320px; 
+  /* TODO fix on mobile */
+  }
+
   .sidebar-articles__title {
     margin-bottom: 8px;
     overflow: hidden;
