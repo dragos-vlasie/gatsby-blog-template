@@ -48,14 +48,15 @@ const GridWrapper = styled.div`
     justify-content: space-between;
   }
   .articles {
-    grid-template-columns: minmax(auto, 650px) 350px;
     display: grid;
-    grid-gap: 25px;
+    grid-area: intro;
+    grid-gap: 105px;
+
+    @media (min-width: 980px) {
+    grid-template-columns: minmax(auto, 650px) 350px;
     -webkit-box-pack: justify;
     justify-content: space-between;
     margin: 35px 0 0;
-    grid-area: intro;
-    @media (max-width: 767px) {
     margin-right: 12px;
     flex: 1 1 25%;
   }

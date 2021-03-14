@@ -72,7 +72,7 @@ const Nav = styled.nav`
     text-transform: capitalize;
   }
   a {
-    color: rgb(53, 53, 53);
+    color: white;
     margin-left: 2rem;
     transition: all ${props => props.theme.transitions.default.duration};
     &:hover {
@@ -207,221 +207,238 @@ const NavBar = () => {
   };
   return (
     <LocaleConsumer>
-       {({ i18n }) => (
-         <Headroom calcHeightOnResize disableInlineStyles>
-      <Nav className={`${isShown ? 'hidden' : ''}`}>
-        <Link className="link" to="/">{i18n.home}</Link>
-        <Link className="link" to={i18n.default ? `/${i18n.about}` : `/${i18n.path}/${i18n.about}`}>{i18n.about}</Link>
-        <Link className="link" to={i18n.default ? `/${i18n.journal}` : `/${i18n.path}/${i18n.journal}`}>{i18n.journal}</Link>
-        <Link className="link" onMouseEnter={() => setIsShown(true)} to={i18n.default ? `/${i18n.destinations}` : `/${i18n.path}/${i18n.destinations}`}>
-        {i18n.destinations}
-        </Link>
-        <Link className="link" to={i18n.default ? `/${i18n.resources}` : `/${i18n.path}/${i18n.resources}`}>{i18n.resources}</Link>
-        <Link className="link" to={i18n.default ? `/${i18n.inspire}` : `/${i18n.path}/${i18n.inspire}`}>{i18n.inspire}</Link>
-      </Nav>
-      <MobileButton onClick={() => setIsShown(!isShown)} />
-      <StyledLink to="/">
-        <img src={logo} alt="Gatsby Logo" />
-      </StyledLink>
-      <Navigation onMouseLeave={() => setVisibility()} className={`${isShown ? 'hidden' : ''}`}>
-        <NavListItem>
-          <NavListMainTitle>
-            <NavListMainAnchor href="/asia/">Asia</NavListMainAnchor>
-          </NavListMainTitle>
-          <NavSubList>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/bali/" title="Bali">
-                Bali{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/cambodia/" title="Cambodia">
-                Cambodia{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/georgia/" title="Georgia">
-                Georgia{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/indonesia/" title="Indonesia">
-                Indonesia{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/laos/" title="Laos">
-                Laos{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/malaysia/" title="Malaysia">
-                Malaysia{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/maldives/" title="Maldives">
-                Maldives{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/myanmar/" title="Myanmar">
-                Myanmar{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/philippines/" title="Philippines">
-                Philippines{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/singapore/" title="Singapore">
-                Singapore{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/sri-lanka/" title="Sri Lanka">
-                Sri Lanka{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/thailand/" title="Thailand">
-                Thailand{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/uzbekistan/" title="Uzbekistan">
-                Uzbekistan{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/vietnam/" title="Vietnam">
-                Vietnam{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-          </NavSubList>
-        </NavListItem>
-        <NavListItem>
-          <NavListMainTitle>
-            <NavListMainAnchor href="/africa/">Africa</NavListMainAnchor>
-          </NavListMainTitle>
-          <NavSubList>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/egypt/" title="Egypt">
-                Egypt{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/mauritius/" title="Mauritius">
-                Mauritius{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/morocco/" title="Morocco">
-                Morocco{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-          </NavSubList>
-        </NavListItem>
-        <NavListItem>
-          <NavListMainTitle>
-            <NavListMainAnchor href="/europe/">Europe</NavListMainAnchor>
-          </NavListMainTitle>
-          <NavSubList>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/czech-republic/" title="Czech Republic">
-                Czech Republic{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/france/" title="France">
-                France{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/georgia/" title="Georgia">
-                Georgia{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/hungary/" title="Hungary">
-                Hungary{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/iceland/" title="Iceland">
-                Iceland{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/italy/" title="Italy">
-                Italy{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/netherlands/" title="Netherlands">
-                Netherlands{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/portugal/" title="Portugal">
-                Portugal{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/spain/" title="Spain">
-                Spain{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/turkey/" title="Turkey">
-                Turkey{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-          </NavSubList>
-        </NavListItem>
-        <NavListItem>
-          <NavListMainTitle>
-            <NavListMainAnchor href="/middle-east/">Middle East</NavListMainAnchor>
-          </NavListMainTitle>
-          <NavSubList>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/egypt/" title="Egypt">
-                Egypt{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/jordan/" title="Jordan">
-                Jordan{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/oman/" title="Oman">
-                Oman{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/turkey/" title="Turkey">
-                Turkey{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-          </NavSubList>
-        </NavListItem>
-        <NavListItem>
-          <NavListMainTitle>
-            <NavListMainAnchor href="/south-america/">South America</NavListMainAnchor>
-          </NavListMainTitle>
-          <NavSubList>
-            <NavSubListItem>
-              <NavSubListItemAnchor href="/peru/" title="Peru">
-                Peru{' '}
-              </NavSubListItemAnchor>
-            </NavSubListItem>
-          </NavSubList>
-        </NavListItem>
-      </Navigation>
-    </Headroom>
-    )}
+      {({ i18n }) => (
+        <Headroom calcHeightOnResize disableInlineStyles>
+          <Nav className={`${isShown ? 'hidden' : ''}`}>
+            <Link className="link" to={i18n.default ? `/` : `/ro`}>
+              {i18n.home}
+            </Link>
+            <Link
+              className="link"
+              to={i18n.default ? `/${i18n.about}` : `/${i18n.path}/${i18n.about.split(' ').join('-')}`}
+            >
+              {i18n.about}
+            </Link>
+            <Link className="link" to={i18n.default ? `/${i18n.journal}` : `/${i18n.path}/${i18n.journal}`}>
+              {i18n.journal}
+            </Link>
+            <Link
+              className="link"
+              onMouseEnter={() => setIsShown(true)}
+              to={i18n.default ? `/${i18n.destinations}` : `/${i18n.path}/${i18n.destinations}`}
+            >
+              {i18n.destinations}
+            </Link>
+            <Link className="link" to={i18n.default ? `/${i18n.resources}` : `/${i18n.path}/${i18n.resources}`}>
+              {i18n.resources}
+            </Link>
+            <Link className="link" to={i18n.default ? `/${i18n.inspire}` : `/${i18n.path}/${i18n.inspire}`}>
+              {i18n.inspire}
+            </Link>
+          </Nav>
+          <MobileButton onClick={() => setIsShown(!isShown)} />
+          <StyledLink to="/">
+            <img src={logo} alt="Gatsby Logo" />
+          </StyledLink>
+          <Navigation onMouseLeave={() => setVisibility()} className={`${isShown ? 'hidden' : ''}`}>
+            <NavListItem>
+              <NavListMainTitle>
+                <NavListMainAnchor href="/asia/">Asia</NavListMainAnchor>
+              </NavListMainTitle>
+              <NavSubList>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/bali/" title="Bali">
+                    Bali{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/cambodia/" title="Cambodia">
+                    Cambodia{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/georgia/" title="Georgia">
+                    Georgia{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/indonesia/" title="Indonesia">
+                    Indonesia{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/laos/" title="Laos">
+                    Laos{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/malaysia/" title="Malaysia">
+                    Malaysia{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/maldives/" title="Maldives">
+                    Maldives{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/myanmar/" title="Myanmar">
+                    Myanmar{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/philippines/" title="Philippines">
+                    Philippines{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/singapore/" title="Singapore">
+                    Singapore{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/sri-lanka/" title="Sri Lanka">
+                    Sri Lanka{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/thailand/" title="Thailand">
+                    Thailand{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/uzbekistan/" title="Uzbekistan">
+                    Uzbekistan{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/vietnam/" title="Vietnam">
+                    Vietnam{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+              </NavSubList>
+            </NavListItem>
+            <NavListItem>
+              <NavListMainTitle>
+                <NavListMainAnchor href="/africa/">Africa</NavListMainAnchor>
+              </NavListMainTitle>
+              <NavSubList>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/egypt/" title="Egypt">
+                    Egypt{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/mauritius/" title="Mauritius">
+                    Mauritius{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/morocco/" title="Morocco">
+                    Morocco{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+              </NavSubList>
+            </NavListItem>
+            <NavListItem>
+              <NavListMainTitle>
+                <NavListMainAnchor href="/europe/">Europe</NavListMainAnchor>
+              </NavListMainTitle>
+              <NavSubList>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/czech-republic/" title="Czech Republic">
+                    Czech Republic{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/france/" title="France">
+                    France{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/georgia/" title="Georgia">
+                    Georgia{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/hungary/" title="Hungary">
+                    Hungary{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/iceland/" title="Iceland">
+                    Iceland{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/italy/" title="Italy">
+                    Italy{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/netherlands/" title="Netherlands">
+                    Netherlands{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/portugal/" title="Portugal">
+                    Portugal{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/spain/" title="Spain">
+                    Spain{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/turkey/" title="Turkey">
+                    Turkey{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+              </NavSubList>
+            </NavListItem>
+            <NavListItem>
+              <NavListMainTitle>
+                <NavListMainAnchor href="/middle-east/">Middle East</NavListMainAnchor>
+              </NavListMainTitle>
+              <NavSubList>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/egypt/" title="Egypt">
+                    Egypt{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/jordan/" title="Jordan">
+                    Jordan{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/oman/" title="Oman">
+                    Oman{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/turkey/" title="Turkey">
+                    Turkey{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+              </NavSubList>
+            </NavListItem>
+            <NavListItem>
+              <NavListMainTitle>
+                <NavListMainAnchor href="/south-america/">South America</NavListMainAnchor>
+              </NavListMainTitle>
+              <NavSubList>
+                <NavSubListItem>
+                  <NavSubListItemAnchor href="/peru/" title="Peru">
+                    Peru{' '}
+                  </NavSubListItemAnchor>
+                </NavSubListItem>
+              </NavSubList>
+            </NavListItem>
+          </Navigation>
+        </Headroom>
+      )}
     </LocaleConsumer>
   );
 };

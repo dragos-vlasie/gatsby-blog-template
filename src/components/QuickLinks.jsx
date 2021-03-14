@@ -20,6 +20,8 @@ const QuickLinksContainer = styled.div`
 
   @media (max-width: 767px) {
     margin-top: 0px;
+    display: flex;
+    flex-direction: column-reverse;
   }
 
   &::after {
@@ -50,6 +52,10 @@ const QuickLinksTitle = styled.h3`
 `;
 const QuickLinksList = styled.ul`
   display: inline-block;
+
+  @media (max-width: 767px) {
+   margin: 0;
+  }
 `;
 const QuickLinksListItem = styled.li`
   margin-top: 15px;
@@ -60,14 +66,13 @@ const QuickLinksListItem = styled.li`
   }
 `;
 const QuickLinksAnchor = styled.a`
-line-height: 28px
-  background-image: linear-gradient(transparent calc(100% - 0.4em), #c0e2e2 0),
-    linear-gradient(transparent calc(100% - 0.4em), #f0e8e7 0);
-  background-repeat: no-repeat;
-  background-size: 0 88%, 100% 88%;
+line-height: 28px;
+background-image: linear-gradient(transparent calc(100% - .4em),#c0e2e2 0),linear-gradient(transparent calc(100% - .4em),#f0e8e7 0);
+    background-repeat: no-repeat;
+    background-size: 0 88%,100% 88%;
   color: black;
   font-family: 'Headings',Arial;
-  font-size: 20px
+  font-size: 20px;
   font-weight: 600;
   transition: background 0.2s;
 
@@ -90,7 +95,7 @@ const QuickLinksAnchorIcon = styled.span``;
 
 const Img = ({ image }) => {
   return (
-    <div style={{ height: '315px', margin: 'auto' }}>
+    <div style={{ height: '315px' }}>
       <ImageLink image={image} title="Acesta este un titlu" type="continents" />
     </div>
   );

@@ -39,7 +39,7 @@ console.log("🚀 ~ file: gatsby-node.js ~ line 14 ~ page", page)
       return localizedPath;
     };
 
-    localizedPath = translatedPath(localizedPath);
+    localizedPath = translatedPath(localizedPath).split(' ').join('-');
 
     return createPage({
       ...page,

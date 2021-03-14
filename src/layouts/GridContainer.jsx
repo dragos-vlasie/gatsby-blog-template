@@ -17,10 +17,12 @@ const Grid = styled.div`
 
 const FeaturedGrid = styled.div`
   display: grid;
-  grid-gap: 35px;
   grid-template-columns: minmax(auto, 2fr) 1fr;
   margin: 65px 0;
+  grid-gap: 35px;
   @media (max-width: 767px) {
+  grid-gap: 5px;
+  margin: 35px 0;
     display: flex;
     flex-direction: column;
   }

@@ -9,14 +9,6 @@ const encodedSvg =
   "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' preserveAspectRatio='none'%3E%3Cpath d='M13.7.3C12-.1 10-.2 8.3.6c-1.3.7-2.2 1.7-3.1 3-1.3 1.9-2.7 3.8-3.5 6.1C.8 12 .5 14.5.3 17c-.2 2.2-.4 4.5-.2 6.8s1.1 4.5 2.6 6c2.9 2.8 9.5 2.5 13.3 1.8 3.1-.5 6.2-1 9-2.5 3.5-1.8 4.4-5.1 5.7-9.1 1.6-4 2.3-13.1-1.5-15.6-4.5-2.9-10.3-3-15.5-4.1z'/%3E%3C/svg%3E%0A\")";
 
 const Wrapper = styled.header`
-  /* background: ${props => props && props.theme.gradient.rightToLeft}; */
-  /* min-height: ${props => (props.big ? '650px' : '550px')};
-  @media (max-width: ${props => props.theme.breakpoints.m}) {
-    height: ${props => (props.big ? '600px' : '500px')};
-  }
-  @media (max-width: ${props => props.theme.breakpoints.s}) {
-    height: ${props => (props.big ? '500px' : '325px')};
-  } */
   height: ${props => (props.type === '' ? '500px' : 'auto')};
   z-index: ${props => (props.homePage ? 0 : 1)};
 
@@ -25,7 +17,7 @@ const Wrapper = styled.header`
     margin-bottom: ${props => (props.homePage ? 0 : 0)};
   }
   @media (max-width: 767px) {
-    height: 500px;
+    height: ${props => (props.titleHeader  ? 'auto' : '70vh')};
   }
   /* position: relative;
   overflow: hidden; */
@@ -230,7 +222,6 @@ const PostCoverIntro = styled.div`
 `;
 
 const HomePage = ({ cover, big, homePage, title, titleProps, date, subProps, children }) => {
-  console.log('HomePage -> cover', cover);
   return (
     <Wrapper big={true} homePage={homePage}>
       <Img fluid={cover || {} || [] || ''} />
@@ -285,7 +276,7 @@ const Post = ({ cover, big, homePage, title, titleProps, date, subProps, childre
 
 const TitleHeader = ({ title, titleProps }) => {
   return (
-    <Wrapper big={true}>
+    <Wrapper titleHeader={true}>
       <div className="category page-cover__container basic-category">
         <animated.h1 data-testid="header-title">{title}</animated.h1>
         <p className="basic-category__subtitle">
@@ -319,51 +310,7 @@ const Header = props => {
         <TitleHeader {...props} subProps={subProps} titleProps={titleProps} />
       )}
     </div>
-    // <Wrapper big={true} homePage={homePage}>
-    //   <div className="page-cover__container">
-    //     <div className="page-cover blog-bubble-mask">
-    //       <div className="page-cover__image">
-    //         <Img fluid={cover || {} || [] || ''} />
-    //       </div>
-    //     </div>
-    //     <div className="post-cover__content">
-    //       <div className="post-cover__content-container">
-    //         <animated.h1 data-testid="header-title" style={titleProps}>
-    //           {title}
-    //         </animated.h1>
-    //         <div className="post-cover__intro">
-    //           <p>
-    //             Brno, Prague’s little brother, is the Czech Republic’s best-kept city secret. It’s much quieter than{' '}
-    //             <a href="https://www.saltinourhair.com/czech-republic/prague/" target="_blank" rel="noopener">
-    //               Prague
-    //             </a>
-    //             , despite being the second-largest city in the country, and there is a fantastic local vibe. What’s
-    //             more, its huge student population gives it a contemporary, vibrant, energetic feeling that is different
-    //             from other more medieval cities in the Czech Republic. Visit in summer, for fun pop-up wine bars and
-    //             festivals, and visit in winter for legendary Christmas markets. Here are all the top things to do in
-    //             Brno in 24 hours.
-    //           </p>
-    //         </div>
-    //       </div>
-    //     </div>
-    //   </div>
-    // </Wrapper>
   );
 };
 
 export default Header;
-
-Header.propTypes = {
-  children: PropTypes.oneOfType([PropTypes.node, PropTypes.bool]),
-  cover: PropTypes.oneOfType([PropTypes.object, PropTypes.bool]),
-  date: PropTypes.oneOfType([PropTypes.string, PropTypes.bool]),
-  title: PropTypes.oneOfType([PropTypes.string, PropTypes.object, PropTypes.bool]),
-};
-
-Header.defaultProps = {
-  children: false,
-  cover: false,
-  date: false,
-  title: false,
-  big: false,
-};
