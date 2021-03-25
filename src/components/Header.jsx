@@ -6,7 +6,7 @@ import { animated, config, useSpring } from 'react-spring';
 import Wave from '../elements/Wave';
 
 const encodedSvg =
-  "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' preserveAspectRatio='none'%3E%3Cpath d='M13.7.3C12-.1 10-.2 8.3.6c-1.3.7-2.2 1.7-3.1 3-1.3 1.9-2.7 3.8-3.5 6.1C.8 12 .5 14.5.3 17c-.2 2.2-.4 4.5-.2 6.8s1.1 4.5 2.6 6c2.9 2.8 9.5 2.5 13.3 1.8 3.1-.5 6.2-1 9-2.5 3.5-1.8 4.4-5.1 5.7-9.1 1.6-4 2.3-13.1-1.5-15.6-4.5-2.9-10.3-3-15.5-4.1z'/%3E%3C/svg%3E%0A\")";
+  'url("data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 32 32\' preserveAspectRatio=\'none\'%3E%3Cpath d=\'M13.7.3C12-.1 10-.2 8.3.6c-1.3.7-2.2 1.7-3.1 3-1.3 1.9-2.7 3.8-3.5 6.1C.8 12 .5 14.5.3 17c-.2 2.2-.4 4.5-.2 6.8s1.1 4.5 2.6 6c2.9 2.8 9.5 2.5 13.3 1.8 3.1-.5 6.2-1 9-2.5 3.5-1.8 4.4-5.1 5.7-9.1 1.6-4 2.3-13.1-1.5-15.6-4.5-2.9-10.3-3-15.5-4.1z\'/%3E%3C/svg%3E%0A")';
 
 const Wrapper = styled.header`
   height: ${props => (props.type === '' ? '500px' : 'auto')};
@@ -27,11 +27,11 @@ const Wrapper = styled.header`
     position: relative;
 
     .category.page-cover__container::after {
+    -webkit-mask-image: url('https://www.saltinourhair.com/build/images/bubbles.png');
       background-color: #f7f7f7;
     bottom: 0;
     content: "";
     left: 0;
-    -webkit-mask-image: url('https://www.saltinourhair.com/build/images/bubbles.png');
     -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
     -webkit-mask-size: 500px auto;
@@ -87,6 +87,7 @@ const Wrapper = styled.header`
 }
 
  .page-cover {
+    mask-image: ${encodedSvg};
     mask-repeat: no-repeat;
     mask-position: bottom center;
     mask-size: 150% 130%;
@@ -95,9 +96,9 @@ const Wrapper = styled.header`
     position: relative;
     transform: scaleX(-1);
     width: calc(100% + 30px);
-    mask-image: ${encodedSvg};
 
     @media(min-width: 1024px) {
+    mask-image: ${encodedSvg};
       
     mask-size: 107% 120%;
     
@@ -257,7 +258,7 @@ const Post = ({ cover, big, homePage, title, titleProps, date, subProps, childre
             <PostCoverIntro className="post-cover__intro">
               <p>
                 Brno, Prague’s little brother, is the Czech Republic’s best-kept city secret. It’s much quieter than{' '}
-                <a href="https://www.saltinourhair.com/czech-republic/prague/" target="_blank" rel="noopener">
+                <a href="https://www.saltinourhair.com/czech-republic/prague/" target="_blank" rel="noreferrer">
                   Prague
                 </a>
                 , despite being the second-largest city in the country, and there is a fantastic local vibe. What’s

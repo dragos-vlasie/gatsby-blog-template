@@ -20,6 +20,7 @@ import BackgroundTitle from '../elements/BackgroundTitle';
 import { margin } from 'polished';
 import FlexSection from '../layouts/FlexSection';
 import CategoryPreview from '../components/CategoryPreview';
+import Discover from '../components/Discover';
 
 const mockData = [
   '11 Things To Do in Luang Prabang, 3-Day Guide',
@@ -30,35 +31,37 @@ const mockData = [
 
 const continents = ['Asia', 'Africa', 'Europe', 'North America'];
 
-const PostWrapper = styled.div`
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin: 4rem 4rem 1rem 4rem;
-  @media (max-width: 1000px) {
-    margin: 4rem 2rem 1rem 2rem;
-  }
-  @media (max-width: 700px) {
-    margin: 4rem 1rem 1rem 1rem;
-  }
-`;
+const MainContainer = styled.main`
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(1px, 68.75rem) minmax(0, 1fr);
+  margin: 0;
+  grid-template-areas:
+    '. weekly .'
+    'destination destination destination'
+    '. continents .'
+    '. ad .'
+    '. shop .'
+    '. about .';
 
-const CatergoriesWrapper = styled.div`
-  display: flex;
-  margin-top: -130px;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  margin: 4rem 4rem 1rem 4rem;
-  @media (max-width: 1000px) {
-    margin: 4rem 2rem 1rem 2rem;
+  .weekly {
+    grid-area: weekly;
+    justify-content: space-between;
   }
-  @media (max-width: 700px) {
-    margin: 4rem 1rem 1rem 1rem;
+
+  .destination {
+    grid-area: destination;
+    background: #f5f5f5 calc(50% + 800px) center/auto 100% repeat-x;
+
+    justify-content: space-between;
   }
-  @media (max-width: 600px) {
-    display: none;
+
+  .continents {
+    grid-area: continents;
+    margin-bottom: 35px;
+  }
+  .about {
+    grid-area: about;
+    margin-bottom: 35px;
   }
 `;
 
@@ -66,7 +69,7 @@ const Index = ({ data, pageContext: { locale }, location }) => {
   const { edges } = data.allMarkdownRemark;
   const { title } = data.markdownRemark.frontmatter;
   const postsByTag = {};
-  console.log(data)
+  console.log(data);
 
   edges.forEach(({ node }) => {
     if (node.frontmatter.tags) {
@@ -86,106 +89,55 @@ const Index = ({ data, pageContext: { locale }, location }) => {
       <LocaleConsumer>
         {({ i18n }) => (
           <>
-          { console.log("🚀 ~ file: index.jsx ~ line 88 ~ Index ~ i18n", i18n)}
             <Helmet title={title} />
             <Header title={title} cover={edges[0].node.frontmatter.cover.childImageSharp.fluid} type={'home'}>
               {' '}
               {console.log('edges[0]', edges[0])}
               <p style={{ color: 'white', fontSize: '19px' }}>
-                "A journal for myself, curious eyes and fellow travellers!"
+                &quot;A journal for myself, curious eyes and fellow travellers! &quot;
               </p>
             </Header>
-              <FadeIn>
-            <Container>
-                {/* <DestinationsList data={tags} /> */}
-                {/* <CatergoriesWrapper>{tags && tags.map(tag => <CardTag key={tag} tagName={tag} />)}</CatergoriesWrapper> */}
-                <GridContainer type={'featured'}>
-                  <ImageLink
+            <FadeIn>
+              <MainContainer>
+                <section className="weekly">
+                  <GridContainer type={'featured'}>
+                    <ImageLink
+                      image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
+                      type={'featured'}
+                      textPosition={'featured'}
+                      title={'This is a featured article'}
+                      icon={'compassLight'}
+                      position={'center'}
+                    />
+                    <QuickLinks
+                      data={tags}
+                      type={false}
+                      image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
+                      title={'These are a few important articles'}
+                    />
+                  </GridContainer>
+                </section>
+
+                <section className="destination">
+                  <Discover image={edges[0].node.frontmatter.cover.childImageSharp.fluid}></Discover>
+                </section>
+
+                <section className="continents">
+                  <OverFlowContainer
+                    articles={continents}
+                    type={'continents'}
+                    title={'Explore by continent'}
+                    textPosition={'continents'}
                     image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
-                    type={'featured'}
-                    textPosition={'featured'}
-                    title={'This is a featured article'}
-                    icon={'compassLight'}
-                    position={'center'}
                   />
-                  <QuickLinks
-                    data={tags}
-                    type={false}
-                    image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
-                    title={'These are a few important articles'}
-                  />
-                </GridContainer>
-                {/* <PostWrapper>
-                  {edges &&
-                    edges.slice(0, 6).map(({ node }) => {
-                      const { id, excerpt, frontmatter, fileAbsolutePath } = node;
-                      const { cover, path, title, date, lang } = frontmatter;
-                      const arrayPath = fileAbsolutePath.split('/');
-                      const category = arrayPath
-                      .slice(arrayPath.indexOf('content') + 1, arrayPath.indexOf('index.md') - 1)
-                        .join();
-                        return (
-                        <PostList
-                          key={id}
-                          cover={cover.childImageSharp.fluid}
-                          path={`${path}`}
-                          title={title}
-                          date={date}
-                          excerpt={excerpt}
-                          />
-                          );
-                        })}
-                      </PostWrapper> */}
-              <CategoryPreview label={'Porto'} image={edges[0].node.frontmatter.cover.childImageSharp.fluid} />
-              <OverFlowContainer
-                articles={continents}
-                type={'continents'}
-                title={'Explore by continent'}
-                textPosition={'continents'}
-                image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
-              />
-              <GridContainer type={'flex'}>
-                <FlexSection></FlexSection>
-              </GridContainer>
-              <OverFlowContainer
-                articles={mockData}
-                type={'bestOf'}
-                title={'Best of categories'}
-                textPosition={'top'}
-                image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
-              />
-              <OverFlowContainer
-                articles={mockData}
-                image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
-                type={'normal'}
-                title={'Normal articles'}
-                textPosition={'top'}
-              />
-              <GridContainer>
-                <div>
-                <DestinationsList data={continents} img={edges[1].node.frontmatter.cover.childImageSharp.fluid} />
-                </div>
-                <ImageLink
-                  image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
-                  type={'category'}
-                  title={'This is a random title'}
-                  icon={'mustRead'}
-                  arrow={true}
-                  position={'topLeft'}
-                />
-              </GridContainer>
-              <GridContainer>
-                <QuickLinks data={tags} circle={true} image={edges[0].node.frontmatter.cover.childImageSharp.fluid} />
-                <ImageLink
-                  image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
-                  type={'category'}
-                  title={'This is a random title'}
-                  icon={'mustRead'}
-                  position={'topLeft'}
-                  arrow={true}
-                />
-              </GridContainer>
-            </Container>
+                </section>
+
+                <section className="about">
+                  <GridContainer type={'flex'}>
+                    <FlexSection></FlexSection>
+                  </GridContainer>
+                </section>
+              </MainContainer>
             </FadeIn>
           </>
         )}
@@ -245,14 +197,14 @@ export const query = graphql`
         }
       }
     }
-     file(relativePath: {eq: "sprite.webp"}) {
-    id
-     childImageSharp {
+    file(relativePath: { eq: "sprite.webp" }) {
+      id
+      childImageSharp {
         fluid(maxWidth: 900) {
           ...GatsbyImageSharpFluid
         }
       }
-  }
+    }
     markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
       id
       frontmatter {

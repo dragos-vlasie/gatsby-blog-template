@@ -17,10 +17,10 @@ const Text = styled.div`
   font-size: 24px;
   max-width: 259px;
   font-size: 3.8em;
-    top: -35px;
-    position: relative;
-    transform: translateX(15%);
-`
+  top: -35px;
+  position: relative;
+  transform: translateX(15%);
+`;
 
 const SecondFlexItem = styled.div`
   max-width: 50%;
@@ -57,7 +57,7 @@ export const FlexSection = () => {
       </FlexItem>
       <SecondFlexItem>
         <BackgroundTitle label={'ABOUT'} />
-        <Text >Alma &amp; Dragos</Text>
+        <Text>Alma &amp; Dragos</Text>
         <ContentText style={{}}>
           Hi! We're Alma &amp; Dragos, two creatives that run a 'travel content creation' company named Salt in our
           Hair. We inspire people to travel via our travel guides, photography and videography.
