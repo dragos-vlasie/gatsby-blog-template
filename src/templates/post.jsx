@@ -13,6 +13,7 @@ const Post = ({ data, pageContext }) => {
   const { date, title, serpTitle, tags, path, description } = frontmatter;
   const image = frontmatter.cover.childImageSharp.fluid;
   let regex = '<details(.|\n)*?</details>';
+  
   const tableOfContent = Array.isArray(html.match(regex)) ? html.match(regex)[0] : '';
 
   return (

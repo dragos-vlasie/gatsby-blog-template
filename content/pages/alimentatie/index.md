@@ -22,6 +22,9 @@ Asadar, sfatul dietei Antrenamente 5x5 este sa va concentrati pe dezvoltarea uno
 - [Reguli de nutritie simpla](/alimentatie/dieta-reguli-de-baza/)
   <!-- - [Postul intermitent](/alimentatie/intermittent-fasting) -->
 
+- [Care este cea mai buna dieta?! ADEVARUL](/alimentatie/Care-dieta-este-cea-mai-buna/)
+  <!-- - [Care este cea mai buna dieta?! ADEVARUL](/alimentatie/Care-dietă-este-cea-mai-buna/) -->
+
 Nu aveti nevoie de suplimente pentru a va consolida si a dezvolta muschi. Puteti obtine rezultate fara a lua suplimente. Majoritatea suplimentelor nu functioneaza oricum, asa ca esti mai bine fara.
 
 <!--
