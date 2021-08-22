@@ -1,5 +1,5 @@
 ---
-path: '/alimentatie/Care-dieta-este-cea-mai-buna'
+path: '/alimentatie/care-dieta-este-cea-mai-buna'
 cover: './dietcover.jpeg'
 serpTitle: 'Descopera ce mai buna metoda pentru a pierde in greutate'
 descriere: 'In articolul ce urmeaza vei descoperi toate secretele pentru ca efortul tau chiar sa dea roade. Pentru unii dintre voi va fi greu sa auziti cele ce urmeaza.'
