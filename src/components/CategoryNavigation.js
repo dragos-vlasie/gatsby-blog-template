@@ -4,7 +4,7 @@ import styled from '@emotion/styled';
 const Title = styled.h3`
   margin: 40px auto 20px auto;
   text-align: center;
-  font-family:'SaltWritten';
+  font-family: 'SaltWritten';
 `;
 
 const Navigation = styled.nav`
@@ -18,7 +18,7 @@ const Navigation = styled.nav`
 
 const NavList = styled.ul`
   display: grid;
-  grid-template-columns: repeat(12,1fr);
+  grid-template-columns: repeat(12, 1fr);
   padding: 15px 0;
   overflow: visible;
   border-radius: inherit;
@@ -26,36 +26,36 @@ const NavList = styled.ul`
   font-weight: 900;
   .asiaList {
     grid-column: 1/4;
-}
-.africaList {
-  grid-column: 4/6;
-}
-.europaList {
-  grid-column: 6/9;
-}
-.middleEastList {
-  grid-column: 9/11;
-}
-.southAmericaList {
-  grid-column: 11/13;
-}
+  }
+  .africaList {
+    grid-column: 4/6;
+  }
+  .europaList {
+    grid-column: 6/9;
+  }
+  .middleEastList {
+    grid-column: 9/11;
+  }
+  .southAmericaList {
+    grid-column: 11/13;
+  }
 
   @media (max-width: 767px) {
     .asiaList {
-    grid-column: 1/12;
-}
-.africaList {
-  grid-column: 1/12;
-}
-.europaList {
-  grid-column: 1/12;;
-}
-.middleEastList {
-  grid-column: 1/12;;
-}
-.southAmericaList {
-  grid-column: 1/12;;
-}
+      grid-column: 1/12;
+    }
+    .africaList {
+      grid-column: 1/12;
+    }
+    .europaList {
+      grid-column: 1/12;
+    }
+    .middleEastList {
+      grid-column: 1/12;
+    }
+    .southAmericaList {
+      grid-column: 1/12;
+    }
   }
 `;
 
@@ -103,8 +103,6 @@ const NavImage = styled.img`
   transition: all 300ms;
 `;
 
-
-
 const NavListImageWrapper = styled.div`
   margin-top: -55px;
   position: relative;
@@ -147,7 +145,7 @@ const NavListMainAnchor = styled.a`
 const NavSubList = styled.ul`
   display: inline-grid;
   grid-gap: 10px;
-  grid-template-columns: repeat(auto-fill,minmax(85px,1fr));
+  grid-template-columns: repeat(auto-fill, minmax(85px, 1fr));
   margin: 0;
   padding: 0 15px;
   width: 100%;
@@ -206,7 +204,7 @@ export const CategoryNavigation = () => {
               <NavListMainTitle>
                 <NavListMainAnchor href="/asia/">Asia</NavListMainAnchor>
               </NavListMainTitle>
-              <NavSubList >
+              <NavSubList>
                 <NavSubListItem>
                   <NavSubListItemAnchor href="/bali/" title="Bali">
                     Bali{' '}

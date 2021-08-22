@@ -1,8 +1,8 @@
-import React from 'react'
-import styled from '@emotion/styled'
-import {keyframes} from '@emotion/core'
-import PropTypes from 'prop-types'
-import theme from '../../config/theme'
+import React from 'react';
+import styled from '@emotion/styled';
+import { keyframes } from '@emotion/core';
+import PropTypes from 'prop-types';
+import theme from '../../config/theme';
 
 const Wrapper = styled.div`
   position: absolute;
@@ -11,7 +11,7 @@ const Wrapper = styled.div`
   ${props => props.orientation === 'top' && 'top: 0'};
   ${props => props.orientation === 'top' && 'transform: matrix(1, 0, 0, -1, 0, 0)'};
   ${props => props.orientation === 'bottom' && 'bottom: 0'};
-`
+`;
 
 const InnerWave = styled.div`
   position: relative;
@@ -26,7 +26,7 @@ const InnerWave = styled.div`
       height: 4.5rem;
     }
   }
-`
+`;
 
 const smoooooth = keyframes`
   0% {
@@ -40,7 +40,7 @@ const smoooooth = keyframes`
   100% {
     d: path("M 27 10C 21 12 14 14 0 14L 0 0L 54 0L 54 3C 40 3 33 8 27 10Z");
   }
-`
+`;
 
 const WaveSVG = styled.svg`
   path {
@@ -48,7 +48,7 @@ const WaveSVG = styled.svg`
     width: 100%;
     animation: ${smoooooth} 25s linear infinite alternate;
   }
-`
+`;
 
 const Wave = ({ orientation }) => (
   <Wrapper orientation={orientation}>
@@ -72,14 +72,14 @@ const Wave = ({ orientation }) => (
       </WaveSVG>
     </InnerWave>
   </Wrapper>
-)
+);
 
-export default Wave
+export default Wave;
 
 Wave.propTypes = {
   orientation: PropTypes.oneOf(['top', 'bottom']),
-}
+};
 
 Wave.defaultProps = {
   orientation: 'bottom',
-}
+};

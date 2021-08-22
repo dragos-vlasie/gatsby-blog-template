@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import { css, jsx } from '@emotion/core';
-import sprite from '../assets/images/sprite.webp'
+import sprite from '../assets/images/sprite.webp';
 
 const TopLeft = css`
   position: absolute;
@@ -58,7 +58,7 @@ const SVG = ({}) => {
 };
 // this can be a different icon it depends on the place it will be used
 export const Icon = ({ icon, position, circle = false }) => {
-  console.log(sprite)
+  console.log(sprite);
   return (
     <div
       css={

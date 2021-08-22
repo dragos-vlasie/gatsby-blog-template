@@ -10,8 +10,8 @@ const SidebarArticles = styled.div`
   top: 100px;
 
   @media (max-width: 767px) {
-  width: 320px; 
-  /* TODO fix on mobile */
+    width: 320px;
+    /* TODO fix on mobile */
   }
 
   .sidebar-articles__title {
@@ -110,62 +110,57 @@ const SidebarArticles = styled.div`
   }
 `;
 
-export const SidebarLinks = ({prev,next}) => {
+export const SidebarLinks = ({ prev, next }) => {
   return (
     <SidebarArticles className="sidebar-articles sidebar-articles--related">
       <div className="sidebar-articles__title">
         <h6>Related articles</h6>
       </div>
       <div className="sidebar-articles__container">
-      {prev && (
-        <a
-          className="article-block"
-          href="https://www.saltinourhair.com/poland/auschwitz-birkenau/"
-          title="Visiting Auschwitz Concentration Camp – Everything you need to know"
-        >
-          <div className="article-block__content">
-            <article className="article-block__content-link">
-              <h2 className="article-block__title">
-                <span>Visiting Auschwitz Concentration Camp – Everything you need to know</span>
-              </h2>
-            </article>
-          </div>
-          <div className="article-block__image">
-            <div className="article-block__image-link">
-              <picture className="article-block__image-container">
-                <Img
-                  fluid={prev.frontmatter.cover.childImageSharp.fluid}
-                />
-              </picture>
+        {prev && (
+          <a
+            className="article-block"
+            href="https://www.saltinourhair.com/poland/auschwitz-birkenau/"
+            title="Visiting Auschwitz Concentration Camp – Everything you need to know"
+          >
+            <div className="article-block__content">
+              <article className="article-block__content-link">
+                <h2 className="article-block__title">
+                  <span>Visiting Auschwitz Concentration Camp – Everything you need to know</span>
+                </h2>
+              </article>
             </div>
-          </div>
-        </a>
-      )}
-      {next && (
-        <a
-        className="article-block"
-        href="https://www.saltinourhair.com/poland/auschwitz-birkenau/"
-        title="Visiting Auschwitz Concentration Camp – Everything you need to know"
-      >
-        <div className="article-block__content">
-          <article className="article-block__content-link">
-            <h2 className="article-block__title">
-              <span>Visiting Auschwitz Concentration Camp – Everything you need to know</span>
-            </h2>
-          </article>
-        </div>
-        <div className="article-block__image">
-          <div className="article-block__image-link">
-            <picture className="article-block__image-container">
-              <Img
-                fluid={next.frontmatter.cover.childImageSharp.fluid}
-              />
-            </picture>
-          </div>
-        </div>
-      </a>
-      )}
-        
+            <div className="article-block__image">
+              <div className="article-block__image-link">
+                <picture className="article-block__image-container">
+                  <Img fluid={prev.frontmatter.cover.childImageSharp.fluid} />
+                </picture>
+              </div>
+            </div>
+          </a>
+        )}
+        {next && (
+          <a
+            className="article-block"
+            href="https://www.saltinourhair.com/poland/auschwitz-birkenau/"
+            title="Visiting Auschwitz Concentration Camp – Everything you need to know"
+          >
+            <div className="article-block__content">
+              <article className="article-block__content-link">
+                <h2 className="article-block__title">
+                  <span>Visiting Auschwitz Concentration Camp – Everything you need to know</span>
+                </h2>
+              </article>
+            </div>
+            <div className="article-block__image">
+              <div className="article-block__image-link">
+                <picture className="article-block__image-container">
+                  <Img fluid={next.frontmatter.cover.childImageSharp.fluid} />
+                </picture>
+              </div>
+            </div>
+          </a>
+        )}
       </div>
     </SidebarArticles>
   );

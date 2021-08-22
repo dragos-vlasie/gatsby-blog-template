@@ -123,9 +123,7 @@ const CardTag = ({ tagName }) => {
       <CardInfo>
         <CardCategory></CardCategory>
         <CardTitle>{tagName}</CardTitle>
-        <CardBy>
-          My thoughts on the road and moments I want to cherish forever
-        </CardBy>
+        <CardBy>My thoughts on the road and moments I want to cherish forever</CardBy>
       </CardInfo>
     </Card>
   );

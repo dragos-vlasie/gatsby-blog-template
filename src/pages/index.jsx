@@ -63,6 +63,10 @@ const MainContainer = styled.main`
     grid-area: about;
     margin-bottom: 35px;
   }
+
+  @media (max-width: 1110px) {
+    padding: 0 8px;
+  }
 `;
 
 const Index = ({ data, pageContext: { locale }, location }) => {

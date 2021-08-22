@@ -53,18 +53,17 @@ const GridWrapper = styled.div`
     grid-gap: 105px;
 
     @media (min-width: 980px) {
-    grid-template-columns: minmax(auto, 650px) 350px;
-    -webkit-box-pack: justify;
-    justify-content: space-between;
-    margin: 35px 0 0;
-    margin-right: 12px;
-    flex: 1 1 25%;
-  }
+      grid-template-columns: minmax(auto, 650px) 350px;
+      -webkit-box-pack: justify;
+      justify-content: space-between;
+      margin: 35px 0 0;
+      margin-right: 12px;
+      flex: 1 1 25%;
+    }
   }
   .category-articles {
     grid-area: articles;
   }
-
 `;
 export const Destinations = ({ pageContext: { locale }, location }) => {
   return (

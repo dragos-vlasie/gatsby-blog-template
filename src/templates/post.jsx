@@ -38,10 +38,9 @@ const Post = ({ data, pageContext, location }) => {
 
       @media (min-width: 1024px) {
         display: grid;
-        grid-template-columns: 0 minmax(0, 3rem) minmax(37.25rem, var(--max-content-width)) minmax(3rem, 49rem) 21.25rem minmax(
-            0,
-            3rem
-          ) minmax(0, 1fr);
+        grid-template-columns:
+          0 minmax(0, 3rem) minmax(37.25rem, var(--max-content-width)) minmax(3rem, 49rem) 21.25rem minmax(0, 3rem)
+          minmax(0, 1fr);
         grid-template-rows: 1fr;
         grid-template-areas:
           '. . content . sidebar . .'
@@ -123,7 +122,7 @@ const Post = ({ data, pageContext, location }) => {
               pathname={path}
               article
             />
-            <Header title={title} date={date} cover={image} type={"post"} />
+            <Header title={title} date={date} cover={image} type={'post'} />
             <PageContainer>
               <div className="page-content__container">
                 <div className="blog-container">

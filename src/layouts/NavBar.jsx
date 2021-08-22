@@ -60,8 +60,8 @@ const Navigation = styled.div`
     flex-flow: column;
   }
 
-.page-nav__subcontainer-button{
-  bottom: 0;
+  .page-nav__subcontainer-button {
+    bottom: 0;
     background-color: #f0e8e7;
     color: #353535;
     left: 0;
@@ -70,15 +70,13 @@ const Navigation = styled.div`
     position: absolute;
     right: 0;
     font-size: 14px;
-  font-family: headings, Arial;
+    font-family: headings, Arial;
     text-align: center;
 
-  @media (max-width: 956px) {
-    position: relative;
-
-  }
-
+    @media (max-width: 956px) {
+      position: relative;
     }
+  }
 `;
 
 const Nav = styled.nav`
@@ -93,22 +91,21 @@ const Nav = styled.nav`
   }
 
   a {
-    color: ${props => (props.pathname === '/'  || props.pathname === '/ro' ? 'white' : 'black')};
+    color: ${props => (props.pathname === '/' || props.pathname === '/ro' ? 'white' : 'black')};
     margin-left: 2rem;
     transition: all ${props => props.theme.transitions.default.duration};
     &:hover {
       color: ${props => props.theme.colors.white.grey};
     }
   }
-  
+
   @media (max-width: 956px) {
     display: none;
 
     &.hidden {
       display: flex;
       flex-wrap: wrap;
-  margin-left: 2%;
-
+      margin-left: 2%;
 
       a {
         margin-right: 2rem;
@@ -122,24 +119,22 @@ const Nav = styled.nav`
     justify-content: flex-start;
     a {
       font-size: 16px;
-        margin-right: 0.1rem;
-        margin-left: 0;
-  }
+      margin-right: 0.1rem;
+      margin-left: 0;
+    }
 
-  &.hidden {
-
+    &.hidden {
       a {
-      font-size: 15px;
+        font-size: 15px;
         margin-right: 0.4rem;
         &::after {
-          content: "|";
+          content: '|';
           margin-left: 0.2rem;
           display: inline-block;
-
         }
-          &:last-child::after {
-            display: none;
-          }
+        &:last-child::after {
+          display: none;
+        }
         margin-left: 0;
       }
     }
@@ -222,21 +217,21 @@ const NavSubListItem = styled.li`
 const NavSubListItemAnchor = styled.a`
   font-size: 14px;
   font-family: headings, Arial;
-    align-items: center;
-    background-color: #f5f4f2;
-    border-radius: 20px;
-    color: #353535;
-    display: block;
-    height: 100%;
-    line-height: 1;
-    padding: 10px 5px;
-    position: relative;
-    text-align: center;
-    text-overflow: ellipsis;
-    transition: background .2s;
-    overflow: hidden;
-    white-space: nowrap;
-    
+  align-items: center;
+  background-color: #f5f4f2;
+  border-radius: 20px;
+  color: #353535;
+  display: block;
+  height: 100%;
+  line-height: 1;
+  padding: 10px 5px;
+  position: relative;
+  text-align: center;
+  text-overflow: ellipsis;
+  transition: background 0.2s;
+  overflow: hidden;
+  white-space: nowrap;
+
   &:hover {
     background: gainsboro;
   }
@@ -251,7 +246,7 @@ const MobileButton = styled.button`
   }
 `;
 
-const NavBar = ({pathname}) => {
+const NavBar = ({ pathname }) => {
   const [isShown, setIsShown] = useState(false);
 
   const setVisibility = () => {
@@ -259,7 +254,7 @@ const NavBar = ({pathname}) => {
       setIsShown(false);
     }
   };
-  
+
   return (
     <LocaleConsumer>
       {({ i18n }) => (
@@ -491,7 +486,9 @@ const NavBar = ({pathname}) => {
                 </NavSubListItem>
               </NavSubList>
             </NavListItem>
-            <a href="/blog" title="Discover all travel blogs" className="page-nav__subcontainer-button">All Travel Blogs</a>
+            <a href="/blog" title="Discover all travel blogs" className="page-nav__subcontainer-button">
+              All Travel Blogs
+            </a>
           </Navigation>
         </Headroom>
       )}

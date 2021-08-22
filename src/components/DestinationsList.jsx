@@ -38,38 +38,38 @@ const Navigation = styled.nav`
   &.post-chapters {
     width: 92%;
     margin-bottom: 35px;
-    
+
     ul {
       column-count: 2;
-    column-gap: 0;
-    border-radius: inherit;
-    font-family: headings,Arial;
-    font-weight: 900;
-    overflow: hidden;
-    padding: 10px 0 2px;
-    margin: 0;
-    display: block;
-      
+      column-gap: 0;
+      border-radius: inherit;
+      font-family: headings, Arial;
+      font-weight: 900;
+      overflow: hidden;
+      padding: 10px 0 2px;
+      margin: 0;
+      display: block;
+
       li {
         margin: 0 1.5rem;
         font-size: 15px;
-    text-transform: uppercase;
-    width: auto;
-    a {
-      padding: 10px 0;
-    align-items: center;
-    display: inline-flex;
-    padding: 7px 0;
-    width: 100%;
-    }
+        text-transform: uppercase;
+        width: auto;
+        a {
+          padding: 10px 0;
+          align-items: center;
+          display: inline-flex;
+          padding: 7px 0;
+          width: 100%;
+        }
       }
     }
   }
-&.post-chapters:after {
-  content: "Chapters";
+  &.post-chapters:after {
+    content: 'Chapters';
     background: #f5f5f5;
     border-radius: 20px 20px 0 0;
-    color: rgba(53,53,53,.6);
+    color: rgba(53, 53, 53, 0.6);
     height: 35px;
     font-family: headings;
     font-size: 15px;
@@ -80,7 +80,7 @@ const Navigation = styled.nav`
     z-index: -1;
     width: auto;
     right: initial;
-}
+  }
 `;
 
 const List = styled.ul`
@@ -138,25 +138,25 @@ const Image = styled.img`
 
 export const DestinationsList = ({ type, data, img }) => {
   return (
-      <Navigation className={type==='post-chapters'? 'post-chapters' : null }>
-        <List>
-          {data &&
-            data.map((destination, index) => (
-              <Item key={index}>
-                <Anchor href="/france/">
-                  <div>
-                    <Image
-                      data-src="/wp-content/uploads/2018/07/paris-city-trip-guide-street-eiffel-tower-144x163.jpg"
-                      src={img ? img.srcWebp : "/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp"}
-                      alt="France"
-                    />
-                  </div>
-                  <Text>{destination}</Text>
-                </Anchor>
-              </Item>
-            ))}
-        </List>
-      </Navigation>
+    <Navigation className={type === 'post-chapters' ? 'post-chapters' : null}>
+      <List>
+        {data &&
+          data.map((destination, index) => (
+            <Item key={index}>
+              <Anchor href="/france/">
+                <div>
+                  <Image
+                    data-src="/wp-content/uploads/2018/07/paris-city-trip-guide-street-eiffel-tower-144x163.jpg"
+                    src={img ? img.srcWebp : '/static/12029724ceb06188a69b1dd13dffc0ce/b7f12/pic.webp'}
+                    alt="France"
+                  />
+                </div>
+                <Text>{destination}</Text>
+              </Anchor>
+            </Item>
+          ))}
+      </List>
+    </Navigation>
   );
 };
 export default DestinationsList;

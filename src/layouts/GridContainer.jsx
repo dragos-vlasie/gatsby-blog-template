@@ -10,7 +10,7 @@ const Grid = styled.div`
 
   @media (max-width: 767px) {
     display: grid;
-  justify-content: normal; 
+    justify-content: normal;
     grid-template-columns: auto;
   }
 `;
@@ -21,8 +21,8 @@ const FeaturedGrid = styled.div`
   margin: 65px 0;
   grid-gap: 35px;
   @media (max-width: 767px) {
-  grid-gap: 5px;
-  margin: 35px 0;
+    grid-gap: 5px;
+    margin: 35px 0;
     display: flex;
     flex-direction: column;
   }

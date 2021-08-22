@@ -87,7 +87,6 @@ const DiscoverContainer = styled.a`
     margin: 0 auto;
     grid-column: 6 / 17;
     grid-row: 1;
-    
   }
 
   .monthly-destination__cover-image {
@@ -168,7 +167,7 @@ const DiscoverContainer = styled.a`
     }
 
     .monthly-destination__content {
-      grid-column: 1 / 12;
+      grid-column: 1 / 10;
     }
     .monthly-destination__cover {
       position: absolute;
@@ -178,7 +177,7 @@ const DiscoverContainer = styled.a`
       -webkit-mask-size: 139% 100%;
       mask-size: 100% 100%;
       bottom: 0;
-      width: 63%;
+      width: 45%;
     }
 
     .monthly-destination__excerpt {

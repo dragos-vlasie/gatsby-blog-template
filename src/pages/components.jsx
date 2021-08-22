@@ -66,7 +66,7 @@ const CatergoriesWrapper = styled.div`
 const Components = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   const postsByTag = {};
-  console.log(data)
+  console.log(data);
 
   edges.forEach(({ node }) => {
     if (node.frontmatter.tags) {
@@ -86,7 +86,7 @@ const Components = ({ data }) => {
       <LocaleConsumer>
         {({ i18n }) => (
           <>
-          { console.log('🚀 ~ file: index.jsx ~ line 88 ~ Index ~ i18n', i18n)}
+            {console.log('🚀 ~ file: index.jsx ~ line 88 ~ Index ~ i18n', i18n)}
             <Helmet title={'Components'} />
             <Header title={'Components'} cover={edges[0].node.frontmatter.cover.childImageSharp.fluid} type={'home'}>
               {' '}
@@ -95,8 +95,8 @@ const Components = ({ data }) => {
                 "A journal for myself, curious eyes and fellow travellers!"
               </p>
             </Header>
-              <FadeIn>
-            <Container>
+            <FadeIn>
+              <Container>
                 {/* <DestinationsList data={tags} /> */}
                 {/* <CatergoriesWrapper>{tags && tags.map(tag => <CardTag key={tag} tagName={tag} />)}</CatergoriesWrapper> */}
                 <GridContainer type={'featured'}>
@@ -136,59 +136,59 @@ const Components = ({ data }) => {
                           );
                         })}
                       </PostWrapper> */}
-              <CategoryPreview label={'Porto'} image={edges[0].node.frontmatter.cover.childImageSharp.fluid} />
-              <OverFlowContainer
-                articles={continents}
-                type={'continents'}
-                title={'Explore by continent'}
-                textPosition={'continents'}
-                image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
-              />
-              <GridContainer type={'flex'}>
-                <FlexSection></FlexSection>
-              </GridContainer>
-              <OverFlowContainer
-                articles={mockData}
-                type={'bestOf'}
-                title={'Best of categories'}
-                textPosition={'top'}
-                image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
-              />
-              <OverFlowContainer
-                articles={mockData}
-                image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
-                type={'normal'}
-                title={'Normal articles'}
-                textPosition={'top'}
-              />
-              <GridContainer>
-                <div>
-                <DestinationsList data={continents} img={edges[1].node.frontmatter.cover.childImageSharp.fluid} />
-                </div>
-                <ImageLink
-                  image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
-                  type={'category'}
-                  title={'This is a random title'}
-                  icon={'mustRead'}
-                  arrow={true}
-                  position={'topLeft'}
-                />
-              </GridContainer>
-              <GridContainer>
-                <QuickLinks data={tags} circle={true} image={edges[0].node.frontmatter.cover.childImageSharp.fluid} />
-                <ImageLink
+                <CategoryPreview label={'Porto'} image={edges[0].node.frontmatter.cover.childImageSharp.fluid} />
+                <OverFlowContainer
+                  articles={continents}
+                  type={'continents'}
+                  title={'Explore by continent'}
+                  textPosition={'continents'}
                   image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
-                  type={'category'}
-                  title={'This is a random title'}
-                  icon={'mustRead'}
-                  position={'topLeft'}
-                  arrow={true}
                 />
-              </GridContainer>
-              <GridContainer>
-                <Discover/>
-              </GridContainer>
-            </Container>
+                <GridContainer type={'flex'}>
+                  <FlexSection></FlexSection>
+                </GridContainer>
+                <OverFlowContainer
+                  articles={mockData}
+                  type={'bestOf'}
+                  title={'Best of categories'}
+                  textPosition={'top'}
+                  image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
+                />
+                <OverFlowContainer
+                  articles={mockData}
+                  image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
+                  type={'normal'}
+                  title={'Normal articles'}
+                  textPosition={'top'}
+                />
+                <GridContainer>
+                  <div>
+                    <DestinationsList data={continents} img={edges[1].node.frontmatter.cover.childImageSharp.fluid} />
+                  </div>
+                  <ImageLink
+                    image={edges[0].node.frontmatter.cover.childImageSharp.fluid}
+                    type={'category'}
+                    title={'This is a random title'}
+                    icon={'mustRead'}
+                    arrow={true}
+                    position={'topLeft'}
+                  />
+                </GridContainer>
+                <GridContainer>
+                  <QuickLinks data={tags} circle={true} image={edges[0].node.frontmatter.cover.childImageSharp.fluid} />
+                  <ImageLink
+                    image={edges[1].node.frontmatter.cover.childImageSharp.fluid}
+                    type={'category'}
+                    title={'This is a random title'}
+                    icon={'mustRead'}
+                    position={'topLeft'}
+                    arrow={true}
+                  />
+                </GridContainer>
+                <GridContainer>
+                  <Discover />
+                </GridContainer>
+              </Container>
             </FadeIn>
           </>
         )}
@@ -248,14 +248,14 @@ export const query = graphql`
         }
       }
     }
-     file(relativePath: {eq: "sprite.webp"}) {
-    id
-     childImageSharp {
+    file(relativePath: { eq: "sprite.webp" }) {
+      id
+      childImageSharp {
         fluid(maxWidth: 900) {
           ...GatsbyImageSharpFluid
         }
       }
-  }
+    }
     markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
       id
       frontmatter {

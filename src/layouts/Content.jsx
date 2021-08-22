@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 const Wrapper = styled.div`
   p,
   li {
-    font: 16px/1.85 'Merriweather',Georgia,sans-serif;
+    font: 16px/1.85 'Merriweather', Georgia, sans-serif;
     text-rendering: optimizeLegibility;
     letter-spacing: -0.003em;
     --baseline-multiplier: 0.179;
@@ -44,7 +44,7 @@ const Wrapper = styled.div`
   h6 {
     color: #353535;
     line-height: 1.3;
-    margin-bottom: .5em;
+    margin-bottom: 0.5em;
     margin-top: 1em;
     display: inline-block;
     position: relative;
