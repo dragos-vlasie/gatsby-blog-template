@@ -3,6 +3,8 @@ import { Link } from 'gatsby';
 import React, { useState } from 'react';
 import Headroom from 'react-headroom';
 import logo from '../../static/logo/header-logo.png';
+import MenuClosedIcon from '../elements/MenuClosedIcon';
+import MenuOpenIcon from '../elements/MenuOpenIcon';
 import { LocaleConsumer } from './Layout';
 
 const StyledLink = styled(Link)`
@@ -49,7 +51,7 @@ const Navigation = styled.div`
     flex-direction: column;
     height: calc(100vh - 74px);
     left: 0;
-    margin-top: 80px;
+    margin-top: 67px;
     overflow: auto;
     padding: 0 15px 20px;
     position: absolute;
@@ -239,10 +241,26 @@ const NavSubListItemAnchor = styled.a`
 
 const MobileButton = styled.button`
   display: none;
+
   @media (max-width: 956px) {
+    cursor: pointer;
     display: block;
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 30px;
+    border: none;
+    background: none;
+    position: relative;
+
+    svg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      max-width: 24px;
+
+      g {
+        fill: #333438;
+      }
+    }
   }
 `;
 
@@ -259,7 +277,9 @@ const NavBar = ({ pathname }) => {
     <LocaleConsumer>
       {({ i18n }) => (
         <Headroom calcHeightOnResize disableInlineStyles>
-          <MobileButton onClick={() => setIsShown(!isShown)} />
+          <MobileButton onClick={() => setIsShown(!isShown)}>
+           {!isShown ? <MenuOpenIcon /> : <MenuClosedIcon/> }
+          </MobileButton>
           <Nav pathname={pathname} className={`${isShown ? 'hidden' : ''}`}>
             <Link className="link" to={i18n.default ? '/' : '/ro'}>
               {i18n.home}

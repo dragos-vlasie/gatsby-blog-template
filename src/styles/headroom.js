@@ -14,7 +14,9 @@ const headroom = css`
     flex-direction: row;
     width: 100%;
     padding: 1rem 1rem;
+
     @media (max-width: 767px) {
+      background-color:  ${theme.colors.white.light};
       padding: 1rem 1rem;
     }
     a {
@@ -33,6 +35,10 @@ const headroom = css`
     position: relative;
     transform: translateY(0);
     transition: ${theme.transitions.headroom.transition};
+
+    @media (max-width: 980px) {
+      background-color:  ${theme.colors.white.light};
+    }
   }
   .headroom--scrolled {
     transition: ${theme.transitions.headroom.transition};

@@ -86,13 +86,12 @@ const Components = ({ data }) => {
       <LocaleConsumer>
         {({ i18n }) => (
           <>
-            {console.log('🚀 ~ file: index.jsx ~ line 88 ~ Index ~ i18n', i18n)}
             <Helmet title={'Components'} />
             <Header title={'Components'} cover={edges[0].node.frontmatter.cover.childImageSharp.fluid} type={'home'}>
               {' '}
               {console.log('edges[0]', edges[0])}
               <p style={{ color: 'white', fontSize: '19px' }}>
-                "A journal for myself, curious eyes and fellow travellers!"
+              `&quot;`A journal for myself, curious eyes and fellow travellers!`&quot;`
               </p>
             </Header>
             <FadeIn>
